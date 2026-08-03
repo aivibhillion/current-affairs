@@ -1,0 +1,62 @@
+[
+  {
+    "q": "World Breastfeeding Week is observed every year from?",
+    "options": ["July 25–31", "August 1–7", "August 5–11", "September 1–7"],
+    "answer": 1,
+    "explanation": "World Breastfeeding Week is observed from August 1 to August 7 every year to promote breastfeeding awareness." 
+  },
+  {
+    "q": "World Lung Cancer Day is observed on?",
+    "options": ["July 31", "August 1", "August 5", "August 10"],
+    "answer": 1,
+    "explanation": "World Lung Cancer Day is observed on August 1 to raise awareness about lung cancer." 
+  },
+  {
+    "q": "Which international campaign begins on August 1 every year?",
+    "options": ["World Water Week", "World Breastfeeding Week", "Nutrition Week", "Health Awareness Week"],
+    "answer": 1,
+    "explanation": "World Breastfeeding Week officially begins on August 1." :contentReference[oaicite:0]{index=0}
+  },
+  {
+    "q": "The Monsoon Session of the Indian Parliament was in news mainly for?",
+    "options": ["Olympics Preparation", "Legislative Debates", "State Elections", "Space Mission"],
+    "answer": 1,
+    "explanation": "Several important bills and policy discussions were taken up during the Monsoon Session." :contentReference[oaicite:1]{index=1}
+  },
+  {
+    "q": "Which sport featured Neeraj Chopra in major international news during early August 2026?",
+    "options": ["Cricket", "Javelin Throw", "Boxing", "Wrestling"],
+    "answer": 1,
+    "explanation": "Neeraj Chopra was scheduled to compete in the Javelin Throw event." :contentReference[oaicite:2]{index=2}
+  },
+  {
+    "q": "World Breastfeeding Week primarily promotes?",
+    "options": ["Child Education", "Maternal & Infant Health", "Sports", "Climate Action"],
+    "answer": 1,
+    "explanation": "The campaign focuses on improving maternal and infant health through breastfeeding awareness." :contentReference[oaicite:3]{index=3}
+  },
+  {
+    "q": "Which Indian city hosted the World Inclusion Conference in early August 2026?",
+    "options": ["Mumbai", "New Delhi", "Hyderabad", "Chennai"],
+    "answer": 1,
+    "explanation": "The World Inclusion Conference was held in New Delhi." :contentReference[oaicite:4]{index=4}
+  },
+  {
+    "q": "Which city hosted the India Process Expo & Conference (IPEC) in early August 2026?",
+    "options": ["Bengaluru", "Hyderabad", "Kolkata", "Pune"],
+    "answer": 1,
+    "explanation": "The India Process Expo & Conference was organized at HITEX, Hyderabad." :contentReference[oaicite:5]{index=5}
+  },
+  {
+    "q": "World Breastfeeding Week is supported globally by organizations including?",
+    "options": ["UNESCO", "WHO & UNICEF", "WTO", "IMF"],
+    "answer": 1,
+    "explanation": "WHO and UNICEF are among the major organizations supporting World Breastfeeding Week."
+  },
+  {
+    "q": "Which month begins with the observance of World Breastfeeding Week?",
+    "options": ["June", "August", "September", "October"],
+    "answer": 1,
+    "explanation": "World Breastfeeding Week starts on August 1 every year." :contentReference[oaicite:6]{index=6}
+  }
+]
