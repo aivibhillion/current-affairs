@@ -1,19 +1,4 @@
-{
-  "title": "Current Affairs MCQs",
-  "date": "04-08-2026",
-  "exam_targets": [
-    "UPSC",
-    "SSC",
-    "Banking",
-    "RRB",
-    "APPSC",
-    "TSPSC",
-    "CDS",
-    "CAPF",
-    "State PSC"
-  ],
-  "total_questions": 45,
-  "mcqs": [
+[
     {
       "id": 1,
       "question": "The UPSC & SSC Recruitment Reforms 2026 primarily aim to improve:",
@@ -510,4 +495,3 @@
       "answer": "D"
     }
   ]
-}
