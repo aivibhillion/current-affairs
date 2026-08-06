@@ -1,0 +1,332 @@
+[
+  {
+    "q": "The National Green Hydrogen Mission aims to make India:",
+    "options": [
+      "A global leader in crude oil exports",
+      "A global hub for green hydrogen production and export",
+      "The largest coal producer in Asia",
+      "A nuclear fuel exporter"
+    ],
+    "answer": 1,
+    "explanation": "The National Green Hydrogen Mission aims to make India a global hub for the production, utilization, and export of green hydrogen."
+  },
+  {
+    "q": "Which ministry is responsible for implementing the National Green Hydrogen Mission?",
+    "options": [
+      "Ministry of Power",
+      "Ministry of New and Renewable Energy (MNRE)",
+      "Ministry of Petroleum and Natural Gas",
+      "Ministry of Environment, Forest and Climate Change"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of New and Renewable Energy (MNRE) is the nodal ministry implementing the National Green Hydrogen Mission."
+  },
+  {
+    "q": "Electrolyzers used under the Green Hydrogen Mission are primarily used to:",
+    "options": [
+      "Refine crude oil",
+      "Produce hydrogen through electrolysis of water",
+      "Generate thermal power",
+      "Store natural gas"
+    ],
+    "answer": 1,
+    "explanation": "Electrolyzers split water into hydrogen and oxygen using electricity, preferably from renewable sources."
+  },
+  {
+    "q": "Green Hydrogen is produced using:",
+    "options": [
+      "Coal gasification only",
+      "Renewable energy sources",
+      "Diesel generators",
+      "Natural gas without carbon capture"
+    ],
+    "answer": 1,
+    "explanation": "Green hydrogen is produced through electrolysis powered by renewable energy such as solar or wind."
+  },
+  {
+    "q": "e-RUPI is:",
+    "options": [
+      "A cryptocurrency issued by RBI",
+      "A cashless and contactless digital voucher",
+      "A debit card issued by NPCI",
+      "A digital stock exchange"
+    ],
+    "answer": 1,
+    "explanation": "e-RUPI is a cashless and contactless digital voucher used for targeted delivery of benefits."
+  },
+  {
+    "q": "e-RUPI was developed by:",
+    "options": [
+      "RBI only",
+      "NPCI in collaboration with RBI and partner banks",
+      "SEBI",
+      "NITI Aayog"
+    ],
+    "answer": 1,
+    "explanation": "e-RUPI was developed by NPCI in collaboration with the RBI, partner banks, and the Government of India."
+  },
+  {
+    "q": "The primary objective of e-RUPI is:",
+    "options": [
+      "International remittances",
+      "Targeted delivery of welfare benefits and subsidies",
+      "Stock market investments",
+      "Foreign exchange trading"
+    ],
+    "answer": 1,
+    "explanation": "e-RUPI ensures transparent and targeted delivery of welfare schemes without intermediaries."
+  },
+  {
+    "q": "Pradhan Mantri Matsya Sampada Yojana (PMMSY) is associated with:",
+    "options": [
+      "Dairy development",
+      "Fisheries sector development",
+      "Poultry farming",
+      "Horticulture"
+    ],
+    "answer": 1,
+    "explanation": "PMMSY is a flagship scheme for the sustainable development of India's fisheries sector."
+  },
+  {
+    "q": "PMMSY is implemented by:",
+    "options": [
+      "Ministry of Agriculture",
+      "Department of Fisheries under the Ministry of Fisheries, Animal Husbandry and Dairying",
+      "Ministry of Rural Development",
+      "Ministry of Food Processing Industries"
+    ],
+    "answer": 1,
+    "explanation": "The Department of Fisheries under the Ministry of Fisheries, Animal Husbandry and Dairying implements PMMSY."
+  },
+  {
+    "q": "One of the major objectives of PMMSY is to:",
+    "options": [
+      "Reduce fish production",
+      "Promote sustainable aquaculture and improve fishers' income",
+      "Increase imports of seafood",
+      "Encourage coal mining"
+    ],
+    "answer": 1,
+    "explanation": "PMMSY promotes sustainable aquaculture, higher fish production, and increased income for fishers."
+  },
+  {
+    "q": "India-Central Asia Dialogue mainly focuses on:",
+    "options": [
+      "Counter-terrorism cooperation",
+      "Trade and connectivity",
+      "Energy security",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The India-Central Asia Dialogue covers counter-terrorism, trade, connectivity, energy security, and regional cooperation."
+  },
+  {
+    "q": "Which of the following is NOT a Central Asian country?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Thailand"
+    ],
+    "answer": 3,
+    "explanation": "Thailand is a Southeast Asian country and is not part of Central Asia."
+  },
+  {
+    "q": "Global Food Security initiatives mainly aim to:",
+    "options": [
+      "Increase luxury food exports",
+      "Ensure stable food supply and prices worldwide",
+      "Promote space research",
+      "Reduce renewable energy production"
+    ],
+    "answer": 1,
+    "explanation": "Global Food Security initiatives aim to ensure food availability, affordability, and stable supply chains."
+  },
+  {
+    "q": "Disaster Risk Reduction (DRR) primarily emphasizes:",
+    "options": [
+      "Post-disaster compensation only",
+      "Early warning systems and disaster preparedness",
+      "Tourism promotion",
+      "Urban migration"
+    ],
+    "answer": 1,
+    "explanation": "DRR focuses on preparedness, mitigation, early warning systems, and building resilience."
+  },
+  {
+    "q": "Resilient infrastructure is designed to:",
+    "options": [
+      "Increase pollution",
+      "Withstand disasters and recover quickly",
+      "Reduce internet connectivity",
+      "Increase fuel consumption"
+    ],
+    "answer": 1,
+    "explanation": "Resilient infrastructure minimizes damage and ensures faster recovery after disasters."
+  },
+  {
+    "q": "GDP stands for:",
+    "options": [
+      "Gross Domestic Product",
+      "General Development Programme",
+      "Global Domestic Policy",
+      "Gross Development Plan"
+    ],
+    "answer": 0,
+    "explanation": "GDP (Gross Domestic Product) measures the total value of goods and services produced within a country."
+  },
+  {
+    "q": "India's official GDP estimates are released by:",
+    "options": [
+      "RBI",
+      "National Statistical Office (NSO)",
+      "SEBI",
+      "NITI Aayog"
+    ],
+    "answer": 1,
+    "explanation": "The National Statistical Office (NSO) releases India's official GDP estimates."
+  },
+  {
+    "q": "Foreign Direct Investment (FDI) refers to:",
+    "options": [
+      "Investment made by domestic companies only",
+      "Investment by foreign entities in businesses located in another country",
+      "Government subsidies",
+      "Bank loans to farmers"
+    ],
+    "answer": 1,
+    "explanation": "FDI is an investment made by foreign individuals or companies in businesses located in another country."
+  },
+  {
+    "q": "Liberalization of FDI norms is mainly intended to:",
+    "options": [
+      "Reduce industrial growth",
+      "Attract more foreign investment",
+      "Increase import duties",
+      "Restrict private companies"
+    ],
+    "answer": 1,
+    "explanation": "Liberalized FDI policies encourage foreign investment and economic growth."
+  },
+  {
+    "q": "Higher FDI inflows generally contribute to:",
+    "options": [
+      "Economic growth and employment generation",
+      "Lower exports automatically",
+      "Reduced industrial production",
+      "Increased inflation only"
+    ],
+    "answer": 0,
+    "explanation": "Higher FDI supports capital formation, employment, technology transfer, and economic development."
+  },
+  {
+    "q": "Indian medical research is focusing on breakthroughs in:",
+    "options": [
+      "Infectious diseases",
+      "Cancer treatment",
+      "Vaccine development",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Medical research in India covers infectious diseases, cancer treatment, vaccines, and several other healthcare areas."
+  },
+  {
+    "q": "Collaboration with international health organizations primarily helps in:",
+    "options": [
+      "Space tourism",
+      "Medical research and disease control",
+      "Defence procurement",
+      "Cryptocurrency regulation"
+    ],
+    "answer": 1,
+    "explanation": "International collaboration enhances medical research, disease surveillance, and public health."
+  },
+  {
+    "q": "Space technology contributes to disaster management by providing:",
+    "options": [
+      "Weather forecasting",
+      "Early warning systems",
+      "Satellite communication",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Space technology supports weather forecasting, communication, mapping, and disaster early warning systems."
+  },
+  {
+    "q": "Which Indian organization is responsible for space research?",
+    "options": [
+      "DRDO",
+      "ISRO",
+      "BARC",
+      "HAL"
+    ],
+    "answer": 1,
+    "explanation": "ISRO is India's premier space agency responsible for space research and satellite missions."
+  },
+  {
+    "q": "Green Hydrogen is considered environmentally friendly because:",
+    "options": [
+      "It is produced from coal",
+      "It is produced using renewable energy with minimal carbon emissions",
+      "It is produced using diesel generators",
+      "It emits more carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Green hydrogen is produced using renewable energy, resulting in very low carbon emissions."
+  },
+  {
+    "q": "Which organization developed e-RUPI?",
+    "options": [
+      "SEBI",
+      "NPCI",
+      "UIDAI",
+      "NABARD"
+    ],
+    "answer": 1,
+    "explanation": "e-RUPI was developed by the National Payments Corporation of India (NPCI)."
+  },
+  {
+    "q": "PMMSY aims to achieve all of the following EXCEPT:",
+    "options": [
+      "Sustainable fisheries development",
+      "Modernization of fisheries infrastructure",
+      "Increasing fishers' income",
+      "Reducing seafood exports through import dependence"
+    ],
+    "answer": 3,
+    "explanation": "PMMSY promotes fisheries development and exports rather than increasing import dependence."
+  },
+  {
+    "q": "One important objective of India-Central Asia cooperation is:",
+    "options": [
+      "Maritime boundary disputes",
+      "Regional connectivity and energy security",
+      "Antarctic exploration",
+      "Nuclear disarmament only"
+    ],
+    "answer": 1,
+    "explanation": "Regional connectivity and energy security are key objectives of India-Central Asia cooperation."
+  },
+  {
+    "q": "Which sector benefits the most from satellite-based weather forecasting?",
+    "options": [
+      "Agriculture and Disaster Management",
+      "Entertainment industry only",
+      "Textile manufacturing only",
+      "Banking sector only"
+    ],
+    "answer": 0,
+    "explanation": "Agriculture and disaster management extensively use satellite-based weather forecasting."
+  },
+  {
+    "q": "Which of the following best summarizes the August 3, 2026 current affairs?",
+    "options": [
+      "Green energy, digital welfare, fisheries development, economic growth, global cooperation, and space technology",
+      "Sports, cinema, and tourism",
+      "Elections and political campaigns only",
+      "Banking recruitment only"
+    ],
+    "answer": 0,
+    "explanation": "The key themes include green energy, digital governance, fisheries, economy, international cooperation, and space technology."
+  }
+]
