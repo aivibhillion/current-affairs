@@ -1,0 +1,332 @@
+[
+  {
+    "q": "The primary objective of the National Education Policy (NEP) 2020 is to:",
+    "options": [
+      "Promote only technical education",
+      "Transform India's education system into a multidisciplinary and holistic model",
+      "Privatize all higher education institutions",
+      "Replace state education boards"
+    ],
+    "answer": 1,
+    "explanation": "NEP 2020 aims to transform India's education system through multidisciplinary, flexible, and holistic learning."
+  },
+  {
+    "q": "Under the NEP 2020, the Foundational Literacy and Numeracy (FLN) Mission mainly targets:",
+    "options": [
+      "University students",
+      "Engineering graduates",
+      "School children in the foundational stage",
+      "Research scholars"
+    ],
+    "answer": 2,
+    "explanation": "The FLN Mission focuses on ensuring foundational literacy and numeracy among children in the foundational stage of schooling."
+  },
+  {
+    "q": "Which ministry is responsible for implementing the National Education Policy (NEP) in India?",
+    "options": [
+      "Ministry of Skill Development",
+      "Ministry of Education",
+      "Ministry of Youth Affairs",
+      "Ministry of Home Affairs"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of Education is the nodal ministry responsible for implementing NEP 2020."
+  },
+  {
+    "q": "BharatNet project is primarily aimed at:",
+    "options": [
+      "Railway modernization",
+      "Rural broadband connectivity",
+      "National highways development",
+      "Defence communication"
+    ],
+    "answer": 1,
+    "explanation": "BharatNet aims to provide high-speed broadband connectivity to rural India."
+  },
+  {
+    "q": "Digital India Initiative mainly focuses on:",
+    "options": [
+      "Expanding coal production",
+      "Improving digital infrastructure and governance",
+      "Promoting tourism only",
+      "Privatizing government services"
+    ],
+    "answer": 1,
+    "explanation": "Digital India focuses on digital infrastructure, governance, and digital empowerment of citizens."
+  },
+  {
+    "q": "Which of the following is a major component of Digital India?",
+    "options": [
+      "e-Governance",
+      "Digital Payments",
+      "Broadband Connectivity",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Digital India includes e-Governance, digital payments, and broadband connectivity among its major components."
+  },
+  {
+    "q": "The Ministry responsible for environmental conservation and climate policies is:",
+    "options": [
+      "Ministry of Earth Sciences",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Agriculture",
+      "Ministry of Jal Shakti"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of Environment, Forest and Climate Change oversees environmental conservation and climate policies."
+  },
+  {
+    "q": "India's afforestation programmes mainly contribute towards:",
+    "options": [
+      "Increasing fossil fuel usage",
+      "Climate change mitigation and biodiversity conservation",
+      "Urban migration",
+      "Industrial pollution"
+    ],
+    "answer": 1,
+    "explanation": "Afforestation helps mitigate climate change, conserve biodiversity, and improve ecological balance."
+  },
+  {
+    "q": "ASEAN stands for:",
+    "options": [
+      "Asian Economic Security Association",
+      "Association of Southeast Asian Nations",
+      "Alliance for South-East Asian Neighbours",
+      "Asian Strategic Economic Network"
+    ],
+    "answer": 1,
+    "explanation": "ASEAN stands for Association of Southeast Asian Nations."
+  },
+  {
+    "q": "India-ASEAN cooperation mainly includes:",
+    "options": [
+      "Trade facilitation",
+      "Regional security",
+      "Digital economy collaboration",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "India-ASEAN cooperation covers trade, security, connectivity, and digital economy initiatives."
+  },
+  {
+    "q": "Global Health Security discussions mainly emphasize:",
+    "options": [
+      "Space tourism",
+      "Disease surveillance and pandemic preparedness",
+      "Ocean exploration",
+      "Nuclear energy"
+    ],
+    "answer": 1,
+    "explanation": "Global Health Security focuses on disease surveillance, pandemic preparedness, and international cooperation."
+  },
+  {
+    "q": "Strengthening vaccine and medicine supply chains is primarily aimed at improving:",
+    "options": [
+      "Tourism",
+      "Global health preparedness",
+      "Defence exports",
+      "Aviation"
+    ],
+    "answer": 1,
+    "explanation": "Reliable medicine and vaccine supply chains strengthen global health preparedness."
+  },
+  {
+    "q": "International collaboration in space exploration may include:",
+    "options": [
+      "Lunar missions",
+      "Asteroid exploration",
+      "Advanced satellite technology",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "International collaborations in space include lunar missions, asteroid exploration, and satellite technology."
+  },
+  {
+    "q": "Inflation in India is primarily monitored by:",
+    "options": [
+      "RBI",
+      "NITI Aayog",
+      "Election Commission",
+      "SEBI"
+    ],
+    "answer": 0,
+    "explanation": "The Reserve Bank of India monitors inflation and formulates monetary policy."
+  },
+  {
+    "q": "Monetary policy in India is formulated by:",
+    "options": [
+      "Ministry of Finance",
+      "Reserve Bank of India",
+      "GST Council",
+      "Finance Commission"
+    ],
+    "answer": 1,
+    "explanation": "The RBI formulates and implements India's monetary policy."
+  },
+  {
+    "q": "Which of the following is a monetary policy tool of RBI?",
+    "options": [
+      "Repo Rate",
+      "Reverse Repo Rate",
+      "Cash Reserve Ratio (CRR)",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Repo Rate, Reverse Repo Rate, and CRR are key monetary policy tools of the RBI."
+  },
+  {
+    "q": "MSME stands for:",
+    "options": [
+      "Medium State Manufacturing Enterprises",
+      "Micro, Small and Medium Enterprises",
+      "Market Support Manufacturing Enterprises",
+      "Modern Service Management Enterprises"
+    ],
+    "answer": 1,
+    "explanation": "MSME stands for Micro, Small and Medium Enterprises."
+  },
+  {
+    "q": "Government support to MSMEs generally includes:",
+    "options": [
+      "Credit access",
+      "Technology upgradation",
+      "Market access support",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Government schemes for MSMEs include credit support, technology upgradation, and market access."
+  },
+  {
+    "q": "AI stands for:",
+    "options": [
+      "Automated Intelligence",
+      "Artificial Intelligence",
+      "Advanced Information",
+      "Artificial Integration"
+    ],
+    "answer": 1,
+    "explanation": "AI stands for Artificial Intelligence."
+  },
+  {
+    "q": "AI is increasingly used in which sectors?",
+    "options": [
+      "Healthcare",
+      "Agriculture",
+      "Education",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Artificial Intelligence has applications in healthcare, agriculture, education, and many other sectors."
+  },
+  {
+    "q": "Ethical AI mainly focuses on:",
+    "options": [
+      "Transparency and fairness",
+      "Data privacy",
+      "Accountability",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Ethical AI emphasizes transparency, fairness, accountability, and privacy."
+  },
+  {
+    "q": "Renewable energy sources include:",
+    "options": [
+      "Solar Energy",
+      "Wind Energy",
+      "Hydropower",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Solar, wind, and hydropower are major renewable energy sources."
+  },
+  {
+    "q": "One major challenge in renewable energy integration is:",
+    "options": [
+      "Energy storage",
+      "Grid integration",
+      "Weather dependence",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Renewable energy faces challenges including storage, grid integration, and weather variability."
+  },
+  {
+    "q": "Foundational Literacy and Numeracy (FLN) is associated with which national mission?",
+    "options": [
+      "PM SHRI Schools",
+      "NIPUN Bharat Mission",
+      "Skill India Mission",
+      "Digital India Mission"
+    ],
+    "answer": 1,
+    "explanation": "The FLN initiative is implemented under the NIPUN Bharat Mission."
+  },
+  {
+    "q": "Which pillar of Digital India focuses on delivering government services electronically?",
+    "options": [
+      "e-Kranti",
+      "Make in India",
+      "Startup India",
+      "Stand-Up India"
+    ],
+    "answer": 0,
+    "explanation": "e-Kranti is the Digital India pillar focused on electronic delivery of government services."
+  },
+  {
+    "q": "India's climate commitments under international agreements are mainly linked to:",
+    "options": [
+      "Paris Agreement",
+      "Montreal Protocol only",
+      "Kyoto Protocol only",
+      "Ramsar Convention only"
+    ],
+    "answer": 0,
+    "explanation": "India's climate action commitments are primarily aligned with the Paris Agreement."
+  },
+  {
+    "q": "The RBI primarily controls inflation through:",
+    "options": [
+      "Fiscal Policy",
+      "Monetary Policy",
+      "Trade Policy",
+      "Industrial Policy"
+    ],
+    "answer": 1,
+    "explanation": "The RBI uses monetary policy to control inflation and maintain price stability."
+  },
+  {
+    "q": "The objective of strengthening India-ASEAN relations is to:",
+    "options": [
+      "Improve regional connectivity and trade",
+      "Increase agricultural subsidies only",
+      "Reduce foreign investment",
+      "Promote only cultural exchange"
+    ],
+    "answer": 0,
+    "explanation": "India-ASEAN relations focus on enhancing connectivity, trade, strategic cooperation, and regional development."
+  },
+  {
+    "q": "Which technology is most critical for future renewable energy expansion?",
+    "options": [
+      "Battery Energy Storage Systems (BESS)",
+      "Diesel generators",
+      "Coal-fired plants",
+      "Thermal power expansion"
+    ],
+    "answer": 0,
+    "explanation": "Battery Energy Storage Systems (BESS) are essential for efficient renewable energy integration."
+  },
+  {
+    "q": "Which of the following themes best summarizes the August 2, 2026 current affairs?",
+    "options": [
+      "Policy reforms, digital transformation, climate action, international cooperation, and technological innovation",
+      "Sports and entertainment",
+      "State elections only",
+      "Judicial appointments only"
+    ],
+    "answer": 0,
+    "explanation": "The major themes include policy reforms, digital governance, climate action, international cooperation, economic developments, and technological innovation."
+  }
+]
