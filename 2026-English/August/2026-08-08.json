@@ -1,0 +1,827 @@
+[
+  {
+    "q": "అరుణాచల్ ప్రదేశ్‌లోని 27 వ్యూహాత్మక ప్రదేశాల పేర్లను ప్రామాణీకరించడానికి జాతీయ పటాన్ని నవీకరించడంలో ఏ సంస్థలు పాల్గొన్నాయి?",
+    "options": [
+      "RBI మరియు SEBI",
+      "Ministry of Home Affairs మరియు Survey of India",
+      "Ministry of Defence మరియు ISRO",
+      "NITI Aayog మరియు Census of India"
+    ],
+    "answer": 1,
+    "explanation": "Ministry of Home Affairs మరియు Survey of India వ్యూహాత్మక ప్రదేశాల పేర్లను ప్రామాణీకరించడంలో పాల్గొన్నాయి. దీనికి పరిపాలనా మరియు భద్రతా ప్రాధాన్యత ఉంది."
+  },
+  {
+    "q": "Survey of India ప్రధానంగా ఏ పనికి బాధ్యత వహిస్తుంది?",
+    "options": [
+      "Banking",
+      "Elections",
+      "Surveying and mapping",
+      "Tax collection"
+    ],
+    "answer": 2,
+    "explanation": "Survey of India భారతదేశంలో సర్వేలు మరియు మ్యాపింగ్‌కు సంబంధించిన ప్రధాన సంస్థ."
+  },
+  {
+    "q": "NUCFDC ప్రధానంగా ఏ రంగానికి సంబంధించినది?",
+    "options": [
+      "Urban cooperative finance",
+      "Defence",
+      "Agriculture",
+      "Space research"
+    ],
+    "answer": 0,
+    "explanation": "NUCFDC అంటే National Urban Co-operative Finance and Development Corporation Limited. ఇది పట్టణ సహకార ఆర్థిక రంగానికి మద్దతు ఇస్తుంది."
+  },
+  {
+    "q": "ప్రస్తుత వ్యవహారాల్లో పేర్కొన్న కొత్త NUCFDC కార్యాలయం ఎక్కడ ప్రారంభించబడింది?",
+    "options": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "answer": 2,
+    "explanation": "కొత్త NUCFDC కార్యాలయం ముంబైలో ప్రారంభించబడింది."
+  },
+  {
+    "q": "సంబంధిత wetlands/conservation reserves చుట్టూ ఎంత వ్యాసార్థంలో మైనింగ్‌కు ముందస్తు అనుమతి అవసరం?",
+    "options": [
+      "5 km",
+      "10 km",
+      "15 km",
+      "20 km"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారంలో సుప్రీంకోర్టు స్పష్టీకరణ ప్రకారం 10 కిలోమీటర్ల పరిధిలో మైనింగ్‌కు ముందస్తు అనుమతి అవసరం."
+  },
+  {
+    "q": "Asan Wetland Conservation Reserve ఏ రాష్ట్రంలో ఉంది?",
+    "options": [
+      "Uttarakhand",
+      "Assam",
+      "Gujarat",
+      "Odisha"
+    ],
+    "answer": 0,
+    "explanation": "Asan Conservation Reserve ఉత్తరాఖండ్‌లోని డెహ్రాడూన్ సమీపంలో ఉన్న ప్రసిద్ధ wetland."
+  },
+  {
+    "q": "Quit India Movement ఏ సంవత్సరంలో ప్రారంభమైంది?",
+    "options": [
+      "1919",
+      "1930",
+      "1942",
+      "1947"
+    ],
+    "answer": 2,
+    "explanation": "Quit India Movement 1942 ఆగస్టులో భారత స్వాతంత్ర్య పోరాట సమయంలో ప్రారంభమైంది."
+  },
+  {
+    "q": "Quit India Movement ను మరే పేరుతో పిలుస్తారు?",
+    "options": [
+      "August Kranti",
+      "Swadeshi Kranti",
+      "Dandi Kranti",
+      "Bharat Kranti"
+    ],
+    "answer": 0,
+    "explanation": "1942 ఆగస్టులో ప్రారంభమైనందున Quit India Movement ను August Kranti అని కూడా పిలుస్తారు."
+  },
+  {
+    "q": "Quit India Movement సమయంలో ప్రసిద్ధ 'Do or Die' పిలుపును ఎవరు ఇచ్చారు?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Subhas Chandra Bose"
+    ],
+    "answer": 1,
+    "explanation": "Quit India Movement సమయంలో మహాత్మా గాంధీ 'Do or Die' పిలుపునిచ్చారు."
+  },
+  {
+    "q": "సరఫరా చేసిన సమాచారంలో Union Government ప్రకారం creamy-layer principle ఏ విధంగా ఉండాలి?",
+    "options": [
+      "SCs కు మాత్రమే వర్తించాలి",
+      "STs కు మాత్రమే వర్తించాలి",
+      "SCs/STs కు విస్తరించకూడదు",
+      "అందరు పౌరులకు వర్తించాలి"
+    ],
+    "answer": 2,
+    "explanation": "SC/ST రిజర్వేషన్ చారిత్రక మరియు సామాజిక వెనుకబాటుతనం, ప్రాతినిధ్యం ఆధారంగా ఉందని కేంద్రం పేర్కొంది; కేవలం ఆర్థిక స్థితి ఆధారంగా కాదని తెలిపింది."
+  },
+  {
+    "q": "‘Creamy layer’ అనే పదం ప్రధానంగా దేనికి సంబంధించినది?",
+    "options": [
+      "Banking",
+      "Reservation",
+      "Agriculture",
+      "Environment"
+    ],
+    "answer": 1,
+    "explanation": "Creamy layer అనేది రిజర్వేషన్ పొందే వర్గాల్లో సాపేక్షంగా అభివృద్ధి చెందిన వర్గాలను సూచిస్తుంది."
+  },
+  {
+    "q": "National Handloom Day ఎప్పుడు జరుపుకుంటారు?",
+    "options": [
+      "5 August",
+      "7 August",
+      "9 August",
+      "15 August"
+    ],
+    "answer": 1,
+    "explanation": "National Handloom Day ప్రతి సంవత్సరం ఆగస్టు 7న జరుపుకుంటారు."
+  },
+  {
+    "q": "National Handloom Day ఏ ఉద్యమం ప్రారంభంతో సంబంధం కలిగి ఉంది?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Civil Disobedience Movement",
+      "Non-Cooperation Movement"
+    ],
+    "answer": 1,
+    "explanation": "1905లో ప్రారంభమైన Swadeshi Movement జ్ఞాపకార్థం ఆగస్టు 7న National Handloom Day జరుపుకుంటారు."
+  },
+  {
+    "q": "Handloom sector ఏ దీర్ఘకాలిక అభివృద్ధి దృష్టికోణానికి ముఖ్యమైనదిగా పేర్కొనబడింది?",
+    "options": [
+      "Viksit Bharat 2047",
+      "Digital India 2030",
+      "Green India 2030",
+      "Skill India 2035"
+    ],
+    "answer": 0,
+    "explanation": "Viksit Bharat 2047 లక్ష్యానికి Handloom sector తోడ్పడుతుందని ప్రభుత్వం పేర్కొంది."
+  },
+  {
+    "q": "REIT యొక్క పూర్తి రూపం ఏమిటి?",
+    "options": [
+      "Real Estate Investment Trust",
+      "Rural Economic Investment Trust",
+      "Regional Equity Investment Tribunal",
+      "Real Economy Infrastructure Trust"
+    ],
+    "answer": 0,
+    "explanation": "REIT అంటే Real Estate Investment Trust. ఆదాయం అందించే రియల్ ఎస్టేట్‌లో పెట్టుబడి పెట్టడానికి ఇది ఒక trust structure."
+  },
+  {
+    "q": "InvIT యొక్క పూర్తి రూపం ఏమిటి?",
+    "options": [
+      "Investment Infrastructure Tribunal",
+      "Infrastructure Investment Trust",
+      "International Investment Trust",
+      "Indian Investment Tribunal"
+    ],
+    "answer": 1,
+    "explanation": "InvIT అంటే Infrastructure Investment Trust."
+  },
+  {
+    "q": "UPI మరియు electronic payment systems కు సంబంధించి ఏ చట్టం ప్రస్తావించబడింది?",
+    "options": [
+      "Payment and Settlement Systems Act, 2007",
+      "Companies Act, 2013",
+      "RBI Act, 1934",
+      "SEBI Act, 1992"
+    ],
+    "answer": 0,
+    "explanation": "Payment and Settlement Systems Act, 2007 భారతదేశంలోని payment systems కు చట్టపరమైన framework ను అందిస్తుంది."
+  },
+  {
+    "q": "సరఫరా చేసిన సమాచారం ప్రకారం Central Government ఏ payment modes పై charges విధించేందుకు అనుమతించగలదు?",
+    "options": [
+      "Only cash transactions",
+      "UPI and other notified electronic payment modes",
+      "Only credit cards",
+      "Only cryptocurrency"
+    ],
+    "answer": 1,
+    "explanation": "ప్రతిపాదిత నిబంధన UPI మరియు ఇతర notified electronic payment modes పై charges విధించే అవకాశానికి సంబంధించినది."
+  },
+  {
+    "q": "GOBARdhan ప్రధానంగా దేనికి సంబంధించినది?",
+    "options": [
+      "Gold production",
+      "Organic waste and bioenergy",
+      "Railway development",
+      "Textile production"
+    ],
+    "answer": 1,
+    "explanation": "GOBARdhan waste-to-wealth విధానాన్ని ప్రోత్సహిస్తుంది. ముఖ్యంగా organic waste ను biogas/CBG మరియు bio-slurry వంటి ఉపయోగకరమైన ఉత్పత్తులుగా మార్చడంపై దృష్టి పెడుతుంది."
+  },
+  {
+    "q": "CBG యొక్క పూర్తి రూపం ఏమిటి?",
+    "options": [
+      "Clean Bio Gas",
+      "Compressed Biogas",
+      "Central Bio Gas",
+      "Carbon-Based Gas"
+    ],
+    "answer": 1,
+    "explanation": "CBG అంటే Compressed Biogas. ఇది biogas ను శుద్ధి చేసి, compress చేసి fuel గా ఉపయోగించే renewable energy."
+  },
+  {
+    "q": "GOBARdhan పథకం organic waste ను ఏవిగా మార్చడాన్ని లక్ష్యంగా పెట్టుకుంది?",
+    "options": [
+      "Petrol only",
+      "CBG and bio-slurry",
+      "Coal",
+      "Diesel"
+    ],
+    "answer": 1,
+    "explanation": "Organic waste ను ప్రాసెస్ చేసి Compressed Biogas (CBG) మరియు bio-slurry ఉత్పత్తి చేయవచ్చు."
+  },
+  {
+    "q": "National Circular Bioenergy Scheme కు పేర్కొన్న మొత్తం outlay ఎంత?",
+    "options": [
+      "₹13,731 crore",
+      "₹18,731 crore",
+      "₹23,731 crore",
+      "₹30,731 crore"
+    ],
+    "answer": 2,
+    "explanation": "సరఫరా చేసిన సమాచారంలో ఈ పథకానికి మొత్తం outlay ₹23,731 కోట్లుగా పేర్కొనబడింది."
+  },
+  {
+    "q": "GOBARdhan scheme ఏ కాలానికి ప్రతిపాదించబడింది?",
+    "options": [
+      "2024–25 to 2029–30",
+      "2026–27 to 2035–36",
+      "2027–28 to 2040–41",
+      "2030–31 to 2040–41"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారంలో ఈ పథకం FY 2026–27 నుండి FY 2035–36 వరకు అమలవుతుందని పేర్కొంది."
+  },
+  {
+    "q": "ప్రస్తుత వ్యవహారాల్లో పేర్కొన్న loan recovery framework ను ఏ సంస్థ సవరించింది?",
+    "options": [
+      "SEBI",
+      "RBI",
+      "NABARD",
+      "IRDAI"
+    ],
+    "answer": 1,
+    "explanation": "Reserve Bank of India (RBI) సవరించిన loan recovery framework ను జారీ చేసింది."
+  },
+  {
+    "q": "కొత్త loan recovery guidelines ఎప్పటి నుండి అమల్లోకి వస్తాయని పేర్కొన్నారు?",
+    "options": [
+      "1 October 2026",
+      "1 January 2027",
+      "1 April 2027",
+      "1 January 2028"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారంలో కొత్త guidelines 1 January 2027 నుండి అమల్లోకి వస్తాయని పేర్కొంది."
+  },
+  {
+    "q": "FAO యొక్క పూర్తి రూపం ఏమిటి?",
+    "options": [
+      "Food and Agriculture Organization",
+      "Finance and Agriculture Organization",
+      "Federal Agriculture Organisation",
+      "Food Administration Office"
+    ],
+    "answer": 0,
+    "explanation": "FAO అంటే Food and Agriculture Organization. ఇది ఆహారం, వ్యవసాయం, అటవీ, మత్స్య మరియు food security రంగాల్లో పనిచేసే UN specialised agency."
+  },
+  {
+    "q": "FAO Food Price Index ఏ ధరలలో మార్పులను కొలుస్తుంది?",
+    "options": [
+      "Global food commodity prices",
+      "Gold prices",
+      "Oil prices only",
+      "Housing prices"
+    ],
+    "answer": 0,
+    "explanation": "FAO Food Price Index ప్రధాన అంతర్జాతీయ food commodities ధరల్లో మార్పులను ట్రాక్ చేస్తుంది."
+  },
+  {
+    "q": "భౌగోళిక రాజకీయ విభేదాలు ఉన్నప్పటికీ India మరియు China ఏ రంగాల్లో సహకరించగలవు?",
+    "options": [
+      "Climate resilience",
+      "Disaster management",
+      "Scientific cooperation",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Climate resilience, disaster management మరియు scientific cooperation వంటి సాధారణ ప్రయోజన రంగాల్లో India-China సహకారం సాధ్యమని సరఫరా చేసిన సమాచారం పేర్కొంది."
+  },
+  {
+    "q": "India మరియు China కు సాధారణ climate challenge ఏది?",
+    "options": [
+      "Glacial retreat",
+      "Floods",
+      "Heatwaves",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "India మరియు China రెండూ floods, heatwaves మరియు glacier-related changes వంటి తీవ్రమైన వాతావరణ సమస్యలను ఎదుర్కొంటున్నాయి."
+  },
+  {
+    "q": "India-China climate cooperation కు సాధ్యమైన multilateral platform ఏది?",
+    "options": [
+      "NATO",
+      "BRICS",
+      "OPEC",
+      "ASEAN"
+    ],
+    "answer": 1,
+    "explanation": "BRICS లో India మరియు China రెండూ సభ్యదేశాలు. అందువల్ల సాధారణ ప్రయోజనాలపై చర్చించడానికి ఇది ఒక multilateral platform."
+  },
+  {
+    "q": "Mecca Joint Deterrence Agreement లో ఏ దేశాలు పాల్గొన్నాయి?",
+    "options": [
+      "India, Pakistan and Saudi Arabia",
+      "Türkiye, Saudi Arabia and Pakistan",
+      "Iran, Iraq and Pakistan",
+      "India, Iran and Saudi Arabia"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారంలో Türkiye, Saudi Arabia మరియు Pakistan ఈ agreement పై Meccaలో సంతకం చేశాయని పేర్కొంది."
+  },
+  {
+    "q": "WhatsApp 'Boss Scam' పై advisory ని ఎవరు జారీ చేశారు?",
+    "options": [
+      "RBI",
+      "I4C",
+      "SEBI",
+      "ISRO"
+    ],
+    "answer": 1,
+    "explanation": "I4C (Indian Cyber Crime Coordination Centre) ఈ scam పై హెచ్చరికను జారీ చేసింది."
+  },
+  {
+    "q": "I4C యొక్క పూర్తి రూపం ఏమిటి?",
+    "options": [
+      "Indian Internet Crime Council",
+      "Indian Cyber Crime Coordination Centre",
+      "Indian Computer Coordination Centre",
+      "International Cyber Crime Centre"
+    ],
+    "answer": 1,
+    "explanation": "I4C అంటే Indian Cyber Crime Coordination Centre. ఇది cybercrime ను ఎదుర్కోవడానికి భారతదేశంలోని central coordination mechanism."
+  },
+  {
+    "q": "Boss Scamలో నేరస్థులు సాధారణంగా ఎవరిలా నటిస్తారు?",
+    "options": [
+      "Doctors",
+      "CEOs or senior officials",
+      "Teachers",
+      "Police constables"
+    ],
+    "answer": 1,
+    "explanation": "ఈ scamలో నేరస్థులు CEO, boss లేదా senior executive లాగా నటించి employees ను payments చేయడానికి లేదా information పంచుకోవడానికి ఒత్తిడి చేస్తారు."
+  },
+  {
+    "q": "FISU World University Squash Championshipలో men's individual gold గెలిచిన తొలి భారతీయుడిగా ఎవరు నిలిచారు?",
+    "options": [
+      "Abhay Singh",
+      "Suraj Kumar Chand",
+      "Saurav Ghosal",
+      "Ramit Tandon"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారంలో Suraj Kumar Chand men's individual gold గెలిచినట్లు పేర్కొంది."
+  },
+  {
+    "q": "Suraj Kumar Chand ఫైనల్లో ఎవరిని ఓడించాడు?",
+    "options": [
+      "Benedek Takacs",
+      "Saurav Ghosal",
+      "Paul Coll",
+      "Diego Elias"
+    ],
+    "answer": 0,
+    "explanation": "సరఫరా చేసిన సమాచారంలో Chand ఫైనల్లో Hungaryకి చెందిన Benedek Takacs ను ఓడించినట్లు పేర్కొంది."
+  },
+  {
+    "q": "Ratusinh Na Muvada గ్రామం ఏ రాష్ట్రంలో ఉంది?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Maharashtra",
+      "Haryana"
+    ],
+    "answer": 0,
+    "explanation": "Ratusinh Na Muvada గ్రామం Gujaratలోని Mahisagar జిల్లాలో ఉంది."
+  },
+  {
+    "q": "Ratusinh Na Muvada గ్రామం ఏ క్రీడలో ఆటగాళ్లను తయారు చేయడంలో ప్రసిద్ధి చెందింది?",
+    "options": [
+      "Cricket",
+      "Chess",
+      "Hockey",
+      "Badminton"
+    ],
+    "answer": 1,
+    "explanation": "ఈ చిన్న గ్రామం అనేక FIDE-rated chess players ను తయారు చేసినట్లు సరఫరా చేసిన సమాచారం పేర్కొంది."
+  },
+  {
+    "q": "ఆ గ్రామం నుండి సుమారు ఎంతమంది FIDE-rated chess players వెలువడ్డారు?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "సరఫరా చేసిన సమాచారంలో సుమారు 16 FIDE-rated chess players ఈ గ్రామం నుండి వెలువడ్డారని పేర్కొంది."
+  },
+  {
+    "q": "Reported conservation programmeలో ఏ రెండు vulture speciesలను విడుదల చేశారు?",
+    "options": [
+      "Himalayan and King Vulture",
+      "Slender-billed and White-rumped Vultures",
+      "Egyptian and Red-headed Vultures",
+      "Bearded and Himalayan Vultures"
+    ],
+    "answer": 1,
+    "explanation": "ఈ programmeలో captive-bred Slender-billed Vultures మరియు White-rumped Vultures ను విడుదల చేశారు."
+  },
+  {
+    "q": "ఈ vultures ను ఎక్కడ విడుదల చేశారు?",
+    "options": [
+      "Gir National Park",
+      "Kaziranga National Park",
+      "Kanha National Park",
+      "Periyar National Park"
+    ],
+    "answer": 1,
+    "explanation": "సరఫరా చేసిన సమాచారం ప్రకారం ఈ విడుదల Assamలోని Kaziranga National Parkలోని Biswanath Wildlife Divisionలో జరిగింది."
+  },
+  {
+    "q": "Vulturesను విడుదల చేయడానికి ఉపయోగించిన scientific method ఏది?",
+    "options": [
+      "Hard Release",
+      "Soft Release",
+      "Rapid Release",
+      "Emergency Release"
+    ],
+    "answer": 1,
+    "explanation": "Soft releaseలో captive-bred animalsను సహజ వాతావరణానికి క్రమంగా పరిచయం చేసి, పూర్తిగా స్వతంత్రం కావడానికి ముందు అనుకూలించేందుకు అవకాశం ఇస్తారు."
+  },
+  {
+    "q": "ఎన్ని Slender-billed మరియు White-rumped vultures విడుదల చేయబడ్డాయి?",
+    "options": [
+      "5 of each species",
+      "10 of each species",
+      "5 in total",
+      "20 of each species"
+    ],
+    "answer": 0,
+    "explanation": "సరఫరా చేసిన సమాచారం ప్రకారం 5 Slender-billed + 5 White-rumped = మొత్తం 10 vultures విడుదలయ్యాయి."
+  },
+  {
+    "q": "Agni-IV ఏ రకమైన missile?",
+    "options": [
+      "Cruise missile",
+      "Intermediate-Range Ballistic Missile",
+      "Surface-to-air missile",
+      "Anti-tank missile"
+    ],
+    "answer": 1,
+    "explanation": "Agni-IV ఒక Intermediate-Range Ballistic Missile (IRBM)."
+  },
+  {
+    "q": "Agni-IV ఏ రకమైన fuelను ఉపయోగిస్తుంది?",
+    "options": [
+      "Liquid fuel",
+      "Solid fuel",
+      "Hydrogen fuel",
+      "Nuclear fuel"
+    ],
+    "answer": 1,
+    "explanation": "Agni-IV రెండు దశల solid-fuelled missile."
+  },
+  {
+    "q": "Agni-IV గురించి సరైన వివరణ ఏది?",
+    "options": [
+      "Nuclear-capable",
+      "Indigenous",
+      "Two-stage",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "సరఫరా చేసిన సమాచారం ప్రకారం Agni-IV indigenous, nuclear-capable, two-stage మరియు solid-fuelled missile."
+  },
+  {
+    "q": "Strategic Forces Command ప్రధానంగా దేనికి సంబంధించినది?",
+    "options": [
+      "India's strategic/nuclear forces",
+      "Railway security",
+      "Space research",
+      "Coastal tourism"
+    ],
+    "answer": 0,
+    "explanation": "Strategic Forces Command (SFC) భారతదేశ strategic nuclear forces కు బాధ్యత వహిస్తుంది."
+  },
+  {
+    "q": "Operation Safed Sagar ఏ యుద్ధానికి సంబంధించినది?",
+    "options": [
+      "1962 War",
+      "1971 War",
+      "1999 Kargil War",
+      "2008 Mumbai attacks"
+    ],
+    "answer": 2,
+    "explanation": "Operation Safed Sagar 1999 Kargil conflict సమయంలో Indian Air Force నిర్వహించిన air operation."
+  },
+  {
+    "q": "Operation Safed Sagar ను ఏ దళం నిర్వహించింది?",
+    "options": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force",
+      "Indian Coast Guard"
+    ],
+    "answer": 2,
+    "explanation": "Operation Safed Sagar ను Indian Air Force నిర్వహించింది."
+  },
+  {
+    "q": "International Day of the World's Indigenous Peoples ఎప్పుడు జరుపుకుంటారు?",
+    "options": [
+      "5 June",
+      "9 August",
+      "15 August",
+      "10 December"
+    ],
+    "answer": 1,
+    "explanation": "UN ప్రకారం International Day of the World's Indigenous Peoples ను ప్రతి సంవత్సరం 9 Augustన జరుపుకుంటారు."
+  },
+  {
+    "q": "International Day of the World's Indigenous Peoples ను ఎవరు ప్రకటించారు?",
+    "options": [
+      "World Bank",
+      "UN General Assembly",
+      "UNESCO",
+      "IMF"
+    ],
+    "answer": 1,
+    "explanation": "United Nations General Assembly (UNGA) 1994లో ఈ రోజును ప్రకటించింది."
+  },
+  {
+    "q": "Battle of Plassey ఏ సంవత్సరంలో జరిగింది?",
+    "options": [
+      "1757",
+      "1764",
+      "1773",
+      "1857"
+    ],
+    "answer": 0,
+    "explanation": "Battle of Plassey 1757లో జరిగింది. ఇది Bengalలో East India Company's riseకు ఒక ముఖ్యమైన turning point."
+  },
+  {
+    "q": "Battle of Plasseyలో Robert Clive నాయకత్వంలోని East India Company forces ఎవరితో పోరాడాయి?",
+    "options": [
+      "Tipu Sultan",
+      "Siraj-ud-Daulah",
+      "Shah Alam II",
+      "Mir Qasim"
+    ],
+    "answer": 1,
+    "explanation": "Siraj-ud-Daulah అప్పటి Bengal Nawab. Battle of Plasseyలో ఆయన East India Company forcesను ఎదుర్కొన్నారు."
+  },
+  {
+    "q": "Battle of Buxar ఏ సంవత్సరంలో జరిగింది?",
+    "options": [
+      "1757",
+      "1764",
+      "1775",
+      "1857"
+    ],
+    "answer": 1,
+    "explanation": "Battle of Buxar 1764లో జరిగింది. ఇది తూర్పు భారతదేశంలో East India Company's political positionను మరింత బలపరిచింది."
+  },
+  {
+    "q": "Plassey తరువాత జరిగి Bengalలో British powerను మరింత బలపరిచిన యుద్ధం ఏది?",
+    "options": [
+      "Battle of Buxar",
+      "Battle of Panipat",
+      "Battle of Talikota",
+      "Battle of Haldighati"
+    ],
+    "answer": 0,
+    "explanation": "Plassey ద్వారా Companyకు ముఖ్యమైన political foothold లభించింది; Buxar ద్వారా Bengalలో దాని power మరింత consolidated అయింది."
+  },
+  {
+    "q": "Nagasakiపై atomic bomb ఎప్పుడు పడింది?",
+    "options": [
+      "6 August 1945",
+      "8 August 1945",
+      "9 August 1945",
+      "15 August 1945"
+    ],
+    "answer": 2,
+    "explanation": "United States 9 August 1945న Nagasakiపై atomic bombను వదిలింది."
+  },
+  {
+    "q": "కింది జతల్లో సరైనవి ఏవి? GOBARdhan — Bioenergy; NUCFDC — Urban cooperative finance; I4C — Cybercrime; Survey of India — Mapping",
+    "options": [
+      "Only 1 and 2",
+      "Only 2 and 3",
+      "Only 1, 2 and 3",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "నాలుగు జతలూ సరైనవే."
+  },
+  {
+    "q": "కింది వాటిలో తప్పుగా జతచేయబడినది ఏది?",
+    "options": [
+      "REIT — Real Estate",
+      "InvIT — Infrastructure",
+      "I4C — Cybercrime",
+      "FAO — Defence"
+    ],
+    "answer": 3,
+    "explanation": "FAO food and agriculture రంగాలకు సంబంధించిన సంస్థ; defenceకు కాదు."
+  },
+  {
+    "q": "కింది వాటిలో waste-to-wealthతో నేరుగా సంబంధం ఉన్నది ఏది?",
+    "options": [
+      "GOBARdhan",
+      "Agni-IV",
+      "REIT",
+      "I4C"
+    ],
+    "answer": 0,
+    "explanation": "GOBARdhan organic wasteను ఉపయోగకరమైన ఉత్పత్తులు, ముఖ్యంగా bioenergyగా మార్చడాన్ని ప్రోత్సహిస్తుంది."
+  },
+  {
+    "q": "కింది వాటిలో cyber fraudతో సంబంధం ఉన్నది ఏది?",
+    "options": [
+      "Boss Scam",
+      "Soft Release",
+      "GOBARdhan",
+      "REIT"
+    ],
+    "answer": 0,
+    "explanation": "Boss Scamలో senior executivesలా నటించి cyber/financial fraudకు పాల్పడతారు."
+  },
+  {
+    "q": "కింది వాటిలో biodiversity conservationతో సంబంధం ఉన్నది ఏది?",
+    "options": [
+      "Vulture release",
+      "UPI",
+      "REIT",
+      "Tax holiday"
+    ],
+    "answer": 0,
+    "explanation": "Captive-bred vulturesను విడుదల చేయడం endangered/scarce bird populations సంరక్షణకు సహాయపడుతుంది."
+  },
+  {
+    "q": "కింది వాటిలో సరైన జత ఏది?",
+    "options": [
+      "Operation Safed Sagar — Kargil War",
+      "Plassey — 1764",
+      "Buxar — 1757",
+      "Nagasaki — 1942"
+    ],
+    "answer": 0,
+    "explanation": "Operation Safed Sagar 1999 Kargil Warకు సంబంధించినది. Plassey — 1757, Buxar — 1764, Nagasaki bombing — 1945."
+  },
+  {
+    "q": "India-China discussionలో పేర్కొన్న climate-related challenge కానిది ఏది?",
+    "options": [
+      "Floods",
+      "Heatwaves",
+      "Glacial retreat",
+      "UPI fraud"
+    ],
+    "answer": 3,
+    "explanation": "UPI fraud ఒక cyber/financial issue; climate-related challenge కాదు."
+  },
+  {
+    "q": "Food Price Indexతో ఏ సంస్థ సంబంధం కలిగి ఉంది?",
+    "options": [
+      "FAO",
+      "RBI",
+      "SEBI",
+      "ISRO"
+    ],
+    "answer": 0,
+    "explanation": "FAO Food Price Index అంతర్జాతీయ food commodity pricesలో మార్పులను ట్రాక్ చేస్తుంది."
+  },
+  {
+    "q": "Nuclear-capable missile technologyతో ఏది సంబంధం కలిగి ఉంది?",
+    "options": [
+      "Agni-IV",
+      "GOBARdhan",
+      "REIT",
+      "NUCFDC"
+    ],
+    "answer": 0,
+    "explanation": "Agni-IV ఒక Indian nuclear-capable ballistic missile."
+  },
+  {
+    "q": "కింది సంఘటనల్లో 1942లో జరిగినది ఏది?",
+    "options": [
+      "Battle of Plassey",
+      "Quit India Movement",
+      "Battle of Buxar",
+      "Nagasaki bombing"
+    ],
+    "answer": 1,
+    "explanation": "Quit India Movement → 1942."
+  },
+  {
+    "q": "కింది సంఘటనల్లో 1757లో జరిగినది ఏది?",
+    "options": [
+      "Battle of Buxar",
+      "Battle of Plassey",
+      "Quit India Movement",
+      "Kargil War"
+    ],
+    "answer": 1,
+    "explanation": "Battle of Plassey → 1757."
+  },
+  {
+    "q": "కింది సంఘటనల్లో 1764లో జరిగినది ఏది?",
+    "options": [
+      "Battle of Plassey",
+      "Battle of Buxar",
+      "Quit India Movement",
+      "Kargil War"
+    ],
+    "answer": 1,
+    "explanation": "Battle of Buxar → 1764."
+  },
+  {
+    "q": "కింది సంఘటనల సరైన కాలక్రమం ఏది?",
+    "options": [
+      "Plassey → Buxar → Quit India",
+      "Buxar → Plassey → Quit India",
+      "Quit India → Plassey → Buxar",
+      "Plassey → Quit India → Buxar"
+    ],
+    "answer": 0,
+    "explanation": "1757 → Plassey; 1764 → Buxar; 1942 → Quit India Movement."
+  },
+  {
+    "q": "భారతదేశ కేంద్ర బ్యాంక్ ఏది?",
+    "options": [
+      "SBI",
+      "RBI",
+      "NABARD",
+      "SEBI"
+    ],
+    "answer": 1,
+    "explanation": "Reserve Bank of India (RBI) భారతదేశ కేంద్ర బ్యాంక్. ఇది monetary policy మరియు banking regulation వంటి బాధ్యతలను నిర్వహిస్తుంది."
+  },
+  {
+    "q": "భారతదేశ securities marketతో ప్రధానంగా సంబంధం ఉన్న సంస్థ ఏది?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "FAO",
+      "Survey of India"
+    ],
+    "answer": 1,
+    "explanation": "SEBI భారతదేశ securities మరియు capital marketsను నియంత్రిస్తుంది."
+  },
+  {
+    "q": "Urban cooperative bankingతో సంబంధం ఉన్నది ఏది?",
+    "options": [
+      "NUCFDC",
+      "FAO",
+      "I4C",
+      "SFC"
+    ],
+    "answer": 0,
+    "explanation": "NUCFDC urban cooperative financial sectorతో సంబంధం కలిగి ఉంది."
+  },
+  {
+    "q": "కింది వాటిలో renewable/alternative energy-related initiative ఏది?",
+    "options": [
+      "GOBARdhan",
+      "Boss Scam",
+      "REIT",
+      "Plassey"
+    ],
+    "answer": 0,
+    "explanation": "GOBARdhan organic waste నుంచి biogas/CBG ఉత్పత్తిని ప్రోత్సహించి cleaner energyకి మద్దతు ఇస్తుంది."
+  },
+  {
+    "q": "కింది వాటిలో సరైన జత ఏది?",
+    "options": [
+      "Agni-IV — Ballistic missile",
+      "GOBARdhan — Cybercrime",
+      "I4C — Handloom",
+      "REIT — Vulture conservation"
+    ],
+    "answer": 0,
+    "explanation": "Agni-IV ఒక Intermediate-Range Ballistic Missile. మిగిలిన జతలు తప్పుగా ఉన్నాయి."
+  },
+  {
+    "q": "కింది combinationలో పూర్తిగా సరైనది ఏది?",
+    "options": [
+      "Plassey — 1757 — Siraj-ud-Daulah",
+      "Buxar — 1757 — Kargil War",
+      "Quit India — 1764 — Gandhi",
+      "Nagasaki — 1942 — Atomic bombing"
+    ],
+    "answer": 0,
+    "explanation": "Battle of Plassey → 1757 → Siraj-ud-Daulah vs East India Company forces led by Robert Clive."
+  }
+]
