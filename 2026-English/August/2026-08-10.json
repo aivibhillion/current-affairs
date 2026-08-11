@@ -1,0 +1,332 @@
+[
+  {
+    "q": "Who has received a one-year extension as Director of the Enforcement Directorate (ED)?",
+    "options": ["Sanjay Kumar Mishra", "Rahul Navin", "Vivek Joshi", "Tuhin Kanta Pandey"],
+    "answer": 1,
+    "explanation": "Rahul Navin's tenure as Director of the Enforcement Directorate has been extended by one year."
+  },
+  {
+    "q": "The Enforcement Directorate primarily deals with:",
+    "options": ["Electoral disputes", "Financial and economic offences", "Agricultural disputes", "Environmental clearances"],
+    "answer": 1,
+    "explanation": "The ED is a multidisciplinary financial investigation agency dealing mainly with economic offences and financial laws."
+  },
+  {
+    "q": "The Enforcement Directorate functions under which department?",
+    "options": ["Department of Financial Services", "Department of Revenue", "Department of Economic Affairs", "Department of Expenditure"],
+    "answer": 1,
+    "explanation": "The Enforcement Directorate operates under the Department of Revenue, Ministry of Finance."
+  },
+  {
+    "q": "The e-Courts Mission Mode Project was launched in:",
+    "options": ["2005", "2007", "2010", "2012"],
+    "answer": 1,
+    "explanation": "The e-Courts Mission Mode Project was launched in 2007 to improve judicial administration through information and communication technology."
+  },
+  {
+    "q": "Which of the following is NOT a major component of India's e-Courts ecosystem?",
+    "options": ["e-Filing", "Virtual Courts", "e-Sewa Kendras", "Electronic Voting Machines"],
+    "answer": 3,
+    "explanation": "Electronic Voting Machines are related to elections, whereas e-Filing, Virtual Courts and e-Sewa Kendras are part of judicial digitalisation."
+  },
+  {
+    "q": "Phase III of the e-Courts Mission Mode Project covers which period?",
+    "options": ["2019-2022", "2021-2024", "2023-2027", "2025-2030"],
+    "answer": 2,
+    "explanation": "Phase III covers 2023-2027 and focuses on creating a more digital, paperless and technology-driven judiciary."
+  },
+  {
+    "q": "Under e-Courts Phase III, e-Filing has been expanded to approximately how many courts according to the supplied data?",
+    "options": ["1,806", "4,519", "5,753", "7,553"],
+    "answer": 1,
+    "explanation": "According to the supplied data, e-Filing has been expanded to 4,519 courts."
+  },
+  {
+    "q": "What does NJDG stand for?",
+    "options": ["National Judicial Governance Database", "National Judicial Data Grid", "National Justice Development Grid", "National Judicial Digital Gateway"],
+    "answer": 1,
+    "explanation": "NJDG stands for National Judicial Data Grid, a public digital platform providing judicial information."
+  },
+  {
+    "q": "Which of the following best describes the National Judicial Data Grid?",
+    "options": ["Electoral database", "Public judicial information dashboard", "Tax collection platform", "Police recruitment portal"],
+    "answer": 1,
+    "explanation": "NJDG is a public judicial information dashboard that provides information about cases, orders, judgments and pendency."
+  },
+  {
+    "q": "According to the supplied data, Video Conferencing facilities are available at approximately how many locations?",
+    "options": ["4,519", "5,538", "7,553", "8,806"],
+    "answer": 2,
+    "explanation": "The supplied data states that Video Conferencing facilities are available at 7,553 locations."
+  },
+  {
+    "q": "AI applications under e-Courts Phase III are intended to assist in which of the following areas?",
+    "options": ["Legal research and case management only", "Translation and transcription only", "Legal research, case management, translation and transcription", "Election management only"],
+    "answer": 2,
+    "explanation": "AI and Machine Learning applications are proposed for legal research, case management, transcription, translation and decision-support functions."
+  },
+  {
+    "q": "The post-2026 delimitation debate is primarily associated with:",
+    "options": ["GST Council restructuring", "Reallocation of parliamentary seats", "Reorganisation of High Courts", "Creation of new municipalities"],
+    "answer": 1,
+    "explanation": "The delimitation debate is mainly related to the possible reallocation of parliamentary seats among states."
+  },
+  {
+    "q": "The new Supreme Court guidelines on gender-sensitive judgments emphasize:",
+    "options": ["Faster taxation procedures", "Survivor dignity and trauma-informed justice", "Election reforms", "Corporate governance"],
+    "answer": 1,
+    "explanation": "The guidelines emphasize survivor dignity, trauma-informed justice and sensitive judicial language."
+  },
+  {
+    "q": "According to the supplied current-affairs material, ordinary P2P UPI transactions will:",
+    "options": ["Become taxable", "Remain free", "Be suspended", "Require RBI approval"],
+    "answer": 1,
+    "explanation": "The government clarified that everyday P2P and general UPI transactions will continue to remain free."
+  },
+  {
+    "q": "India crossed what milestone in installed non-fossil fuel electricity-generation capacity in 2026?",
+    "options": ["200 GW", "250 GW", "300 GW", "350 GW"],
+    "answer": 2,
+    "explanation": "India crossed 300 GW of installed non-fossil fuel electricity-generation capacity in 2026."
+  },
+  {
+    "q": "India's 2030 target for non-fossil fuel power capacity is:",
+    "options": ["300 GW", "400 GW", "450 GW", "500 GW"],
+    "answer": 3,
+    "explanation": "India's target is to achieve 500 GW of non-fossil fuel-based installed electricity-generation capacity by 2030."
+  },
+  {
+    "q": "The 300 GW non-fossil fuel capacity milestone represents approximately what percentage of India's 2030 target?",
+    "options": ["40%", "50%", "More than 60%", "More than 90%"],
+    "answer": 2,
+    "explanation": "The 300 GW milestone equals 60% of the 500 GW target, and the reported capacity has crossed 300 GW."
+  },
+  {
+    "q": "The Makkah Joint Defence Agreement (MJDA) involves:",
+    "options": ["Saudi Arabia, Iran and Iraq", "Saudi Arabia, Türkiye and Pakistan", "Pakistan, China and Iran", "Türkiye, Qatar and UAE"],
+    "answer": 1,
+    "explanation": "According to the supplied current-affairs material, the MJDA involves Saudi Arabia, Türkiye and Pakistan."
+  },
+  {
+    "q": "The core principle of the MJDA is that:",
+    "options": ["An economic sanction against one affects all", "An armed attack against one is treated as an attack against all", "One country controls the military forces of the others", "All three countries adopt a common currency"],
+    "answer": 1,
+    "explanation": "The agreement is described as a collective-defence arrangement in which an armed attack on one member is treated as an attack on all."
+  },
+  {
+    "q": "Which of the following is associated with the MJDA?",
+    "options": ["Joint military exercises only", "Joint exercises and intelligence sharing only", "Joint training and intelligence sharing only", "Joint military exercises, intelligence sharing and joint training"],
+    "answer": 3,
+    "explanation": "The agreement is described as involving joint training, military exercises and intelligence-sharing mechanisms."
+  },
+  {
+    "q": "Which Indian initiative is particularly associated with connectivity between India, the Middle East and Europe?",
+    "options": ["IMEC", "SAGAR only", "BIMSTEC only", "Project Mausam only"],
+    "answer": 0,
+    "explanation": "IMEC stands for India-Middle East-Europe Economic Corridor and focuses on connectivity between these regions."
+  },
+  {
+    "q": "I2U2 consists of India, Israel, UAE and:",
+    "options": ["Saudi Arabia", "United States", "Türkiye", "Egypt"],
+    "answer": 1,
+    "explanation": "I2U2 represents India, Israel, the United Arab Emirates and the United States."
+  },
+  {
+    "q": "Chabahar Port is located in:",
+    "options": ["Pakistan", "Iran", "Oman", "Iraq"],
+    "answer": 1,
+    "explanation": "Chabahar Port is located in Iran and is strategically important for India's connectivity with Afghanistan and Central Asia."
+  },
+  {
+    "q": "INSTC stands for:",
+    "options": ["International North-South Transport Corridor", "Indian National Strategic Trade Corridor", "International National Shipping Trade Corridor", "Indo-North Strategic Transport Channel"],
+    "answer": 0,
+    "explanation": "INSTC stands for International North-South Transport Corridor, a multimodal connectivity route involving India, Iran, Russia and Eurasia."
+  },
+  {
+    "q": "The proposed Russia-India railway route is intended to improve:",
+    "options": ["Space cooperation", "Eurasian trade connectivity", "Tourism only", "Agricultural subsidies"],
+    "answer": 1,
+    "explanation": "The proposed railway route aims to improve overland trade connectivity between Russia and India through Central and South Asia."
+  },
+  {
+    "q": "Which Bengaluru-based startup unveiled the EVEREST rocket engine?",
+    "options": ["Skyroot Aerospace", "Agnikul Cosmos", "Astrobase Space Technologies", "Pixxel"],
+    "answer": 2,
+    "explanation": "Bengaluru-based Astrobase Space Technologies unveiled the EVEREST rocket engine."
+  },
+  {
+    "q": "What is the approximate thrust of Astrobase's EVEREST engine?",
+    "options": ["80 kN", "400 kN", "800 kN", "1,500 kN"],
+    "answer": 2,
+    "explanation": "The EVEREST engine is described as an 800 kN high-thrust rocket engine."
+  },
+  {
+    "q": "EVEREST uses which propellant combination?",
+    "options": ["Kerosene + LOX", "LOX + Methane", "Hydrogen + Nitrogen", "Solid propellant"],
+    "answer": 1,
+    "explanation": "EVEREST is designed around LOX, or liquid oxygen, and methane propulsion."
+  },
+  {
+    "q": "What does FFSC stand for in rocket propulsion?",
+    "options": ["Full-Flow Staged Combustion", "Fast-Flow Space Combustion", "Full-Fuel Space Cycle", "Fuel-Flow Staged Control"],
+    "answer": 0,
+    "explanation": "FFSC stands for Full-Flow Staged Combustion, an advanced liquid rocket-engine cycle."
+  },
+  {
+    "q": "The Astrobase EVEREST engine is significant primarily because it represents:",
+    "options": ["India's first nuclear rocket", "A privately developed high-thrust FFSC engine", "India's first solid-fuel missile", "India's first reusable satellite"],
+    "answer": 1,
+    "explanation": "EVEREST represents a major development in India's private space sector and high-thrust rocket propulsion technology."
+  },
+  {
+    "q": "Epigenetic inheritance primarily involves changes that:",
+    "options": ["Always alter the DNA sequence", "Affect gene expression without necessarily changing DNA sequence", "Destroy chromosomes", "Replace RNA with proteins"],
+    "answer": 1,
+    "explanation": "Epigenetic mechanisms can influence gene expression without necessarily changing the underlying DNA sequence."
+  },
+  {
+    "q": "DNA methylation is an example of:",
+    "options": ["Genetic mutation", "Epigenetic modification", "Chromosomal deletion", "Protein synthesis"],
+    "answer": 1,
+    "explanation": "DNA methylation is an epigenetic modification that can regulate gene expression without changing the DNA sequence."
+  },
+  {
+    "q": "The 8th Indian Navy-US Navy EOD exercise is associated with:",
+    "options": ["Anti-submarine warfare", "Explosive Ordnance Disposal", "Cyber warfare", "Air-to-air combat"],
+    "answer": 1,
+    "explanation": "EOD stands for Explosive Ordnance Disposal and involves the detection, identification and safe disposal of explosive threats."
+  },
+  {
+    "q": "The 8th edition of the Indian Navy-US Navy EOD exercise is scheduled at:",
+    "options": ["Visakhapatnam", "Kochi", "Mumbai", "Chennai"],
+    "answer": 1,
+    "explanation": "The exercise is scheduled at the Southern Naval Command in Kochi, Kerala."
+  },
+  {
+    "q": "The increasing use of low-cost drones is particularly challenging for:",
+    "options": ["Conventional air-defence systems", "Railway signalling", "Agricultural irrigation", "Oceanographic research"],
+    "answer": 0,
+    "explanation": "Low-cost drones can be deployed in large numbers and create significant challenges for conventional air-defence systems."
+  },
+  {
+    "q": "Amboseli National Park is located in:",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": 0,
+    "explanation": "Amboseli National Park is a famous wildlife reserve located in southern Kenya."
+  },
+  {
+    "q": "The animal deaths reported in Amboseli National Park involved:",
+    "options": ["Lions", "Elephants", "Giraffes", "Rhinos"],
+    "answer": 1,
+    "explanation": "The reported incident involved the deaths of African elephants in Amboseli National Park."
+  },
+  {
+    "q": "Preliminary tests in the Amboseli elephant deaths reportedly indicated:",
+    "options": ["Anthrax", "Cyanide poisoning", "Rabies", "Drought-related starvation"],
+    "answer": 1,
+    "explanation": "Preliminary testing reportedly indicated cyanide poisoning, with possible links to nearby agricultural chemicals being investigated."
+  },
+  {
+    "q": "Prakriti Gyan Dham was inaugurated in:",
+    "options": ["New Delhi", "Lucknow", "Bengaluru", "Bhopal"],
+    "answer": 1,
+    "explanation": "Prakriti Gyan Dham was inaugurated in Lucknow as an environmental and science education centre."
+  },
+  {
+    "q": "Prakriti Gyan Dham was developed by:",
+    "options": ["ISRO", "CSIR-NBRI", "DRDO", "NITI Aayog"],
+    "answer": 1,
+    "explanation": "Prakriti Gyan Dham was developed by the CSIR-National Botanical Research Institute (CSIR-NBRI)."
+  },
+  {
+    "q": "Slogans during India's freedom struggle primarily helped to:",
+    "options": ["Increase taxation", "Simplify political ideas and mobilise people", "Promote industrialisation", "Establish princely states"],
+    "answer": 1,
+    "explanation": "Freedom-struggle slogans simplified ideas such as Swaraj and independence and helped mobilise and unite people."
+  },
+  {
+    "q": "India will celebrate Independence Day in 2026 on:",
+    "options": ["August 9", "August 14", "August 15", "August 26"],
+    "answer": 2,
+    "explanation": "India observes Independence Day every year on August 15."
+  },
+  {
+    "q": "India's Independence Day celebration in 2026 will be the:",
+    "options": ["78th occasion", "79th occasion", "80th occasion", "81st occasion"],
+    "answer": 2,
+    "explanation": "India became independent in 1947, so 2026 marks the 80th Independence Day celebration and 79 completed years of independence."
+  },
+  {
+    "q": "The Supreme Court Collegium recommended Justice Ravindra V. Ghuge for Chief Justice of:",
+    "options": ["Bombay High Court", "Calcutta High Court", "Delhi High Court", "Madras High Court"],
+    "answer": 1,
+    "explanation": "According to the supplied current-affairs material, Justice Ravindra V. Ghuge was recommended for Chief Justice of the Calcutta High Court."
+  },
+  {
+    "q": "Justice Mahesh Chandra Tripathi was recommended for Chief Justice of:",
+    "options": ["Bombay High Court", "Calcutta High Court", "Allahabad High Court", "Kerala High Court"],
+    "answer": 0,
+    "explanation": "According to the supplied material, Justice Mahesh Chandra Tripathi was recommended for Chief Justice of the Bombay High Court."
+  },
+  {
+    "q": "The Dhansiri River is a tributary of the:",
+    "options": ["Godavari", "Brahmaputra", "Ganga", "Mahanadi"],
+    "answer": 1,
+    "explanation": "The Dhansiri River is an important southern tributary of the Brahmaputra."
+  },
+  {
+    "q": "The Dhansiri River flows through which two states?",
+    "options": ["Assam and Meghalaya", "Nagaland and Assam", "Manipur and Mizoram", "Arunachal Pradesh and Assam"],
+    "answer": 1,
+    "explanation": "The Dhansiri River flows through Nagaland and Assam before joining the Brahmaputra system."
+  },
+  {
+    "q": "Which primate is known for hibernation?",
+    "options": ["Chimpanzee", "Fat-tailed dwarf lemur", "Gorilla", "Orangutan"],
+    "answer": 1,
+    "explanation": "The fat-tailed dwarf lemur is notable for its ability to undergo prolonged hibernation."
+  },
+  {
+    "q": "REM-like brain activity during hibernation of the fat-tailed dwarf lemur has raised the possibility of:",
+    "options": ["Echolocation", "Dream-like activity", "Photosynthesis", "Migration"],
+    "answer": 1,
+    "explanation": "REM-like brain activity during hibernation has been associated with the possibility of dream-like activity."
+  },
+  {
+    "q": "Wing Commander B. S. Dhanoa is associated with which conflict?",
+    "options": ["1965 India-Pakistan War", "1971 Bangladesh Liberation War", "1999 Kargil War", "1962 India-China War"],
+    "answer": 2,
+    "explanation": "B. S. Dhanoa played a significant role in Indian Air Force operations during the 1999 Kargil conflict."
+  },
+  {
+    "q": "Which statements about e-Courts Phase III are correct?",
+    "options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+    "answer": 3,
+    "explanation": "All four statements are correct: Phase III covers 2023-2027, promotes paperless functioning, incorporates AI and ML, and NJDG supports judicial transparency."
+  },
+  {
+    "q": "Which statements regarding India's non-fossil fuel capacity are correct?",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": 3,
+    "explanation": "India crossed 300 GW in 2026, its 2030 target is 500 GW, and 300 GW represents 60% of that target."
+  },
+  {
+    "q": "Which of the following pairs are correctly matched: NJDG-Judiciary, IMEC-Connectivity, INSTC-Eurasian transport, e-Sewa Kendra-Judicial services?",
+    "options": ["1 and 2 only", "1, 2 and 3 only", "1, 2 and 4 only", "1, 2, 3 and 4"],
+    "answer": 3,
+    "explanation": "All four pairs are correctly matched with their respective areas."
+  },
+  {
+    "q": "Which of the following correctly describes the FFSC rocket-engine cycle?",
+    "options": ["It is a solid-propellant combustion method.", "It is a liquid-engine cycle in which both propellant streams undergo full-flow gasification before combustion.", "It uses only hydrogen as fuel.", "It is exclusively used in nuclear propulsion."],
+    "answer": 1,
+    "explanation": "FFSC is an advanced liquid-propellant engine cycle in which both propellant streams are fully gasified before combustion."
+  },
+  {
+    "q": "What is an important implication of the growing use of low-cost military drones?",
+    "options": ["Conventional air defence becomes completely unnecessary.", "The cost-exchange ratio in warfare becomes increasingly important.", "Drones have no strategic value.", "Only expensive aircraft can counter drones."],
+    "answer": 1,
+    "explanation": "Low-cost drones can threaten expensive defence systems, making the cost-exchange ratio an increasingly important factor in modern warfare."
+  }
+]
