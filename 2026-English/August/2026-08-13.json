@@ -1,0 +1,242 @@
+[
+{
+"q": "The Kerala (Alteration of Name) Bill, 2026 seeks to change the name of Kerala to:",
+"options": ["Keral Nadu", "Keralam", "Kerala Pradesh", "Malayala Nadu"],
+"answer": 1,
+"explanation": "The Bill seeks to change the name of the state from Kerala to Keralam, reflecting the Malayalam name of the state."
+},
+{
+"q": "Which Article of the Indian Constitution is primarily associated with alteration of the name of a State?",
+"options": ["Article 1", "Article 2", "Article 3", "Article 4"],
+"answer": 2,
+"explanation": "Article 3 empowers Parliament to form new States and alter the areas, boundaries or names of existing States."
+},
+{
+"q": "The Foreign Contribution (Regulation) Amendment Bill, 2026 was referred to a JPC consisting of how many members?",
+"options": ["21 members", "25 members", "31 members", "35 members"],
+"answer": 2,
+"explanation": "The FCRA Amendment Bill, 2026 was referred to a 31-member Joint Parliamentary Committee for detailed examination."
+},
+{
+"q": "The Foreign Contribution (Regulation) Act primarily regulates:",
+"options": ["Foreign exchange reserves", "Foreign contributions received by specified persons and organisations", "Foreign trade tariffs", "Foreign direct investment"],
+"answer": 1,
+"explanation": "The FCRA regulates the acceptance and utilisation of foreign contributions by specified individuals, associations and organisations."
+},
+{
+"q": "Which of the following best describes the significance of regional parties in India?",
+"options": ["They have no role in federal politics", "They are relevant only in local elections", "They contribute significantly to federalism and regional representation", "They are constitutionally prohibited from participating in national elections"],
+"answer": 2,
+"explanation": "Regional parties represent state-specific interests and play an important role in Indian federalism, coalition politics and regional representation."
+},
+{
+"q": "The 'One Nation, One Election' proposal is primarily associated with:",
+"options": ["Simultaneous elections", "Separate elections for every local body", "Abolition of State Legislatures", "Direct election of the President"],
+"answer": 0,
+"explanation": "The 'One Nation, One Election' proposal broadly refers to holding elections to the Lok Sabha and State Legislative Assemblies simultaneously."
+},
+{
+"q": "The Container Manufacturing Assistance Scheme (CMAS) was announced in which Union Budget?",
+"options": ["Union Budget 2024–25", "Union Budget 2025–26", "Union Budget 2026–27", "Interim Budget 2026"],
+"answer": 2,
+"explanation": "CMAS was announced in the Union Budget 2026–27 to promote India's domestic container manufacturing ecosystem."
+},
+{
+"q": "What is the proposed outlay of the Container Manufacturing Assistance Scheme (CMAS) over five years?",
+"options": ["₹5,000 crore", "₹7,500 crore", "₹10,000 crore", "₹15,000 crore"],
+"answer": 2,
+"explanation": "CMAS has a proposed outlay of ₹10,000 crore over five years."
+},
+{
+"q": "CMAS aims to increase India's annual container manufacturing capacity to approximately:",
+"options": ["2.5 lakh TEUs", "5 lakh TEUs", "7.5 lakh TEUs", "10 lakh TEUs"],
+"answer": 2,
+"explanation": "The scheme targets approximately 7.5 lakh Twenty-foot Equivalent Units (TEUs) of annual domestic container production."
+},
+{
+"q": "What does TEU stand for?",
+"options": ["Twenty-foot Export Unit", "Twenty-foot Equivalent Unit", "Transport Equipment Unit", "Trade Export Utility"],
+"answer": 1,
+"explanation": "TEU stands for Twenty-foot Equivalent Unit and is a standard measure of container capacity in maritime transportation."
+},
+{
+"q": "Bharat Container Shipping Line (BCSL) is primarily associated with:",
+"options": ["Passenger aviation", "Container shipping", "Railway passenger services", "Inland tourism"],
+"answer": 1,
+"explanation": "BCSL is a proposed Indian container shipping initiative aimed at strengthening India's container shipping capabilities."
+},
+{
+"q": "Which organisations are associated with the proposed Bharat Container Shipping Line?",
+"options": ["LIC and SBI", "SCI and CONCOR", "ISRO and DRDO", "ONGC and NTPC"],
+"answer": 1,
+"explanation": "The BCSL initiative involves the Shipping Corporation of India (SCI) and Container Corporation of India (CONCOR), along with other port authorities."
+},
+{
+"q": "The proposed BCSL initiative plans a fleet of approximately how many container vessels?",
+"options": ["25", "35", "51", "75"],
+"answer": 2,
+"explanation": "The proposal envisages a fleet of approximately 51 container vessels."
+},
+{
+"q": "According to the current affairs data, the 300 most valuable Indian family businesses had a combined valuation of approximately:",
+"options": ["₹38 lakh crore", "₹78 lakh crore", "₹138 lakh crore", "₹238 lakh crore"],
+"answer": 2,
+"explanation": "The Hurun India list placed the combined valuation of the 300 most valuable family businesses at around ₹138 lakh crore."
+},
+{
+"q": "What does UPI stand for?",
+"options": ["Unified Payment India", "Universal Payments Interface", "Unified Payments Interface", "United Payment Infrastructure"],
+"answer": 2,
+"explanation": "UPI stands for Unified Payments Interface and enables instant digital bank-to-bank payments."
+},
+{
+"q": "UPI completed how many years of operation in 2026?",
+"options": ["5 years", "8 years", "10 years", "15 years"],
+"answer": 2,
+"explanation": "UPI completed 10 years of operation in 2026, marking a decade of transformation in India's digital payments ecosystem."
+},
+{
+"q": "What does MDR stand for in digital payments?",
+"options": ["Merchant Digital Regulation", "Merchant Discount Rate", "Money Deposit Rate", "Market Deposit Regulation"],
+"answer": 1,
+"explanation": "MDR stands for Merchant Discount Rate, a fee associated with processing certain digital payment transactions."
+},
+{
+"q": "The Taxation and Other Laws (Amendment) Bill, 2026 is associated with amendments to which Act?",
+"options": ["RBI Act, 1934", "Banking Regulation Act, 1949", "Payment and Settlement Systems Act, 2007", "SEBI Act, 1992"],
+"answer": 2,
+"explanation": "The amendment concerns the Payment and Settlement Systems Act, 2007, including provisions related to MDR."
+},
+{
+"q": "According to the supplied current affairs, Himachal Pradesh imposed a cess of how much per litre on petrol and high-speed diesel?",
+"options": ["20 paise", "40 paise", "60 paise", "₹1"],
+"answer": 2,
+"explanation": "The reported widow and orphan cess is 60 paise per litre on petrol and high-speed diesel."
+},
+{
+"q": "Which beverage brand received commercial branding rights for the Lucknow–Delhi–Lucknow Tejas Express?",
+"options": ["Pepsi", "Coca-Cola", "Sprite", "Thums Up"],
+"answer": 2,
+"explanation": "Sprite received commercial branding rights for the Lucknow–Delhi–Lucknow Tejas Express for six months."
+},
+{
+"q": "India's first domestically manufactured EXIM shipping container mentioned in the current affairs was produced for:",
+"options": ["Amazon", "A.P. Moller–Maersk", "DHL", "FedEx"],
+"answer": 1,
+"explanation": "The container was produced for A.P. Moller–Maersk at the Maersk–CONCOR Inland Container Depot in Dadri, Uttar Pradesh."
+},
+{
+"q": "The domestically manufactured EXIM container complied with which international standards/convention?",
+"options": ["ISO and CSC", "WTO and IMF", "WHO and ISO only", "ICAO and IMO only"],
+"answer": 0,
+"explanation": "The container complied with international ISO standards and the International Convention for Safe Containers (CSC)."
+},
+{
+"q": "The Panama Canal is approximately how long?",
+"options": ["25 miles", "50 miles", "100 miles", "150 miles"],
+"answer": 1,
+"explanation": "The Panama Canal is approximately 50 miles (82 km) long and is an important artificial waterway connecting the Atlantic and Pacific oceans."
+},
+{
+"q": "Which factors were mentioned as contributing to increased Panama Canal transit costs?",
+"options": ["Increased shipping demand", "Diversions from the Middle East", "Drought-related restrictions", "All of the above"],
+"answer": 3,
+"explanation": "Increased shipping demand, diversions from the Middle East and drought-related restrictions were mentioned as factors affecting Panama Canal transit costs."
+},
+{
+"q": "The 'One Herb, One Standard' (OHOS) initiative is associated with which ministries?",
+"options": ["Agriculture and Commerce", "AYUSH and Health & Family Welfare", "Environment and Agriculture", "Science & Technology and Education"],
+"answer": 1,
+"explanation": "The Ministry of AYUSH and the Ministry of Health & Family Welfare renewed their partnership for the OHOS initiative for three more years."
+},
+{
+"q": "Babirusa belongs to which genus?",
+"options": ["Babyrousa", "Bos", "Equus", "Cervus"],
+"answer": 0,
+"explanation": "Babirusa belongs to the genus Babyrousa and is commonly known as a pig-deer."
+},
+{
+"q": "The rare babirusa piglet named Rana was born at:",
+"options": ["London Zoo", "Chester Zoo", "Edinburgh Zoo", "Bristol Zoo"],
+"answer": 1,
+"explanation": "Chester Zoo in the United Kingdom announced the birth of Rana, a rare babirusa piglet."
+},
+{
+"q": "Which of the following was NOT mentioned as a major threat to wild babirusa populations?",
+"options": ["Habitat loss", "Hunting", "African swine fever", "Ocean acidification"],
+"answer": 3,
+"explanation": "The supplied current affairs identify African swine fever, habitat loss and hunting as threats to wild babirusa populations."
+},
+{
+"q": "The 'Srijan: Voices from the Loom' event is associated with:",
+"options": ["Women scientists", "Women athletes", "Women weavers", "Women entrepreneurs in banking"],
+"answer": 2,
+"explanation": "The Ministry of Textiles organised the event to recognise the contribution of women weavers to India's handloom heritage."
+},
+{
+"q": "India will celebrate its 80th Independence Day on:",
+"options": ["14 August 2026", "15 August 2026", "26 January 2026", "2 October 2026"],
+"answer": 1,
+"explanation": "India will celebrate its 80th Independence Day on 15 August 2026."
+},
+{
+"q": "On Independence Day, the Prime Minister traditionally hoists the national flag at:",
+"options": ["Parliament House", "Rashtrapati Bhavan", "Red Fort", "India Gate"],
+"answer": 2,
+"explanation": "On Independence Day, the Prime Minister hoists the Tricolour at the Red Fort and addresses the nation."
+},
+{
+"q": "On Republic Day, the President unfurls the national flag at:",
+"options": ["Red Fort", "Kartavya Path", "Parliament House", "Vijay Chowk"],
+"answer": 1,
+"explanation": "On Republic Day, 26 January, the President unfurls the national flag at Kartavya Path."
+},
+{
+"q": "The evolution of India's national flag is traced in the supplied material to which flag of 1906?",
+"options": ["Berlin Flag", "Calcutta Flag", "Madras Flag", "Delhi Flag"],
+"answer": 1,
+"explanation": "The supplied material traces the evolution of India's national flag to several historical designs, including the Calcutta Flag of 1906."
+},
+{
+"q": "The RBI Monetary Policy Committee (MPC) is primarily responsible for:",
+"options": ["Managing India's foreign policy", "Determining monetary policy decisions", "Preparing the Union Budget", "Regulating stock exchanges"],
+"answer": 1,
+"explanation": "The MPC is responsible for determining key monetary policy decisions, including the policy interest rate."
+},
+{
+"q": "According to the supplied current affairs, what is the correct repo rate in the latest RBI decision?",
+"options": ["4.50%", "5.00%", "5.25%", "6.25%"],
+"answer": 2,
+"explanation": "The supplied material identifies 5.25% as the correct repo rate and notes that the figure '25%' in the original information was incorrect."
+},
+{
+"q": "What monetary policy stance did the RBI retain?",
+"options": ["Accommodative", "Tightening", "Neutral", "Expansionary"],
+"answer": 2,
+"explanation": "The RBI retained a neutral monetary policy stance."
+},
+{
+"q": "Consider the following statements about CMAS: 1. It was announced in Union Budget 2026–27. 2. It has a proposed outlay of ₹10,000 crore over five years. 3. It aims to increase domestic container capacity to about 7.5 lakh TEUs. 4. Its primary objective is to increase India's dependence on imported containers. Which of the above statements are correct?",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+"answer": 1,
+"explanation": "Statements 1, 2 and 3 are correct. CMAS aims to reduce India's dependence on imported containers, so statement 4 is incorrect."
+},
+{
+"q": "Consider the following statements about UPI: 1. UPI completed 10 years in 2026. 2. MDR means Merchant Discount Rate. 3. The Payment and Settlement Systems Act, 2007 is relevant to the MDR-related legislative change. Which of the above statements are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 3,
+"explanation": "All three statements are correct according to the supplied current affairs material."
+},
+{
+"q": "Consider the following statements about babirusa: 1. It belongs to the genus Babyrousa. 2. It is also known as a pig-deer. 3. Its wild population is threatened by habitat loss and hunting. Which of the above statements are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 3,
+"explanation": "All three statements correctly describe the babirusa according to the supplied current affairs."
+},
+{
+"q": "Which of the following pairs are correctly matched? 1. OHOS — Medicinal herbs 2. Srijan: Voices from the Loom — Women weavers 3. CMAS — Container manufacturing 4. BCSL — Container shipping",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+"answer": 3,
+"explanation": "All four pairs are correctly matched and represent important associations from the current affairs."
+}
+]
