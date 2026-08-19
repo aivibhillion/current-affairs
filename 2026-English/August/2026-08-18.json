@@ -1,0 +1,422 @@
+[
+  {
+    "q": "The Supreme Court's directives concerning electoral black money primarily seek to strengthen which of the following?",
+    "options": ["Judicial appointments", "Electoral transparency and free and fair elections", "Parliamentary privileges", "State taxation powers"],
+    "answer": 1,
+    "explanation": "The directives aim to curb electoral black money and strengthen transparency, accountability, expenditure regulation, and free and fair elections."
+  },
+  {
+    "q": "Seized cash or assets suspected to be linked to an electoral offence must be reported within:",
+    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+    "answer": 1,
+    "explanation": "The Supreme Court directed that seized cash or assets should be reported within 24 hours to the competent authority, along with reasons showing a prima facie electoral link."
+  },
+  {
+    "q": "Election-related FIR investigations should generally be completed within:",
+    "options": ["Six months", "Nine months", "One year", "Two years"],
+    "answer": 2,
+    "explanation": "Election-related FIR investigations are required to be completed within one year. Any delay must be justified and reported."
+  },
+  {
+    "q": "Investigating Officers dealing with election-related cases must submit status reports to the Election Commission of India:",
+    "options": ["Monthly", "Every two months", "Quarterly", "Annually"],
+    "answer": 2,
+    "explanation": "Investigating Officers are required to submit quarterly status reports to the Election Commission of India."
+  },
+  {
+    "q": "Static Surveillance Teams detecting cash exceeding which amount must inform Income Tax authorities?",
+    "options": ["₹1 lakh", "₹5 lakh", "₹10 lakh", "₹20 lakh"],
+    "answer": 2,
+    "explanation": "Cash exceeding ₹10 lakh detected by Static Surveillance Teams must be reported to Income Tax authorities."
+  },
+  {
+    "q": "Withdrawal of criminal cases against candidates relating to an election cycle requires approval from:",
+    "options": ["Election Commission of India", "Supreme Court", "Concerned High Court", "District Magistrate"],
+    "answer": 2,
+    "explanation": "Withdrawal of such criminal cases requires approval from the concerned High Court."
+  },
+  {
+    "q": "The ECI and State Governments are required to submit compliance reports by:",
+    "options": ["October 18, 2026", "November 18, 2026", "December 18, 2026", "January 18, 2027"],
+    "answer": 1,
+    "explanation": "The deadline specified in the material is November 18, 2026."
+  },
+  {
+    "q": "Which institution is primarily responsible for conducting elections in India?",
+    "options": ["NITI Aayog", "Election Commission of India", "Finance Commission", "UPSC"],
+    "answer": 1,
+    "explanation": "The Election Commission of India is the constitutional authority responsible for conducting elections in India."
+  },
+  {
+    "q": "NITI Aayog's report mentioned in the material deals primarily with:",
+    "options": ["Agricultural subsidies", "Professional services regulation", "Defence procurement", "Monetary policy"],
+    "answer": 1,
+    "explanation": "The report deals with India's services sector and the regulatory regime governing professional services."
+  },
+  {
+    "q": "According to the provided material, India has particularly restrictive regulations in which professional services?",
+    "options": ["Legal, accounting and architectural services", "Agricultural, medical and banking services", "Tourism, transport and postal services", "Mining, fishing and textile services"],
+    "answer": 0,
+    "explanation": "The material highlights legal, accounting and architectural services as having particularly restrictive regulatory environments."
+  },
+  {
+    "q": "What does CPD, recommended by NITI Aayog, stand for?",
+    "options": ["Central Policy Development", "Continuous Professional Development", "Common Professional Database", "Corporate Policy Directive"],
+    "answer": 1,
+    "explanation": "CPD stands for Continuous Professional Development and focuses on improving and updating professional skills."
+  },
+  {
+    "q": "NITI Aayog recommends greater integration of professional services into:",
+    "options": ["Global Value Chains", "Public Distribution Systems", "Special Economic Zones only", "Agricultural Value Chains only"],
+    "answer": 0,
+    "explanation": "The report recommends elevating professional services within Global Value Chains."
+  },
+  {
+    "q": "Anurag Jain belongs to which IAS batch according to the provided material?",
+    "options": ["1987 batch", "1988 batch", "1989 batch", "1990 batch"],
+    "answer": 2,
+    "explanation": "Anurag Jain is identified as a 1989-batch IAS officer from the Madhya Pradesh cadre."
+  },
+  {
+    "q": "Anurag Jain took charge as the CEO of:",
+    "options": ["RBI", "NITI Aayog", "SEBI", "Finance Commission"],
+    "answer": 1,
+    "explanation": "Anurag Jain officially took charge as the Chief Executive Officer of NITI Aayog."
+  },
+  {
+    "q": "FCNR(B) stands for:",
+    "options": ["Foreign Currency Non-Resident (Bank)", "Foreign Capital Non-Resident Banking", "Foreign Currency National Reserve Bank", "Foreign Credit Non-Resident Bank"],
+    "answer": 0,
+    "explanation": "FCNR(B) refers to Foreign Currency Non-Resident (Bank) deposits."
+  },
+  {
+    "q": "The RBI moved the deadline for fresh FCNR(B) deposits qualifying for the special USD-INR forex swap window to:",
+    "options": ["August 15, 2026", "August 25, 2026", "August 31, 2026", "September 30, 2026"],
+    "answer": 2,
+    "explanation": "The provided material states that the deadline was moved to August 31, 2026."
+  },
+  {
+    "q": "The RBI measure relating to FCNR(B) deposits is primarily associated with:",
+    "options": ["Foreign exchange liquidity management", "Agricultural credit", "GST collection", "Gold imports"],
+    "answer": 0,
+    "explanation": "The measure is intended to help strengthen foreign exchange reserves and manage liquidity in the forex market."
+  },
+  {
+    "q": "How many semiconductor manufacturing projects had been approved under the Semicon India Programme according to the provided material?",
+    "options": ["8", "10", "12", "15"],
+    "answer": 2,
+    "explanation": "The Government had approved 12 semiconductor manufacturing projects."
+  },
+  {
+    "q": "The cumulative investment associated with these semiconductor projects exceeded:",
+    "options": ["₹50,000 crore", "₹1 lakh crore", "₹1.64 lakh crore", "₹3 lakh crore"],
+    "answer": 2,
+    "explanation": "The approved semiconductor projects involve cumulative investments exceeding ₹1.64 lakh crore."
+  },
+  {
+    "q": "Which of the following is associated with the approved semiconductor projects?",
+    "options": ["Silicon fabrication only", "Compound semiconductors only", "ATMP/OSAT packaging only", "All of the above"],
+    "answer": 3,
+    "explanation": "The projects cover silicon fabrication, compound semiconductors, ATMP/OSAT packaging, testing and advanced semiconductor technologies."
+  },
+  {
+    "q": "The semiconductor initiative primarily seeks to:",
+    "options": ["Increase India's dependence on semiconductor imports", "Reduce import dependence and strengthen domestic capabilities", "Eliminate digital payments", "Reduce foreign exchange reserves"],
+    "answer": 1,
+    "explanation": "The programme aims to establish India as a semiconductor manufacturing and packaging hub while reducing import dependence."
+  },
+  {
+    "q": "Who is set to succeed Sunil Bharti Mittal as Chairperson of Airtel Payments Bank?",
+    "options": ["Shabnam Sinha", "Anurag Jain", "Divya Deshmukh", "Saranya Devi"],
+    "answer": 0,
+    "explanation": "Shabnam Sinha is set to succeed Sunil Bharti Mittal as Chairperson of Airtel Payments Bank."
+  },
+  {
+    "q": "MAITREE-XV is a joint military exercise between India and:",
+    "options": ["Myanmar", "Thailand", "Vietnam", "Indonesia"],
+    "answer": 1,
+    "explanation": "MAITREE is the bilateral military exercise between India and Thailand."
+  },
+  {
+    "q": "How many Indian Army personnel were mentioned as participating in MAITREE-XV?",
+    "options": ["50", "75", "85", "100"],
+    "answer": 2,
+    "explanation": "An 85-person Indian Army contingent departed for Thailand for MAITREE-XV."
+  },
+  {
+    "q": "The Indian contingent participating in MAITREE-XV was primarily from:",
+    "options": ["Sikh Regiment", "9 Gorkha Rifles", "Rajput Regiment", "Assam Rifles"],
+    "answer": 1,
+    "explanation": "The contingent was primarily composed of personnel from the 9 Gorkha Rifles."
+  },
+  {
+    "q": "MAITREE-XV primarily focuses on improving cooperation in:",
+    "options": ["Space exploration", "Counter-terrorism and security operations", "Agricultural research", "Maritime trade"],
+    "answer": 1,
+    "explanation": "The exercise aims to enhance interoperability and cooperation in counter-terrorism and other security operations."
+  },
+  {
+    "q": "The 8th India-USN EOD Exercise 2026 concluded at:",
+    "options": ["Mumbai", "Visakhapatnam", "Kochi", "Chennai"],
+    "answer": 2,
+    "explanation": "The exercise concluded in Kochi on August 14, 2026."
+  },
+  {
+    "q": "EOD in the India-USN EOD Exercise refers to:",
+    "options": ["Electronic Operations Division", "Explosive Ordnance Disposal", "Emergency Operations Department", "External Operations Defence"],
+    "answer": 1,
+    "explanation": "EOD stands for Explosive Ordnance Disposal, involving specialized procedures for dealing with explosive threats."
+  },
+  {
+    "q": "The 'Black Hole Star' discovery mentioned in the material was associated with:",
+    "options": ["Dr. Rohan Naidu", "Anurag Jain", "Vignesh Vermula", "Nirmal Purja"],
+    "answer": 0,
+    "explanation": "The supplied material attributes the discovery to Indian-origin astronomer Dr. Rohan Naidu."
+  },
+  {
+    "q": "The 'Black Hole Star' finding was reported as being published in:",
+    "options": ["Science", "Nature", "The Lancet", "Cell"],
+    "answer": 1,
+    "explanation": "According to the provided material, the finding was published in Nature in August 2026."
+  },
+  {
+    "q": "The Black Hole Star discovery could help scientists understand:",
+    "options": ["Ocean currents", "Formation and rapid growth of early supermassive black holes", "Earth's magnetic field", "Monsoon formation"],
+    "answer": 1,
+    "explanation": "The discovery could provide insights into the formation and rapid growth of early supermassive black holes."
+  },
+  {
+    "q": "India launched its first Guide to Grasslands and Other Open Natural Ecosystems at:",
+    "options": ["COP28", "UNCCD COP17", "G20 Summit", "CBD COP16"],
+    "answer": 1,
+    "explanation": "The guide was launched at the 17th Session of the Conference of the Parties to the UNCCD."
+  },
+  {
+    "q": "UNCCD COP17, as mentioned in the material, was held in:",
+    "options": ["New Delhi, India", "Ulaanbaatar, Mongolia", "Bangkok, Thailand", "Nairobi, Kenya"],
+    "answer": 1,
+    "explanation": "The conference was held in Ulaanbaatar, Mongolia."
+  },
+  {
+    "q": "How many sportspersons were honored under the National Sports Awards 2025 according to the provided material?",
+    "options": ["10", "15", "17", "20"],
+    "answer": 2,
+    "explanation": "The Ministry of Youth Affairs and Sports announced awards honoring 17 sportspersons."
+  },
+  {
+    "q": "Which of the following was mentioned as an Arjuna Award recipient?",
+    "options": ["Divya Deshmukh", "Anurag Jain", "Vignesh Vermula", "Rohan Naidu"],
+    "answer": 0,
+    "explanation": "Chess World Cup winner Divya Deshmukh was mentioned among the Arjuna Award recipients."
+  },
+  {
+    "q": "Gayatri Gopichand is associated with which sport?",
+    "options": ["Chess", "Badminton", "Athletics", "Wrestling"],
+    "answer": 1,
+    "explanation": "Gayatri Gopichand is a badminton player and was mentioned among the Arjuna Award recipients."
+  },
+  {
+    "q": "Vignesh Vermula and Saranya Devi won gold medals at the:",
+    "options": ["Asian Junior Blitz Chess Championship 2026", "World Junior Chess Championship", "Asian Games", "Chess Olympiad"],
+    "answer": 0,
+    "explanation": "They won gold medals in the Open and Girls sections respectively at the Asian Junior Blitz Chess Championship 2026."
+  },
+  {
+    "q": "The Asian Junior Blitz Chess Championship 2026 mentioned in the material was held in:",
+    "options": ["Hyderabad", "Delhi", "Mumbai", "Bengaluru"],
+    "answer": 2,
+    "explanation": "The championship was held in Mumbai on August 17, 2026."
+  },
+  {
+    "q": "Assam proposed a site-specific Eco-Sensitive Zone of approximately:",
+    "options": ["1–3 km", "5–7 km", "8–10 km", "10–15 km"],
+    "answer": 0,
+    "explanation": "Assam planned to seek approval for a 1–3 km site-specific ESZ around Kaziranga National Park and Tiger Reserve."
+  },
+  {
+    "q": "The proposed ESZ around Kaziranga differs from the default guideline of:",
+    "options": ["2 km", "5 km", "10 km", "15 km"],
+    "answer": 2,
+    "explanation": "The proposal deviates from the default 10-km guideline mentioned in the supplied material."
+  },
+  {
+    "q": "What percentage of Odisha's coastline was reported to be undergoing erosion?",
+    "options": ["18.3%", "23.8%", "28.3%", "38.2%"],
+    "answer": 2,
+    "explanation": "The assessment stated that 28.3% of Odisha's 564-km coastline is undergoing erosion."
+  },
+  {
+    "q": "The Odisha coastal erosion assessment covered the period:",
+    "options": ["1980–2010", "1990–2022", "2000–2020", "2010–2025"],
+    "answer": 1,
+    "explanation": "The long-term assessment by the National Centre for Coastal Research covered 1990–2022."
+  },
+  {
+    "q": "The theme of UNCCD COP17 mentioned in the material was:",
+    "options": ["One Earth, One Future", "Restoring Land, Restoring Hope", "Land for Sustainable Development", "Green Earth, Clean Earth"],
+    "answer": 1,
+    "explanation": "The stated theme was 'Restoring Land, Restoring Hope.'"
+  },
+  {
+    "q": "E20 petrol refers to petrol containing:",
+    "options": ["10% ethanol", "15% ethanol", "20% ethanol", "25% ethanol"],
+    "answer": 2,
+    "explanation": "E20 refers to petrol blended with 20% anhydrous ethanol."
+  },
+  {
+    "q": "One major concern associated with the E20 transition mentioned in the material is:",
+    "options": ["Increased rainfall", "Compatibility and mileage issues in legacy vehicles", "Reduction in agricultural production", "Decline in internet connectivity"],
+    "answer": 1,
+    "explanation": "Concerns include vehicle compatibility, mileage loss and maintenance costs, particularly for older vehicles."
+  },
+  {
+    "q": "Asia's first desert night safari mentioned in the material is proposed in:",
+    "options": ["Rajasthan", "Gujarat", "Maharashtra", "Madhya Pradesh"],
+    "answer": 1,
+    "explanation": "The project is proposed in Gujarat and received Central Zoo Authority approval on August 12, 2026."
+  },
+  {
+    "q": "The proposed Gujarat desert night safari project covers approximately:",
+    "options": ["50 hectares", "75 hectares", "103 hectares", "250 hectares"],
+    "answer": 2,
+    "explanation": "The project is planned over approximately 103 hectares."
+  },
+  {
+    "q": "UDISE+ 2025–26 Report relates primarily to:",
+    "options": ["India's school education system", "India's banking sector", "India's defence sector", "India's agricultural exports"],
+    "answer": 0,
+    "explanation": "UDISE+ provides data and assessment relating to India's school education system."
+  },
+  {
+    "q": "Which department released the UDISE+ 2025–26 Report according to the material?",
+    "options": ["Department of School Education and Literacy", "Department of Higher Education", "Ministry of Finance", "NITI Aayog"],
+    "answer": 0,
+    "explanation": "The Department of School Education and Literacy released the report."
+  },
+  {
+    "q": "The Indian Navy is set to lease how many MQ-9B Sea Guardian drones?",
+    "options": ["One", "Two", "Four", "Six"],
+    "answer": 1,
+    "explanation": "The Ministry of Defence signed a contract for leasing two MQ-9B Sea Guardian HALE RPAS."
+  },
+  {
+    "q": "MQ-9B Sea Guardian is classified as a:",
+    "options": ["Main battle tank", "High-Altitude Long-Endurance remotely piloted aircraft system", "Fighter aircraft", "Ballistic missile"],
+    "answer": 1,
+    "explanation": "MQ-9B Sea Guardian is a High-Altitude Long-Endurance remotely piloted aircraft system."
+  },
+  {
+    "q": "The contract for leasing the MQ-9B Sea Guardian systems was valued at approximately:",
+    "options": ["₹943 crore", "₹1,243 crore", "₹1,943 crore", "₹2,943 crore"],
+    "answer": 2,
+    "explanation": "The contract signed on August 17, 2026 was valued at approximately ₹1,943 crore."
+  },
+  {
+    "q": "Which of the following is a major capability that the MQ-9B Sea Guardian acquisition is expected to enhance?",
+    "options": ["Anti-submarine warfare", "Space launches", "Railway signalling", "Nuclear power generation"],
+    "answer": 0,
+    "explanation": "The material highlights improved surveillance, reconnaissance and anti-submarine warfare capabilities."
+  },
+  {
+    "q": "Who was appointed CEO of NITI Aayog?",
+    "options": ["Sunil Bharti Mittal", "Anurag Jain", "Rohan Naidu", "Vignesh Vermula"],
+    "answer": 1,
+    "explanation": "Senior IAS officer Anurag Jain took charge as NITI Aayog CEO."
+  },
+  {
+    "q": "Who is set to become Chairperson of Airtel Payments Bank?",
+    "options": ["Divya Deshmukh", "Shabnam Sinha", "Gayatri Gopichand", "Saranya Devi"],
+    "answer": 1,
+    "explanation": "Shabnam Sinha is set to succeed Sunil Bharti Mittal as Chairperson."
+  },
+  {
+    "q": "Shabnam Sinha is scheduled to take over as Chairperson from:",
+    "options": ["August 15, 2026", "September 1, 2026", "September 30, 2026", "October 31, 2026"],
+    "answer": 2,
+    "explanation": "According to the supplied material, the leadership transition will take place from September 30, 2026."
+  },
+  {
+    "q": "The newly discovered Himalayan plant was named:",
+    "options": ["Impatiens himalayensis", "Impatiens nimspurjai", "Impatiens purjaiensis", "Impatiens nepaliensis"],
+    "answer": 1,
+    "explanation": "The plant was named Impatiens nimspurjai in honor of mountaineer Nirmal 'Nimsdai' Purja."
+  },
+  {
+    "q": "Impatiens nimspurjai was discovered in which country?",
+    "options": ["India", "Bhutan", "Nepal", "Myanmar"],
+    "answer": 2,
+    "explanation": "The plant was discovered in Nepal's Myagdi district."
+  },
+  {
+    "q": "The plant Impatiens nimspurjai was discovered at an altitude of approximately:",
+    "options": ["800–900 metres", "1,500–1,800 metres", "2,800–2,900 metres", "4,500–5,000 metres"],
+    "answer": 2,
+    "explanation": "The supplied material gives the discovery altitude as 2,800–2,900 metres."
+  },
+  {
+    "q": "Which statements regarding the Supreme Court's electoral black-money directives are correct? 1. Election-related FIR investigations should generally be completed within one year. 2. Static Surveillance Teams must inform Income Tax authorities when detected cash exceeds ₹10 lakh. 3. Compliance reports are to be submitted by November 18, 2026.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": 3,
+    "explanation": "All three statements are included in the supplied current-affairs material."
+  },
+  {
+    "q": "Which of the following pairs are correctly matched? 1. Professional Services Regulation Report — NITI Aayog 2. FCNR(B) deposit measure — RBI 3. UDISE+ 2025–26 — Department of School Education and Literacy",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": 3,
+    "explanation": "All three pairs are correctly matched according to the supplied material."
+  },
+  {
+    "q": "Which statements about MAITREE-XV are correct? 1. It is a bilateral exercise between India and Thailand. 2. An 85-person Indian Army contingent participates. 3. The exercise focuses on improving interoperability and security cooperation.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": 3,
+    "explanation": "All three statements are supported by the supplied information."
+  },
+  {
+    "q": "Which of the following correctly represents the sequence?",
+    "options": ["E20 → 20% ethanol; EOD → Explosive Ordnance Disposal; CPD → Continuous Professional Development", "E20 → 20% diesel; EOD → Economic Operations Division; CPD → Central Policy Department", "E20 → 10% ethanol; EOD → External Operations Defence; CPD → Common Policy Development", "E20 → 20% methanol; EOD → Emergency Operations Division; CPD → Corporate Policy Directive"],
+    "answer": 0,
+    "explanation": "E20 refers to 20% ethanol-blended petrol, EOD means Explosive Ordnance Disposal, and CPD means Continuous Professional Development."
+  },
+  {
+    "q": "Which one of the following correctly matches the environmental issue with its location?",
+    "options": ["Coastal erosion — Odisha", "Desert Night Safari — Assam", "Kaziranga ESZ — Gujarat", "UNCCD COP17 — Thailand"],
+    "answer": 0,
+    "explanation": "The material states that 28.3% of Odisha's coastline is undergoing erosion."
+  },
+  {
+    "q": "Which of the following pairs is incorrectly matched?",
+    "options": ["MAITREE-XV — India–Thailand", "India-USN EOD — India–United States", "UNCCD COP17 — Mongolia", "MQ-9B Sea Guardian — India–Thailand"],
+    "answer": 3,
+    "explanation": "MQ-9B Sea Guardian is associated with the Indian Navy's defence capability, not the India–Thailand military exercise."
+  },
+  {
+    "q": "Which development is most directly related to India's semiconductor self-reliance?",
+    "options": ["UDISE+ Report", "Semicon India Programme", "MAITREE-XV", "UNCCD COP17"],
+    "answer": 1,
+    "explanation": "The Semicon India Programme supports domestic semiconductor manufacturing, packaging, testing and advanced technologies."
+  },
+  {
+    "q": "Which of the following is NOT mentioned as a recommendation of the NITI Aayog report?",
+    "options": ["Continuous Professional Development", "Adoption of global best practices", "Integration into Global Value Chains", "Complete abolition of professional regulation"],
+    "answer": 3,
+    "explanation": "The report recommends regulatory harmonization and modernization, not complete abolition of professional regulation."
+  },
+  {
+    "q": "Which development is directly associated with the Indian Ocean Region?",
+    "options": ["MQ-9B Sea Guardian", "Asian Junior Blitz Chess Championship", "Desert Night Safari", "UDISE+ Report"],
+    "answer": 0,
+    "explanation": "The MQ-9B Sea Guardian lease is expected to strengthen Indian Navy surveillance and reconnaissance, particularly in the Indian Ocean Region."
+  },
+  {
+    "q": "Which of the following combinations is correct?",
+    "options": ["Odisha — 28.3% coastal erosion", "Gujarat — 103-hectare desert night safari", "Kaziranga — proposed 1–3 km site-specific ESZ", "All of the above"],
+    "answer": 3,
+    "explanation": "All three facts are explicitly provided in the current-affairs material."
+  },
+  {
+    "q": "Which of the following best represents the overall significance of the current affairs provided?",
+    "options": ["Only economic reforms", "Only environmental developments", "Developments across governance, economy, defence, science, sports, environment and society", "Only international relations"],
+    "answer": 2,
+    "explanation": "The material covers a broad range of subjects relevant to UPSC, APPSC, Groups and other competitive examinations."
+  }
+]
