@@ -1,0 +1,442 @@
+[
+{
+"q": "The UPSC Civil Services Mains General Studies Paper II primarily covers which of the following areas?",
+"options": [
+"Indian Heritage, Culture and Geography",
+"Governance, Social Justice and International Relations",
+"Science, Technology and Environment",
+"Economy, Agriculture and Industry"
+],
+"answer": 1,
+"explanation": "GS Paper II primarily focuses on Governance, Constitution, Polity, Social Justice and International Relations."
+},
+{
+"q": "Which of the following subjects are primarily covered under UPSC General Studies Paper I?",
+"options": [
+"Governance and International Relations",
+"Ethics and Integrity",
+"Indian Heritage & Culture, History, Geography and Society",
+"Economy and Internal Security"
+],
+"answer": 2,
+"explanation": "GS Paper I mainly deals with Indian Heritage & Culture, History, Geography and Society."
+},
+{
+"q": "Each General Studies paper in the UPSC Civil Services Mains examination carries how many marks?",
+"options": [
+"150 marks",
+"200 marks",
+"250 marks",
+"300 marks"
+],
+"answer": 2,
+"explanation": "Each of the four General Studies papers carries 250 marks."
+},
+{
+"q": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2026 is primarily related to which area?",
+"options": [
+"Banking regulation",
+"Natural resource and mineral governance",
+"Agricultural subsidies",
+"Foreign exchange management"
+],
+"answer": 1,
+"explanation": "The amendment concerns the governance and regulation of mineral resources in India."
+},
+{
+"q": "Political clearance for foreign visits by public servants is associated with which ministry?",
+"options": [
+"Ministry of Home Affairs",
+"Ministry of Defence",
+"Ministry of External Affairs",
+"Ministry of Finance"
+],
+"answer": 2,
+"explanation": "Political clearance for official foreign travel is handled through the Ministry of External Affairs (MEA)."
+},
+{
+"q": "What is the budgetary outlay of the Mobile Phone Manufacturing Scheme (MPMS)?",
+"options": [
+"₹40,000 crore",
+"₹50,000 crore",
+"₹62,500 crore",
+"₹75,000 crore"
+],
+"answer": 2,
+"explanation": "The MPMS has a proposed outlay of ₹62,500 crore for FY 2026–27 to FY 2030–31."
+},
+{
+"q": "The Mobile Phone Manufacturing Scheme (MPMS) is scheduled to cover which period?",
+"options": [
+"FY 2025–26 to FY 2029–30",
+"FY 2026–27 to FY 2030–31",
+"FY 2027–28 to FY 2031–32",
+"FY 2026–27 to FY 2031–32"
+],
+"answer": 1,
+"explanation": "MPMS is designed as a five-year scheme from FY 2026–27 to FY 2030–31."
+},
+{
+"q": "Which of the following is NOT a major objective of the Mobile Phone Manufacturing Scheme?",
+"options": [
+"Strengthening domestic manufacturing",
+"Increasing value addition",
+"Strengthening the electronics supply chain",
+"Increasing dependence on imported mobile phones"
+],
+"answer": 3,
+"explanation": "The scheme seeks to reduce dependence on imports and strengthen India's domestic electronics manufacturing ecosystem."
+},
+{
+"q": "How many additional proposals were approved under the Electronics Components Manufacturing Scheme (ECMS)?",
+"options": [
+"21",
+"25",
+"31",
+"41"
+],
+"answer": 2,
+"explanation": "31 additional proposals were approved under ECMS."
+},
+{
+"q": "The additional ECMS proposals are expected to attract fresh investment of approximately:",
+"options": [
+"₹4,844 crore",
+"₹5,844 crore",
+"₹6,844 crore",
+"₹7,844 crore"
+],
+"answer": 2,
+"explanation": "The approved proposals are associated with approximately ₹6,844 crore of fresh investment."
+},
+{
+"q": "According to the provided current-affairs information, India's combined merchandise and services exports reached what level in FY 2025–26?",
+"options": [
+"USD 763.1 billion",
+"USD 813.1 billion",
+"USD 863.1 billion",
+"USD 963.1 billion"
+],
+"answer": 2,
+"explanation": "India's combined merchandise and services exports were reported at a record USD 863.1 billion."
+},
+{
+"q": "The India–Brazil telecommunications MoU focuses on cooperation in which of the following areas?",
+"options": [
+"Telecommunications only",
+"Telecommunications and Cybersecurity only",
+"Cybersecurity and Digital Public Infrastructure only",
+"Telecommunications, Cybersecurity and Digital Public Infrastructure"
+],
+"answer": 3,
+"explanation": "The MoU seeks to strengthen cooperation in telecommunications, cybersecurity and Digital Public Infrastructure (DPI)."
+},
+{
+"q": "What does IPMDA stand for?",
+"options": [
+"Indo-Pacific Maritime Defence Alliance",
+"Indo-Pacific Partnership for Maritime Domain Awareness",
+"Indian Pacific Maritime Development Agreement",
+"Indo-Pacific Military Domain Association"
+],
+"answer": 1,
+"explanation": "IPMDA stands for Indo-Pacific Partnership for Maritime Domain Awareness."
+},
+{
+"q": "The Indo-Pacific Partnership for Maritime Domain Awareness primarily seeks to improve:",
+"options": [
+"Agricultural productivity",
+"Maritime domain awareness and security",
+"Nuclear energy cooperation",
+"Space exploration"
+],
+"answer": 1,
+"explanation": "IPMDA aims to improve maritime awareness, transparency and security, supporting freedom of navigation and uninterrupted maritime trade."
+},
+{
+"q": "Which of the following areas are included in India–Japan maritime security cooperation?",
+"options": [
+"Maritime Domain Awareness and Search and Rescue only",
+"Maritime Domain Awareness, Search and Rescue and HADR only",
+"Search and Rescue, HADR and SLOC protection only",
+"Maritime Domain Awareness, Search and Rescue, HADR and SLOC protection"
+],
+"answer": 3,
+"explanation": "The cooperation covers MDA, SAR, HADR and SLOC protection, along with other maritime-security activities."
+},
+{
+"q": "What does the abbreviation SLOC mean in the context of maritime security?",
+"options": [
+"Strategic Lines of Cooperation",
+"Sea Lines of Communication",
+"Security Lines of Control",
+"Sea Logistics Operational Corridor"
+],
+"answer": 1,
+"explanation": "SLOC stands for Sea Lines of Communication, referring to important maritime routes used for transportation and trade."
+},
+{
+"q": "The India–UAE Comprehensive Economic Partnership Agreement (CEPA) came into effect on:",
+"options": [
+"1 January 2022",
+"1 May 2022",
+"29 December 2022",
+"15 August 2022"
+],
+"answer": 1,
+"explanation": "The India–UAE CEPA became effective on 1 May 2022."
+},
+{
+"q": "The India–Australia Economic Cooperation and Trade Agreement (ECTA) came into effect on:",
+"options": [
+"1 May 2022",
+"15 August 2022",
+"29 December 2022",
+"1 January 2023"
+],
+"answer": 2,
+"explanation": "The India–Australia ECTA became effective on 29 December 2022."
+},
+{
+"q": "India's merchandise exports to the UAE reached approximately what value in FY 2025–26 according to the provided information?",
+"options": [
+"USD 27.36 billion",
+"USD 32.36 billion",
+"USD 37.36 billion",
+"USD 47.36 billion"
+],
+"answer": 2,
+"explanation": "India's merchandise exports to the UAE were reported at USD 37.36 billion in FY 2025–26."
+},
+{
+"q": "India's exports to Australia in FY 2025–26 increased to approximately:",
+"options": [
+"USD 5.28 billion",
+"USD 6.28 billion",
+"USD 7.28 billion",
+"USD 8.28 billion"
+],
+"answer": 2,
+"explanation": "India's exports to Australia increased to approximately USD 7.28 billion, representing growth of more than 80% according to the provided information."
+},
+{
+"q": "Which of the following initiatives or tools are associated with India's digital healthcare ecosystem?",
+"options": [
+"Ayushman Bharat Digital Mission",
+"Scan and Share",
+"AI-enabled healthcare workflows",
+"All of the above"
+],
+"answer": 3,
+"explanation": "ABDM, Scan and Share and AI-based clinical and administrative workflows are part of India's evolving digital-health ecosystem."
+},
+{
+"q": "Google's Back to School 2026 campaign introduced AI-powered learning features across:",
+"options": [
+"Google Search only",
+"Gemini only",
+"Google Search, Gemini and Google Classroom",
+"YouTube and Google Maps"
+],
+"answer": 2,
+"explanation": "The campaign integrates AI-based learning features across Google Search, Gemini and Google Classroom."
+},
+{
+"q": "DRDO transferred Submarine-Fired Decoy (SFD) technology to:",
+"options": [
+"HAL",
+"BEL",
+"BDL",
+"ISRO"
+],
+"answer": 2,
+"explanation": "BDL, or Bharat Dynamics Limited, received the technology for development of the Submarine-Fired Decoy."
+},
+{
+"q": "A Submarine-Fired Decoy is primarily associated with:",
+"options": [
+"Agricultural monitoring",
+"Underwater defence and protection",
+"Satellite communication",
+"Air traffic management"
+],
+"answer": 1,
+"explanation": "Submarine decoys are underwater defensive systems intended to help protect submarines from threats such as torpedoes."
+},
+{
+"q": "Mangrol, handed over to the Indian Navy, is a:",
+"options": [
+"Destroyer",
+"Frigate",
+"Anti-Submarine Warfare Shallow Water Craft",
+"Aircraft Carrier"
+],
+"answer": 2,
+"explanation": "Mangrol is the third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC)."
+},
+{
+"q": "Mangrol was constructed by:",
+"options": [
+"Mazagon Dock Shipbuilders Limited",
+"Cochin Shipyard Limited",
+"Garden Reach Shipbuilders & Engineers",
+"Hindustan Shipyard Limited"
+],
+"answer": 1,
+"explanation": "Cochin Shipyard Limited constructed Mangrol."
+},
+{
+"q": "Mangrol reportedly contains more than what percentage of indigenous content?",
+"options": [
+"50%",
+"60%",
+"70%",
+"80%"
+],
+"answer": 3,
+"explanation": "The vessel features more than 80% indigenous content, according to the supplied information."
+},
+{
+"q": "The UNICORN integrated communications antenna system is associated with defence cooperation between:",
+"options": [
+"India and France",
+"India and Japan",
+"India and Australia",
+"India and the United States"
+],
+"answer": 1,
+"explanation": "UNICORN is an important India–Japan defence-equipment cooperation project."
+},
+{
+"q": "Terrier Cyber Quest 2026 (TCQ 3.0) is primarily focused on:",
+"options": [
+"Cybersecurity and defence",
+"Agricultural technology",
+"Space technology",
+"Marine biology"
+],
+"answer": 0,
+"explanation": "TCQ 3.0 is a national-level defence cybersecurity hackathon."
+},
+{
+"q": "The Chennai Climate-Resilient Water Security and Sewerage Project is supported by a loan of:",
+"options": [
+"USD 130 million",
+"USD 180 million",
+"USD 230 million",
+"USD 330 million"
+],
+"answer": 2,
+"explanation": "The Government of India and the Asian Development Bank (ADB) signed a USD 230 million loan agreement for the project."
+},
+{
+"q": "The term Agrivoltaics refers to:",
+"options": [
+"Agriculture combined with wind energy",
+"Agriculture combined with solar photovoltaic generation",
+"Agriculture combined with nuclear energy",
+"Agriculture combined with hydropower"
+],
+"answer": 1,
+"explanation": "Agrivoltaics combines agricultural cultivation and solar photovoltaic power generation on the same land."
+},
+{
+"q": "The Japanese experiment mentioned in the current affairs primarily combined solar panels with:",
+"options": [
+"Wheat cultivation",
+"Rice cultivation",
+"Cotton cultivation",
+"Tea cultivation"
+],
+"answer": 1,
+"explanation": "The study examined solar panels integrated with rice farming during 2018–2024."
+},
+{
+"q": "The satellite comparison of Louisiana's coastline mentioned in the current affairs covers:",
+"options": [
+"1975 and 2020",
+"1980 and 2024",
+"1985 and 2024",
+"1990 and 2025"
+],
+"answer": 2,
+"explanation": "Satellite imagery comparing 1985 and 2024 demonstrates significant coastal changes and erosion."
+},
+{
+"q": "Pradhan Mantri Janjatiya Vikas Mission (PMJVM) is associated with which ministry?",
+"options": [
+"Ministry of Rural Development",
+"Ministry of Tribal Affairs",
+"Ministry of Agriculture",
+"Ministry of Social Justice and Empowerment"
+],
+"answer": 1,
+"explanation": "PMJVM is a Central Sector Scheme under the Ministry of Tribal Affairs."
+},
+{
+"q": "What does VDVK stand for?",
+"options": [
+"Village Development Vikas Kendra",
+"Van Dhan Vikas Kendra",
+"Value Development Knowledge Kendra",
+"Van Development Knowledge Kendra"
+],
+"answer": 1,
+"explanation": "VDVK stands for Van Dhan Vikas Kendra, which supports value addition, processing and marketing of tribal forest produce."
+},
+{
+"q": "As of 31 July 2026, how many VDVKs were reported to be functional according to the provided information?",
+"options": [
+"1,911",
+"2,411",
+"2,911",
+"3,911"
+],
+"answer": 2,
+"explanation": "The supplied information states that 4,172 VDVKs were sanctioned and 2,911 were functional, connecting more than 12 lakh tribal members."
+},
+{
+"q": "How many teachers were selected for the National Teachers' Awards 2026?",
+"options": [
+"40",
+"45",
+"48",
+"50"
+],
+"answer": 2,
+"explanation": "48 teachers were selected for the National Teachers' Awards 2026."
+},
+{
+"q": "Sophie Adenot achieved which historic distinction according to the provided current affairs?",
+"options": [
+"First French woman to visit the Moon",
+"First French woman to perform a spacewalk",
+"First French woman to command the ISS",
+"First European woman to land on Mars"
+],
+"answer": 1,
+"explanation": "ESA astronaut Sophie Adenot was reported as the first French woman to conduct a spacewalk outside the ISS."
+},
+{
+"q": "Madras Day is observed on:",
+"options": [
+"15 August",
+"20 August",
+"22 August",
+"25 August"
+],
+"answer": 2,
+"explanation": "Madras Day is observed on 22 August, commemorating the historical establishment of Madras in 1639."
+},
+{
+"q": "India's first Soil Texture Map was developed by:",
+"options": [
+"ISRO",
+"Geological Survey of India",
+"National Bureau of Soil Survey and Land Use Planning",
+"Survey of India"
+],
+"answer": 2,
+"explanation": "The National Bureau of Soil Survey and Land Use Planning (NBSS&LUP) developed India's first Soil Texture Map, providing detailed information about soil texture and physical properties."
+}
+]
