@@ -1,0 +1,497 @@
+[
+  {
+    "q": "The Foreign Contribution (Regulation) Amendment Bill, 2026 has been referred to which body for detailed examination?",
+    "options": [
+      "Law Commission of India",
+      "Joint Parliamentary Committee",
+      "Finance Commission",
+      "Parliamentary Standing Committee on Home Affairs"
+    ],
+    "answer": 1,
+    "explanation": "The FCRA Amendment Bill, 2026 has been referred to a Joint Parliamentary Committee (JPC) for detailed examination and wider stakeholder consultations."
+  },
+  {
+    "q": "The FCRA Amendment Bill, 2026 proposes to establish a Designated Authority primarily for:",
+    "options": [
+      "Granting citizenship to foreign nationals",
+      "Monitoring foreign exchange reserves",
+      "Supervising and disposing of foreign-funded assets after FCRA registration ceases",
+      "Regulating international trade"
+    ],
+    "answer": 2,
+    "explanation": "The Bill proposes a framework for managing assets created from foreign contributions after an organization's FCRA registration ends."
+  },
+  {
+    "q": "Which of the following is proposed under the FCRA Amendment Bill, 2026?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "The Bill proposes activity-based registration, stronger reporting requirements and rationalized penalties. It does not remove FCRA compliance requirements."
+  },
+  {
+    "q": "Which of the following is NOT mentioned as a concern regarding the FCRA Amendment Bill, 2026?",
+    "options": [
+      "Institutional autonomy",
+      "Natural justice",
+      "Property rights",
+      "Agricultural subsidies"
+    ],
+    "answer": 3,
+    "explanation": "Concerns include institutional autonomy, natural justice, property rights, judicial oversight, federalism, civil society and excessive executive discretion."
+  },
+  {
+    "q": "New SIM card rules announced by the Department of Telecommunications became effective from:",
+    "options": [
+      "August 15, 2026",
+      "August 20, 2026",
+      "August 24, 2026",
+      "September 1, 2026"
+    ],
+    "answer": 2,
+    "explanation": "From August 24, 2026, telecom service providers are required to strictly enforce the prescribed limit on the number of SIM cards an individual can hold."
+  },
+  {
+    "q": "India's merchandise exports grew by what percentage year-on-year in July 2026?",
+    "options": [
+      "15.5%",
+      "17.5%",
+      "19.6%",
+      "21.8%"
+    ],
+    "answer": 2,
+    "explanation": "India's merchandise exports increased by 19.6% year-on-year, reaching approximately USD 44.2 billion."
+  },
+  {
+    "q": "India's merchandise exports in July 2026 reached approximately:",
+    "options": [
+      "USD 35.9 billion",
+      "USD 44.2 billion",
+      "USD 56.2 billion",
+      "USD 76.2 billion"
+    ],
+    "answer": 1,
+    "explanation": "Merchandise exports reached USD 44.2 billion in July 2026."
+  },
+  {
+    "q": "India's merchandise imports grew by 17.5% in July 2026 to approximately:",
+    "options": [
+      "USD 44.2 billion",
+      "USD 56.8 billion",
+      "USD 76.2 billion",
+      "USD 86.9 billion"
+    ],
+    "answer": 2,
+    "explanation": "Merchandise imports increased by 17.5% to approximately USD 76.2 billion."
+  },
+  {
+    "q": "India's services exports in July 2026 amounted to approximately:",
+    "options": [
+      "USD 18.9 billion",
+      "USD 25.9 billion",
+      "USD 35.9 billion",
+      "USD 44.2 billion"
+    ],
+    "answer": 2,
+    "explanation": "Services exports grew by 6.4% to USD 35.9 billion."
+  },
+  {
+    "q": "Which sector accounted for approximately 39% of India's merchandise export growth in July 2026?",
+    "options": [
+      "Electronics",
+      "Engineering goods",
+      "Petroleum products",
+      "Handicrafts"
+    ],
+    "answer": 2,
+    "explanation": "Petroleum products contributed approximately 39% of the total export growth, partly due to elevated global prices."
+  },
+  {
+    "q": "India's electronic goods exports grew by what percentage in July 2026?",
+    "options": [
+      "18.2%",
+      "19.6%",
+      "25.4%",
+      "30.7%"
+    ],
+    "answer": 3,
+    "explanation": "Electronic goods exports recorded strong growth of 30.7%."
+  },
+  {
+    "q": "India's engineering goods exports grew by approximately:",
+    "options": [
+      "12.5%",
+      "18.2%",
+      "25.7%",
+      "30.7%"
+    ],
+    "answer": 1,
+    "explanation": "Engineering goods exports increased by 18.2% during the period."
+  },
+  {
+    "q": "Which of the following is associated with the 'Middle-Technology Trap' faced by India?",
+    "options": [
+      "Excessive dependence on agricultural imports",
+      "Difficulty competing with low-cost economies while lagging in high-tech manufacturing",
+      "Declining services exports alone",
+      "Excess foreign exchange reserves"
+    ],
+    "answer": 1,
+    "explanation": "India faces challenges competing with low-cost economies in labour-intensive sectors while also remaining behind advanced economies in high-technology manufacturing."
+  },
+  {
+    "q": "India's Gross Domestic Expenditure on Research and Development (GERD) is approximately:",
+    "options": [
+      "0.25% of GDP",
+      "0.65% of GDP",
+      "1.25% of GDP",
+      "2.65% of GDP"
+    ],
+    "answer": 1,
+    "explanation": "GERD of around 0.65% of GDP is identified as a constraint on India's innovation and technological competitiveness."
+  },
+  {
+    "q": "The EU's Carbon Border Adjustment Mechanism (CBAM) is an example of:",
+    "options": [
+      "Non-Tariff Barrier",
+      "Monetary policy",
+      "Fiscal deficit",
+      "Foreign direct investment"
+    ],
+    "answer": 0,
+    "explanation": "CBAM and stringent ESG compliance requirements can act as non-tariff barriers affecting India's export competitiveness."
+  },
+  {
+    "q": "The trilateral defence agreement involving Saudi Arabia, Türkiye and Pakistan is based on the principle of:",
+    "options": [
+      "Collective defence",
+      "Collective taxation",
+      "Economic integration",
+      "Nuclear disarmament"
+    ],
+    "answer": 0,
+    "explanation": "The agreement follows the principle that an armed attack against one signatory would be considered an attack against all."
+  },
+  {
+    "q": "The Saudi Arabia-Türkiye-Pakistan defence agreement was signed at:",
+    "options": [
+      "Riyadh Palace",
+      "Al-Safa Palace, Makkah",
+      "Islamabad Parliament",
+      "Ankara Presidential Complex"
+    ],
+    "answer": 1,
+    "explanation": "The agreement was signed at Al-Safa Palace in Makkah, Saudi Arabia."
+  },
+  {
+    "q": "Which AI models were used to design functional bacteriophage genomes?",
+    "options": [
+      "AlphaFold 1 and AlphaFold 2",
+      "Evo 1 and Evo 2",
+      "GPT-4 and GPT-5",
+      "Gemini 1 and Gemini 2"
+    ],
+    "answer": 1,
+    "explanation": "Researchers used the generative AI models Evo 1 and Evo 2 to design complete bacteriophage genomes."
+  },
+  {
+    "q": "Out of 285 AI-designed bacteriophage genomes synthesized and tested, how many successfully produced viable phages?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "16 of the 285 AI-designed genomes successfully produced viable phages capable of infecting E. coli."
+  },
+  {
+    "q": "The green AI data centre approved by Andhra Pradesh is proposed to have an integrated capacity of:",
+    "options": [
+      "256 MW",
+      "384 MW",
+      "512 MW",
+      "1,000 MW"
+    ],
+    "answer": 2,
+    "explanation": "AM AI Factory Pvt Ltd is proposed to establish a 512 MW integrated AI data centre facility in Visakhapatnam."
+  },
+  {
+    "q": "The proposed green AI data centre in Andhra Pradesh is located at Amanam village in:",
+    "options": [
+      "Visakhapatnam mandal",
+      "Bheemunipatnam mandal",
+      "Anakapalli mandal",
+      "Narsipatnam mandal"
+    ],
+    "answer": 1,
+    "explanation": "The proposed facility is at Amanam village in Bheemunipatnam mandal, Visakhapatnam region."
+  },
+  {
+    "q": "The proposed domestic polysilicon manufacturing capacity targeted by 2030 is:",
+    "options": [
+      "10 GW",
+      "20 GW",
+      "30 GW",
+      "50 GW"
+    ],
+    "answer": 2,
+    "explanation": "MNRE is formulating a subsidy scheme to establish 30 GW of domestic polysilicon manufacturing capacity by 2030."
+  },
+  {
+    "q": "Polysilicon is particularly important for the production of:",
+    "options": [
+      "Wind turbines",
+      "Solar panels",
+      "Electric vehicle batteries",
+      "Nuclear reactors"
+    ],
+    "answer": 1,
+    "explanation": "Polysilicon is a high-purity crystalline form of silicon and is a key raw material for solar photovoltaic manufacturing."
+  },
+  {
+    "q": "The 2026 Asian Games, for which India has named a 12-member Kabaddi squad, will be held in:",
+    "options": [
+      "Seoul, South Korea",
+      "Aichi-Nagoya, Japan",
+      "Jakarta, Indonesia",
+      "Beijing, China"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 Asian Games are scheduled to be held in Aichi-Nagoya, Japan, from September 19 to October 4, 2026."
+  },
+  {
+    "q": "Who among the following is a member of India's 2026 Asian Games Kabaddi squad mentioned in the current affairs?",
+    "options": [
+      "Pawan Sehrawat",
+      "Neeraj Chopra",
+      "Bajrang Punia",
+      "Harmanpreet Singh"
+    ],
+    "answer": 0,
+    "explanation": "Experienced Kabaddi player Pawan Sehrawat is included alongside younger Pro Kabaddi League players such as Ayan Lohchab and Devank Dalal."
+  },
+  {
+    "q": "Who became the leading wicket-taker in ICC World Test Championship history according to the given current affairs?",
+    "options": [
+      "Pat Cummins",
+      "Nathan Lyon",
+      "Mitchell Starc",
+      "Josh Hazlewood"
+    ],
+    "answer": 2,
+    "explanation": "Australia's left-arm fast bowler Mitchell Starc surpassed Pat Cummins and Nathan Lyon to become the leading wicket-taker in WTC history."
+  },
+  {
+    "q": "Mansi Lather won which medal in the 68 kg category at the U20 World Championships?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "No medal"
+    ],
+    "answer": 1,
+    "explanation": "Mansi Lather won the silver medal in the 68 kg category. Tanvi Gundesh Magdum and Komal won bronze medals."
+  },
+  {
+    "q": "Grandmaster Pranesh M won the Kanizsa Open 2026 in:",
+    "options": [
+      "Budapest, Hungary",
+      "Nagykanizsa, Hungary",
+      "Bratislava, Slovakia",
+      "Warsaw, Poland"
+    ],
+    "answer": 1,
+    "explanation": "Indian Grandmaster Pranesh M won the Group A title at the Kanizsa Open 2026 in Nagykanizsa, Hungary, after winning on superior tie-break scores."
+  },
+  {
+    "q": "Australia's first confirmed mainland mammal case of H5N1 avian influenza was detected in a:",
+    "options": [
+      "Kangaroo",
+      "Koala",
+      "Long-nosed fur seal",
+      "Australian sea lion"
+    ],
+    "answer": 2,
+    "explanation": "H5N1 was detected in a dead long-nosed fur seal at Beachport, South Australia."
+  },
+  {
+    "q": "Regenerative agriculture primarily emphasizes:",
+    "options": [
+      "Maximum use of chemical fertilizers",
+      "Soil health and biodiversity",
+      "Expansion of monoculture farming",
+      "Complete elimination of irrigation"
+    ],
+    "answer": 1,
+    "explanation": "Regenerative agriculture focuses on improving soil health, biodiversity and ecological resilience, especially in the face of water stress and climate variability."
+  },
+  {
+    "q": "INS Mangrol is associated with which type of vessel?",
+    "options": [
+      "Aircraft carrier",
+      "Nuclear submarine",
+      "Anti-Submarine Warfare Shallow Water Craft",
+      "Guided missile destroyer"
+    ],
+    "answer": 2,
+    "explanation": "Mangrol is the third indigenously built Anti-Submarine Warfare Shallow Water Craft (ASW-SWC) delivered to the Indian Navy."
+  },
+  {
+    "q": "The third indigenous ASW-SWC, Mangrol, was constructed by:",
+    "options": [
+      "Garden Reach Shipbuilders & Engineers",
+      "Cochin Shipyard Limited",
+      "Hindustan Shipyard Limited",
+      "Mazagon Dock Shipbuilders"
+    ],
+    "answer": 1,
+    "explanation": "Cochin Shipyard Limited (CSL) constructed Mangrol for the Indian Navy."
+  },
+  {
+    "q": "Exercise Udara Shakti 2026 was conducted in:",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Australia",
+      "Singapore"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Air Force participated in the bilateral tactical air combat exercise Udara Shakti 2026 in Malaysia."
+  },
+  {
+    "q": "Before participating in Udara Shakti 2026, the Indian Air Force participated in which exercise in Australia?",
+    "options": [
+      "Malabar",
+      "Pitch Black",
+      "Garuda",
+      "Red Flag"
+    ],
+    "answer": 1,
+    "explanation": "The IAF participated in Exercise Pitch Black 2026 in Australia before concluding its involvement in Udara Shakti 2026 in Malaysia."
+  },
+  {
+    "q": "The first fully indigenous AK-203 assault rifle is named:",
+    "options": [
+      "Vajra",
+      "Trishul",
+      "Sher",
+      "Arjun"
+    ],
+    "answer": 2,
+    "explanation": "The first fully indigenously developed AK-203 assault rifle has been named Sher."
+  },
+  {
+    "q": "The indigenous AK-203 'Sher' rifle was manufactured and tested at Korwa in:",
+    "options": [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Telangana",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "The rifle was manufactured and tested by Indo-Russian Rifles Private Limited (IRRPL) at its Korwa factory in Amethi, Uttar Pradesh."
+  },
+  {
+    "q": "The nationwide Cloud and AI skilling initiative is primarily focused on:",
+    "options": [
+      "Blockchain and cryptocurrency",
+      "Cloud and Artificial Intelligence technologies",
+      "Nuclear technology",
+      "Agricultural biotechnology"
+    ],
+    "answer": 1,
+    "explanation": "NSDC and Cultus Education, with AWS support, launched a 100% online workforce development programme focused on Cloud and AI skills."
+  },
+  {
+    "q": "Which organization supported the nationwide Cloud and AI skilling initiative?",
+    "options": [
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "ISRO",
+      "DRDO"
+    ],
+    "answer": 1,
+    "explanation": "Amazon Web Services (AWS) is supporting the initiative along with NSDC and Cultus Education."
+  },
+  {
+    "q": "What is the total outlay approved for the Pradhan Mantri Surya Sarovar Yojana?",
+    "options": [
+      "₹2,570 crore",
+      "₹3,500 crore",
+      "₹5,070 crore",
+      "₹7,500 crore"
+    ],
+    "answer": 2,
+    "explanation": "The Union Cabinet approved the PM-SSY with a total outlay of ₹5,070 crore."
+  },
+  {
+    "q": "The Pradhan Mantri Surya Sarovar Yojana aims to deploy floating solar photovoltaic projects with a capacity of:",
+    "options": [
+      "2,500 MW",
+      "5,000 MW",
+      "7,500 MW",
+      "10,000 MW"
+    ],
+    "answer": 1,
+    "explanation": "PM-SSY aims to deploy 5,000 MW of Floating Solar Photovoltaic (FSPV) projects across reservoirs and inland water bodies."
+  },
+  {
+    "q": "Under PM-SSY, the proposed battery energy storage capacity is:",
+    "options": [
+      "5,000 MWh",
+      "7,500 MWh",
+      "10,000 MWh",
+      "15,000 MWh"
+    ],
+    "answer": 2,
+    "explanation": "The scheme integrates 10,000 MWh of battery energy storage systems with floating solar projects."
+  },
+  {
+    "q": "Consider the following pairs: 1. Mitchell Starc - Cricket, 2. Pranesh M - Chess, 3. Mansi Lather - Wrestling, 4. Pawan Sehrawat - Kabaddi. Which of the above pairs are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "All four pairs are correctly matched with their respective sports."
+  },
+  {
+    "q": "Which of the following correctly describes PM-SSY?",
+    "options": [
+      "It focuses exclusively on rooftop solar panels.",
+      "It promotes floating solar projects on reservoirs and inland water bodies.",
+      "It is a scheme for offshore wind farms.",
+      "It provides subsidies only for electric vehicles."
+    ],
+    "answer": 1,
+    "explanation": "PM-SSY promotes Floating Solar Photovoltaic (FSPV) projects, helping address land constraints while supporting water conservation."
+  },
+  {
+    "q": "Which of the following is a proposed strategy to improve India's export competitiveness?",
+    "options": [
+      "Reduce technological integration",
+      "Discourage MSME exports",
+      "Promote high-tech Global Value Chain integration",
+      "Increase dependence on low-value manufacturing"
+    ],
+    "answer": 2,
+    "explanation": "Recommendations include deeper integration into high-tech Global Value Chains, particularly in sectors such as semiconductors and green energy."
+  },
+  {
+    "q": "Which one of the following correctly matches the initiative with its objective?",
+    "options": [
+      "PM-SSY - Floating solar and energy storage",
+      "FCRA Amendment Bill - Agricultural insurance",
+      "Udara Shakti - Naval shipbuilding",
+      "Polysilicon subsidy - Cloud computing"
+    ],
+    "answer": 0,
+    "explanation": "PM-SSY focuses on floating solar photovoltaic projects integrated with battery energy storage, while the other pairings are incorrect."
+  }
+]
