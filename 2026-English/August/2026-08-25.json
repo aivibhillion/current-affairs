@@ -1,0 +1,442 @@
+[
+  {
+    "q": "Who chairs the high-level committee formed to seek a permanent political solution to the Gorkhaland issue?",
+    "options": [
+      "Ajit Doval",
+      "Pankaj Kumar Singh",
+      "Rajiv Gauba",
+      "T. V. Somanathan"
+    ],
+    "answer": 1,
+    "explanation": "Pankaj Kumar Singh, former Deputy National Security Advisor, chairs the high-level committee examining a permanent political solution to the Gorkhaland issue."
+  },
+  {
+    "q": "The Gorkhaland issue is primarily associated with which region of India?",
+    "options": [
+      "Nilgiri Hills",
+      "Darjeeling Hills",
+      "Aravalli Hills",
+      "Khasi Hills"
+    ],
+    "answer": 1,
+    "explanation": "The Gorkhaland demand is mainly associated with the Nepali-speaking Gorkha population of the Darjeeling Hills in northern West Bengal."
+  },
+  {
+    "q": "The Gorkhaland committee will examine the roadmap for granting Scheduled Tribe status to how many Gorkha communities?",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "The committee will examine the roadmap for granting Scheduled Tribe status to 11 Gorkha communities."
+  },
+  {
+    "q": "Which term in Indian labour law was recently revisited by a nine-judge Constitution Bench of the Supreme Court?",
+    "options": [
+      "Worker",
+      "Employer",
+      "Industry",
+      "Establishment"
+    ],
+    "answer": 2,
+    "explanation": "The nine-judge Constitution Bench examined the meaning and scope of the term 'industry' under Indian labour law."
+  },
+  {
+    "q": "The expansive interpretation of the term 'industry' was established in which landmark Supreme Court judgment?",
+    "options": [
+      "Kesavananda Bharati case",
+      "Bangalore Water Supply case",
+      "Minerva Mills case",
+      "Maneka Gandhi case"
+    ],
+    "answer": 1,
+    "explanation": "The Bangalore Water Supply & Sewerage Board v. A. Rajappa judgment of 1978 established a broad interpretation of 'industry' associated with the Triple Test."
+  },
+  {
+    "q": "The Bangalore Water Supply judgment's Triple Test will not automatically apply to which legislation?",
+    "options": [
+      "Industrial Disputes Act, 1947",
+      "Factories Act, 1948",
+      "Industrial Relations Code, 2020",
+      "Trade Unions Act, 1926"
+    ],
+    "answer": 2,
+    "explanation": "The Supreme Court held that the Industrial Relations Code, 2020 must be interpreted independently rather than automatically applying the 1978 Bangalore Water Supply interpretation."
+  },
+  {
+    "q": "The National Conclave on Tribal Languages and Museums was launched in which city?",
+    "options": [
+      "Bengaluru",
+      "Mysuru",
+      "Hyderabad",
+      "Bhubaneswar"
+    ],
+    "answer": 1,
+    "explanation": "The National Conclave on Tribal Languages and Museums was launched in Mysuru, Karnataka, on August 24, 2026."
+  },
+  {
+    "q": "Which Union Ministry organized the National Conclave on Tribal Languages and Museums?",
+    "options": [
+      "Ministry of Culture",
+      "Ministry of Education",
+      "Ministry of Tribal Affairs",
+      "Ministry of Home Affairs"
+    ],
+    "answer": 2,
+    "explanation": "The initiative was organized by the Ministry of Tribal Affairs to promote the preservation of tribal languages and culture."
+  },
+  {
+    "q": "According to the provided analysis, high youth unemployment directly affects household:",
+    "options": [
+      "Foreign exchange reserves",
+      "Consumption",
+      "Tax collection only",
+      "Agricultural landholding"
+    ],
+    "answer": 1,
+    "explanation": "High youth unemployment can reduce household income and shrink domestic consumption, creating a wider economic impact."
+  },
+  {
+    "q": "The analysis concerning youth unemployment was based on which survey?",
+    "options": [
+      "NFHS",
+      "PLFS",
+      "ASI",
+      "NSS Housing Survey"
+    ],
+    "answer": 1,
+    "explanation": "The analysis was based on the Periodic Labour Force Survey (PLFS), which provides important employment and labour-force data."
+  },
+  {
+    "q": "Which Indian city made its debut in the IWG 2026 Work from Anywhere Index?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ],
+    "answer": 2,
+    "explanation": "Mumbai entered the IWG 2026 Work from Anywhere Index for the first time and received 77 points."
+  },
+  {
+    "q": "Which state is identified as India's leading sugar-producing state in the provided material?",
+    "options": [
+      "Karnataka",
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Maharashtra is identified as the top sugar-producing state, followed by other major producers such as Uttar Pradesh and Karnataka."
+  },
+  {
+    "q": "Sugarcane cultivation is particularly important to India's:",
+    "options": [
+      "Rural economy",
+      "Space economy",
+      "Shipping sector",
+      "Tourism industry"
+    ],
+    "answer": 0,
+    "explanation": "Sugarcane supports millions of farmers and contributes significantly to India's rural economy."
+  },
+  {
+    "q": "\"Operation Economic Outcast\" is associated with US economic pressure against which country?",
+    "options": [
+      "Russia",
+      "Iran",
+      "China",
+      "Syria"
+    ],
+    "answer": 1,
+    "explanation": "Operation Economic Outcast is described as a US campaign aimed at disrupting Iran's revenue-generating networks and increasing economic pressure."
+  },
+  {
+    "q": "UNMISS, mentioned in relation to the attack on peacekeepers, is the UN mission in:",
+    "options": [
+      "Sudan",
+      "South Sudan",
+      "Somalia",
+      "Ethiopia"
+    ],
+    "answer": 1,
+    "explanation": "UNMISS stands for the United Nations Mission in South Sudan."
+  },
+  {
+    "q": "The deadly ambush on UN peacekeepers mentioned in the material occurred near:",
+    "options": [
+      "Pajut",
+      "Juba",
+      "Malakal",
+      "Bentiu"
+    ],
+    "answer": 0,
+    "explanation": "The ambush occurred near Pajut in Jonglei State, South Sudan."
+  },
+  {
+    "q": "India's first non-GMO, high-expansion popcorn maize hybrid seed was launched in which state?",
+    "options": [
+      "Telangana",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Maharashtra"
+    ],
+    "answer": 1,
+    "explanation": "The hybrid was launched at Musunuru in Eluru district, Andhra Pradesh."
+  },
+  {
+    "q": "The newly launched maize hybrid was specifically developed for:",
+    "options": [
+      "Biofuel production",
+      "Animal feed",
+      "Popcorn production",
+      "Pharmaceutical extraction"
+    ],
+    "answer": 2,
+    "explanation": "The indigenous hybrid was specifically developed for high-expansion popcorn production."
+  },
+  {
+    "q": "The Chinese humanoid robot Tiangong Ultra reportedly completed the 100-metre dash in:",
+    "options": [
+      "8.89 seconds",
+      "9.39 seconds",
+      "9.58 seconds",
+      "10.39 seconds"
+    ],
+    "answer": 1,
+    "explanation": "Tiangong Ultra reportedly completed 100 metres in 9.39 seconds, faster than Usain Bolt's 9.58-second world record."
+  },
+  {
+    "q": "Usain Bolt's men's 100-metre world record is:",
+    "options": [
+      "9.39 seconds",
+      "9.49 seconds",
+      "9.58 seconds",
+      "9.69 seconds"
+    ],
+    "answer": 2,
+    "explanation": "Usain Bolt's men's 100-metre world record is 9.58 seconds, set in Berlin in 2009."
+  },
+  {
+    "q": "The Union Health Ministry tightened labelling requirements for certain FDCs containing chlorpheniramine maleate and:",
+    "options": [
+      "Paracetamol",
+      "Ibuprofen",
+      "Phenylephrine",
+      "Amoxicillin"
+    ],
+    "answer": 2,
+    "explanation": "The stricter requirements concern fixed-dose combinations containing chlorpheniramine maleate and phenylephrine."
+  },
+  {
+    "q": "The strengthened warning for the specified FDC medicines concerns their use in children below:",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer": 2,
+    "explanation": "The updated labelling requires a warning against use of the specified medicines in children below four years of age."
+  },
+  {
+    "q": "Between 2011 and 2020, India restored approximately how much land?",
+    "options": [
+      "11.76 million hectares",
+      "21.76 million hectares",
+      "31.76 million hectares",
+      "41.76 million hectares"
+    ],
+    "answer": 1,
+    "explanation": "India restored approximately 21.76 million hectares of degraded land during 2011–2020."
+  },
+  {
+    "q": "India's land restoration activities during 2011–2020 generated approximately how many person-days of employment?",
+    "options": [
+      "1.22 billion person-days",
+      "2.22 billion person-days",
+      "122 million person-days",
+      "12.2 billion person-days"
+    ],
+    "answer": 0,
+    "explanation": "The restoration activities generated approximately 1.22 billion person-days of employment."
+  },
+  {
+    "q": "Which of the following is NOT associated with regenerative agriculture?",
+    "options": [
+      "Agroforestry",
+      "Natural farming",
+      "Scientific soil management",
+      "Unsustainable intensive soil exploitation"
+    ],
+    "answer": 3,
+    "explanation": "Regenerative agriculture promotes practices such as natural farming, agroforestry, micro-irrigation and scientific soil management to restore soil health and ecosystem functions."
+  },
+  {
+    "q": "The Garbhini Mitra course was launched by:",
+    "options": [
+      "AIIMS New Delhi",
+      "All India Institute of Ayurveda",
+      "NITI Aayog",
+      "Ministry of Women and Child Development"
+    ],
+    "answer": 1,
+    "explanation": "The All India Institute of Ayurveda (AIIA), New Delhi, introduced the six-month Garbhini Mitra course."
+  },
+  {
+    "q": "The Garbhini Mitra course combines traditional Ayurvedic maternal care with:",
+    "options": [
+      "Space medicine",
+      "Modern healthcare practices",
+      "Veterinary medicine",
+      "Sports medicine"
+    ],
+    "answer": 1,
+    "explanation": "The course combines Ayurvedic maternal-care knowledge with modern healthcare practices."
+  },
+  {
+    "q": "According to the NITI Aayog report mentioned in the material, approximately how many Indian youth aged 15–29 are not in education, employment or training?",
+    "options": [
+      "4.7 crore",
+      "6.7 crore",
+      "8.7 crore",
+      "10.7 crore"
+    ],
+    "answer": 2,
+    "explanation": "The report 'Reimagining Skilling for Viksit Bharat@2047' estimates that around 8.7 crore youth aged 15–29 are not engaged in education, employment or training."
+  },
+  {
+    "q": "The Annapoorani Super Six LPG Scheme was launched by which state government?",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": 3,
+    "explanation": "The Tamil Nadu government introduced the scheme to reduce the LPG cost burden for eligible households."
+  },
+  {
+    "q": "The National Security Guard's first Mahila Commando Conversion Course was inaugurated at:",
+    "options": [
+      "Hyderabad",
+      "Manesar",
+      "New Delhi",
+      "Bengaluru"
+    ],
+    "answer": 1,
+    "explanation": "The first Mahila Commando Conversion Course was inaugurated at the NSG Training Academy in Manesar, Haryana."
+  },
+  {
+    "q": "The first NSG Mahila Commando Conversion Course has a duration of:",
+    "options": [
+      "6 weeks",
+      "8 weeks",
+      "12 weeks",
+      "16 weeks"
+    ],
+    "answer": 2,
+    "explanation": "The specialized Mahila Commando Conversion Course is designed as a 12-week training programme."
+  },
+  {
+    "q": "Pankaj Kumar Singh, appointed to chair the Gorkhaland committee, previously served as:",
+    "options": [
+      "Cabinet Secretary",
+      "Deputy National Security Advisor",
+      "Foreign Secretary",
+      "Election Commissioner"
+    ],
+    "answer": 1,
+    "explanation": "Pankaj Kumar Singh is a former Deputy National Security Advisor and has been appointed to lead the high-level Gorkhaland committee."
+  },
+  {
+    "q": "The Periyar cow, also known as Periyar Kullan, was officially registered as an indigenous cattle breed by:",
+    "options": [
+      "ICAR-NBAGR",
+      "FSSAI",
+      "NABARD",
+      "NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The ICAR-National Bureau of Animal Genetic Resources (NBAGR) officially registered Periyar Kullan as an indigenous cattle breed."
+  },
+  {
+    "q": "The Periyar cow became the second indigenous cattle breed from Kerala to receive national recognition after:",
+    "options": [
+      "Gir",
+      "Vechur",
+      "Ongole",
+      "Hallikar"
+    ],
+    "answer": 1,
+    "explanation": "The Vechur cow was the first Kerala breed mentioned in the material to receive national recognition, followed by Periyar Kullan."
+  },
+  {
+    "q": "Lakshadweep is India's:",
+    "options": [
+      "Largest Union Territory",
+      "Smallest Union Territory",
+      "Largest state",
+      "Most populous Union Territory"
+    ],
+    "answer": 1,
+    "explanation": "Lakshadweep is India's smallest Union Territory and is a coral archipelago consisting of 36 islands."
+  },
+  {
+    "q": "How many islands comprise the Lakshadweep archipelago according to the provided material?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "Lakshadweep is a uni-district Union Territory comprising 36 islands."
+  },
+  {
+    "q": "MARG 2027 3.0 is primarily associated with preparation for:",
+    "options": [
+      "SSC CGL",
+      "UPSC Civil Services Examination",
+      "RBI Grade B",
+      "GATE"
+    ],
+    "answer": 1,
+    "explanation": "MARG 2027 3.0 is linked to an Integrated Prelims-cum-Mains Test Series and Mentorship Programme for the UPSC Civil Services Examination 2027."
+  },
+  {
+    "q": "What was recently released in relation to MARG 2027 3.0?",
+    "options": [
+      "Final UPSC result",
+      "Scholarship Test result",
+      "Civil Services interview schedule",
+      "UPSC notification"
+    ],
+    "answer": 1,
+    "explanation": "The MARG 2027 3.0 Scholarship Test results were released as part of the programme."
+  },
+  {
+    "q": "The strategic importance of the Darjeeling region is closely linked to its proximity to which important geographical feature?",
+    "options": [
+      "Nine Degree Channel",
+      "Siliguri Corridor",
+      "Palk Strait",
+      "Rann of Kachchh"
+    ],
+    "answer": 1,
+    "explanation": "The Siliguri Corridor, commonly called the 'Chicken's Neck,' connects mainland India with India's northeastern states and makes the region strategically important."
+  },
+  {
+    "q": "Which of the following pairs are correctly matched? 1. Garbhini Mitra — All India Institute of Ayurveda; 2. MCCC — National Security Guard; 3. National Conclave on Tribal Languages — Ministry of Tribal Affairs; 4. Periyar Cow — ICAR-NBAGR",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "All four pairs are correctly matched according to the supplied current-affairs material."
+  }
+]
