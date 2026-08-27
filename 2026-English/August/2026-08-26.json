@@ -1,0 +1,442 @@
+[
+{
+"q": "What is the primary objective of the proposed Public Examination Reform 2.0 (PER 2.0)?",
+"options": [
+"To privatize public examinations",
+"To introduce systemic and auditable measures for examination security",
+"To reduce the number of competitive examinations",
+"To replace written examinations with interviews"
+],
+"answer": 1,
+"explanation": "PER 2.0 aims to strengthen examination integrity through proactive, systemic and auditable security measures."
+},
+{
+"q": "Satish Golcha has been appointed as Officer on Special Duty (OSD) in which department?",
+"options": [
+"Delhi Police",
+"Delhi Transport Department",
+"Home Guards Directorate, Delhi",
+"Delhi Disaster Management Authority"
+],
+"answer": 2,
+"explanation": "Former Delhi Police Commissioner Satish Golcha was assigned as OSD in the Home Guards Directorate of the Delhi government."
+},
+{
+"q": "What is the primary objective of Mission Samriddh Gaon?",
+"options": [
+"Developing smart cities",
+"Transforming rural areas through integrated development and livelihood saturation",
+"Modernizing Indian ports",
+"Promoting urban employment"
+],
+"answer": 1,
+"explanation": "Mission Samriddh Gaon is an integrated rural transformation and livelihood-saturation framework."
+},
+{
+"q": "The initial pilot phase of Mission Samriddh Gaon is planned in which state?",
+"options": [
+"Uttar Pradesh",
+"Rajasthan",
+"Madhya Pradesh",
+"Bihar"
+],
+"answer": 2,
+"explanation": "The initial pilot phase is planned in two blocks of Madhya Pradesh."
+},
+{
+"q": "India's finished steel consumption increased by what percentage during April-July 2026?",
+"options": [
+"4.7%",
+"5.9%",
+"7.9%",
+"9.7%"
+],
+"answer": 2,
+"explanation": "Finished steel consumption increased by 7.9%, reaching approximately 56 million tonnes."
+},
+{
+"q": "India's finished steel production during April-July 2026 increased to approximately:",
+"options": [
+"50.7 MT",
+"52.4 MT",
+"54.7 MT",
+"56.7 MT"
+],
+"answer": 2,
+"explanation": "Finished steel production increased by 4.7% to approximately 54.7 million tonnes."
+},
+{
+"q": "The IT Resilience Index (ITRI) was introduced by which organization?",
+"options": [
+"RBI",
+"SEBI",
+"IRDAI",
+"PFRDA"
+],
+"answer": 1,
+"explanation": "SEBI introduced the IT Resilience Index as a quantitative technology-health scorecard for Market Infrastructure Institutions."
+},
+{
+"q": "SEBI's IT Resilience Index is primarily associated with which institutions?",
+"options": [
+"Commercial Banks",
+"Insurance Companies",
+"Market Infrastructure Institutions",
+"Mutual Fund Investors"
+],
+"answer": 2,
+"explanation": "ITRI is designed to assess technology resilience in Market Infrastructure Institutions."
+},
+{
+"q": "Which of the following was NOT mentioned as a reason for the recent rise in sugar prices in India?",
+"options": [
+"Weather-related crop damage",
+"Increased festive demand",
+"Reduced carry-over stocks",
+"Sharp increase in domestic crude oil production"
+],
+"answer": 3,
+"explanation": "The cited factors included lower production, weather damage, festive demand, reduced stocks and tightening global supplies."
+},
+{
+"q": "Which mechanism was mentioned as a government measure to augment sugar supplies?",
+"options": [
+"Tariff-Rate Quota for raw sugar imports",
+"Complete prohibition of sugar imports",
+"Export subsidy for refined sugar",
+"Removal of stockholding limits"
+],
+"answer": 0,
+"explanation": "The government used a Tariff-Rate Quota for raw sugar imports along with stockholding restrictions to improve domestic supply."
+},
+{
+"q": "Ketan Merchant is associated with which financial institution?",
+"options": [
+"Paytm Payments Bank",
+"India Post Payments Bank",
+"Fino Payments Bank",
+"Airtel Payments Bank"
+],
+"answer": 2,
+"explanation": "Ketan Merchant serves as the interim Managing Director and CEO of Fino Payments Bank, subject to RBI approval."
+},
+{
+"q": "India and China recently agreed to continue dialogue concerning:",
+"options": [
+"Maritime boundary delimitation",
+"Their longstanding boundary dispute",
+"Bilateral trade tariffs only",
+"River-water sharing"
+],
+"answer": 1,
+"explanation": "Both countries agreed to continue dialogue toward a just, reasonable and mutually satisfactory solution to their boundary dispute."
+},
+{
+"q": "Who represented India as the National Security Advisor in the recent Beijing meeting with China's Foreign Minister Wang Yi?",
+"options": [
+"Ajit Doval",
+"T. V. Somanathan",
+"Rajiv Gauba",
+"P. K. Mishra"
+],
+"answer": 0,
+"explanation": "NSA Ajit Doval met Chinese Foreign Minister Wang Yi in Beijing regarding the boundary issue."
+},
+{
+"q": "The 2026 Shanghai Cooperation Organisation (SCO) Summit is scheduled to be held in:",
+"options": [
+"Astana, Kazakhstan",
+"Tashkent, Uzbekistan",
+"Bishkek, Kyrgyzstan",
+"Dushanbe, Tajikistan"
+],
+"answer": 2,
+"explanation": "The 2026 SCO Summit is scheduled to take place in Bishkek, Kyrgyzstan, from August 31 to September 1."
+},
+{
+"q": "The 2026 SCO Summit is particularly significant because the organization will mark:",
+"options": [
+"10 years of existence",
+"20 years of existence",
+"25 years of existence",
+"30 years of existence"
+],
+"answer": 2,
+"explanation": "The SCO will commemorate its 25th anniversary in 2026."
+},
+{
+"q": "Which organization developed the NJ-05, NJ-50 and NJ-100 gas turbine engines?",
+"options": [
+"DRDO",
+"ISRO",
+"CSIR-NAL",
+"HAL"
+],
+"answer": 2,
+"explanation": "CSIR-National Aerospace Laboratories developed these indigenous Micro & Small Gas Turbine Engines."
+},
+{
+"q": "Which of the following correctly matches the CSIR-NAL gas turbine engines with their approximate thrust?",
+"options": [
+"NJ-05 — 5 kg; NJ-50 — 50 kg; NJ-100 — 100 kg",
+"NJ-05 — 10 kg; NJ-50 — 50 kg; NJ-100 — 150 kg",
+"NJ-05 — 5 kg; NJ-50 — 100 kg; NJ-100 — 200 kg",
+"NJ-05 — 50 kg; NJ-50 — 100 kg; NJ-100 — 150 kg"
+],
+"answer": 0,
+"explanation": "The NJ-05, NJ-50 and NJ-100 engines generate approximately 5 kg, 50 kg and 100 kg of thrust respectively."
+},
+{
+"q": "The indigenous gas turbine engines developed by CSIR-NAL are intended for applications including:",
+"options": [
+"Tactical UAVs and drone interceptors",
+"Large commercial passenger aircraft only",
+"Nuclear reactors",
+"Railway locomotives"
+],
+"answer": 0,
+"explanation": "The compact engines are intended for tactical UAVs, drone interceptors and compact missile applications."
+},
+{
+"q": "The ablative Thermal Protection System (TPS) in Gaganyaan is primarily intended to:",
+"options": [
+"Increase spacecraft communication range",
+"Protect the crew module during atmospheric re-entry",
+"Generate electricity during launch",
+"Control India's ground stations"
+],
+"answer": 1,
+"explanation": "The ablative TPS protects the crew module from extreme heat generated during high-speed atmospheric re-entry."
+},
+{
+"q": "During Gaganyaan re-entry, the spacecraft may encounter temperatures of approximately:",
+"options": [
+"500°C",
+"1,000°C",
+"1,800°C",
+"3,500°C"
+],
+"answer": 2,
+"explanation": "The ablative thermal protection system is designed to withstand re-entry heating of around 1,800°C."
+},
+{
+"q": "A waterspout-like phenomenon was observed over which river in Assam?",
+"options": [
+"Barak",
+"Brahmaputra",
+"Subansiri",
+"Manas"
+],
+"answer": 1,
+"explanation": "A rare rotating water column resembling a waterspout was observed over the Brahmaputra River near Paharpur in Assam."
+},
+{
+"q": "The Smew (Mergellus albellus) was recorded for the first time in which protected area?",
+"options": [
+"Kaziranga National Park",
+"Manas National Park",
+"Laokhowa Wildlife Sanctuary",
+"Dibru-Saikhowa National Park"
+],
+"answer": 2,
+"explanation": "Laokhowa Wildlife Sanctuary recorded its first-ever sighting of the rare migratory Smew during the 7th Kaziranga Waterbird Count 2026."
+},
+{
+"q": "Which critically endangered bird was also reported during the waterbird observations in Assam?",
+"options": [
+"Great Indian Bustard",
+"Bengal Florican",
+"Siberian Crane",
+"Jerdon's Courser"
+],
+"answer": 1,
+"explanation": "The critically endangered Bengal Florican was also recorded during the survey."
+},
+{
+"q": "What is the key feature of South Africa's innovative wastewater treatment approach mentioned in the current affairs?",
+"options": [
+"Conversion of wastewater into drinking water using nuclear energy",
+"Transformation of an abandoned wastewater facility into a living biofilter",
+"Complete replacement of wetlands with concrete channels",
+"Use of desalination plants for river purification"
+],
+"answer": 1,
+"explanation": "An abandoned wastewater facility was transformed into a nature-based living biofilter to address sewage, E. coli, nutrients, microplastics and traces of medicines."
+},
+{
+"q": "Which insecticide has been proposed for a complete ban by India's Agriculture Ministry?",
+"options": [
+"Glyphosate",
+"Carbosulfan",
+"Malathion",
+"Atrazine"
+],
+"answer": 1,
+"explanation": "Carbosulfan has been proposed for a complete ban because of concerns about human health and environmental risks."
+},
+{
+"q": "Carbosulfan belongs primarily to which class of insecticides?",
+"options": [
+"Carbamate",
+"Pyrethroid",
+"Neonicotinoid",
+"Organophosphate"
+],
+"answer": 0,
+"explanation": "Carbosulfan is a broad-spectrum systemic carbamate insecticide with acaricidal and nematicidal properties."
+},
+{
+"q": "The e-Shram portal completed how many years on August 26, 2026?",
+"options": [
+"3 years",
+"4 years",
+"5 years",
+"6 years"
+],
+"answer": 2,
+"explanation": "The e-Shram portal was launched in 2021 and completed five years on August 26, 2026."
+},
+{
+"q": "e-Shram is India's first Aadhaar-based:",
+"options": [
+"National Database of Unorganised Workers",
+"National Database of Government Employees",
+"National Database of Farmers",
+"National Database of Migrant Students"
+],
+"answer": 0,
+"explanation": "e-Shram serves as the National Database of Unorganised Workers (NDUW) to support social-security delivery."
+},
+{
+"q": "Approximately how many workers had registered on the e-Shram portal according to the given information?",
+"options": [
+"3.189 crore",
+"13.89 crore",
+"21.89 crore",
+"31.89 crore"
+],
+"answer": 3,
+"explanation": "More than 31.89 crore unorganised workers had registered on the e-Shram portal."
+},
+{
+"q": "Which applications are being upgraded by India Post as part of its digital modernization efforts?",
+"options": [
+"DigiLocker and UMANG",
+"Dak Seva and Dak Mitra",
+"BharatNet and MyGov",
+"e-Shram and DigiYatra"
+],
+"answer": 1,
+"explanation": "India Post is upgrading Dak Seva and Dak Mitra to digitally modernize its services."
+},
+{
+"q": "INS Nipun is a:",
+"options": [
+"Nuclear-powered submarine",
+"Diving Support Vessel",
+"Guided-missile destroyer",
+"Aircraft carrier"
+],
+"answer": 1,
+"explanation": "Nipun is the second indigenous Diving Support Vessel of the Nistar class, designed for deep-sea diving and underwater operations."
+},
+{
+"q": "INS Nipun is being built by:",
+"options": [
+"Cochin Shipyard Limited",
+"Garden Reach Shipbuilders & Engineers",
+"Hindustan Shipyard Limited",
+"Mazagon Dock Shipbuilders"
+],
+"answer": 2,
+"explanation": "Nipun was designed and built indigenously by Hindustan Shipyard Limited (HSL), Visakhapatnam."
+},
+{
+"q": "INS Nipun is scheduled to be commissioned on:",
+"options": [
+"August 26, 2026",
+"August 31, 2026",
+"September 1, 2026",
+"September 15, 2026"
+],
+"answer": 1,
+"explanation": "The vessel is scheduled to be commissioned on August 31, 2026, at the Naval Dockyard in Mumbai."
+},
+{
+"q": "Recent conflicts have intensified India's debate regarding:",
+"options": [
+"Theatre commands and centralized Air Force operational control",
+"Abolition of the Indian Air Force",
+"Privatization of the Indian Navy",
+"Withdrawal from joint military exercises"
+],
+"answer": 0,
+"explanation": "Recent conflicts have contributed to discussions about theatreisation, joint warfare and the effective employment of air power."
+},
+{
+"q": "According to the discussion on air power, decisive victory generally requires:",
+"options": [
+"Air power alone",
+"Naval power alone",
+"Integrated joint warfighting",
+"Cyber operations alone"
+],
+"answer": 2,
+"explanation": "The discussion emphasizes that air power alone may not achieve decisive victory and must be integrated with broader joint military operations."
+},
+{
+"q": "Which of the following pairs is correctly matched?",
+"options": [
+"PER 2.0 — Examination integrity",
+"ITRI — Rural development",
+"e-Shram — Market regulation",
+"Mission Samriddh Gaon — Space exploration"
+],
+"answer": 0,
+"explanation": "PER 2.0 focuses on systemic reforms to improve the integrity and security of public examinations."
+},
+{
+"q": "Which of the following statements regarding the 2026 SCO Summit is correct?",
+"options": [
+"It will be held in Bishkek from August 31 to September 1, 2026, and marks the SCO's 25th anniversary",
+"It will be held in Astana from August 25 to August 26, 2026",
+"It will be held in Tashkent and marks the SCO's 30th anniversary",
+"It will be held in Dushanbe from September 10 to September 11, 2026"
+],
+"answer": 0,
+"explanation": "The 2026 SCO Summit is scheduled in Bishkek from August 31 to September 1 and is significant because the SCO will mark 25 years."
+},
+{
+"q": "Which of the following statements about Gaganyaan's ablative Thermal Protection System is correct?",
+"options": [
+"It protects the crew module during re-entry and handles extreme re-entry heating",
+"It is used only for satellite communication",
+"It generates the main propulsion during launch",
+"It is designed only for underwater operations"
+],
+"answer": 0,
+"explanation": "The ablative TPS protects the crew module from intense re-entry heating, and ISRO has prior experience with this technology."
+},
+{
+"q": "Which one of the following correctly describes Mission Samriddh Gaon?",
+"options": [
+"A programme for urban metro development",
+"An integrated rural transformation and livelihood-saturation framework",
+"A national space exploration programme",
+"A defence procurement programme"
+],
+"answer": 1,
+"explanation": "Mission Samriddh Gaon seeks coordinated implementation of government interventions for comprehensive rural development and livelihood saturation."
+},
+{
+"q": "Which current-affairs topic is directly associated with financial-market technology resilience?",
+"options": [
+"ITRI",
+"PER 2.0",
+"Nipun",
+"e-Shram"
+],
+"answer": 0,
+"explanation": "SEBI's IT Resilience Index (ITRI) is a quantitative regulatory measure of technology resilience for Market Infrastructure Institutions."
+}
+]
