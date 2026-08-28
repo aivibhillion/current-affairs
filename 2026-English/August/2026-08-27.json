@@ -1,0 +1,277 @@
+[
+  {
+    "q": "The Meghalaya Legislative Assembly recently passed a resolution opposing which activity?",
+    "options": [
+      "Coal mining",
+      "Uranium exploration and mining",
+      "Limestone mining",
+      "Gold mining"
+    ],
+    "answer": 1,
+    "explanation": "The Meghalaya Legislative Assembly unanimously passed a resolution opposing uranium exploration and mining in the state. All 60 MLAs supported the resolution."
+  },
+  {
+    "q": "Who introduced the Meghalaya Assembly resolution opposing uranium exploration and mining?",
+    "options": [
+      "Conrad K. Sangma",
+      "Pema Khandu",
+      "Himanta Biswa Sarma",
+      "Neiphiu Rio"
+    ],
+    "answer": 0,
+    "explanation": "The resolution opposing uranium exploration and mining was introduced by Meghalaya Chief Minister Conrad K. Sangma."
+  },
+  {
+    "q": "By approximately what percentage did battery-grade lithium carbonate prices decline month-on-month?",
+    "options": [
+      "5.3%",
+      "8.7%",
+      "10.3%",
+      "15.6%"
+    ],
+    "answer": 2,
+    "explanation": "Battery-grade lithium carbonate prices declined by 10.3% month-on-month, averaging around RMB 140,000 per tonne."
+  },
+  {
+    "q": "Lithium carbonate is particularly important in the context of which technology?",
+    "options": [
+      "Nuclear reactors",
+      "Battery technology",
+      "Textile manufacturing",
+      "Fertilizer production"
+    ],
+    "answer": 1,
+    "explanation": "Lithium carbonate is an important battery-grade material and is associated with Lithium Iron Phosphate (LFP) energy-storage cells."
+  },
+  {
+    "q": "Which United Nations body made observations that India rejected?",
+    "options": [
+      "UNESCO",
+      "UNHRC",
+      "UNCERD",
+      "UNDP"
+    ],
+    "answer": 2,
+    "explanation": "India rejected observations made by the United Nations Committee on the Elimination of Racial Discrimination (UNCERD) following its 11th periodic review in Geneva."
+  },
+  {
+    "q": "HAL and Safran Helicopter Engines have agreed to jointly develop which helicopter engine?",
+    "options": [
+      "Kaveri",
+      "Aravalli",
+      "Shakti",
+      "Garuda"
+    ],
+    "answer": 1,
+    "explanation": "Hindustan Aeronautics Limited (HAL) and Safran Helicopter Engines signed an agreement to jointly develop the Aravalli helicopter engine."
+  },
+  {
+    "q": "The proposed Aravalli helicopter engine is designed to fall in which power class?",
+    "options": [
+      "1,000–1,500 shaft horsepower",
+      "2,000–2,500 shaft horsepower",
+      "3,500–4,000 shaft horsepower",
+      "5,000–6,000 shaft horsepower"
+    ],
+    "answer": 2,
+    "explanation": "The Aravalli engine is designed in the 3,500–4,000 shaft horsepower class for India's future multirole military helicopters."
+  },
+  {
+    "q": "The Aravalli helicopter engine is intended to power which Indian helicopter?",
+    "options": [
+      "Light Combat Helicopter",
+      "Indian Multi-Role Helicopter",
+      "Advanced Light Helicopter only",
+      "Light Utility Helicopter"
+    ],
+    "answer": 1,
+    "explanation": "The Aravalli engine is intended to power HAL's 13-tonne Indian Multi-Role Helicopter (IMRH) and its naval variant, the Deck-Based Multi-Role Helicopter."
+  },
+  {
+    "q": "Where did DRDO conduct the first test of the Military Combat Parachute System (MCPS)?",
+    "options": [
+      "Pokhran, Rajasthan",
+      "Nyoma-Mudh, Ladakh",
+      "Sriharikota, Andhra Pradesh",
+      "Chandipur, Odisha"
+    ],
+    "answer": 1,
+    "explanation": "DRDO conducted the first test of its indigenous Military Combat Parachute System at the Nyoma-Mudh drop zone in Ladakh."
+  },
+  {
+    "q": "The DRDO Military Combat Parachute System test involved a jump from approximately what altitude?",
+    "options": [
+      "12,000 feet",
+      "16,000 feet",
+      "18,000 feet",
+      "22,000 feet"
+    ],
+    "answer": 3,
+    "explanation": "The MCPS test involved a jump from an altitude of 22,000 feet above mean sea level."
+  },
+  {
+    "q": "What does SCADA stand for?",
+    "options": [
+      "Secure Control and Digital Administration",
+      "Supervisory Control and Data Acquisition",
+      "Strategic Communication and Data Analysis",
+      "System Control and Digital Automation"
+    ],
+    "answer": 1,
+    "explanation": "SCADA stands for Supervisory Control and Data Acquisition. It is an important technology used in power-grid control and monitoring."
+  },
+  {
+    "q": "By which year did a Central Electricity Authority committee recommend ending India's dependence on imported SCADA technology?",
+    "options": [
+      "2027",
+      "2028",
+      "2030",
+      "2035"
+    ],
+    "answer": 2,
+    "explanation": "The committee recommended that India should end its dependence on imported SCADA technology by 2030 to address supply-chain and cybersecurity concerns."
+  },
+  {
+    "q": "Who won the FIDE-rated rapid chess championship mentioned in the current affairs?",
+    "options": [
+      "Praggnanandhaa",
+      "Gukesh",
+      "Apoorv Kamble",
+      "Arjun Erigaisi"
+    ],
+    "answer": 2,
+    "explanation": "Seventeen-year-old Apoorv Kamble won the FIDE-rated rapid chess championship with 8.5 points out of nine rounds."
+  },
+  {
+    "q": "How many points did Apoorv Kamble score in nine rounds?",
+    "options": [
+      "7.0",
+      "7.5",
+      "8.0",
+      "8.5"
+    ],
+    "answer": 3,
+    "explanation": "Apoorv Kamble secured 8.5 points out of nine rounds in the FIDE-rated rapid chess championship."
+  },
+  {
+    "q": "What is the reported prize-money pool of the US Open 2026?",
+    "options": [
+      "$75 million",
+      "$90 million",
+      "$100 million",
+      "$108 million"
+    ],
+    "answer": 3,
+    "explanation": "According to the supplied current-affairs material, the US Open 2026 has a record prize-money pool of $108 million."
+  },
+  {
+    "q": "The Nepal flash floods mentioned in the current affairs occurred in which river system?",
+    "options": [
+      "Ganga–Yamuna system",
+      "Bhote Koshi–Trishuli–Narayani system",
+      "Kosi–Gandak system",
+      "Karnali–Mahakali system"
+    ],
+    "answer": 1,
+    "explanation": "The catastrophic floods occurred in the Bhote Koshi–Trishuli–Narayani river system and highlighted the vulnerability of the Himalayan region to compound hazards."
+  },
+  {
+    "q": "Which of the following is identified as a key strategy for climate-proofing India's food system?",
+    "options": [
+      "Crop diversification",
+      "Reducing storage capacity",
+      "Increasing groundwater extraction",
+      "Eliminating the Public Distribution System"
+    ],
+    "answer": 0,
+    "explanation": "Crop diversification is one of the key strategies identified for building a climate-resilient food system, along with resilient storage and climate-smart farming."
+  },
+  {
+    "q": "Bihar's Vidya Sathi mobile application primarily aims to support students in which classes?",
+    "options": [
+      "Classes 1–5",
+      "Classes 6–8",
+      "Classes 9–12",
+      "Undergraduate students"
+    ],
+    "answer": 2,
+    "explanation": "The Vidya Sathi application provides continuous academic support to students in Classes 9–12 across model schools in Bihar."
+  },
+  {
+    "q": "The Vidya Sathi initiative in Bihar is intended to support approximately how many students?",
+    "options": [
+      "50,000",
+      "1 lakh",
+      "3 lakh",
+      "10 lakh"
+    ],
+    "answer": 2,
+    "explanation": "The initiative is intended to provide academic support to over 3 lakh students across 700 model schools in all 38 districts of Bihar."
+  },
+  {
+    "q": "Under the UP Shadi Anudan Yojana, eligible families can receive financial assistance of:",
+    "options": [
+      "₹10,000",
+      "₹15,000",
+      "₹20,000",
+      "₹25,000"
+    ],
+    "answer": 2,
+    "explanation": "According to the supplied material, eligible financially weaker families can receive ₹20,000 towards marriage-related expenses under the UP Shadi Anudan Yojana."
+  },
+  {
+    "q": "According to the supplied current-affairs material, when did Balen Shah assume office as Prime Minister of Nepal?",
+    "options": [
+      "January 27, 2026",
+      "March 27, 2026",
+      "May 27, 2026",
+      "July 27, 2026"
+    ],
+    "answer": 1,
+    "explanation": "The supplied material states that Balen (Balendra) Shah assumed office as Prime Minister of Nepal on March 27, 2026."
+  },
+  {
+    "q": "Before becoming Prime Minister of Nepal, Balen Shah served as:",
+    "options": [
+      "President of Nepal",
+      "Governor of Kathmandu",
+      "Mayor of Kathmandu",
+      "Foreign Minister of Nepal"
+    ],
+    "answer": 2,
+    "explanation": "Before becoming Prime Minister, Balendra Shah served as the Mayor of Kathmandu."
+  },
+  {
+    "q": "The Global Drought Resilience Architecture was launched at which event?",
+    "options": [
+      "UNFCCC COP30",
+      "UNCCD COP17",
+      "CBD COP16",
+      "UN Water Conference"
+    ],
+    "answer": 1,
+    "explanation": "According to the supplied material, the Global Drought Resilience Architecture was introduced at UNCCD COP17."
+  },
+  {
+    "q": "Which of the following is included in the Global Drought Resilience Architecture?",
+    "options": [
+      "Drought Resilience Index",
+      "Global Carbon Tax Index",
+      "Climate Migration Index",
+      "Global Rainfall Treaty"
+    ],
+    "answer": 0,
+    "explanation": "The initiative includes the Drought Resilience Index (DRI) and the Drought Resilience Investment Facility (DRIF), promoting proactive drought preparedness."
+  },
+  {
+    "q": "Land subsidence in Uttarakhand's Bageshwar district is primarily associated with which activity according to the supplied material?",
+    "options": [
+      "River erosion",
+      "Soapstone mining",
+      "Coastal erosion",
+      "Deforestation alone"
+    ],
+    "answer": 1,
+    "explanation": "The supplied material links severe land subsidence in Bageshwar district to rampant underground and open-cast soapstone mining, which has caused ground fissures and damage to homes."
+  }
+]
