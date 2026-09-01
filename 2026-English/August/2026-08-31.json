@@ -1,0 +1,242 @@
+[
+{
+"q": "The Legal Metrology (Indian Standard Time) Rules, 2026 primarily seek to establish which of the following as the single reference for official purposes?",
+"options": ["UTC", "Indian Standard Time (IST)", "Greenwich Mean Time (GMT)", "Local Mean Time"],
+"answer": 1,
+"explanation": "The rules mandate Indian Standard Time (IST) as the single reference for legal, administrative, commercial, and official purposes."
+},
+{
+"q": "The Legal Metrology (Indian Standard Time) Rules, 2026 will come into force how long after their publication in the Official Gazette?",
+"options": ["30 days", "90 days", "120 days", "180 days"],
+"answer": 3,
+"explanation": "The rules are scheduled to come into force 180 days after their publication in the Official Gazette."
+},
+{
+"q": "The Supreme Court's consideration of a dedicated Bench is related to which issue?",
+"options": ["GST disputes", "OBC creamy layer judgment", "Environmental clearances", "Election disputes"],
+"answer": 1,
+"explanation": "The proposed dedicated Bench concerns the Centre's plea seeking clarification on the judgment relating to the OBC creamy layer income/wealth test."
+},
+{
+"q": "Why did the Centre seek clarification regarding retrospective implementation of the OBC creamy layer ruling?",
+"options": ["It could reduce tax revenue", "It could affect foreign investment", "It could have an uncontrollable cascading effect across settled civil matters", "It could abolish reservations"],
+"answer": 2,
+"explanation": "The Centre argued that retrospective implementation could create an uncontrollable cascading effect across already settled civil matters."
+},
+{
+"q": "UPSC General Studies Paper 3 primarily covers which combination of areas mentioned in the current-affairs material?",
+"options": ["History, culture and art", "Economy, agriculture, science and technology, environment, disaster management and internal security", "Ethics and philosophy only", "International law and diplomacy only"],
+"answer": 1,
+"explanation": "GS Paper 3 covered economy, agriculture, science and technology, environment, disaster management and internal security."
+},
+{
+"q": "UPSC General Studies Paper 2 primarily focuses on which of the following areas?",
+"options": ["Agriculture and industrial production", "Constitutional institutions, governance, social justice and international relations", "Astronomy and biotechnology", "Disaster management alone"],
+"answer": 1,
+"explanation": "The supplied synopsis identifies constitutional institutions, governance, social justice and international relations as major GS Paper 2 areas."
+},
+{
+"q": "In the context of the current-affairs controversy, the term 'Shuddhi' refers to:",
+"options": ["A tax reform programme", "A water purification technology", "Socio-religious reconversion and reclamation", "A judicial review mechanism"],
+"answer": 2,
+"explanation": "Shuddhi is described in the supplied material as a historical practice associated with socio-religious reconversion and reclamation."
+},
+{
+"q": "According to the EY report cited in the material, India's real GDP growth for FY27 is projected at:",
+"options": ["4%–4.5%", "5%–5.5%", "7%–7.2%", "9%–9.5%"],
+"answer": 2,
+"explanation": "The EY report projects India's FY27 real GDP growth at approximately 7%–7.2%."
+},
+{
+"q": "Which of the following is identified as a major driver of India's FY27 growth outlook?",
+"options": ["Declining domestic demand", "Robust domestic demand and government capital expenditure", "Reduced public investment", "Declining industrial production"],
+"answer": 1,
+"explanation": "Robust domestic demand and significant government capital expenditure are identified as key drivers of the positive growth outlook."
+},
+{
+"q": "India's projected nominal GDP growth for FY27, according to the supplied material, is:",
+"options": ["7%–7.2%", "8%–9%", "10%–11%", "12.5%–13%"],
+"answer": 3,
+"explanation": "The cited EY report estimates nominal GDP growth at 12.5%–13% for FY27."
+},
+{
+"q": "The Integrated Fertilizer Management System (iFMS) was enhanced by which department?",
+"options": ["Department of Agriculture", "Department of Fertilizers", "Department of Commerce", "Department of Rural Development"],
+"answer": 1,
+"explanation": "The Department of Fertilizers upgraded iFMS into a comprehensive, data-driven oversight platform."
+},
+{
+"q": "Which of the following are integrated with the enhanced Integrated Fertilizer Management System (iFMS)?",
+"options": ["State land records only", "Meri Fasal Mera Byora only", "AgriStack only", "State land records, Meri Fasal Mera Byora and AgriStack"],
+"answer": 3,
+"explanation": "The enhanced iFMS integrates state land records, Meri Fasal Mera Byora (MFMB) and central AgriStack."
+},
+{
+"q": "Sashidhar Jagdishan is associated with which financial institution?",
+"options": ["State Bank of India", "HDFC Bank", "ICICI Bank", "Punjab National Bank"],
+"answer": 1,
+"explanation": "Sashidhar Jagdishan is the Managing Director and CEO of HDFC Bank."
+},
+{
+"q": "Sashidhar Jagdishan is scheduled to retire from HDFC Bank on:",
+"options": ["August 29, 2026", "September 30, 2026", "October 26, 2026", "December 31, 2026"],
+"answer": 2,
+"explanation": "He decided not to renew his contract and is scheduled to retire on October 26, 2026."
+},
+{
+"q": "India and Uzbekistan elevated their bilateral relationship to which level?",
+"options": ["Strategic Dialogue", "Comprehensive Strategic Partnership", "Special Economic Partnership", "Defence Partnership"],
+"answer": 1,
+"explanation": "India and Uzbekistan elevated their bilateral relations to a Comprehensive Strategic Partnership."
+},
+{
+"q": "How many agreements were signed during the India-Uzbekistan State Visit mentioned in the current affairs?",
+"options": ["5", "8", "11", "15"],
+"answer": 2,
+"explanation": "The visit resulted in the signing of 11 agreements."
+},
+{
+"q": "India and Uzbekistan set a bilateral trade target of how much by 2030?",
+"options": ["$2 billion", "$3 billion", "$5 billion", "$10 billion"],
+"answer": 2,
+"explanation": "India and Uzbekistan set a target of $5 billion in bilateral trade by 2030."
+},
+{
+"q": "Uzbekistan is strategically important to India's 'Connect Central Asia' policy mainly because of its:",
+"options": ["Exclusive access to the Indian Ocean", "Geopolitical location and role in regional connectivity", "Membership in ASEAN", "Arctic location"],
+"answer": 1,
+"explanation": "Uzbekistan's geopolitical location and role in regional connectivity make it important to India's engagement with Central Asia."
+},
+{
+"q": "The 'Oliy Darajali Do’stlik Order' is associated with which country?",
+"options": ["Kazakhstan", "Uzbekistan", "Mongolia", "China"],
+"answer": 1,
+"explanation": "The Oliy Darajali Do’stlik Order is described as Uzbekistan's highest state honour for foreign leaders."
+},
+{
+"q": "The 8-point agreement concerning the India-China boundary issue was discussed during a meeting between:",
+"options": ["Narendra Modi and Xi Jinping", "Ajit Doval and Wang Yi", "S. Jaishankar and Li Qiang", "Rajnath Singh and Wang Huning"],
+"answer": 1,
+"explanation": "National Security Advisor Ajit Doval and Chinese Foreign Minister Wang Yi discussed the implementation of the 8-point agreement and peace along the LAC."
+},
+{
+"q": "The 17th Conference of Parties (COP17) of the UNCCD was held in:",
+"options": ["New Delhi, India", "Ulaanbaatar, Mongolia", "Beijing, China", "Tashkent, Uzbekistan"],
+"answer": 1,
+"explanation": "UNCCD COP17 was held in Ulaanbaatar, Mongolia, from August 17 to 28, 2026."
+},
+{
+"q": "What was the theme of UNCCD COP17?",
+"options": ["One Earth, One Future", "Restoring Land. Restoring Hope.", "Land for Sustainable Development", "Climate Action for All"],
+"answer": 1,
+"explanation": "The theme of UNCCD COP17 was 'Restoring Land. Restoring Hope.'"
+},
+{
+"q": "Which of the following was a major focus of UNCCD COP17?",
+"options": ["Nuclear disarmament", "International taxation", "Land degradation, desertification and drought resilience", "Ocean shipping"],
+"answer": 2,
+"explanation": "COP17 focused on land degradation, desertification, drought resilience and sustainable rangeland management."
+},
+{
+"q": "Ecuador's emergency declaration mentioned in the current affairs was associated with:",
+"options": ["La Niña", "El Niño", "A volcanic eruption", "A tropical cyclone"],
+"answer": 1,
+"explanation": "Ecuador declared red alerts across the country because of the impacts associated with El Niño."
+},
+{
+"q": "A study identified how many hanging glaciers in Uttarakhand's Alaknanda Basin?",
+"options": ["119", "219", "319", "419"],
+"answer": 1,
+"explanation": "The study identified 219 hanging glaciers in the Alaknanda Basin."
+},
+{
+"q": "Rising temperatures and permafrost thaw in the Alaknanda Basin may increase the risk of:",
+"options": ["Ice-rock avalanches and outburst floods", "Tsunamis", "Volcanic eruptions", "Desert formation only"],
+"answer": 0,
+"explanation": "The study warned that warming and permafrost thaw can increase glacier instability, potentially causing ice-rock avalanches and outburst floods."
+},
+{
+"q": "Himachal Pradesh's first ozone-based drinking water treatment project was launched in:",
+"options": ["Shimla", "Manali", "Dehra, Kangra", "Dharamshala"],
+"answer": 2,
+"explanation": "The project was launched in Dehra in Kangra district."
+},
+{
+"q": "What is the approximate cost of Himachal Pradesh's ozone-based water treatment project?",
+"options": ["₹16 crore", "₹26 crore", "₹46 crore", "₹76 crore"],
+"answer": 2,
+"explanation": "The project has an estimated cost of ₹46 crore."
+},
+{
+"q": "The Indian Air Force is using which technology along with Artificial Intelligence to improve fighter fleet maintenance?",
+"options": ["Blockchain", "Digital Twins", "Quantum Computing", "3D Television"],
+"answer": 1,
+"explanation": "The IAF is incorporating Artificial Intelligence and Digital Twins into its fighter fleet maintenance strategy."
+},
+{
+"q": "The IAF's fighter fleet maintenance strategy is closely linked with which national objective?",
+"options": ["Atmanirbharta", "Green Revolution", "Blue Economy", "Digital Census"],
+"answer": 0,
+"explanation": "The strategy aims to strengthen indigenous capabilities and reduce dependence on vulnerable global supply chains, supporting Atmanirbharta."
+},
+{
+"q": "Approximately how many Indian firms are supporting the IAF's fighter fleet maintenance strategy mentioned in the material?",
+"options": ["230", "530", "730", "930"],
+"answer": 3,
+"explanation": "The supplied material states that the strategy is supported by 930 Indian firms."
+},
+{
+"q": "Which country won the FIH Men's Hockey World Cup according to the supplied current affairs?",
+"options": ["Spain", "India", "Germany", "Netherlands"],
+"answer": 2,
+"explanation": "Germany defeated Spain 1–0 in the final and retained the FIH Men's Hockey World Cup title."
+},
+{
+"q": "Germany's victory in the FIH Men's Hockey World Cup gave it how many World Cup titles?",
+"options": ["2", "3", "4", "5"],
+"answer": 2,
+"explanation": "The victory was Germany's fourth Men's Hockey World Cup title, equalling Pakistan's record."
+},
+{
+"q": "Which country did Germany defeat in the FIH Men's Hockey World Cup final?",
+"options": ["India", "Australia", "Belgium", "Spain"],
+"answer": 3,
+"explanation": "Germany defeated Spain 1–0 in the final."
+},
+{
+"q": "Sri Lanka was originally scheduled to host the ICC Women's Champions Trophy during which period?",
+"options": ["January 1–15, 2027", "February 14–28, 2027", "March 1–15, 2027", "April 14–28, 2027"],
+"answer": 1,
+"explanation": "The tournament was originally scheduled to take place from February 14 to 28, 2027."
+},
+{
+"q": "Consider the following statements regarding the Legal Metrology (Indian Standard Time) Rules, 2026: 1. They establish IST as a common reference for legal and official purposes. 2. They cover commercial purposes. 3. They came into force immediately upon notification. Which of the above statements is/are correct?",
+"options": ["1 and 2 only", "1 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 0,
+"explanation": "Statements 1 and 2 are correct. The rules are scheduled to come into force 180 days after publication, so statement 3 is incorrect."
+},
+{
+"q": "Consider the following statements: 1. iFMS is related to fertilizer management. 2. The enhanced iFMS integrates AgriStack. 3. The enhanced iFMS integrates Meri Fasal Mera Byora. Which of the above statements is/are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 3,
+"explanation": "All three statements are supported by the supplied current-affairs material. The enhanced iFMS integrates fertilizer-related data with AgriStack, MFMB and state land records."
+},
+{
+"q": "Consider the following statements about India-Uzbekistan relations: 1. Relations were elevated to a Comprehensive Strategic Partnership. 2. Eleven agreements were signed. 3. A $5 billion bilateral trade target was set for 2030. Which of the above statements is/are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 3,
+"explanation": "All three statements are correct according to the supplied current-affairs material."
+},
+{
+"q": "Consider the following statements about UNCCD COP17: 1. It was held in Mongolia. 2. It focused on desertification and drought resilience. 3. Its theme was 'Restoring Land. Restoring Hope.' Which of the above statements is/are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 3,
+"explanation": "All three statements are correct. COP17 was held in Ulaanbaatar, Mongolia, and focused on land degradation, desertification and drought resilience."
+},
+{
+"q": "Which of the following developments is most directly associated with the concept of Atmanirbharta in the supplied current affairs?",
+"options": ["UNCCD COP17", "Enhanced iFMS", "IAF's indigenous fighter fleet maintenance strategy", "Uzbekistan's state honour"],
+"answer": 2,
+"explanation": "The IAF initiative emphasizes indigenous manufacturing, AI and Digital Twins to reduce dependence on global supply chains, directly supporting Atmanirbharta."
+}
+]
