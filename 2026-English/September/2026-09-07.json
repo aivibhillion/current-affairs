@@ -1,0 +1,442 @@
+[
+  {
+    "q": "Which body recommended the appointment of the eight Chief Justices to various High Courts?",
+    "options": [
+      "Union Public Service Commission",
+      "Law Commission of India",
+      "Supreme Court Collegium",
+      "National Judicial Appointments Commission"
+    ],
+    "answer": 2,
+    "explanation": "The appointments were made by the Central government following recommendations of the Supreme Court Collegium."
+  },
+  {
+    "q": "Which of the following High Courts was among those covered by the recent appointment of Chief Justices?",
+    "options": [
+      "Patna High Court",
+      "Gauhati High Court",
+      "Kerala High Court",
+      "Madras High Court"
+    ],
+    "answer": 0,
+    "explanation": "The Patna High Court was among the High Courts mentioned in connection with the appointment of eight Chief Justices."
+  },
+  {
+    "q": "In the context of EVM vote counting, a totaliser machine is primarily designed to:",
+    "options": [
+      "Register voters electronically",
+      "Aggregate votes from multiple EVMs for counting",
+      "Generate voter identity cards",
+      "Verify voter photographs"
+    ],
+    "answer": 1,
+    "explanation": "A totaliser is a specialised system designed to aggregate votes from multiple polling stations or EVMs during counting."
+  },
+  {
+    "q": "The Supreme Court recently sought the Central government's position regarding:",
+    "options": [
+      "Online voting",
+      "Replacement of EVMs with ballot papers",
+      "Totaliser machines for EVM vote counting",
+      "Compulsory voting"
+    ],
+    "answer": 2,
+    "explanation": "A three-judge Supreme Court Bench sought clarity from the Central government on introducing totaliser machines for EVM vote counting."
+  },
+  {
+    "q": "The Central Consumer Protection Authority (CCPA) primarily regulates matters relating to:",
+    "options": [
+      "Monetary policy and banking",
+      "Consumer rights and unfair trade practices",
+      "Foreign trade and customs",
+      "Environmental clearances"
+    ],
+    "answer": 1,
+    "explanation": "The CCPA is the apex consumer-protection authority dealing with violations of consumer rights, unfair trade practices and misleading advertisements or claims."
+  },
+  {
+    "q": "The CCPA intensified action against food companies for using misleading:",
+    "options": [
+      "\"Organic\" claims",
+      "\"100%\" marketing claims",
+      "\"Export quality\" claims",
+      "\"Government certified\" claims"
+    ],
+    "answer": 1,
+    "explanation": "The CCPA took action against misleading \"100%\" claims used in food marketing."
+  },
+  {
+    "q": "Article 142 of the Constitution empowers the Supreme Court to:",
+    "options": [
+      "Amend the Constitution",
+      "Make laws on all subjects",
+      "Pass orders necessary for doing complete justice",
+      "Remove elected governments"
+    ],
+    "answer": 2,
+    "explanation": "Article 142 gives the Supreme Court extraordinary powers to pass orders necessary for doing complete justice in matters before it."
+  },
+  {
+    "q": "Which Article of the Indian Constitution is associated with the Supreme Court's power to do complete justice?",
+    "options": [
+      "Article 136",
+      "Article 141",
+      "Article 142",
+      "Article 144"
+    ],
+    "answer": 2,
+    "explanation": "Article 142 empowers the Supreme Court to pass orders necessary for doing complete justice."
+  },
+  {
+    "q": "Which case is associated with limitations on the Supreme Court's powers under Article 142, particularly in relation to fundamental rights and substantive law?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala",
+      "Prem Chand Garg v. State of Uttar Pradesh",
+      "S.R. Bommai v. Union of India",
+      "Maneka Gandhi v. Union of India"
+    ],
+    "answer": 1,
+    "explanation": "In Prem Chand Garg v. State of Uttar Pradesh (1962), the Supreme Court examined limits on the exercise of power under Article 142."
+  },
+  {
+    "q": "In Supreme Court Bar Association v. Union of India (1998), Article 142 was described as a power that:",
+    "options": [
+      "Replaces statutory law",
+      "Supplants the Constitution",
+      "Supplements rather than supplants statutory law",
+      "Applies only to civil cases"
+    ],
+    "answer": 2,
+    "explanation": "The judgment clarified that Article 142 supplements statutory law rather than replacing or supplanting it."
+  },
+  {
+    "q": "The Census 2027 house-listing operation was postponed in which state?",
+    "options": [
+      "Assam",
+      "Manipur",
+      "Nagaland",
+      "Mizoram"
+    ],
+    "answer": 1,
+    "explanation": "The house-listing operation for Census 2027 in Manipur was postponed until further declaration by the Central government."
+  },
+  {
+    "q": "Which organisation is described as the world's wealthiest cricket board in the provided current-affairs material?",
+    "options": [
+      "Cricket Australia",
+      "England and Wales Cricket Board",
+      "Board of Control for Cricket in India",
+      "Pakistan Cricket Board"
+    ],
+    "answer": 2,
+    "explanation": "The Board of Control for Cricket in India (BCCI) continues to be the wealthiest cricket board according to the provided material."
+  },
+  {
+    "q": "What is the estimated valuation of the BCCI mentioned in the current-affairs material?",
+    "options": [
+      "US$1.2 billion",
+      "US$1.8 billion",
+      "US$2.2 billion",
+      "US$3.5 billion"
+    ],
+    "answer": 2,
+    "explanation": "The BCCI is estimated to have a valuation of approximately US$2.2 billion, or around ₹18,760 crore as stated in the material."
+  },
+  {
+    "q": "LIC received RBI approval to acquire an aggregate stake of up to what percentage in ICICI Bank?",
+    "options": [
+      "5.00%",
+      "7.50%",
+      "9.99%",
+      "15.00%"
+    ],
+    "answer": 2,
+    "explanation": "The Reserve Bank of India approved LIC's acquisition of an aggregate stake of up to 9.99% in ICICI Bank."
+  },
+  {
+    "q": "Which institution approved LIC's proposed acquisition of up to 9.99% stake in ICICI Bank?",
+    "options": [
+      "SEBI",
+      "Reserve Bank of India",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "answer": 1,
+    "explanation": "The regulatory approval was granted by the Reserve Bank of India (RBI)."
+  },
+  {
+    "q": "India formally adopted the Flexible Inflation Targeting (FIT) framework in:",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2018"
+    ],
+    "answer": 2,
+    "explanation": "India formally adopted the Flexible Inflation Targeting framework in 2016 following recommendations associated with the Urjit Patel Committee."
+  },
+  {
+    "q": "What is India's retail inflation target under the Flexible Inflation Targeting framework?",
+    "options": [
+      "2% ± 1%",
+      "3% ± 1%",
+      "4% ± 2%",
+      "5% ± 2%"
+    ],
+    "answer": 2,
+    "explanation": "India's inflation target is 4%, with a tolerance band of ±2 percentage points, giving a range of 2% to 6%."
+  },
+  {
+    "q": "For which period has India retained the 4% retail inflation target with a ±2% tolerance band?",
+    "options": [
+      "April 1, 2025 to March 31, 2030",
+      "April 1, 2026 to March 31, 2031",
+      "January 1, 2026 to December 31, 2030",
+      "April 1, 2027 to March 31, 2032"
+    ],
+    "answer": 1,
+    "explanation": "The 4% inflation target with a ±2% tolerance band has been retained for April 1, 2026 to March 31, 2031."
+  },
+  {
+    "q": "Which price index is used as the primary inflation measure under India's Flexible Inflation Targeting framework?",
+    "options": [
+      "Wholesale Price Index",
+      "Consumer Price Index",
+      "Index of Industrial Production",
+      "GDP Deflator alone"
+    ],
+    "answer": 1,
+    "explanation": "India's inflation target is based on headline Consumer Price Index (CPI) inflation."
+  },
+  {
+    "q": "The Phillips Curve broadly examines the relationship between:",
+    "options": [
+      "Inflation and unemployment",
+      "Exports and imports",
+      "Fiscal deficit and public debt",
+      "Money supply and foreign exchange reserves"
+    ],
+    "answer": 0,
+    "explanation": "The Phillips Curve traditionally describes an inverse relationship between inflation and unemployment, although the strength of this relationship can vary."
+  },
+  {
+    "q": "Which of the following is identified as an important supply-side factor affecting inflation in India?",
+    "options": [
+      "Food-price volatility",
+      "Stock-market movements alone",
+      "Corporate taxation alone",
+      "Foreign exchange reserves alone"
+    ],
+    "answer": 0,
+    "explanation": "Food-price volatility and monsoon-related shocks are important supply-side factors affecting Indian inflation."
+  },
+  {
+    "q": "The 18th BRICS Summit 2026 is scheduled to be held in:",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "The 18th BRICS Summit 2026 is scheduled to be held in New Delhi on September 12–13, 2026."
+  },
+  {
+    "q": "India assumed the BRICS Chairmanship for 2026 on:",
+    "options": [
+      "January 1, 2026",
+      "April 1, 2026",
+      "July 1, 2026",
+      "September 1, 2026"
+    ],
+    "answer": 0,
+    "explanation": "India assumed the BRICS Chairmanship on January 1, 2026."
+  },
+  {
+    "q": "Who proposed the 'POWER' framework for enhanced BRICS cooperation?",
+    "options": [
+      "The President of Brazil",
+      "Chinese Ambassador Xu Feihong",
+      "The UN Secretary-General",
+      "The President of South Africa"
+    ],
+    "answer": 1,
+    "explanation": "Chinese Ambassador Xu Feihong proposed the POWER framework ahead of the 18th BRICS Summit."
+  },
+  {
+    "q": "Which of the following is NOT a component of the proposed BRICS POWER framework?",
+    "options": [
+      "Sovereign equality",
+      "Openness",
+      "Win-win development",
+      "Military alliance"
+    ],
+    "answer": 3,
+    "explanation": "The POWER framework includes sovereign equality, openness, win-win development, economic growth and responsibility. It does not represent a military alliance."
+  },
+  {
+    "q": "In the proposed BRICS POWER framework, 'P' refers to:",
+    "options": [
+      "Partnership",
+      "Peace",
+      "Sovereign equality",
+      "Prosperity"
+    ],
+    "answer": 2,
+    "explanation": "According to the provided material, the framework includes sovereign equality, openness, win-win development, economic growth and responsibility."
+  },
+  {
+    "q": "Which map projection was endorsed by the UN General Assembly in the 'Correct the Map' resolution mentioned in the material?",
+    "options": [
+      "Mercator projection",
+      "Equal Earth projection",
+      "Robinson projection",
+      "Gall-Peters projection"
+    ],
+    "answer": 1,
+    "explanation": "The UN General Assembly resolution endorsed the Equal Earth projection as an equal-area representation of the world."
+  },
+  {
+    "q": "The Equal Earth projection is best described as a:",
+    "options": [
+      "Conformal projection",
+      "Equal-area pseudocylindrical projection",
+      "Polar projection",
+      "Purely navigational projection"
+    ],
+    "answer": 1,
+    "explanation": "Equal Earth is an equal-area pseudocylindrical world map projection designed to preserve relative areas."
+  },
+  {
+    "q": "Which organisation's missile technologies were approved for transfer to Indian private industry?",
+    "options": [
+      "ISRO",
+      "DRDO",
+      "HAL",
+      "BARC"
+    ],
+    "answer": 1,
+    "explanation": "The Ministry of Defence approved the transfer of selected DRDO missile technologies to Indian private industry."
+  },
+  {
+    "q": "Which of the following is correctly matched?",
+    "options": [
+      "Akash — Surface-to-Air Missile",
+      "Astra — Surface-to-Surface Missile",
+      "Pralay — Air-to-Air Missile",
+      "Akash — Ballistic Missile"
+    ],
+    "answer": 0,
+    "explanation": "Akash is a Surface-to-Air Missile. Astra is a Beyond-Visual-Range Air-to-Air Missile, while Pralay is a quasi-ballistic missile."
+  },
+  {
+    "q": "Astra is primarily a:",
+    "options": [
+      "Surface-to-Air missile",
+      "Beyond-Visual-Range Air-to-Air missile",
+      "Submarine-launched missile",
+      "Anti-tank missile"
+    ],
+    "answer": 1,
+    "explanation": "Astra is an indigenous Beyond-Visual-Range Air-to-Air Missile (BVRAAM)."
+  },
+  {
+    "q": "Pralay is best described as a:",
+    "options": [
+      "Cruise missile",
+      "Quasi-ballistic missile",
+      "Surface-to-Air missile",
+      "Anti-satellite missile"
+    ],
+    "answer": 1,
+    "explanation": "Pralay is a quasi-ballistic missile designed for conventional precision-strike capabilities."
+  },
+  {
+    "q": "Authorities in Doda district imposed restrictions on VPN use under which provision mentioned in the material?",
+    "options": [
+      "Section 144 of the IPC",
+      "Section 163 of the BNSS",
+      "Article 356 of the Constitution",
+      "Section 66A of the IT Act"
+    ],
+    "answer": 1,
+    "explanation": "The restrictions were imposed under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), as stated in the provided material."
+  },
+  {
+    "q": "What does a Virtual Private Network (VPN) primarily provide?",
+    "options": [
+      "An unencrypted public connection",
+      "A secure encrypted connection over a network",
+      "A satellite communication link",
+      "A physical private cable"
+    ],
+    "answer": 1,
+    "explanation": "A VPN creates a secure, encrypted connection over a network such as the internet."
+  },
+  {
+    "q": "Exercise Veer Guardian is conducted jointly by the Indian Air Force and:",
+    "options": [
+      "French Air and Space Force",
+      "Royal Australian Air Force",
+      "Japan Air Self-Defense Force",
+      "United States Air Force"
+    ],
+    "answer": 2,
+    "explanation": "Exercise Veer Guardian is a bilateral air exercise between the Indian Air Force (IAF) and Japan Air Self-Defense Force (JASDF)."
+  },
+  {
+    "q": "Exercise Veer Guardian 2026 is being conducted at:",
+    "options": [
+      "Air Force Station Jodhpur",
+      "Air Force Station Pune",
+      "Air Force Station Tezpur",
+      "Air Force Station Sulur"
+    ],
+    "answer": 0,
+    "explanation": "The second edition of Exercise Veer Guardian 2026 is being conducted at Air Force Station Jodhpur."
+  },
+  {
+    "q": "Bhitarkanika National Park is located in which Indian state?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Andhra Pradesh",
+      "Gujarat"
+    ],
+    "answer": 1,
+    "explanation": "Bhitarkanika National Park is located in Odisha and is known for its mangrove ecosystem and saltwater crocodiles."
+  },
+  {
+    "q": "According to the provided material, saltwater crocodile hatchlings emerged from how many nesting sites in Bhitarkanika National Park?",
+    "options": [
+      "75",
+      "97",
+      "117",
+      "145"
+    ],
+    "answer": 2,
+    "explanation": "Hundreds of saltwater crocodile hatchlings were reported emerging from 117 nesting sites."
+  },
+  {
+    "q": "The National Policy on Geothermal Energy mentioned in the material was notified in:",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": 2,
+    "explanation": "The Government of India notified the National Policy on Geothermal Energy in 2025."
+  },
+  {
+    "q": "Puga Valley, associated with India's geothermal energy development, is located in:",
+    "options": [
+      "Sikkim",
+      "Ladakh",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 1,
+    "explanation": "Puga Valley is located in Ladakh and is an important region for India's geothermal energy potential."
+  }
+]
