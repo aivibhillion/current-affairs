@@ -1,0 +1,662 @@
+[
+  {
+    "q": "Who has been appointed as the Chairperson of the National Commission for Safai Karamcharis (NCSK)?",
+    "options": [
+      "Kaishab Bihari",
+      "Bhagwat Prasad Makwana",
+      "Amit Shah",
+      "Rajesh Kumar"
+    ],
+    "answer": 1,
+    "explanation": "Bhagwat Prasad Makwana has been appointed as the Chairperson of the National Commission for Safai Karamcharis. Kaishab Bihari has been appointed as Vice-Chairperson."
+  },
+  {
+    "q": "Until which date are the present appointments to the National Commission for Safai Karamcharis effective?",
+    "options": [
+      "31 March 2027",
+      "31 December 2027",
+      "31 March 2028",
+      "31 March 2029"
+    ],
+    "answer": 2,
+    "explanation": "The appointments of the Chairperson, Vice-Chairperson and three Members are effective until March 31, 2028, completing the tenure of the 10th Commission."
+  },
+  {
+    "q": "The National Commission for Safai Karamcharis primarily focuses on the welfare of:",
+    "options": [
+      "Farmers",
+      "Sanitation workers",
+      "Industrial workers",
+      "Migrant workers"
+    ],
+    "answer": 1,
+    "explanation": "The NCSK focuses on the socio-economic welfare, rights and working conditions of Safai Karamcharis and sanitation workers."
+  },
+  {
+    "q": "Where were the first Corps Commander-level talks between India and China in the Eastern Sector held?",
+    "options": [
+      "Nathu La",
+      "Wacha-Damai BPM Point",
+      "Daulat Beg Oldi",
+      "Chushul"
+    ],
+    "answer": 1,
+    "explanation": "The talks were held at the Wacha-Damai Border Personnel Meeting Point in Arunachal Pradesh, expanding military dialogue beyond the earlier Ladakh-focused mechanism."
+  },
+  {
+    "q": "The India-China military dialogue in the Eastern Sector is primarily related to the management of tensions along the:",
+    "options": [
+      "Arabian Sea",
+      "Line of Actual Control",
+      "Indian Ocean",
+      "Andaman Sea"
+    ],
+    "answer": 1,
+    "explanation": "The talks focus on managing tensions along the Line of Actual Control, particularly in the Eastern Sector involving Arunachal Pradesh."
+  },
+  {
+    "q": "What is the primary objective of the Districts as Export Hubs (DEH) Initiative?",
+    "options": [
+      "Convert districts into military zones",
+      "Promote district-level products and services in international markets",
+      "Replace the GST system",
+      "Establish export ports in every district"
+    ],
+    "answer": 1,
+    "explanation": "The DEH Initiative aims to identify products and services with export potential and connect local producers with international markets."
+  },
+  {
+    "q": "The Districts as Export Hubs Initiative builds upon which programme?",
+    "options": [
+      "Make in India",
+      "PM Gati Shakti",
+      "One District One Product",
+      "Startup India"
+    ],
+    "answer": 2,
+    "explanation": "The Districts as Export Hubs Initiative builds upon the One District One Product approach by connecting distinctive district products with international markets."
+  },
+  {
+    "q": "Which country has recognised India's Carbon Credit Trading Scheme as a qualifying carbon-pricing framework under its CBAM?",
+    "options": [
+      "France",
+      "Germany",
+      "United Kingdom",
+      "United States"
+    ],
+    "answer": 2,
+    "explanation": "The United Kingdom has recognised India's Carbon Credit Trading Scheme in the context of its Carbon Border Adjustment Mechanism."
+  },
+  {
+    "q": "What does CCTS stand for?",
+    "options": [
+      "Carbon Control Trading System",
+      "Carbon Credit Trading Scheme",
+      "Climate Carbon Tax Scheme",
+      "Carbon Compliance Transfer System"
+    ],
+    "answer": 1,
+    "explanation": "CCTS stands for Carbon Credit Trading Scheme, India's market-based mechanism for developing a domestic carbon market."
+  },
+  {
+    "q": "The Carbon Border Adjustment Mechanism (CBAM) is primarily associated with:",
+    "options": [
+      "Carbon-related trade measures",
+      "Agricultural subsidies",
+      "Defence procurement",
+      "Maritime security"
+    ],
+    "answer": 0,
+    "explanation": "CBAM is a carbon-related trade mechanism designed to address emissions embodied in certain imported goods and reduce the risk of carbon leakage."
+  },
+  {
+    "q": "Surplus liquidity management requires the central bank to balance:",
+    "options": [
+      "Exports and imports only",
+      "Inflation control and financial-market stability",
+      "Defence spending and taxation",
+      "Agricultural production and employment"
+    ],
+    "answer": 1,
+    "explanation": "Excess liquidity can influence inflation, interest rates and financial-market conditions, requiring appropriate liquidity-management instruments."
+  },
+  {
+    "q": "The BRICS Cross-Border Payment System primarily seeks to make international payments:",
+    "options": [
+      "Slower and more regulated",
+      "Cheaper, faster and more accessible",
+      "Exclusively dollar-based",
+      "Limited to developed countries"
+    ],
+    "answer": 1,
+    "explanation": "The initiative seeks to improve cross-border payments through interoperability of domestic payment systems and greater use of national currencies."
+  },
+  {
+    "q": "The BRICS Cross-Border Payment System is closely associated with discussions on:",
+    "options": [
+      "De-dollarisation",
+      "Nuclear disarmament",
+      "Ocean pollution",
+      "Space exploration"
+    ],
+    "answer": 0,
+    "explanation": "Greater use of national currencies and interoperable payment systems is associated with efforts to reduce dependence on the US dollar in international transactions."
+  },
+  {
+    "q": "Which European country backed India's bid for a permanent seat on the United Nations Security Council?",
+    "options": [
+      "Belgium",
+      "Luxembourg",
+      "Portugal",
+      "Switzerland"
+    ],
+    "answer": 1,
+    "explanation": "Luxembourg strongly supported India's bid for a permanent seat on the United Nations Security Council."
+  },
+  {
+    "q": "Luxembourg is a:",
+    "options": [
+      "Southern European island nation",
+      "Landlocked sovereign Grand Duchy in northwestern Europe",
+      "Central Asian republic",
+      "Balkan federation"
+    ],
+    "answer": 1,
+    "explanation": "Luxembourg is a landlocked sovereign Grand Duchy located in northwestern Europe."
+  },
+  {
+    "q": "India is seeking permanent membership of which United Nations body?",
+    "options": [
+      "UN General Assembly",
+      "UN Security Council",
+      "UN Economic and Social Council",
+      "International Court of Justice"
+    ],
+    "answer": 1,
+    "explanation": "India has long advocated reform of the UN Security Council and seeks permanent membership to make the Council more representative of contemporary global realities."
+  },
+  {
+    "q": "The 18th BRICS Summit mentioned in the current affairs material is scheduled to be held in:",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "explanation": "According to the supplied current-affairs material, the 18th BRICS Summit is scheduled to be held in New Delhi."
+  },
+  {
+    "q": "Which of the following is identified as a major challenge facing BRICS?",
+    "options": [
+      "Complete absence of economic cooperation",
+      "Internal frictions and weakening consensus",
+      "Lack of member countries",
+      "Dissolution of the grouping"
+    ],
+    "answer": 1,
+    "explanation": "The expanded BRICS faces challenges arising from internal frictions, differing geopolitical interests and weakening consensus."
+  },
+  {
+    "q": "Nepal's demand for climate compensation primarily highlights the concept of:",
+    "options": [
+      "Climate justice",
+      "Fiscal federalism",
+      "Blue economy",
+      "Digital sovereignty"
+    ],
+    "answer": 0,
+    "explanation": "Climate justice recognises that vulnerable and relatively low-emitting countries can experience disproportionately severe climate impacts."
+  },
+  {
+    "q": "What does ISRO's increased involvement of private companies in routine space activities indicate?",
+    "options": [
+      "Complete privatisation of ISRO",
+      "Withdrawal of ISRO from space research",
+      "Expansion of private-sector participation",
+      "End of India's satellite programme"
+    ],
+    "answer": 2,
+    "explanation": "ISRO is not being privatised. Instead, private companies and PSUs are being encouraged to participate in routine space manufacturing and operational activities."
+  },
+  {
+    "q": "Under the emerging Indian space-sector model, ISRO is expected to focus more on:",
+    "options": [
+      "Retail sale of satellites",
+      "Advanced research and missions",
+      "Manufacturing every operational satellite itself",
+      "Telecommunications billing"
+    ],
+    "answer": 1,
+    "explanation": "Private industry can undertake more routine manufacturing and operational activities, allowing ISRO to focus on advanced research, technology development and complex missions."
+  },
+  {
+    "q": "Which technology-enabled policing measure has been adopted by Goa Police?",
+    "options": [
+      "Blockchain courts",
+      "AI-powered call agent",
+      "Quantum policing drones only",
+      "Cryptocurrency surveillance"
+    ],
+    "answer": 1,
+    "explanation": "Goa Police has adopted technology-enabled policing measures including an AI-powered call agent."
+  },
+  {
+    "q": "Which map projection significantly distorts the relative size of regions away from the Equator?",
+    "options": [
+      "Equal Earth",
+      "Mercator",
+      "Robinson",
+      "Winkel Tripel"
+    ],
+    "answer": 1,
+    "explanation": "The Mercator projection is useful for navigation but significantly distorts the relative area of regions, particularly at higher latitudes."
+  },
+  {
+    "q": "The Equal Earth map projection is primarily designed to provide:",
+    "options": [
+      "Accurate continental area representation",
+      "Accurate military boundaries",
+      "Accurate ocean depth",
+      "Accurate time zones"
+    ],
+    "answer": 0,
+    "explanation": "Equal Earth is an equal-area map projection designed to represent the relative sizes of continents more accurately."
+  },
+  {
+    "q": "The Duleep Trophy is associated with which sport?",
+    "options": [
+      "Hockey",
+      "Football",
+      "Cricket",
+      "Badminton"
+    ],
+    "answer": 2,
+    "explanation": "The Duleep Trophy is a major domestic first-class cricket competition in India."
+  },
+  {
+    "q": "The Duleep Trophy was established during which season?",
+    "options": [
+      "1951–52",
+      "1961–62",
+      "1971–72",
+      "1981–82"
+    ],
+    "answer": 1,
+    "explanation": "The Duleep Trophy was established during the 1961–62 season."
+  },
+  {
+    "q": "The Duleep Trophy is named after:",
+    "options": [
+      "Ranjitsinhji",
+      "Kumar Shri Duleepsinhji",
+      "Vijay Hazare",
+      "C. K. Nayudu"
+    ],
+    "answer": 1,
+    "explanation": "The Duleep Trophy is named after Kumar Shri Duleepsinhji of Nawanagar, a prominent Indian cricketer."
+  },
+  {
+    "q": "Mitigation of short-lived climate pollutants can simultaneously:",
+    "options": [
+      "Increase global warming",
+      "Improve air quality and reduce near-term warming",
+      "Increase ozone depletion",
+      "Eliminate all greenhouse gases"
+    ],
+    "answer": 1,
+    "explanation": "Reducing short-lived climate pollutants can provide dual benefits by improving air quality and limiting near-term climate warming."
+  },
+  {
+    "q": "Which region is particularly vulnerable to degradation of the cryosphere?",
+    "options": [
+      "Deccan Plateau",
+      "Himalayan region",
+      "Thar Desert",
+      "Eastern Coastal Plains"
+    ],
+    "answer": 1,
+    "explanation": "The Himalayan cryosphere, including glaciers and snow, is highly sensitive to climate change."
+  },
+  {
+    "q": "Himalayan cryosphere degradation poses a major threat to:",
+    "options": [
+      "Downstream water availability",
+      "Atlantic fisheries",
+      "Antarctic ice sheets",
+      "European agriculture only"
+    ],
+    "answer": 0,
+    "explanation": "Changes in Himalayan glaciers and snow can affect river flows and downstream water availability, including across the Indo-Gangetic Plain."
+  },
+  {
+    "q": "Nepal's climate-related concerns are significant because Nepal is:",
+    "options": [
+      "One of the world's largest emitters",
+      "A relatively low-emitting but highly vulnerable country",
+      "Without Himalayan territory",
+      "Without hydropower resources"
+    ],
+    "answer": 1,
+    "explanation": "Nepal contributes relatively little to global emissions but faces substantial climate risks because of its Himalayan geography."
+  },
+  {
+    "q": "The One District One Product (ODOP) scheme primarily aims to:",
+    "options": [
+      "Promote one distinctive product from each district",
+      "Establish one university in every district",
+      "Build one airport in every district",
+      "Provide one government job to every household"
+    ],
+    "answer": 0,
+    "explanation": "ODOP identifies, brands and promotes distinctive products associated with different districts."
+  },
+  {
+    "q": "Which groups are among the primary beneficiaries of the ODOP scheme?",
+    "options": [
+      "Only multinational corporations",
+      "Artisans, farmers and small enterprises",
+      "Only government employees",
+      "Only large exporters"
+    ],
+    "answer": 1,
+    "explanation": "ODOP supports local production and helps artisans, farmers and small enterprises promote and develop their distinctive products."
+  },
+  {
+    "q": "According to the supplied material, ODOP covered how many products across how many districts as of 2025?",
+    "options": [
+      "761 products across 1,102 districts",
+      "1,102 products across 761 districts",
+      "770 products across 500 districts",
+      "500 products across 761 districts"
+    ],
+    "answer": 1,
+    "explanation": "The supplied material states that ODOP covered 1,102 products across 761 districts as of 2025."
+  },
+  {
+    "q": "The Vibrant Villages Programme primarily focuses on:",
+    "options": [
+      "Developing strategically located border villages",
+      "Developing coastal fishing villages only",
+      "Establishing smart cities",
+      "Developing industrial corridors"
+    ],
+    "answer": 0,
+    "explanation": "The Vibrant Villages Programme aims to improve infrastructure, connectivity, livelihoods and civilian presence in strategically important border villages."
+  },
+  {
+    "q": "One strategic objective of the Vibrant Villages Programme is to:",
+    "options": [
+      "Encourage out-migration",
+      "Reverse out-migration from border villages",
+      "Reduce border connectivity",
+      "Close remote villages"
+    ],
+    "answer": 1,
+    "explanation": "By improving infrastructure and livelihood opportunities, the programme seeks to retain population and strengthen civilian presence in border areas."
+  },
+  {
+    "q": "The 72nd National Film Awards ceremony in 2026 is scheduled to be held at:",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Ekta Nagar, Gujarat",
+      "Chennai"
+    ],
+    "answer": 2,
+    "explanation": "According to the supplied material, the 72nd National Film Awards ceremony is scheduled for September 22, 2026, at Ekta Nagar in Gujarat's Narmada district."
+  },
+  {
+    "q": "The Sarang Helicopter Display Team belongs to the:",
+    "options": [
+      "Indian Navy",
+      "Indian Army",
+      "Indian Air Force",
+      "Indian Coast Guard"
+    ],
+    "answer": 2,
+    "explanation": "Sarang is the helicopter display team of the Indian Air Force and performs aerial demonstrations using Dhruv helicopters."
+  },
+  {
+    "q": "The Indian Air Force's Sarang Helicopter Display Team participated in the El Alamein International Airshow in:",
+    "options": [
+      "Egypt",
+      "United Arab Emirates",
+      "France",
+      "Greece"
+    ],
+    "answer": 0,
+    "explanation": "The Sarang team travelled to Egypt to participate in the El Alamein International Airshow."
+  },
+  {
+    "q": "Which of the following is associated with India's air-defence capabilities?",
+    "options": [
+      "S-400",
+      "INS Vikrant",
+      "Arjun",
+      "Pinaka"
+    ],
+    "answer": 0,
+    "explanation": "The S-400 is a long-range surface-to-air missile system used for air defence. INS Vikrant is an aircraft carrier, Arjun is a tank and Pinaka is a rocket system."
+  },
+  {
+    "q": "India's forward posture along the China border includes enhanced:",
+    "options": [
+      "Infrastructure and all-weather connectivity",
+      "Coastal tourism",
+      "Inland water transport only",
+      "Agricultural subsidies"
+    ],
+    "answer": 0,
+    "explanation": "Improved border infrastructure, logistics, roads and all-weather connectivity support the rapid movement of personnel and military assets."
+  },
+  {
+    "q": "OPEC+ decisions primarily concern:",
+    "options": [
+      "Crude oil production",
+      "Gold reserves",
+      "Wheat production",
+      "Nuclear power"
+    ],
+    "answer": 0,
+    "explanation": "OPEC+ coordinates oil-production policies among participating OPEC members and partner producers."
+  },
+  {
+    "q": "According to the supplied current-affairs material, seven core OPEC+ countries decided to:",
+    "options": [
+      "Double October oil output",
+      "Keep October crude-oil output targets unchanged",
+      "Stop crude-oil production",
+      "Ban oil exports"
+    ],
+    "answer": 1,
+    "explanation": "The seven core OPEC+ countries decided to maintain their October crude-oil production targets amid economic uncertainty and supply disruptions."
+  },
+  {
+    "q": "What does FATF stand for?",
+    "options": [
+      "Financial Action Task Force",
+      "Federal Anti-Terror Force",
+      "Financial Assessment and Trade Forum",
+      "Foreign Assets Tracking Framework"
+    ],
+    "answer": 0,
+    "explanation": "FATF stands for Financial Action Task Force, an international body that develops standards to combat money laundering and terrorist financing."
+  },
+  {
+    "q": "FATF has raised concerns about digital hawala mainly in connection with:",
+    "options": [
+      "Tourism",
+      "Money laundering and terrorist financing",
+      "Climate finance",
+      "Agricultural exports"
+    ],
+    "answer": 1,
+    "explanation": "Digital hawala and other technology-enabled underground banking systems can create risks related to money laundering and terrorist financing."
+  },
+  {
+    "q": "According to the supplied material, nearly what proportion of surveyed jurisdictions detected the use of new technologies in underground banking networks?",
+    "options": [
+      "20%",
+      "40%",
+      "70%",
+      "95%"
+    ],
+    "answer": 2,
+    "explanation": "The supplied material states that nearly 70% of surveyed jurisdictions detected the use of new technologies in underground banking networks."
+  },
+  {
+    "q": "The proposed Delhi–Patna Bullet Train Corridor is primarily intended to:",
+    "options": [
+      "Improve high-speed connectivity",
+      "Replace all existing railways",
+      "Connect Delhi only with Mumbai",
+      "Develop waterways"
+    ],
+    "answer": 0,
+    "explanation": "The proposed corridor aims to improve high-speed rail connectivity and significantly reduce travel time between northern Indian cities."
+  },
+  {
+    "q": "The Yamuna is a major tributary of which river?",
+    "options": [
+      "Brahmaputra",
+      "Ganga",
+      "Godavari",
+      "Narmada"
+    ],
+    "answer": 1,
+    "explanation": "The Yamuna is the longest tributary of the Ganga and joins the Ganga at Prayagraj."
+  },
+  {
+    "q": "The Yamuna originates in the:",
+    "options": [
+      "Western Ghats",
+      "Himalayas",
+      "Aravalli Range",
+      "Eastern Ghats"
+    ],
+    "answer": 1,
+    "explanation": "The Yamuna originates from the Yamunotri Glacier in the Himalayan region."
+  },
+  {
+    "q": "According to the supplied material, the approximate length of the Yamuna River is:",
+    "options": [
+      "876 km",
+      "1,176 km",
+      "1,376 km",
+      "1,976 km"
+    ],
+    "answer": 2,
+    "explanation": "The supplied material gives the approximate length of the Yamuna as 1,376 kilometres."
+  },
+  {
+    "q": "Which of the following pairs is incorrectly matched?",
+    "options": [
+      "ODOP — District-specific products",
+      "DEH — Export promotion",
+      "VVP — Border-village development",
+      "FATF — Oil production"
+    ],
+    "answer": 3,
+    "explanation": "FATF deals with combating money laundering and terrorist financing, not oil production. OPEC+ is associated with oil-production coordination."
+  },
+  {
+    "q": "Which of the following statements about the BRICS Cross-Border Payment System is correct?",
+    "options": [
+      "It seeks to make cross-border payments cheaper and faster",
+      "It requires all transactions to use US dollars",
+      "It is exclusively a military initiative",
+      "It eliminates domestic payment systems"
+    ],
+    "answer": 0,
+    "explanation": "The initiative seeks cheaper, faster and more accessible cross-border payments through interoperability and greater use of national currencies."
+  },
+  {
+    "q": "Which concept refers to recognising unequal climate impacts and responsibilities among countries?",
+    "options": [
+      "Climate justice",
+      "Fiscal federalism",
+      "Blue economy",
+      "Digital sovereignty"
+    ],
+    "answer": 0,
+    "explanation": "Climate justice recognises that countries and communities that have contributed relatively little to climate change can nevertheless suffer disproportionately severe impacts."
+  },
+  {
+    "q": "Which statements about the Himalayan cryosphere are correct? 1. It is important for downstream water systems. 2. Climate change can affect Himalayan glaciers and snow. 3. Its degradation has implications only for tourism.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "The Himalayan cryosphere is important for water security, ecosystems, agriculture and disaster risks, so its significance extends far beyond tourism."
+  },
+  {
+    "q": "Which statements about the Mercator and Equal Earth projections are correct? 1. Mercator is useful for navigation. 2. Mercator distorts the relative area of high-latitude regions. 3. Equal Earth is an equal-area projection.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "Mercator is historically important for navigation but distorts area at higher latitudes, while Equal Earth is designed as an equal-area projection."
+  },
+  {
+    "q": "Which statement best describes the emerging Indian space-sector model?",
+    "options": [
+      "ISRO is being completely privatised",
+      "ISRO is withdrawing from space research",
+      "Private participation is expanding while ISRO focuses on advanced missions and research",
+      "Private satellite manufacturing is being banned"
+    ],
+    "answer": 2,
+    "explanation": "The model expands private-sector participation in routine space activities while allowing ISRO to focus on advanced research, technology and complex missions."
+  },
+  {
+    "q": "Which of the following pairs is incorrectly matched?",
+    "options": [
+      "S-400 — Air defence",
+      "Rafale — Fighter aircraft",
+      "Sarang — Helicopter display team",
+      "Duleep Trophy — Football"
+    ],
+    "answer": 3,
+    "explanation": "The Duleep Trophy is a domestic first-class cricket competition, not a football competition."
+  },
+  {
+    "q": "Which of the following combinations is correctly matched?",
+    "options": [
+      "FATF — Crude oil production",
+      "OPEC+ — Anti-money laundering",
+      "OPEC+ — Oil production coordination",
+      "NCSK — International monetary policy"
+    ],
+    "answer": 2,
+    "explanation": "OPEC+ is associated with oil-production coordination. FATF focuses on money laundering and terrorist financing, while NCSK focuses on sanitation workers."
+  },
+  {
+    "q": "Which initiative most directly combines border security with civilian development?",
+    "options": [
+      "ODOP",
+      "Vibrant Villages Programme",
+      "CCTS",
+      "DEH"
+    ],
+    "answer": 1,
+    "explanation": "The Vibrant Villages Programme has both developmental and strategic significance by strengthening infrastructure, livelihoods and civilian presence in border areas."
+  },
+  {
+    "q": "Which statement correctly describes the relationship between ODOP and DEH?",
+    "options": [
+      "They are completely unrelated initiatives",
+      "DEH builds upon the district-product approach of ODOP and adds an export-oriented dimension",
+      "ODOP replaced DEH",
+      "DEH focuses exclusively on defence exports"
+    ],
+    "answer": 1,
+    "explanation": "ODOP identifies and promotes distinctive district products, while DEH adds an export-oriented dimension by connecting district products and services with international markets."
+  }
+]
