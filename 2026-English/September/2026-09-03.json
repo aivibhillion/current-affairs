@@ -1,0 +1,640 @@
+[
+  {
+    "q": "The Tamil Nadu Business Facilitation (Amendment) Bill, 2026 primarily aims to:",
+    "options": [
+      "Increase corporate taxation",
+      "Reduce the timeline for business and regulatory approvals",
+      "Establish new industrial corridors",
+      "Privatize state-owned enterprises"
+    ],
+    "answer": 1,
+    "explanation": "The Bill aims to streamline business processes by reducing the timeline for business and regulatory approvals to 21 days."
+  },
+  {
+    "q": "What approval timeline is targeted under the Tamil Nadu Business Facilitation (Amendment) Bill, 2026?",
+    "options": [
+      "7 days",
+      "14 days",
+      "21 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "The proposed system aims to process business and regulatory approvals within 21 days."
+  },
+  {
+    "q": "India's real GDP growth during Q1 of FY 2026–27 was reported as:",
+    "options": [
+      "6.5%",
+      "7.0%",
+      "7.8%",
+      "8.5%"
+    ],
+    "answer": 2,
+    "explanation": "India recorded real GDP growth of 7.8% in the first quarter of FY 2026–27."
+  },
+  {
+    "q": "Which organization defended India's Q1 FY 2026–27 GDP estimates?",
+    "options": [
+      "Reserve Bank of India",
+      "NITI Aayog",
+      "Ministry of Statistics and Programme Implementation",
+      "Securities and Exchange Board of India"
+    ],
+    "answer": 2,
+    "explanation": "MoSPI defended the GDP estimates and explained the methodology used for their calculation."
+  },
+  {
+    "q": "Which base year was mentioned for India's GDP estimates?",
+    "options": [
+      "2011–12",
+      "2015–16",
+      "2020–21",
+      "2022–23"
+    ],
+    "answer": 3,
+    "explanation": "The GDP estimates mentioned in the material use 2022–23 as the base year."
+  },
+  {
+    "q": "Which methodology was specifically mentioned in relation to India's GDP estimation?",
+    "options": [
+      "Single-deflation methodology",
+      "Double-deflation methodology",
+      "Zero-deflation methodology",
+      "Nominal-adjustment methodology"
+    ],
+    "answer": 1,
+    "explanation": "MoSPI stated that the estimates use a double-deflation methodology, which separately considers price changes in inputs and outputs."
+  },
+  {
+    "q": "India's data-centre sector is projected to reach approximately what capacity by 2030?",
+    "options": [
+      "2.5 GW",
+      "4 GW",
+      "6.5 GW",
+      "10 GW"
+    ],
+    "answer": 2,
+    "explanation": "The data-centre sector is projected to reach approximately 6.5 GW of capacity by 2030."
+  },
+  {
+    "q": "The projected Indian data-centre industry mentioned in the material could represent an industry worth approximately:",
+    "options": [
+      "$50 billion",
+      "$100 billion",
+      "$200 billion",
+      "$500 billion"
+    ],
+    "answer": 2,
+    "explanation": "The projected data-centre expansion could represent an industry worth approximately $200 billion."
+  },
+  {
+    "q": "The proposed Public Insurance Registry (PIR) is associated with which regulatory body?",
+    "options": [
+      "RBI",
+      "IRDAI",
+      "SEBI",
+      "PFRDA"
+    ],
+    "answer": 1,
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) proposed the Public Insurance Registry."
+  },
+  {
+    "q": "The Public Insurance Registry (PIR) is envisioned as:",
+    "options": [
+      "A monetary policy institution",
+      "Digital Public Infrastructure",
+      "A private insurance company",
+      "A stock exchange"
+    ],
+    "answer": 1,
+    "explanation": "The PIR is envisioned as Digital Public Infrastructure to address information gaps in the insurance sector."
+  },
+  {
+    "q": "The PIR initiative is aligned with which broader objective?",
+    "options": [
+      "One Nation, One Tax",
+      "Sabka Bima Sabki Raksha",
+      "Make in India",
+      "Digital India only"
+    ],
+    "answer": 1,
+    "explanation": "The PIR supports the broader objective of Sabka Bima Sabki Raksha, meaning insurance for all and security for all."
+  },
+  {
+    "q": "The proposed Kerala Coconut Park primarily focuses on:",
+    "options": [
+      "Coconut tourism alone",
+      "Processing, value addition and exports",
+      "Replacement of coconut plantations",
+      "Importing coconuts"
+    ],
+    "answer": 1,
+    "explanation": "The Coconut Park aims to strengthen processing, value addition and export activities in Kerala's coconut industry."
+  },
+  {
+    "q": "The 26th Shanghai Cooperation Organisation Summit mentioned in the material was held in:",
+    "options": [
+      "Astana",
+      "Bishkek",
+      "New Delhi",
+      "Beijing"
+    ],
+    "answer": 1,
+    "explanation": "The 26th SCO Heads of State Council meeting was held in Bishkek, Kyrgyzstan."
+  },
+  {
+    "q": "The 26th SCO Summit concluded with the signing of the:",
+    "options": [
+      "Delhi Declaration",
+      "Samarkand Declaration",
+      "Bishkek Declaration",
+      "Astana Charter"
+    ],
+    "answer": 2,
+    "explanation": "The summit concluded with the Bishkek Declaration, reaffirming cooperation in peace, security and development."
+  },
+  {
+    "q": "Which of the following was NOT one of India's three pillars emphasized at the SCO?",
+    "options": [
+      "Security",
+      "Connectivity",
+      "Opportunity",
+      "Privatization"
+    ],
+    "answer": 3,
+    "explanation": "India emphasized three pillars: Security, Connectivity and Opportunity."
+  },
+  {
+    "q": "India emphasized that conflicts should be resolved through:",
+    "options": [
+      "Military intervention",
+      "Economic sanctions only",
+      "Dialogue and diplomacy",
+      "Territorial expansion"
+    ],
+    "answer": 2,
+    "explanation": "India emphasized dialogue and diplomacy as the means for resolving conflicts."
+  },
+  {
+    "q": "India stressed that connectivity projects should respect:",
+    "options": [
+      "Only economic interests",
+      "National sovereignty and territorial integrity",
+      "Private-sector ownership",
+      "Military alliances"
+    ],
+    "answer": 1,
+    "explanation": "India emphasized that connectivity initiatives must respect national sovereignty and territorial integrity."
+  },
+  {
+    "q": "Which SCO initiative is specifically related to countering security challenges and threats?",
+    "options": [
+      "Universal Security Centre",
+      "Green Technology Corridor",
+      "Tourism Capital Programme",
+      "Coconut Development Programme"
+    ],
+    "answer": 0,
+    "explanation": "The Universal Security Centre is intended to strengthen cooperation against terrorism, extremism and organized crime."
+  },
+  {
+    "q": "The SCO Anti-Drug Centre focuses particularly on combating:",
+    "options": [
+      "Food insecurity",
+      "Synthetic drugs and drug addiction",
+      "Cyber taxation",
+      "Climate change"
+    ],
+    "answer": 1,
+    "explanation": "The SCO anti-drug initiatives include combating drug addiction and the spread of synthetic drugs."
+  },
+  {
+    "q": "The SCO action plan for port and logistics development covers which period?",
+    "options": [
+      "2024–2027",
+      "2025–2030",
+      "2026–2030",
+      "2030–2035"
+    ],
+    "answer": 2,
+    "explanation": "An action plan for port and logistics development covering 2026–2030 was signed."
+  },
+  {
+    "q": "The SCO Green Technology Corridor is primarily associated with:",
+    "options": [
+      "Green and sustainable technological cooperation",
+      "Military deployment",
+      "Nuclear weapons",
+      "Tourism visas"
+    ],
+    "answer": 0,
+    "explanation": "The Green Technology Corridor is intended to promote cooperation in green technologies and sustainable development."
+  },
+  {
+    "q": "Which group of organizations was associated with the SCO trilateral cooperation roadmap?",
+    "options": [
+      "SCO–CSTO–CIS",
+      "SCO–NATO–EU",
+      "SCO–ASEAN–SAARC",
+      "SCO–OPEC–WTO"
+    ],
+    "answer": 0,
+    "explanation": "The summit approved a roadmap for trilateral cooperation among the SCO, CSTO and CIS."
+  },
+  {
+    "q": "The SCO Plan of Cooperation on international information security covers:",
+    "options": [
+      "2024–2026",
+      "2025–2027",
+      "2026–2028",
+      "2028–2030"
+    ],
+    "answer": 2,
+    "explanation": "The SCO adopted a Plan of Cooperation on international information security for 2026–2028."
+  },
+  {
+    "q": "The SCO biodiversity initiative mentioned in the material covers:",
+    "options": [
+      "2024–2029",
+      "2025–2030",
+      "2026–2031",
+      "2030–2040"
+    ],
+    "answer": 2,
+    "explanation": "The initiative for Conservation and Sustainable Management of Biodiversity covers 2026–2031."
+  },
+  {
+    "q": "Pakistan's SCO chairmanship mentioned in the material covers:",
+    "options": [
+      "2025–26",
+      "2026–27",
+      "2027–28",
+      "2028–29"
+    ],
+    "answer": 1,
+    "explanation": "Pakistan will hold the rotating SCO chairmanship for 2026–27."
+  },
+  {
+    "q": "What is the theme of Pakistan's SCO chairmanship mentioned in the material?",
+    "options": [
+      "Peace Through Development",
+      "Turning Vision into Action: Connectivity, Innovation and Shared Prosperity",
+      "One Asia, One Future",
+      "Security Through Strength"
+    ],
+    "answer": 1,
+    "explanation": "The stated theme for Pakistan's 2026–27 SCO chairmanship is Turning Vision into Action: Connectivity, Innovation and Shared Prosperity."
+  },
+  {
+    "q": "Which city was designated as the SCO Tourism and Cultural Capital for 2026–27?",
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Karachi",
+      "Peshawar"
+    ],
+    "answer": 1,
+    "explanation": "Lahore, Pakistan, was designated the SCO Tourism and Cultural Capital for 2026–27."
+  },
+  {
+    "q": "The SCO Plus format primarily involves:",
+    "options": [
+      "Only SCO member states",
+      "Non-member states and international organizations",
+      "Only military organizations",
+      "Only private corporations"
+    ],
+    "answer": 1,
+    "explanation": "SCO Plus expands the dialogue mechanism by involving non-member states and international organizations."
+  },
+  {
+    "q": "The SCO Plus theme for 2026 focuses on:",
+    "options": [
+      "Reform of the IMF",
+      "The UN as a key element of a just world order",
+      "Global agricultural subsidies",
+      "Maritime piracy"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 SCO Plus theme focuses on the UN's role in a just world order and the contribution of SCO Plus states to a multipolar world."
+  },
+  {
+    "q": "EOS-05 is associated with which organization?",
+    "options": [
+      "DRDO",
+      "ISRO",
+      "CSIR",
+      "BARC"
+    ],
+    "answer": 1,
+    "explanation": "EOS-05 is an Earth observation satellite mission being prepared by ISRO."
+  },
+  {
+    "q": "EOS-05 was formerly associated with which designation?",
+    "options": [
+      "RISAT-1",
+      "GISAT-1A",
+      "Cartosat-5",
+      "INSAT-4A"
+    ],
+    "answer": 1,
+    "explanation": "The material identifies EOS-05 as formerly known as GISAT-1A."
+  },
+  {
+    "q": "EOS-05 is planned to be launched aboard:",
+    "options": [
+      "PSLV-C60",
+      "GSLV-F17",
+      "SSLV-D5",
+      "LVM3-M6"
+    ],
+    "answer": 1,
+    "explanation": "EOS-05 is planned to be launched aboard the GSLV-F17 rocket from Sriharikota."
+  },
+  {
+    "q": "The primary purpose of EOS-05 is related to:",
+    "options": [
+      "Deep-sea exploration",
+      "Continuous geo-imaging",
+      "Human spaceflight",
+      "Asteroid mining"
+    ],
+    "answer": 1,
+    "explanation": "EOS-05 is intended to provide continuous geo-imaging over the Indian subcontinent."
+  },
+  {
+    "q": "BAM-H24 is associated with:",
+    "options": [
+      "Solar cells",
+      "Solid rocket propulsion",
+      "Vaccine development",
+      "Semiconductor manufacturing"
+    ],
+    "answer": 1,
+    "explanation": "BAM-H24 is a novel high-energy compound intended for potential use in next-generation solid rocket propulsion."
+  },
+  {
+    "q": "BAM-H24 is synthesized using which elements?",
+    "options": [
+      "Carbon, oxygen and silicon",
+      "Boron, hydrogen and nitrogen",
+      "Lithium, cobalt and nickel",
+      "Uranium, thorium and plutonium"
+    ],
+    "answer": 1,
+    "explanation": "The compound BAM-H24 is synthesized using boron, hydrogen and nitrogen."
+  },
+  {
+    "q": "The BAM-H24 patent was secured by scientists from DRDO and:",
+    "options": [
+      "IIT Madras",
+      "University of Hyderabad",
+      "IISc Bengaluru",
+      "IIT Delhi"
+    ],
+    "answer": 1,
+    "explanation": "Scientists from DRDO and the University of Hyderabad secured the patent for BAM-H24."
+  },
+  {
+    "q": "The Tenzing Norgay National Adventure Awards 2024 recognize achievements in how many categories?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": 2,
+    "explanation": "The four categories are Land Adventure, Water Adventure, Air Adventure and Lifetime Achievement."
+  },
+  {
+    "q": "Which ministry announced the Tenzing Norgay National Adventure Awards 2024?",
+    "options": [
+      "Ministry of Defence",
+      "Ministry of Youth Affairs and Sports",
+      "Ministry of Tourism",
+      "Ministry of Home Affairs"
+    ],
+    "answer": 1,
+    "explanation": "The awards were announced by the Ministry of Youth Affairs and Sports."
+  },
+  {
+    "q": "The proposed Tamil Nadu Olympic City is planned to be established in:",
+    "options": [
+      "Madurai",
+      "Coimbatore",
+      "Chennai",
+      "Tiruchirappalli"
+    ],
+    "answer": 2,
+    "explanation": "The Tamil Nadu government plans to establish the Olympic City in Chennai."
+  },
+  {
+    "q": "The proposed Tamil Nadu Olympic City will be developed by:",
+    "options": [
+      "Sports Authority of India alone",
+      "Tamil Nadu Sports Development Authority",
+      "Indian Olympic Association",
+      "Ministry of Culture"
+    ],
+    "answer": 1,
+    "explanation": "The facility is proposed to be developed by the Tamil Nadu Sports Development Authority."
+  },
+  {
+    "q": "Pichavaram Mangrove Forest is located in:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha",
+      "West Bengal"
+    ],
+    "answer": 1,
+    "explanation": "Pichavaram Mangrove Forest is located in Tamil Nadu."
+  },
+  {
+    "q": "The Total Economic Value (TEV) of Pichavaram Mangrove Forest was estimated at approximately:",
+    "options": [
+      "₹485.38 crore",
+      "₹1,485.38 crore",
+      "₹2,485.38 crore",
+      "₹4,285.38 crore"
+    ],
+    "answer": 2,
+    "explanation": "The ecological-economic study estimated the Total Economic Value of Pichavaram Mangrove Forest at ₹2,485.38 crore."
+  },
+  {
+    "q": "Which institution conducted the ecological-economic study of Pichavaram Mangroves?",
+    "options": [
+      "ISEC, Bengaluru",
+      "TERI, New Delhi",
+      "IIT Madras",
+      "NITI Aayog"
+    ],
+    "answer": 0,
+    "explanation": "The study was conducted by the Institute for Social and Economic Change (ISEC), Bengaluru."
+  },
+  {
+    "q": "Which Article of the Indian Constitution abolishes untouchability?",
+    "options": [
+      "Article 14",
+      "Article 15",
+      "Article 17",
+      "Article 21"
+    ],
+    "answer": 2,
+    "explanation": "Article 17 of the Indian Constitution abolishes untouchability and prohibits its practice in any form."
+  },
+  {
+    "q": "The Protection of Civil Rights Act was enacted in:",
+    "options": [
+      "1950",
+      "1955",
+      "1962",
+      "1976"
+    ],
+    "answer": 1,
+    "explanation": "The Protection of Civil Rights Act was enacted in 1955 to provide legal protection against practices associated with untouchability."
+  },
+  {
+    "q": "The SC/ST (Prevention of Atrocities) Act was enacted in:",
+    "options": [
+      "1976",
+      "1982",
+      "1989",
+      "1992"
+    ],
+    "answer": 2,
+    "explanation": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was enacted in 1989."
+  },
+  {
+    "q": "Which of the following is identified as a challenge to the effective elimination of caste-based discrimination?",
+    "options": [
+      "Economic dependence",
+      "Social exclusion",
+      "Witness vulnerability",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The material identifies economic dependence, social exclusion, covert discrimination and witness vulnerability as continuing challenges."
+  },
+  {
+    "q": "Section 4 of the SC/ST (Prevention of Atrocities) Act is particularly relevant to:",
+    "options": [
+      "Administrative accountability for neglect of duties",
+      "Agricultural subsidies",
+      "Environmental protection",
+      "Election expenditure"
+    ],
+    "answer": 0,
+    "explanation": "Section 4 deals with the failure or neglect of duties by public servants under the Act."
+  },
+  {
+    "q": "In the context of the material, 'Dalit Capitalism' is primarily associated with:",
+    "options": [
+      "Economic empowerment",
+      "Military modernization",
+      "Judicial appointments",
+      "Environmental regulation"
+    ],
+    "answer": 0,
+    "explanation": "Dalit Capitalism is associated with promoting entrepreneurship and economic independence among historically disadvantaged communities."
+  },
+  {
+    "q": "Which government initiative is mentioned as a possible instrument for promoting 'Dalit Capitalism'?",
+    "options": [
+      "Stand-Up India",
+      "PM-KISAN",
+      "PMAY",
+      "UJALA"
+    ],
+    "answer": 0,
+    "explanation": "Stand-Up India is mentioned as an initiative that can support entrepreneurship and economic empowerment."
+  },
+  {
+    "q": "AVM Shakti Sharma achieved which historic distinction?",
+    "options": [
+      "First woman Chief of the Air Staff",
+      "First non-medical woman officer in the Indian Defence Services to attain Air Vice Marshal rank",
+      "First woman fighter pilot",
+      "First woman Defence Secretary"
+    ],
+    "answer": 1,
+    "explanation": "She became the first non-medical woman officer in the Indian Defence Services to achieve the two-star rank of Air Vice Marshal."
+  },
+  {
+    "q": "AVM Shakti Sharma was commissioned into which branch of the Indian Air Force?",
+    "options": [
+      "Flying Branch",
+      "Education Branch",
+      "Technical Branch",
+      "Medical Branch"
+    ],
+    "answer": 1,
+    "explanation": "She was commissioned into the Indian Air Force Education Branch in 1994."
+  },
+  {
+    "q": "Group Captain Abhinandan Varthaman joined which airline after leaving the Indian Air Force?",
+    "options": [
+      "IndiGo",
+      "Air India Express",
+      "FLY91",
+      "Akasa Air"
+    ],
+    "answer": 2,
+    "explanation": "After leaving the IAF, Group Captain Abhinandan Varthaman joined Goa-based regional airline FLY91 as a pilot."
+  },
+  {
+    "q": "According to the material, Abhinandan Varthaman resigned from the Indian Air Force on:",
+    "options": [
+      "31 March 2025",
+      "31 March 2026",
+      "15 August 2026",
+      "1 January 2026"
+    ],
+    "answer": 1,
+    "explanation": "The material states that he resigned from the IAF on 31 March 2026 after nearly 22 years of service."
+  },
+  {
+    "q": "Major Rishabh Singh Sambyal served as ADC to:",
+    "options": [
+      "The Prime Minister of India",
+      "President Droupadi Murmu",
+      "The Defence Minister",
+      "The Chief of Defence Staff"
+    ],
+    "answer": 1,
+    "explanation": "Major Rishabh Singh Sambyal served as Aide-de-Camp to President Droupadi Murmu."
+  },
+  {
+    "q": "Major Rishabh Singh Sambyal served in which of the following formations/regiments?",
+    "options": [
+      "Jat Regiment and 4 Para Special Forces",
+      "Sikh Regiment and MARCOS",
+      "Assam Rifles and NSG",
+      "Gorkha Rifles and Garud"
+    ],
+    "answer": 0,
+    "explanation": "Before serving as ADC, he served in the Jat Regiment and 4 Para Special Forces."
+  },
+  {
+    "q": "World Skyscraper Day is observed annually on:",
+    "options": [
+      "September 1",
+      "September 2",
+      "September 3",
+      "September 5"
+    ],
+    "answer": 2,
+    "explanation": "World Skyscraper Day is observed annually on September 3."
+  },
+  {
+    "q": "World Skyscraper Day is associated with the birth anniversary of:",
+    "options": [
+      "Frank Lloyd Wright",
+      "Louis H. Sullivan",
+      "Le Corbusier",
+      "Antoni Gaudí"
+    ],
+    "answer": 1,
+    "explanation": "September 3 also commemorates the birth anniversary of Louis H. Sullivan, a pioneer of skyscraper design."
+  }
+]
