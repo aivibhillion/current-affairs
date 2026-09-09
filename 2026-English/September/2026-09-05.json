@@ -1,0 +1,362 @@
+[
+{
+"q": "Teachers' Day is celebrated annually in India on which date?",
+"options": ["2 October", "5 September", "14 November", "26 January"],
+"answer": 1,
+"explanation": "Teachers' Day is observed in India on September 5 every year to honor teachers and commemorate the birth anniversary of Dr. Sarvepalli Radhakrishnan."
+},
+{
+"q": "Dr. Sarvepalli Radhakrishnan served as India's first:",
+"options": ["President", "Prime Minister", "Vice President", "Chief Justice"],
+"answer": 2,
+"explanation": "Dr. Sarvepalli Radhakrishnan was India's first Vice President, serving from 1952 to 1962. He later became the second President of India."
+},
+{
+"q": "Dr. Sarvepalli Radhakrishnan was known as a:",
+"options": ["Philosopher, educator and statesman", "Scientist, engineer and economist", "Lawyer, judge and diplomat", "Military officer, author and administrator"],
+"answer": 0,
+"explanation": "Dr. Radhakrishnan made important contributions as a philosopher, educator and statesman."
+},
+{
+"q": "Teachers' Day is popularly known as what in India?",
+"options": ["Guru Purnima", "Shikshak Diwas", "Vidya Utsav", "Guru Diwas"],
+"answer": 1,
+"explanation": "Teachers' Day is commonly known as Shikshak Diwas in India."
+},
+{
+"q": "Teachers' Day in India is observed on the birth anniversary of:",
+"options": ["Dr. B. R. Ambedkar", "Dr. Sarvepalli Radhakrishnan", "Mahatma Gandhi", "Dr. A. P. J. Abdul Kalam"],
+"answer": 1,
+"explanation": "September 5 is the birth anniversary of Dr. Sarvepalli Radhakrishnan, whose contributions to education and philosophy are widely recognized."
+},
+{
+"q": "What is one of the broader purposes of Teachers' Day?",
+"options": ["Promoting international trade", "Recognizing teachers' contribution to society", "Regulating financial markets", "Promoting military education"],
+"answer": 1,
+"explanation": "Teachers' Day recognizes the important role teachers play in developing knowledge, curiosity, values, ambition and responsible citizens."
+},
+{
+"q": "Serian, which witnessed a severe haze-related emergency, is located in:",
+"options": ["Sabah, Malaysia", "Sarawak, Malaysia", "Java, Indonesia", "Sumatra, Indonesia"],
+"answer": 1,
+"explanation": "Serian is a district in Sarawak, Malaysia, on the island of Borneo."
+},
+{
+"q": "The severe haze affecting Serian was primarily associated with:",
+"options": ["Volcanic eruptions", "Industrial emissions in Kuala Lumpur", "Forest and peat fires in neighbouring Indonesia", "Dust storms from Australia"],
+"answer": 2,
+"explanation": "The severe haze was linked to forest and peat fires in neighbouring Indonesia, resulting in transboundary air pollution."
+},
+{
+"q": "The Air Pollution Index in Serian reportedly reached approximately:",
+"options": ["100", "200", "300", "519"],
+"answer": 3,
+"explanation": "The Air Pollution Index in Serian reportedly reached 519, reflecting extremely hazardous air pollution."
+},
+{
+"q": "The haze episode affecting Serian is an example of:",
+"options": ["Transboundary air pollution", "Ozone-hole formation", "Marine pollution", "Acid rain caused by European industries"],
+"answer": 0,
+"explanation": "Pollution originating from fires in Indonesia affected air quality in neighbouring Malaysia, making it an example of transboundary air pollution."
+},
+{
+"q": "NVIDIA announced an agreement to acquire which AI platform?",
+"options": ["OpenAI", "DeepMind", "Hugging Face", "Anthropic"],
+"answer": 2,
+"explanation": "NVIDIA announced an agreement to acquire Hugging Face, a major platform for AI models, datasets and applications."
+},
+{
+"q": "The announced NVIDIA-Hugging Face transaction was valued at approximately:",
+"options": ["$2.93 billion", "$5.93 billion", "$12.93 billion", "$22.93 billion"],
+"answer": 2,
+"explanation": "NVIDIA announced the acquisition agreement at a valuation of approximately $12.93 billion."
+},
+{
+"q": "Which of the following best describes Hugging Face?",
+"options": ["A global oil company", "An AI development and open-model platform", "A satellite-launch company", "A pharmaceutical manufacturer"],
+"answer": 1,
+"explanation": "Hugging Face is an AI platform and community supporting the development, sharing and deployment of models, datasets and applications."
+},
+{
+"q": "NVIDIA's acquisition of Hugging Face primarily strengthens its presence in:",
+"options": ["Agriculture and mining", "AI software and developer ecosystems", "Textiles and manufacturing", "Banking and insurance"],
+"answer": 1,
+"explanation": "The acquisition strengthens NVIDIA's position in AI software, models and developer ecosystems in addition to its semiconductor hardware business."
+},
+{
+"q": "According to NVIDIA's announcement, Hugging Face would:",
+"options": ["Become a military-only platform", "Remain an open platform", "Stop supporting non-NVIDIA hardware", "Shut down its model-sharing services"],
+"answer": 1,
+"explanation": "NVIDIA stated that Hugging Face would remain an open platform, with developers retaining choices regarding models, frameworks, cloud providers and computing platforms."
+},
+{
+"q": "India's foreign exchange reserves reached approximately what record level in the week ending August 28, 2026?",
+"options": ["$540.803 billion", "$640.803 billion", "$740.803 billion", "$840.803 billion"],
+"answer": 2,
+"explanation": "India's foreign exchange reserves reached a record high of approximately $740.803 billion for the week ending August 28, 2026."
+},
+{
+"q": "India's foreign exchange reserves increased by approximately how much in the reported week?",
+"options": ["$1.1475 billion", "$5.1475 billion", "$11.475 billion", "$21.475 billion"],
+"answer": 2,
+"explanation": "The reserves increased by approximately $11.475 billion during the reported week."
+},
+{
+"q": "Which institution publishes India's weekly foreign exchange reserve data?",
+"options": ["SEBI", "RBI", "NITI Aayog", "Finance Commission"],
+"answer": 1,
+"explanation": "The Reserve Bank of India publishes India's official weekly foreign exchange reserve data."
+},
+{
+"q": "Why are foreign exchange reserves important for an economy?",
+"options": ["They determine population size", "They help manage external-sector vulnerabilities", "They replace domestic taxation", "They finance only state government salaries"],
+"answer": 1,
+"explanation": "Adequate foreign exchange reserves help a country manage external shocks, import requirements and pressures in the foreign exchange market."
+},
+{
+"q": "Which of the following is NOT a normal component of India's foreign exchange reserves?",
+"options": ["Foreign currency assets", "Gold reserves", "Special Drawing Rights", "Domestic agricultural land"],
+"answer": 3,
+"explanation": "India's foreign exchange reserves include foreign currency assets, gold, SDRs and the reserve position in the IMF. Domestic agricultural land is not a component."
+},
+{
+"q": "The 2026 Ig Nobel Prize ceremony was the:",
+"options": ["26th ceremony", "30th ceremony", "35th ceremony", "36th ceremony"],
+"answer": 3,
+"explanation": "The 2026 event was the 36th First Annual Ig Nobel Prize Ceremony."
+},
+{
+"q": "The 2026 Ig Nobel Prize ceremony was held in:",
+"options": ["Cambridge, USA", "London, UK", "Zurich, Switzerland", "Paris, France"],
+"answer": 2,
+"explanation": "The 2026 Ig Nobel Prize ceremony was held in Zurich, Switzerland."
+},
+{
+"q": "The Ig Nobel Prizes primarily recognize research intended to:",
+"options": ["Make people laugh and then think", "Recognize only Nobel Prize winners", "Focus exclusively on nuclear physics", "Recognize only government research"],
+"answer": 0,
+"explanation": "The Ig Nobel Prizes celebrate unusual and imaginative research that can make people laugh and subsequently think about important scientific questions."
+},
+{
+"q": "The Ig Nobel Prizes are associated with which publication?",
+"options": ["Annals of Improbable Research", "World Economic Forum", "UNESCO", "International Monetary Fund"],
+"answer": 0,
+"explanation": "The Ig Nobel Prizes are organized by the Annals of Improbable Research."
+},
+{
+"q": "Who visited India during the India-Belgium bilateral engagement in September 2026?",
+"options": ["President of Belgium", "Prime Minister of Belgium", "King of Belgium", "Foreign Minister of Belgium alone"],
+"answer": 1,
+"explanation": "Belgian Prime Minister Bart De Wever visited India from September 2 to 4, 2026."
+},
+{
+"q": "Which mechanism was launched to facilitate bilateral investments between India and Belgium?",
+"options": ["Strategic Defence Corridor", "Investment Fast-Track Mechanism", "India-Belgium Tax Tribunal", "European Investment Control Mechanism"],
+"answer": 1,
+"explanation": "India and Belgium launched an Investment Fast-Track Mechanism to address investment bottlenecks and facilitate two-way investment."
+},
+{
+"q": "India and Belgium aim to achieve which trade-related target?",
+"options": ["End bilateral trade", "Double bilateral trade in five years", "Restrict trade to diamonds", "Adopt a bilateral currency"],
+"answer": 1,
+"explanation": "India and Belgium expressed their intention to double bilateral trade over the next five years."
+},
+{
+"q": "Which of the following areas are part of expanding India-Belgium cooperation?",
+"options": ["Defence only", "Semiconductors and critical minerals only", "Green hydrogen and deep technology only", "Defence, semiconductors, critical minerals, green hydrogen and deep technology"],
+"answer": 3,
+"explanation": "India and Belgium are expanding cooperation beyond diamonds into defence, semiconductors, critical minerals, green hydrogen, investment and deep technology."
+},
+{
+"q": "Belgium is strategically important to India partly because it serves as:",
+"options": ["Headquarters of ASEAN", "A gateway to European institutions", "Headquarters of SAARC", "A member of BRICS"],
+"answer": 1,
+"explanation": "Belgium hosts major European institutions, making it strategically important for India's engagement with the European Union."
+},
+{
+"q": "Which Belgian institution is particularly relevant to semiconductor and deep-tech cooperation?",
+"options": ["IMEC", "NATO", "UNESCO", "OPEC"],
+"answer": 0,
+"explanation": "imec, or Interuniversity Microelectronics Centre, is a major research and innovation hub in microelectronics and semiconductor technologies."
+},
+{
+"q": "India and Belgium agreed to support each other's candidature for non-permanent membership of the UN Security Council for which terms?",
+"options": ["India 2026-27; Belgium 2028-29", "India 2028-29; Belgium 2037-38", "India 2030-31; Belgium 2032-33", "India 2037-38; Belgium 2028-29"],
+"answer": 1,
+"explanation": "The two countries agreed to support India's 2028-29 and Belgium's 2037-38 bids for non-permanent membership of the UN Security Council."
+},
+{
+"q": "Belgium reaffirmed support for India's:",
+"options": ["Withdrawal from the UN", "Permanent membership of a reformed UN Security Council", "Membership of NATO", "Entry into the G7"],
+"answer": 1,
+"explanation": "Belgium reaffirmed its support for India's permanent membership of a reformed and expanded UN Security Council."
+},
+{
+"q": "The India-Belgium Investment Fast-Track Mechanism primarily seeks to:",
+"options": ["Impose tariffs", "Address investment bottlenecks", "Regulate agricultural production", "Control immigration"],
+"answer": 1,
+"explanation": "The mechanism is intended to address investment bottlenecks and facilitate greater two-way investment."
+},
+{
+"q": "Which Indian organization is exploring cooperation with Belgium's SFPIM toward an Indo-Belgian economic and investment corridor?",
+"options": ["RBI", "NIIF", "SEBI", "EXIM Bank"],
+"answer": 1,
+"explanation": "Belgium's SFPIM and India's National Investment and Infrastructure Fund (NIIF) are exploring cooperation toward an Indo-Belgian economic and investment corridor."
+},
+{
+"q": "Which statement best describes the changing nature of India-Belgium relations?",
+"options": ["From technology to agriculture only", "From diamonds toward diversified strategic cooperation", "From trade toward diplomatic disengagement", "From Europe toward Latin America"],
+"answer": 1,
+"explanation": "The relationship is evolving beyond the traditional diamond trade toward defence, semiconductors, critical minerals, green energy, investment and deep technology."
+},
+{
+"q": "In India's healthcare context, the term 'missing middle' primarily refers to people who:",
+"options": ["Have no access to education", "Fall between government health coverage and affordable private insurance", "Live only in metropolitan cities", "Work exclusively in government hospitals"],
+"answer": 1,
+"explanation": "The missing middle refers to people who are not adequately covered by government health schemes but cannot comfortably afford private health insurance."
+},
+{
+"q": "According to the supplied Parliamentary Committee findings, the healthcare 'missing middle' comprises more than:",
+"options": ["4 crore people", "10 crore people", "20 crore people", "40 crore people"],
+"answer": 3,
+"explanation": "The report highlighted that more than 40 crore Indians face a healthcare financial-protection gap."
+},
+{
+"q": "According to the supplied report, which sector dominates healthcare provision in India?",
+"options": ["Private sector", "Defence sector", "Cooperative sector", "International agencies"],
+"answer": 0,
+"explanation": "The report highlighted significant private-sector dominance in both inpatient and outpatient healthcare provision."
+},
+{
+"q": "Why are non-communicable diseases important in discussions about healthcare affordability?",
+"options": ["They usually require no treatment", "They often require long-term medication and outpatient care", "They occur only during childhood", "They are treated exclusively through surgery"],
+"answer": 1,
+"explanation": "Diseases such as diabetes and hypertension often require continuous medicines, consultations and diagnostic tests, creating recurring healthcare expenses."
+},
+{
+"q": "Which of the following was recommended by the Parliamentary Standing Committee on healthcare affordability?",
+"options": ["Reduce public healthcare infrastructure", "Strengthen public healthcare capacity", "Eliminate generic medicines", "Remove price transparency"],
+"answer": 1,
+"explanation": "The committee recommended strengthening public healthcare infrastructure rather than relying solely on insurance-funded private healthcare."
+},
+{
+"q": "The Parliamentary Committee recommended greater use of:",
+"options": ["Generic medicines", "Imported branded medicines only", "Unregulated experimental medicines", "Unprescribed antibiotics"],
+"answer": 0,
+"explanation": "The committee recommended prescribing medicines by generic names and ensuring the availability of essential medicines in public facilities."
+},
+{
+"q": "Why is an outpatient-centric healthcare protection framework important?",
+"options": ["All diseases require hospitalization", "Chronic diseases often require continuing outpatient treatment", "Outpatient treatment has no financial implications", "Insurance never covers hospitalization"],
+"answer": 1,
+"explanation": "Chronic diseases frequently require repeated consultations, medicines and diagnostic tests, making outpatient financial protection important."
+},
+{
+"q": "The Central Vigilance Commission was originally established in:",
+"options": ["1947", "1950", "1964", "2003"],
+"answer": 2,
+"explanation": "The Central Vigilance Commission was established in 1964 following the recommendations of the Santhanam Committee."
+},
+{
+"q": "The Central Vigilance Commission acquired statutory status through which legislation?",
+"options": ["CVC Act, 2003", "RTI Act, 2005", "Lokpal Act, 2013", "Prevention of Corruption Act, 1988"],
+"answer": 0,
+"explanation": "The CVC became a statutory body under the Central Vigilance Commission Act, 2003."
+},
+{
+"q": "The Central Vigilance Commission consists of:",
+"options": ["One Commissioner only", "A Central Vigilance Commissioner and up to two Vigilance Commissioners", "Five Supreme Court judges", "The CBI Director and two judges"],
+"answer": 1,
+"explanation": "The CVC consists of a Central Vigilance Commissioner and up to two Vigilance Commissioners."
+},
+{
+"q": "Members of the Central Vigilance Commission are appointed by:",
+"options": ["The Prime Minister alone", "The President on the recommendation of a high-level committee", "The Chief Justice of India", "Parliament through direct election"],
+"answer": 1,
+"explanation": "CVC members are appointed by the President on the recommendation of a committee consisting of the Prime Minister, Union Home Minister and Leader of the Opposition in the Lok Sabha."
+},
+{
+"q": "The normal tenure of members of the Central Vigilance Commission is:",
+"options": ["2 years or age 60", "3 years or age 62", "4 years or age 65", "6 years or age 70"],
+"answer": 2,
+"explanation": "CVC members serve for four years or until attaining 65 years of age, whichever is earlier."
+},
+{
+"q": "The CVC exercises superintendence over the CBI primarily in matters relating to the:",
+"options": ["Income Tax Act", "Prevention of Corruption Act", "Companies Act", "Forest Conservation Act"],
+"answer": 1,
+"explanation": "The CVC exercises superintendence over the CBI in matters relating to offences under the Prevention of Corruption Act, 1988."
+},
+{
+"q": "According to the CVC Annual Report 2025, approximately how many CBI corruption cases were pending trial?",
+"options": ["729", "2,229", "7,229", "17,229"],
+"answer": 2,
+"explanation": "The CVC Annual Report 2025 indicated that 7,229 corruption cases investigated by the CBI were pending trial."
+},
+{
+"q": "Approximately how many of the CBI corruption cases were reportedly pending for more than 20 years?",
+"options": ["49", "109", "409", "1,409"],
+"answer": 2,
+"explanation": "The CVC report identified 409 corruption cases that had been pending for more than 20 years."
+},
+{
+"q": "Section 17A of the Prevention of Corruption Act is associated with:",
+"options": ["Prior approval for certain investigations involving public servants", "Appointment of Supreme Court judges", "Foreign exchange management", "Environmental clearances"],
+"answer": 0,
+"explanation": "Section 17A requires prior approval in specified circumstances before investigating decisions or recommendations made by public servants in the discharge of official functions."
+},
+{
+"q": "Which institutional challenge was highlighted in relation to the CBI?",
+"options": ["Excessive availability of investigators", "Manpower shortages", "Absence of corruption cases", "Complete elimination of judicial pendency"],
+"answer": 1,
+"explanation": "Manpower shortages and vacant positions can reduce the CBI's ability to investigate complex financial and cross-border cases effectively."
+},
+{
+"q": "Consider the following statements about the CVC: 1. It was established in 1964. 2. It received statutory status in 2003. 3. It is a constitutional body. Which statements are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 1,
+"explanation": "Statements 1 and 2 are correct. The CVC was established in 1964 and became a statutory body under the CVC Act, 2003. It is not a constitutional body."
+},
+{
+"q": "Consider the following statements regarding India-Belgium relations: 1. Belgium supports India's permanent membership of a reformed UNSC. 2. India and Belgium launched an Investment Fast-Track Mechanism. 3. Both countries seek to double bilateral trade in five years. 4. Cooperation is restricted primarily to diamonds. Which statements are correct?",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2 and 4 only", "1, 2, 3 and 4"],
+"answer": 1,
+"explanation": "Statements 1, 2 and 3 are correct. India-Belgium cooperation is expanding beyond diamonds into defence, investment, semiconductors, critical minerals, clean energy and technology."
+},
+{
+"q": "Consider the following statements about India's foreign exchange reserves: 1. They reached a record high in the week ending August 28, 2026. 2. They increased by approximately $11.475 billion. 3. The reported level was approximately $740.803 billion. 4. The data were released by SEBI. Which statements are correct?",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+"answer": 1,
+"explanation": "Statements 1, 2 and 3 are correct. The official foreign exchange reserve data are published by the RBI, not SEBI."
+},
+{
+"q": "Consider the following statements about the 2026 Ig Nobel Prizes: 1. They were awarded at the 36th ceremony. 2. The ceremony was held in Zurich. 3. It took place on September 3, 2026. 4. The awards aim to recognize research that makes people laugh and think. Which statements are correct?",
+"options": ["1 and 2 only", "2 and 3 only", "1, 2 and 3 only", "1, 2, 3 and 4"],
+"answer": 3,
+"explanation": "All four statements are correct. The 36th Ig Nobel ceremony was held in Zurich on September 3, 2026."
+},
+{
+"q": "Which of the following pairs is correctly matched? 1. CVC - CVC Act, 2003 2. IMEC - Semiconductor research 3. Hugging Face - AI/open-model ecosystem 4. Ig Nobel - Unusual scientific research",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+"answer": 3,
+"explanation": "All four pairs are correctly matched and represent important facts from the current affairs topics."
+},
+{
+"q": "Why does the 'missing middle' present a challenge to Universal Health Coverage in India?",
+"options": ["They have no need for healthcare", "They are fully covered under PM-JAY", "They fall between publicly subsidized coverage and affordable private insurance", "They exclusively depend on foreign healthcare systems"],
+"answer": 2,
+"explanation": "The missing middle faces a financial protection gap because they may not qualify for major public schemes while also being unable to afford adequate private insurance."
+},
+{
+"q": "India's cooperation with Belgium on semiconductors is strategically important primarily because it can help:",
+"options": ["Increase dependence on imported chips", "Strengthen semiconductor research and technology capabilities", "Eliminate all European investment", "Replace India's digital economy"],
+"answer": 1,
+"explanation": "Cooperation with advanced semiconductor research ecosystems such as imec can strengthen India's domestic semiconductor research and technology capabilities."
+},
+{
+"q": "Which combination best represents the broad strategic significance of the India-Belgium partnership?",
+"options": ["Diamonds and tourism only", "Defence, semiconductors, critical minerals, green technology and investment", "Agriculture and fisheries only", "Sports and cultural exchanges only"],
+"answer": 1,
+"explanation": "The India-Belgium partnership is evolving from a traditional diamond-centred relationship into a broader strategic partnership covering defence, technology, critical minerals, green energy and investment."
+}
+]
