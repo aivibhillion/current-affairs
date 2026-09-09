@@ -1,0 +1,475 @@
+[
+{
+"q": "The Bar Council of India (BCI) primarily derives its statutory framework from which Act?",
+"options": [
+"Legal Services Authorities Act, 1987",
+"Advocates Act, 1961",
+"Indian Evidence Act, 1872",
+"Constitution of India"
+],
+"answer": 1,
+"explanation": "The Advocates Act, 1961 provides the statutory framework for the Bar Council of India and State Bar Councils and regulates the legal profession in India."
+},
+{
+"q": "According to the Supreme Court ruling mentioned in the current affairs, the Bar Council of India and State Bar Councils do not possess statutory jurisdiction to take disciplinary or punitive action against:",
+"options": [
+"Senior advocates",
+"Practising advocates",
+"Law students",
+"Judges"
+],
+"answer": 2,
+"explanation": "The ruling clarified that the statutory disciplinary powers of Bar Councils do not extend to imposing disciplinary or punitive action against law students."
+},
+{
+"q": "What generally happens to bond yields when bond prices fall during a bond-market sell-off?",
+"options": [
+"Yields generally rise",
+"Yields always fall",
+"Yields remain unchanged",
+"Yields become zero"
+],
+"answer": 0,
+"explanation": "Bond prices and yields generally move inversely. Heavy selling reduces bond prices and pushes yields upward."
+},
+{
+"q": "Why can rising government bond yields increase borrowing costs?",
+"options": [
+"They reduce the supply of money automatically",
+"They can raise the cost at which governments and other borrowers obtain funds",
+"They eliminate government debt",
+"They directly increase exports"
+],
+"answer": 1,
+"explanation": "Higher sovereign yields can increase government borrowing costs and influence borrowing costs for businesses and households."
+},
+{
+"q": "National Accounts Statistics in India are released by which ministry?",
+"options": [
+"Ministry of Finance",
+"Ministry of Commerce and Industry",
+"Ministry of Statistics and Programme Implementation",
+"Ministry of Corporate Affairs"
+],
+"answer": 2,
+"explanation": "The Ministry of Statistics and Programme Implementation (MoSPI) is responsible for India's official national accounts statistics."
+},
+{
+"q": "What is the main feature of the Double Deflation method used for GVA estimation?",
+"options": [
+"GDP is calculated twice",
+"Gross output and intermediate inputs are deflated separately",
+"Exports and imports are ignored",
+"Only consumer prices are used"
+],
+"answer": 1,
+"explanation": "Double deflation separately adjusts gross output and intermediate inputs for price changes, providing a more accurate estimate of real value added."
+},
+{
+"q": "Why is Double Deflation considered useful for measuring real GVA?",
+"options": [
+"It ignores input-price changes",
+"It accounts separately for changes in output and input prices",
+"It measures only nominal production",
+"It eliminates inflation completely"
+],
+"answer": 1,
+"explanation": "Separate deflation of output and intermediate consumption helps capture changes in real value added more accurately."
+},
+{
+"q": "According to the supplied Q1 FY 2026-27 data, India's real GDP growth was:",
+"options": [
+"5.8%",
+"6.9%",
+"7.8%",
+"10.3%"
+],
+"answer": 2,
+"explanation": "The supplied data states that real GDP grew by 7.8% in Q1 FY 2026-27, compared with 6.9% in Q1 FY 2025-26."
+},
+{
+"q": "According to the supplied Q1 FY 2026-27 data, India's real GVA growth was:",
+"options": [
+"6.9%",
+"7.8%",
+"8.2%",
+"11.5%"
+],
+"answer": 2,
+"explanation": "Real GVA grew by 8.2% in Q1 FY 2026-27 according to the supplied current-affairs data."
+},
+{
+"q": "Gross Fixed Capital Formation (GFCF) grew by what percentage in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"5.8%",
+"7.1%",
+"10.3%",
+"11.9%"
+],
+"answer": 3,
+"explanation": "GFCF increased by 11.9% in Q1 FY 2026-27, compared with 5.8% in Q1 FY 2025-26."
+},
+{
+"q": "Household Final Consumption Expenditure (PFCE) grew by what percentage in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"5.8%",
+"6.8%",
+"7.1%",
+"12.0%"
+],
+"answer": 2,
+"explanation": "PFCE grew by 7.1% in Q1 FY 2026-27, compared with 6.8% in the previous year."
+},
+{
+"q": "Exports of goods and services grew by what percentage in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"6.0%",
+"7.8%",
+"10.0%",
+"12.0%"
+],
+"answer": 3,
+"explanation": "Exports of goods and services grew by 12.0% in Q1 FY 2026-27, double the 6.0% growth recorded in Q1 FY 2025-26."
+},
+{
+"q": "Which broad sector recorded the highest real GVA growth in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"Primary sector",
+"Secondary sector",
+"Services sector",
+"Agriculture sector"
+],
+"answer": 2,
+"explanation": "The services sector recorded 10.0% real GVA growth, higher than the secondary sector's 8.6% and primary sector's 2.9%."
+},
+{
+"q": "What was the real GVA growth of the primary sector in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"2.9%",
+"3.6%",
+"8.6%",
+"10.0%"
+],
+"answer": 0,
+"explanation": "The primary sector grew by 2.9%, while agriculture and allied activities recorded 3.6% growth."
+},
+{
+"q": "What was the GVA growth of the secondary sector in Q1 FY 2026-27 according to the supplied data?",
+"options": [
+"2.9%",
+"8.6%",
+"9.2%",
+"10.0%"
+],
+"answer": 1,
+"explanation": "The secondary sector's GVA expanded by 8.6%, with core manufacturing growing by 9.2%."
+},
+{
+"q": "Which sector within the secondary sector recorded 9.2% growth according to the supplied Q1 FY 2026-27 data?",
+"options": [
+"Agriculture",
+"Financial services",
+"Core manufacturing",
+"Information technology"
+],
+"answer": 2,
+"explanation": "Core manufacturing recorded 9.2% growth according to the supplied data."
+},
+{
+"q": "Which services were identified as major contributors to the 10.0% real GVA growth of the services sector?",
+"options": [
+"Only tourism",
+"Financial, real estate, IT and professional services",
+"Only agriculture",
+"Only mining"
+],
+"answer": 1,
+"explanation": "Financial, real estate, IT and professional services were identified as major contributors, with the group growing by 12.1%."
+},
+{
+"q": "Which initiative was identified as supporting high-tech manufacturing?",
+"options": [
+"PM-KISAN",
+"Semicon 2.0",
+"MSP",
+"Samudra Manthan"
+],
+"answer": 1,
+"explanation": "Semicon 2.0 was identified along with the Mobile Phone Manufacturing Scheme as an initiative supporting high-tech manufacturing."
+},
+{
+"q": "The Mobile Phone Manufacturing Scheme mentioned in the supplied material covers which period?",
+"options": [
+"2024-2029",
+"2025-2030",
+"2026-2031",
+"2027-2032"
+],
+"answer": 2,
+"explanation": "The supplied material identifies the Mobile Phone Manufacturing Scheme as covering 2026-31."
+},
+{
+"q": "India and Belgium, according to the supplied material, agreed to aim for what trade-related objective?",
+"options": [
+"Halve bilateral trade within five years",
+"Double bilateral trade within five years",
+"End bilateral trade within five years",
+"Adopt a common currency within five years"
+],
+"answer": 1,
+"explanation": "India and Belgium agreed to work toward doubling bilateral trade within five years."
+},
+{
+"q": "Which of the following was mentioned as an area of expanded India-Belgium cooperation?",
+"options": [
+"Defence",
+"Renewable energy",
+"Advanced military platforms",
+"All of the above"
+],
+"answer": 3,
+"explanation": "The supplied material mentions cooperation in defence, renewable energy and advanced military platforms."
+},
+{
+"q": "The term 'Semiquincentennial' refers to which anniversary?",
+"options": [
+"100th anniversary",
+"150th anniversary",
+"200th anniversary",
+"250th anniversary"
+],
+"answer": 3,
+"explanation": "A semiquincentennial refers to a 250th anniversary."
+},
+{
+"q": "According to the supplied material, Giorgia Meloni's government reached a milestone of how many consecutive days in office?",
+"options": [
+"413 days",
+"1,013 days",
+"1,413 days",
+"2,413 days"
+],
+"answer": 2,
+"explanation": "The supplied material states that Giorgia Meloni's government remained in power for 1,413 consecutive days."
+},
+{
+"q": "DABUS is primarily associated with which issue?",
+"options": [
+"Nuclear energy",
+"AI-generated works and authorship",
+"Space exploration",
+"Cryptocurrency regulation"
+],
+"answer": 1,
+"explanation": "DABUS is associated with the legal debate over whether an artificial intelligence system can be recognized as the author of an AI-generated creative work."
+},
+{
+"q": "The central legal issue in AI-generated copyright cases concerns whether:",
+"options": [
+"AI systems consume electricity",
+"An AI system can legally be recognized as an author",
+"AI systems can access the internet",
+"AI systems can be installed on smartphones"
+],
+"answer": 1,
+"explanation": "AI-generated works raise questions about authorship, originality and ownership, particularly whether an AI system can legally be an author."
+},
+{
+"q": "El Niño is primarily associated with unusual warming of which region?",
+"options": [
+"Central and eastern tropical Pacific Ocean",
+"Arctic Ocean",
+"Southern Indian Ocean only",
+"Mediterranean Sea"
+],
+"answer": 0,
+"explanation": "El Niño involves abnormal warming of the central and eastern tropical Pacific Ocean and can influence weather patterns worldwide."
+},
+{
+"q": "Which organization issued the El Niño update mentioned in the supplied material?",
+"options": [
+"UNEP",
+"WMO",
+"UNDP",
+"UNESCO"
+],
+"answer": 1,
+"explanation": "The World Meteorological Organization (WMO) issued the El Niño update mentioned in the supplied material."
+},
+{
+"q": "The 1.5°C climate threshold refers to global warming relative to:",
+"options": [
+"The medieval period",
+"The pre-industrial period",
+"The year 2000",
+"The year 2020"
+],
+"answer": 1,
+"explanation": "The 1.5°C benchmark refers to limiting global temperature increase above pre-industrial levels."
+},
+{
+"q": "What does the term 'climate overshoot' mean?",
+"options": [
+"Permanent elimination of greenhouse gases",
+"Temporary exceedance of a warming threshold followed by a possible decline",
+"Global temperatures falling permanently below pre-industrial levels",
+"Complete elimination of fossil fuels"
+],
+"answer": 1,
+"explanation": "Climate overshoot refers to temporarily exceeding a warming threshold such as 1.5°C, followed by a possible reduction in warming through mitigation and carbon removal."
+},
+{
+"q": "Which greenhouse gas was emphasized as an important near-term mitigation target?",
+"options": [
+"Oxygen",
+"Nitrogen",
+"Methane",
+"Hydrogen"
+],
+"answer": 2,
+"explanation": "Methane is a potent greenhouse gas with a relatively short atmospheric lifetime, so reducing methane emissions can provide relatively rapid climate benefits."
+},
+{
+"q": "Why can methane mitigation provide relatively rapid climate benefits?",
+"options": [
+"Methane remains in the atmosphere longer than CO2",
+"Methane has a shorter atmospheric lifetime than CO2",
+"Methane is not a greenhouse gas",
+"Methane is found only in oceans"
+],
+"answer": 1,
+"explanation": "Methane has a much shorter atmospheric lifetime than carbon dioxide, so reducing emissions can slow the rate of warming relatively quickly."
+},
+{
+"q": "Which of the following best describes Carbon Dioxide Removal (CDR)?",
+"options": [
+"Increasing coal consumption",
+"Removing CO2 from the atmosphere and storing it",
+"Increasing methane emissions",
+"Expanding deforestation"
+],
+"answer": 1,
+"explanation": "Carbon Dioxide Removal involves removing CO2 from the atmosphere and storing it through approaches such as afforestation or direct air capture."
+},
+{
+"q": "Which of the following is NOT a consequence associated with continued global warming?",
+"options": [
+"Sea-level rise",
+"Ocean acidification",
+"Glacier mass loss",
+"Permanent elimination of extreme weather"
+],
+"answer": 3,
+"explanation": "Continued global warming is associated with sea-level rise, glacier loss, ocean acidification and changing extreme-weather risks, not their permanent elimination."
+},
+{
+"q": "Teachers' Day in India is observed on:",
+"options": [
+"September 2",
+"September 4",
+"September 5",
+"September 8"
+],
+"answer": 2,
+"explanation": "India observes Teachers' Day on September 5, the birth anniversary of Dr. Sarvepalli Radhakrishnan."
+},
+{
+"q": "Dr. Sarvepalli Radhakrishnan is associated with which Indian observance?",
+"options": [
+"National Youth Day",
+"Teachers' Day",
+"Constitution Day",
+"National Science Day"
+],
+"answer": 1,
+"explanation": "India celebrates Teachers' Day on September 5, the birth anniversary of Dr. Sarvepalli Radhakrishnan."
+},
+{
+"q": "Aero India is primarily associated with which sectors?",
+"options": [
+"Agriculture and food processing",
+"Aerospace and defence",
+"Banking and finance",
+"Tourism and hospitality"
+],
+"answer": 1,
+"explanation": "Aero India is a major aerospace and defence exhibition held in Bengaluru."
+},
+{
+"q": "According to the supplied material, Aero India 2027 will be held at:",
+"options": [
+"Hyderabad",
+"New Delhi",
+"Air Force Station, Yelahanka, Bengaluru",
+"Pune"
+],
+"answer": 2,
+"explanation": "The supplied material states that the 16th edition of Aero India will be held at Air Force Station, Yelahanka, Bengaluru."
+},
+{
+"q": "According to the supplied material, Aero India 2027 is scheduled for:",
+"options": [
+"8-12 January 2027",
+"8-12 February 2027",
+"15-19 February 2027",
+"8-12 March 2027"
+],
+"answer": 1,
+"explanation": "The supplied material gives the dates as February 8-12, 2027."
+},
+{
+"q": "The 'RAKSHA' strategic document mentioned in the supplied material primarily concerns:",
+"options": [
+"Agricultural reforms",
+"Defence diplomacy",
+"Monetary policy",
+"Environmental taxation"
+],
+"answer": 1,
+"explanation": "RAKSHA is described as a 10-year defence diplomacy roadmap and vision for India's global partnerships."
+},
+{
+"q": "According to the supplied material, who was named the next President and CEO of Adobe?",
+"options": [
+"Sundar Pichai",
+"Anil Chakravarthy",
+"Satya Nadella",
+"Shantanu Narayen"
+],
+"answer": 1,
+"explanation": "The supplied material states that Anil Chakravarthy was appointed as Adobe's next President and CEO, effective December 1, 2026."
+},
+{
+"q": "According to the supplied material, Anil Chakravarthy will succeed:",
+"options": [
+"Sundar Pichai",
+"Satya Nadella",
+"Shantanu Narayen",
+"Arvind Krishna"
+],
+"answer": 2,
+"explanation": "The supplied material states that Anil Chakravarthy will succeed Shantanu Narayen as Adobe's CEO."
+},
+{
+"q": "Which statement correctly distinguishes GDP from GVA?",
+"options": [
+"GDP and GVA always have exactly the same value",
+"GVA measures value added by producers, while GDP incorporates net taxes on products",
+"GVA measures only government spending",
+"GDP measures only exports"
+],
+"answer": 1,
+"explanation": "GVA measures value added by producers, while GDP at market prices can be derived by adding net taxes on products to aggregate GVA."
+},
+{
+"q": "Which of the following is correctly matched?",
+"options": [
+"Semicon 2.0 - High-tech manufacturing",
+"PM-KISAN - Agriculture and rural support",
+"Double Deflation - National accounts",
+"All of the above"
+],
+"answer": 3,
+"explanation": "All three pairings are correctly associated with the respective areas described in the supplied current-affairs material."
+}
+]
