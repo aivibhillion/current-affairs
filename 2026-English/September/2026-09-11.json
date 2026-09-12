@@ -1,0 +1,307 @@
+[
+  {
+    "q": "Under which Article of the Constitution does the Election Commission of India have the superintendence, direction and control of elections?",
+    "options": ["Article 280", "Article 324", "Article 356", "Article 368"],
+    "answer": 1,
+    "explanation": "Article 324 vests the Election Commission of India with the superintendence, direction and control of elections."
+  },
+  {
+    "q": "The voter's 'Right to Know' regarding political funding is primarily associated with which Fundamental Right?",
+    "options": ["Article 14", "Article 19(1)(a)", "Article 21", "Article 32"],
+    "answer": 1,
+    "explanation": "Article 19(1)(a), which protects freedom of speech and expression, has been interpreted to include the voter's Right to Know."
+  },
+  {
+    "q": "Section 29A of the Representation of the People Act, 1951 deals with:",
+    "options": ["Political party registration", "Political party expenditure", "Election petitions", "Delimitation"],
+    "answer": 0,
+    "explanation": "Section 29A provides for registration of political parties with the Election Commission of India."
+  },
+  {
+    "q": "Section 29B of the Representation of the People Act, 1951 is associated with:",
+    "options": ["Political party registration", "Receipt of contributions by political parties", "Election disputes", "Allocation of constituencies"],
+    "answer": 1,
+    "explanation": "Section 29B deals with contributions received by political parties."
+  },
+  {
+    "q": "Section 29C of the Representation of the People Act, 1951 primarily concerns:",
+    "options": ["Party registration", "Contribution reports", "Candidate qualifications", "Delimitation"],
+    "answer": 1,
+    "explanation": "Section 29C relates to reporting of political contributions received by political parties."
+  },
+  {
+    "q": "The Supreme Court's 2024 judgment striking down the Electoral Bond Scheme was closely linked to which principle?",
+    "options": ["Right to Property", "Right to Privacy", "Voter's Right to Know", "Right against Exploitation"],
+    "answer": 2,
+    "explanation": "The judgment emphasized the voter's Right to Know about political funding sources."
+  },
+  {
+    "q": "What does RUPP stand for?",
+    "options": ["Registered Unified Political Party", "Registered Unrecognised Political Party", "Regional Unrecognised Political Platform", "Recognised Union Political Party"],
+    "answer": 1,
+    "explanation": "RUPP stands for Registered Unrecognised Political Party."
+  },
+  {
+    "q": "RUPPs are registered with which institution?",
+    "options": ["Election Commission of India", "Reserve Bank of India", "NITI Aayog", "Supreme Court of India"],
+    "answer": 0,
+    "explanation": "RUPPs are registered with the Election Commission of India under Section 29A of the Representation of the People Act, 1951."
+  },
+  {
+    "q": "Which Act regulates foreign contributions in India?",
+    "options": ["Companies Act, 2013", "FCRA, 2010", "RPA, 1951", "SEBI Act, 1992"],
+    "answer": 1,
+    "explanation": "The Foreign Contribution (Regulation) Act, 2010 regulates foreign contributions in India."
+  },
+  {
+    "q": "Which section of the Income Tax Act, 1961 provides tax exemption to eligible registered political parties?",
+    "options": ["Section 10", "Section 13A", "Section 24", "Section 80C"],
+    "answer": 1,
+    "explanation": "Section 13A provides tax exemption to eligible political parties subject to prescribed conditions."
+  },
+  {
+    "q": "Sections 80GGB and 80GGC of the Income Tax Act are associated with:",
+    "options": ["Agricultural income", "Deductions for political contributions", "GST refunds", "Corporate tax assessment"],
+    "answer": 1,
+    "explanation": "Sections 80GGB and 80GGC provide deductions relating to certain political contributions by companies and individuals respectively."
+  },
+  {
+    "q": "Which of the following is a major concern regarding political party expenditure in India?",
+    "options": ["No elections are conducted", "No statutory limit on overall political party expenditure", "Political parties cannot accept donations", "Candidates cannot campaign"],
+    "answer": 1,
+    "explanation": "The material highlights the absence of a statutory ceiling on overall political party expenditure, unlike candidate expenditure limits."
+  },
+  {
+    "q": "Which institution is mentioned as being relied upon by the ECI for compliance verification?",
+    "options": ["RBI", "CBDT", "SEBI", "CAG"],
+    "answer": 1,
+    "explanation": "The material states that the ECI relies on the CBDT for aspects of financial compliance verification."
+  },
+  {
+    "q": "Article 371(K), as discussed in the current affairs material, has been proposed for:",
+    "options": ["Ladakh", "Sikkim", "Goa", "Assam"],
+    "answer": 0,
+    "explanation": "The proposed Article 371(K) is related to special constitutional protections and governance arrangements for Ladakh."
+  },
+  {
+    "q": "India is described as the world's largest producer of:",
+    "options": ["Raw jute", "Silk", "Flax", "Cotton"],
+    "answer": 0,
+    "explanation": "The material identifies India as the world's largest producer of raw jute."
+  },
+  {
+    "q": "Which state is the largest jute-producing state mentioned in the material?",
+    "options": ["Bihar", "Assam", "West Bengal", "Odisha"],
+    "answer": 2,
+    "explanation": "West Bengal has the largest share of India's jute cultivation among the major producing states mentioned."
+  },
+  {
+    "q": "Which of the following is NOT listed as a major jute-producing state in the material?",
+    "options": ["West Bengal", "Bihar", "Assam", "Gujarat"],
+    "answer": 3,
+    "explanation": "The material lists West Bengal, Bihar, Assam, Odisha and Jharkhand as major jute-producing states."
+  },
+  {
+    "q": "Which organisation is the nodal agency for implementing MSP for raw jute?",
+    "options": ["National Jute Board", "Jute Corporation of India", "Food Corporation of India", "NABARD"],
+    "answer": 1,
+    "explanation": "The Jute Corporation of India (JCI) is identified as the nodal agency for implementing MSP for raw jute."
+  },
+  {
+    "q": "The Jute Packaging Materials (Compulsory Use in Packing Commodities) Act requires what proportion of food grains to be packed in jute bags, according to the material?",
+    "options": ["20%", "50%", "75%", "100%"],
+    "answer": 3,
+    "explanation": "The material states that 100% of food grains must be packed in jute bags."
+  },
+  {
+    "q": "According to the material, what proportion of sugar is required to be packed in jute bags?",
+    "options": ["10%", "20%", "50%", "75%"],
+    "answer": 1,
+    "explanation": "The material states a 20% jute packaging requirement for sugar."
+  },
+  {
+    "q": "Which programme aims to enhance jute productivity, farmer incomes and value addition?",
+    "options": ["NJDP", "PM-KISAN", "PMFBY", "MGNREGS"],
+    "answer": 0,
+    "explanation": "The National Jute Development Programme (NJDP) focuses on jute productivity, farmer income and value addition."
+  },
+  {
+    "q": "JUTE-ICARE primarily focuses on:",
+    "options": ["Improving jute productivity and fibre quality", "Increasing sugar production", "Promoting cotton exports", "Developing financial markets"],
+    "answer": 0,
+    "explanation": "JUTE-ICARE seeks to improve jute productivity and fibre quality through scientific practices and mechanisation."
+  },
+  {
+    "q": "The Jute Raw Material Bank (JRMB) is intended mainly to:",
+    "options": ["Provide raw jute to MSMEs and the unorganised sector", "Finance foreign trade", "Regulate stock exchanges", "Provide crop insurance"],
+    "answer": 0,
+    "explanation": "JRMB helps ensure availability of raw jute to the unorganised sector and MSMEs."
+  },
+  {
+    "q": "Jute geotextiles are particularly useful for:",
+    "options": ["Soil conservation and erosion control", "Nuclear energy production", "Semiconductor manufacturing", "Currency printing"],
+    "answer": 0,
+    "explanation": "Jute geotextiles are used in civil engineering, soil conservation and erosion control."
+  },
+  {
+    "q": "Which of the following is a feature mentioned in the UPI enhancements?",
+    "options": ["Tap-to-pay at PoS terminals", "Removal of authentication", "Elimination of bank accounts", "Replacement of digital payments with cash"],
+    "answer": 0,
+    "explanation": "The material mentions tap-to-pay at PoS terminals as one of the new UPI features."
+  },
+  {
+    "q": "India is hosting the 18th BRICS Summit in 2026 in:",
+    "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+    "answer": 1,
+    "explanation": "The 18th BRICS Summit in 2026 is being hosted by India in New Delhi."
+  },
+  {
+    "q": "The 2026 BRICS Summit in New Delhi is scheduled for:",
+    "options": ["September 1–2", "September 8–9", "September 12–13", "September 20–21"],
+    "answer": 2,
+    "explanation": "The material states that the 18th BRICS Summit will be held on September 12–13, 2026."
+  },
+  {
+    "q": "Who is identified as India's BRICS Sherpa for 2026?",
+    "options": ["Ajit Doval", "Sudhakar Dalela", "Vinay Kwatra", "Harsh Vardhan Shringla"],
+    "answer": 1,
+    "explanation": "Sudhakar Dalela is identified as India's BRICS Sherpa for 2026."
+  },
+  {
+    "q": "According to the material, BRICS began in:",
+    "options": ["2001", "2005", "2009", "2011"],
+    "answer": 2,
+    "explanation": "The material states that BRICS was established in 2009."
+  },
+  {
+    "q": "Which country joined BRICS in 2011 according to the supplied material?",
+    "options": ["South Africa", "Iran", "Egypt", "Saudi Arabia"],
+    "answer": 0,
+    "explanation": "South Africa joined BRICS in 2011 according to the supplied material."
+  },
+  {
+    "q": "Which classical Tamil work was presented by Prime Minister Narendra Modi to President Vladimir Putin in Russian translation?",
+    "options": ["Silappadikaram", "Tirukkural", "Arthashastra", "Manimekalai"],
+    "answer": 1,
+    "explanation": "A Russian translation of the Tirukkural was presented to President Putin."
+  },
+  {
+    "q": "Which zone won the Duleep Trophy 2026–27 according to the material?",
+    "options": ["South Zone", "East Zone", "North Zone", "West Zone"],
+    "answer": 1,
+    "explanation": "East Zone won the Duleep Trophy 2026–27."
+  },
+  {
+    "q": "The Duleep Trophy final mentioned in the material was played at:",
+    "options": ["Wankhede Stadium", "Eden Gardens", "Chepauk, Chennai", "Arun Jaitley Stadium"],
+    "answer": 2,
+    "explanation": "The final between East Zone and South Zone was played at Chepauk in Chennai."
+  },
+  {
+    "q": "What was East Zone's score in the Duleep Trophy final according to the material?",
+    "options": ["336", "500", "650", "708"],
+    "answer": 3,
+    "explanation": "East Zone scored 708 in the first innings."
+  },
+  {
+    "q": "National Forest Martyrs Day is observed on:",
+    "options": ["September 5", "September 10", "September 11", "September 15"],
+    "answer": 2,
+    "explanation": "National Forest Martyrs Day is observed on September 11."
+  },
+  {
+    "q": "The Khejarli sacrifice of 1730 is associated with which community?",
+    "options": ["Bishnoi", "Gond", "Bhil", "Toda"],
+    "answer": 0,
+    "explanation": "The Khejarli sacrifice of 1730 is associated with the Bishnoi community of Rajasthan."
+  },
+  {
+    "q": "Assam's 'Each One Teach One' initiative focuses on:",
+    "options": ["Industrial development", "Intergenerational literacy and digital empowerment", "Wildlife tourism", "Agricultural exports"],
+    "answer": 1,
+    "explanation": "The initiative promotes intergenerational literacy along with digital empowerment."
+  },
+  {
+    "q": "ASUSE 2025 provides district-level information mainly about:",
+    "options": ["Defence installations", "Unincorporated enterprises", "Forest reserves", "Parliamentary constituencies"],
+    "answer": 1,
+    "explanation": "ASUSE 2025 provides district-level data on unincorporated enterprises and related indicators."
+  },
+  {
+    "q": "According to the material, a major challenge in mental healthcare in India is:",
+    "options": ["Excessive access to services", "Unequal access and implementation gaps", "Absence of all legal rights", "Lack of any healthcare institutions"],
+    "answer": 1,
+    "explanation": "The material notes that mental healthcare has moved toward a rights-based framework, but access remains unequal and implementation gaps persist."
+  },
+  {
+    "q": "Photonics primarily deals with the generation, detection and manipulation of:",
+    "options": ["Electrons", "Neutrons", "Photons", "Protons"],
+    "answer": 2,
+    "explanation": "Photonics is the field concerned with photons, or particles of light."
+  },
+  {
+    "q": "Which statement correctly distinguishes photonics from conventional electronics?",
+    "options": ["Photonics uses photons, while electronics primarily uses electrons", "Photonics uses electrons, while electronics uses photons", "Both exclusively use photons", "Both exclusively use neutrons"],
+    "answer": 0,
+    "explanation": "Photonics is based on light and photons, whereas conventional electronics primarily involves electrons."
+  },
+  {
+    "q": "Which of the following is NOT mentioned as an application of photonics?",
+    "options": ["Communication", "Healthcare", "Space", "Agricultural taxation"],
+    "answer": 3,
+    "explanation": "The material lists communication, healthcare, space and defence as applications of photonics."
+  },
+  {
+    "q": "India has become a signatory to which initiative related to next-generation communications?",
+    "options": ["Call to Action for 6G Leadership and Security", "Global 5G Taxation Pact", "International 4G Treaty", "Global Semiconductor Tax Accord"],
+    "answer": 0,
+    "explanation": "The material states that India joined the Call to Action for 6G Leadership and Security."
+  },
+  {
+    "q": "Which Indian state shares international borders with Nepal, Bhutan and Bangladesh?",
+    "options": ["Assam", "West Bengal", "Sikkim", "Bihar"],
+    "answer": 1,
+    "explanation": "West Bengal is identified as the only Indian state sharing international borders with Nepal, Bhutan and Bangladesh."
+  },
+  {
+    "q": "Which of the following states is NOT listed as a neighbouring Indian state of West Bengal in the material?",
+    "options": ["Sikkim", "Bihar", "Jharkhand", "Assam"],
+    "answer": 3,
+    "explanation": "The material lists Sikkim, Bihar, Jharkhand and Odisha as neighbouring Indian states of West Bengal."
+  },
+  {
+    "q": "West Bengal is geographically situated between:",
+    "options": ["The Himalayas and the Arabian Sea", "The Himalayas and the Bay of Bengal", "The Western Ghats and the Indian Ocean", "The Aravallis and the Bay of Bengal"],
+    "answer": 1,
+    "explanation": "West Bengal extends from the Himalayas in the north to the Bay of Bengal in the south."
+  },
+  {
+    "q": "Which combination is correctly matched?",
+    "options": [
+      "JCI — MSP implementation for raw jute",
+      "FCRA — Jute packaging",
+      "Article 324 — Foreign contributions",
+      "JRMB — BRICS coordination"
+    ],
+    "answer": 0,
+    "explanation": "The Jute Corporation of India is the nodal agency for implementing MSP for raw jute."
+  },
+  {
+    "q": "Which of the following is a proposed reform for improving transparency in political funding?",
+    "options": ["Abolishing the ECI", "Capping political party expenditure", "Removing political party audits", "Ending all contribution reporting"],
+    "answer": 1,
+    "explanation": "Capping political party expenditure is among the reforms proposed to improve transparency and accountability."
+  },
+  {
+    "q": "What is the primary concern behind the proposed requirement of a minimum vote share for RUPPs?",
+    "options": ["To provide automatic recognition as a national party", "To link tax benefits with meaningful electoral participation", "To eliminate all political parties", "To increase foreign funding"],
+    "answer": 1,
+    "explanation": "The proposed threshold, such as 1% vote share, would link continued tax benefits to meaningful electoral participation."
+  },
+  {
+    "q": "Which institution is primarily responsible for implementing MSP for raw jute?",
+    "options": ["JCI", "RBI", "SEBI", "CBDT"],
+    "answer": 0,
+    "explanation": "The Jute Corporation of India (JCI) is identified as the nodal agency for MSP implementation."
+  }
+]
