@@ -1,0 +1,290 @@
+[
+  {
+    "q": "On which date did the Constituent Assembly adopt Hindi in the Devanagari script as the Official Language of the Union?",
+    "options": ["15 August 1947", "26 January 1950", "14 September 1949", "26 November 1949"],
+    "answer": 2,
+    "explanation": "The Constituent Assembly adopted Hindi in the Devanagari script as the Official Language of the Union on 14 September 1949."
+  },
+  {
+    "q": "Hindi Diwas is observed in India every year on:",
+    "options": ["5 September", "14 September", "26 January", "10 October"],
+    "answer": 1,
+    "explanation": "Hindi Diwas is observed on 14 September to commemorate the adoption of Hindi as the Official Language of the Union in 1949."
+  },
+  {
+    "q": "The Supreme Court's 'Jan Soochna Seva' initiative primarily aims to:",
+    "options": ["Provide free legal representation", "Make selected judicial information more accessible to the public", "Conduct judicial examinations", "Replace all English judgments with Hindi"],
+    "answer": 1,
+    "explanation": "Jan Soochna Seva aims to make selected major judgments and orders more comprehensible through Hindi summaries and Hindi audio and video bulletins."
+  },
+  {
+    "q": "The 82.6 GHz, 400 kW gyrotron installed on SST-1 is associated with research in:",
+    "options": ["Nuclear fusion", "Quantum computing", "Satellite navigation", "Semiconductor design"],
+    "answer": 0,
+    "explanation": "The high-power gyrotron is being used to support India's nuclear fusion research programme involving the SST-1 tokamak."
+  },
+  {
+    "q": "SST-1, mentioned in India's fusion research programme, is a:",
+    "options": ["Supercomputer", "Tokamak", "Space telescope", "Launch vehicle"],
+    "answer": 1,
+    "explanation": "SST-1 is a tokamak machine used for experimental nuclear fusion research."
+  },
+  {
+    "q": "The Institute for Plasma Research (IPR), associated with SST-1, is located in:",
+    "options": ["Gujarat", "Maharashtra", "Tamil Nadu", "Odisha"],
+    "answer": 0,
+    "explanation": "The Institute for Plasma Research is located in Gujarat and is a major Indian centre for plasma and fusion research."
+  },
+  {
+    "q": "According to the information provided, India's Wholesale Price Index (WPI) inflation in August 2026 was:",
+    "options": ["7.92%", "8.78%", "9.78%", "9.92%"],
+    "answer": 3,
+    "explanation": "The preliminary WPI inflation rate for August 2026 was reported as 9.92%, compared with 9.78% in July."
+  },
+  {
+    "q": "What was the revised base year mentioned for India's WPI calculation?",
+    "options": ["2011-12", "2015-16", "2020-21", "2022-23"],
+    "answer": 3,
+    "explanation": "The information states that the revised base year for WPI is 2022-23."
+  },
+  {
+    "q": "WPI stands for:",
+    "options": ["Wholesale Price Index", "World Price Indicator", "Weighted Price Index", "Wholesale Production Index"],
+    "answer": 0,
+    "explanation": "WPI stands for Wholesale Price Index, which measures changes in wholesale prices."
+  },
+  {
+    "q": "Which country will host the 19th BRICS Summit in 2027?",
+    "options": ["India", "Brazil", "China", "Russia"],
+    "answer": 2,
+    "explanation": "China will host the 19th BRICS Summit in 2027 after India hosted the 18th Summit."
+  },
+  {
+    "q": "The 18th BRICS Summit 2026 was hosted by:",
+    "options": ["China", "India", "Brazil", "South Africa"],
+    "answer": 1,
+    "explanation": "India hosted the 18th BRICS Summit in New Delhi in 2026."
+  },
+  {
+    "q": "Which declaration was adopted at the 18th BRICS Summit?",
+    "options": ["Mumbai Declaration", "New Delhi Declaration", "Delhi Consensus", "Bharat Declaration"],
+    "answer": 1,
+    "explanation": "The 18th BRICS Summit concluded with the adoption of the New Delhi Declaration."
+  },
+  {
+    "q": "Which of the following was among the areas of cooperation highlighted in the New Delhi Declaration?",
+    "options": ["Local-currency payments", "Abolition of national currencies", "Ending digital public infrastructure", "Withdrawal from multilateral institutions"],
+    "answer": 0,
+    "explanation": "The declaration included cooperation on local-currency payments, digital public infrastructure, resilient supply chains, food security and counter-terrorism."
+  },
+  {
+    "q": "What was the theme of the 18th BRICS Summit 2026?",
+    "options": ["One Earth, One Family, One Future", "Building for Resilience, Innovation, Cooperation and Sustainability", "Vasudhaiva Kutumbakam", "Shared Prosperity through Technology"],
+    "answer": 1,
+    "explanation": "The 18th BRICS Summit was held under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability.'"
+  },
+  {
+    "q": "Loktak Lake is particularly known for which unique floating formations?",
+    "options": ["Atolls", "Phumdis", "Coral reefs", "Sandbars"],
+    "answer": 1,
+    "explanation": "Loktak Lake in Manipur is famous for phumdis, which are floating masses of vegetation, soil and organic matter."
+  },
+  {
+    "q": "Loktak Lake is located in which Indian state?",
+    "options": ["Assam", "Manipur", "Tripura", "Mizoram"],
+    "answer": 1,
+    "explanation": "Loktak Lake is located in Manipur and is the largest freshwater lake in Northeast India."
+  },
+  {
+    "q": "Champu Khangpok is associated with which of the following?",
+    "options": ["A floating village on Loktak Lake", "A desert ecosystem", "A Himalayan glacier", "A coastal wetland"],
+    "answer": 0,
+    "explanation": "Champu Khangpok is identified in the given information as a floating village associated with Loktak Lake."
+  },
+  {
+    "q": "The Women's Asia Cup in cricket was initially conducted in which format?",
+    "options": ["T20I", "ODI", "Test", "The Hundred"],
+    "answer": 1,
+    "explanation": "The Women's Asia Cup began in 2004 in the ODI format and later shifted to T20I format."
+  },
+  {
+    "q": "According to the provided information, the Women's Asia Cup shifted to the T20I format from:",
+    "options": ["2008", "2010", "2012", "2014"],
+    "answer": 2,
+    "explanation": "The information states that the Women's Asia Cup was conducted in the T20I format from 2012."
+  },
+  {
+    "q": "The Women's Asia Cup is managed by which organization?",
+    "options": ["International Cricket Council", "Asian Cricket Council", "Board of Control for Cricket in India", "Hockey India"],
+    "answer": 1,
+    "explanation": "The Women's Asia Cup is a regional cricket tournament managed by the Asian Cricket Council (ACC)."
+  },
+  {
+    "q": "India achieved a golden double at the AHF Junior Asia Cup 2026 in which sport?",
+    "options": ["Cricket", "Hockey", "Football", "Badminton"],
+    "answer": 1,
+    "explanation": "Both India's junior men's and women's hockey teams won their respective AHF Junior Asia Cup 2026 titles."
+  },
+  {
+    "q": "The AHF Junior Asia Cup 2026 mentioned in the information was held in:",
+    "options": ["New Delhi, India", "Moqi, China", "Colombo, Sri Lanka", "Dhaka, Bangladesh"],
+    "answer": 1,
+    "explanation": "The 2026 AHF Junior Asia Cup was held in Moqi, China."
+  },
+  {
+    "q": "The Indian women's junior hockey team defeated which country 1-0 in the Junior Asia Cup 2026 final?",
+    "options": ["Japan", "China", "Malaysia", "South Korea"],
+    "answer": 1,
+    "explanation": "India defeated host China 1-0 to win the women's Junior Asia Cup title."
+  },
+  {
+    "q": "National Engineers' Day in India is observed in honour of:",
+    "options": ["C. V. Raman", "Homi J. Bhabha", "Sir M. Visvesvaraya", "A. P. J. Abdul Kalam"],
+    "answer": 2,
+    "explanation": "National Engineers' Day is observed on 15 September to commemorate the birth anniversary of Sir Mokshagundam Visvesvaraya."
+  },
+  {
+    "q": "Sir M. Visvesvaraya was born in which year?",
+    "options": ["1856", "1861", "1875", "1885"],
+    "answer": 1,
+    "explanation": "Sir Mokshagundam Visvesvaraya was born in 1861."
+  },
+  {
+    "q": "Which of the following was associated with the contributions of Sir M. Visvesvaraya?",
+    "options": ["Irrigation and water management", "Nuclear weapons development", "Space exploration", "Computer programming"],
+    "answer": 0,
+    "explanation": "Visvesvaraya made major contributions to irrigation, water management, flood prevention and public infrastructure."
+  },
+  {
+    "q": "SEMICON India 2026 is scheduled to be held in:",
+    "options": ["Bengaluru", "Hyderabad", "New Delhi", "Gandhinagar"],
+    "answer": 2,
+    "explanation": "SEMICON India 2026 is scheduled to be held in New Delhi from 17 to 19 September 2026."
+  },
+  {
+    "q": "Which of the following is a major objective of SEMICON India 2026?",
+    "options": ["Strengthening India's semiconductor ecosystem", "Promoting only agricultural exports", "Ending global semiconductor cooperation", "Reducing investment in chip manufacturing"],
+    "answer": 0,
+    "explanation": "SEMICON India 2026 aims to strengthen India's semiconductor capabilities, attract investment and promote global collaboration."
+  },
+  {
+    "q": "Which sequence represents key stages of the semiconductor value chain mentioned in the information?",
+    "options": ["Chip design → manufacturing → packaging → systems", "Mining → farming → retail → tourism", "Banking → insurance → taxation → exports", "Agriculture → shipping → tourism → banking"],
+    "answer": 0,
+    "explanation": "The semiconductor ecosystem includes chip design, manufacturing, packaging and systems development."
+  },
+  {
+    "q": "The World Circular Economy Forum (WCEF) 2026 is scheduled to be hosted in:",
+    "options": ["Gandhinagar, Gujarat", "Jaipur, Rajasthan", "Kochi, Kerala", "Bhopal, Madhya Pradesh"],
+    "answer": 0,
+    "explanation": "India is scheduled to host WCEF 2026 at the Mahatma Mandir Convention Centre in Gandhinagar, Gujarat."
+  },
+  {
+    "q": "The World Circular Economy Forum 2026 is scheduled to take place from:",
+    "options": ["10-12 September 2026", "15-18 September 2026", "17-19 September 2026", "20-23 September 2026"],
+    "answer": 1,
+    "explanation": "WCEF 2026 is scheduled for 15 to 18 September 2026."
+  },
+  {
+    "q": "The rescue of a 750-kg female Indian Gaur from an illegal snare took place in the Eco-Sensitive Zone of:",
+    "options": ["Papikonda National Park", "Gir National Park", "Kanha National Park", "Bandipur National Park"],
+    "answer": 0,
+    "explanation": "Forest officials rescued the gaur from an illegal wire snare in the Eco-Sensitive Zone of Papikonda National Park in Andhra Pradesh."
+  },
+  {
+    "q": "The scientific name of the Indian Gaur is:",
+    "options": ["Bos indicus", "Bos gaurus", "Bubalus arnee", "Bos grunniens"],
+    "answer": 1,
+    "explanation": "The Indian Gaur is scientifically known as Bos gaurus."
+  },
+  {
+    "q": "The Colombo Security Conclave Table Top Exercise was conducted at:",
+    "options": ["Eastern Naval Command, Visakhapatnam", "Western Naval Command, Mumbai", "Southern Naval Command, Kochi", "Northern Command, Srinagar"],
+    "answer": 0,
+    "explanation": "The three-day Table Top Exercise was conducted at the Eastern Naval Command in Visakhapatnam."
+  },
+  {
+    "q": "A Table Top Exercise (TTX) is generally a:",
+    "options": ["Live-fire military operation", "Simulation-based discussion exercise", "Weapons procurement exercise", "Physical endurance test"],
+    "answer": 1,
+    "explanation": "A TTX uses simulated scenarios to test decision-making, coordination and response procedures without conducting a full-scale field operation."
+  },
+  {
+    "q": "The Grass Mache technique mentioned in the information uses which material to create handicrafts?",
+    "options": ["Electronic waste", "Aquatic weeds and grasses", "Plastic bottles", "Industrial chemicals"],
+    "answer": 1,
+    "explanation": "The Grass Mache technique converts aquatic weeds and grasses removed from Dal Lake into decorative and utility products."
+  },
+  {
+    "q": "The Grass Mache innovation is associated with which lake?",
+    "options": ["Loktak Lake", "Dal Lake", "Wular Lake", "Chilika Lake"],
+    "answer": 1,
+    "explanation": "An artisan from Srinagar developed the technique using aquatic weeds and grasses removed from Dal Lake."
+  },
+  {
+    "q": "CAZRI Moth-4, 5, 6 and 7 are varieties of:",
+    "options": ["Moth bean", "Wheat", "Rice", "Chickpea"],
+    "answer": 0,
+    "explanation": "The four varieties are newly developed moth bean varieties developed by ICAR-Central Arid Zone Research Institute."
+  },
+  {
+    "q": "Moth bean is scientifically known as:",
+    "options": ["Vigna radiata", "Vigna aconitifolia", "Vigna mungo", "Cicer arietinum"],
+    "answer": 1,
+    "explanation": "Moth bean, also called mat bean or Turkish gram, is scientifically known as Vigna aconitifolia."
+  },
+  {
+    "q": "The new moth bean varieties demonstrated notable resilience during which climatic condition mentioned in the information?",
+    "options": ["El Niño year", "La Niña year", "Polar vortex", "Indian Ocean Dipole only"],
+    "answer": 0,
+    "explanation": "The CAZRI varieties showed field-level resilience during an El Niño year in Kharif 2026."
+  },
+  {
+    "q": "The 1,212-pillar corridor highlighted during the BRICS Summit belongs to:",
+    "options": ["Ramanathaswamy Temple", "Meenakshi Amman Temple", "Brihadisvara Temple", "Konark Sun Temple"],
+    "answer": 0,
+    "explanation": "The iconic 1,212-pillar corridor is a notable feature of the Ramanathaswamy Temple in Tamil Nadu."
+  },
+  {
+    "q": "The Ramanathaswamy Temple is primarily associated with which architectural style?",
+    "options": ["Nagara", "Dravidian", "Vesara", "Indo-Islamic"],
+    "answer": 1,
+    "explanation": "Ramanathaswamy Temple is an important example of Dravidian temple architecture."
+  },
+  {
+    "q": "Which organization summoned Meta executives regarding advertisements linked to CSEAM?",
+    "options": ["NITI Aayog", "NCPCR", "SEBI", "UGC"],
+    "answer": 1,
+    "explanation": "The National Commission for Protection of Child Rights (NCPCR) summoned Meta executives regarding the reported CSEAM-linked advertisements."
+  },
+  {
+    "q": "NCPCR is primarily concerned with the protection of:",
+    "options": ["Consumer rights", "Child rights", "Environmental rights", "Election rights"],
+    "answer": 1,
+    "explanation": "NCPCR stands for National Commission for Protection of Child Rights and focuses on safeguarding children's rights."
+  },
+  {
+    "q": "Which ministry issued a notice to Meta regarding the reported harmful content and algorithmic safeguards?",
+    "options": ["Ministry of Home Affairs", "Ministry of Electronics and Information Technology", "Ministry of Education", "Ministry of Commerce and Industry"],
+    "answer": 1,
+    "explanation": "The Ministry of Electronics and Information Technology (MeitY) issued a notice concerning removal of the reported content and algorithmic safeguards."
+  },
+  {
+    "q": "The Colombo Security Conclave primarily focuses on cooperation in areas related to:",
+    "options": ["Maritime security and regional security", "Space tourism", "Agricultural subsidies", "International sports"],
+    "answer": 0,
+    "explanation": "The Colombo Security Conclave is a regional security grouping whose cooperation includes maritime and broader security concerns."
+  },
+  {
+    "q": "Which city hosted the 18th BRICS Summit mentioned in the information?",
+    "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+    "answer": 1,
+    "explanation": "The 18th BRICS Summit was hosted in New Delhi by India."
+  },
+  {
+    "q": "The World Circular Economy Forum is primarily associated with:",
+    "options": ["Circular economy and resource efficiency", "Military alliances", "Space exploration", "International cricket"],
+    "answer": 0,
+    "explanation": "The WCEF is a global platform focused on advancing circular economy practices, resource efficiency and sustainable production and consumption."
+  }
+]
