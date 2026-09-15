@@ -1,0 +1,607 @@
+[
+  {
+    "q": "The Uttar Pradesh Green Hydrogen Policy, 2024 primarily aims to:",
+    "options": [
+      "Promote only solar power generation",
+      "Establish an ecosystem for green hydrogen and green ammonia",
+      "Eliminate all conventional vehicles",
+      "Promote nuclear power generation"
+    ],
+    "answer": 1,
+    "explanation": "The policy aims to establish an ecosystem for green hydrogen and green ammonia, covering their production, storage, transportation and use, while encouraging private investment."
+  },
+  {
+    "q": "Which of the following is a major objective of Uttar Pradesh's Green Hydrogen Policy, 2024?",
+    "options": [
+      "Production of green hydrogen only",
+      "Storage and transportation of green hydrogen only",
+      "Production, storage, transportation and attracting private investment",
+      "Promotion of nuclear energy"
+    ],
+    "answer": 2,
+    "explanation": "The policy focuses on production, storage, transportation, utilisation of green hydrogen and green ammonia, and attracting private investment."
+  },
+  {
+    "q": "According to the supplied current-affairs material, which company ranks first in global smartphone brand rankings in 2026?",
+    "options": [
+      "Samsung",
+      "Google",
+      "Xiaomi",
+      "Apple"
+    ],
+    "answer": 3,
+    "explanation": "The supplied material identifies Apple as first, followed by Samsung and Google."
+  },
+  {
+    "q": "Which of the following companies are identified as major competitors in the global smartphone industry?",
+    "options": [
+      "Apple and Samsung only",
+      "Apple, Samsung and Google only",
+      "Samsung, Google and Xiaomi only",
+      "Apple, Samsung, Google and Xiaomi"
+    ],
+    "answer": 3,
+    "explanation": "Apple, Samsung, Google and Xiaomi are identified as major players competing across premium, camera-focused and value segments."
+  },
+  {
+    "q": "BRICS discussions on alternative cross-border payment systems are primarily aimed at:",
+    "options": [
+      "Eliminating all national currencies",
+      "Reducing transaction costs and dependence on conventional financial infrastructure",
+      "Creating a single BRICS military force",
+      "Replacing all central banks"
+    ],
+    "answer": 1,
+    "explanation": "BRICS is exploring alternatives such as local-currency settlements, CBDCs, Project Nexus and mBridge to improve cross-border payments."
+  },
+  {
+    "q": "In the context of BRICS financial cooperation, what does CBDC stand for?",
+    "options": [
+      "Central Banking Development Currency",
+      "Cross-Border Digital Currency",
+      "Central Bank Digital Currency",
+      "Common Banking Digital Certificate"
+    ],
+    "answer": 2,
+    "explanation": "CBDC stands for Central Bank Digital Currency, a digital form of sovereign currency issued by a central bank."
+  },
+  {
+    "q": "Project Nexus, mentioned in the context of alternative cross-border payments, is associated with:",
+    "options": [
+      "Space exploration",
+      "Cross-border payment connectivity",
+      "Climate monitoring",
+      "Agricultural subsidies"
+    ],
+    "answer": 1,
+    "explanation": "Project Nexus is associated with linking domestic instant payment systems to facilitate faster cross-border payments."
+  },
+  {
+    "q": "Which of the following is NOT identified as a challenge to alternative BRICS payment systems?",
+    "options": [
+      "Geopolitical differences",
+      "Regulatory fragmentation",
+      "Risk of yuan dominance",
+      "Complete absence of digital technologies"
+    ],
+    "answer": 3,
+    "explanation": "The identified challenges include geopolitical differences, regulatory fragmentation and concerns about yuan dominance."
+  },
+  {
+    "q": "FATF stands for:",
+    "options": [
+      "Financial Action Task Force",
+      "Federal Anti-Terror Finance",
+      "Financial Anti-Tax Federation",
+      "Foreign Assets Tracking Forum"
+    ],
+    "answer": 0,
+    "explanation": "FATF stands for Financial Action Task Force, an international body concerned with combating money laundering and terrorist financing."
+  },
+  {
+    "q": "The term 'digital hawala' refers to:",
+    "options": [
+      "Digitalisation of government taxation",
+      "Use of fintech, virtual assets and encrypted platforms in informal value-transfer systems",
+      "Digital currency issued exclusively by BRICS",
+      "Online banking conducted only by central banks"
+    ],
+    "answer": 1,
+    "explanation": "Digital hawala involves informal value-transfer mechanisms that can use fintech, virtual assets and encrypted platforms, making illicit financial flows harder to detect."
+  },
+  {
+    "q": "Which of the following were highlighted as challenges related to illicit financial flows in India?",
+    "options": [
+      "Trade-based money laundering only",
+      "Trade-based money laundering and crypto layering only",
+      "Crypto layering and online gambling-hawala networks only",
+      "Trade-based money laundering, crypto layering and online gambling-hawala networks"
+    ],
+    "answer": 3,
+    "explanation": "The supplied material identifies all three as challenges requiring stronger inter-agency coordination and international cooperation."
+  },
+  {
+    "q": "India's participation in the global 6G initiative is primarily associated with:",
+    "options": [
+      "Agricultural technology",
+      "Future telecommunications infrastructure",
+      "Nuclear disarmament",
+      "Maritime boundary negotiations"
+    ],
+    "answer": 1,
+    "explanation": "The initiative focuses on future 6G telecommunications infrastructure, including security, competitiveness and technological innovation."
+  },
+  {
+    "q": "According to the supplied material, the global 6G initiative launched on September 7, 2026 involves the USA and:",
+    "options": [
+      "10 other countries",
+      "15 other countries",
+      "24 other countries",
+      "50 other countries"
+    ],
+    "answer": 2,
+    "explanation": "The material states that the initiative involves the USA and 24 other countries."
+  },
+  {
+    "q": "The 27th World Knowledge Forum (WKF) in 2026 was held in:",
+    "options": [
+      "Tokyo",
+      "Seoul",
+      "Singapore",
+      "New Delhi"
+    ],
+    "answer": 1,
+    "explanation": "The 27th World Knowledge Forum began in Seoul, South Korea, on September 8, 2026."
+  },
+  {
+    "q": "Which of the following groups are associated with the World Knowledge Forum?",
+    "options": [
+      "Only government officials",
+      "Political leaders, business leaders, academics and technology specialists",
+      "Only military officials",
+      "Only central bank governors"
+    ],
+    "answer": 1,
+    "explanation": "The World Knowledge Forum brings together political figures, business leaders, academics and technology specialists."
+  },
+  {
+    "q": "India is scheduled to host the 18th BRICS Leaders Summit in:",
+    "options": [
+      "Mumbai",
+      "Jaipur",
+      "New Delhi",
+      "Bengaluru"
+    ],
+    "answer": 2,
+    "explanation": "According to the supplied material, India will host the 18th BRICS Leaders Summit in New Delhi on September 12–13, 2026."
+  },
+  {
+    "q": "The 18th BRICS Leaders Summit is particularly significant because it involves:",
+    "options": [
+      "Only the original BRICS members",
+      "The expanded BRICS group",
+      "Only G7 countries",
+      "Only ASEAN countries"
+    ],
+    "answer": 1,
+    "explanation": "The summit is associated with the expanded BRICS grouping along with international participants and dignitaries."
+  },
+  {
+    "q": "The 26th Council of Heads of State summit of the Shanghai Cooperation Organisation mentioned in the material was held in:",
+    "options": [
+      "Bishkek",
+      "Beijing",
+      "New Delhi",
+      "Moscow"
+    ],
+    "answer": 0,
+    "explanation": "The SCO summit mentioned in the supplied material was held in Bishkek, Kyrgyzstan."
+  },
+  {
+    "q": "Which of the following countries is NOT mentioned among the SCO members listed in the supplied material?",
+    "options": [
+      "India",
+      "China",
+      "Pakistan",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation": "India, China and Pakistan are SCO members, whereas Japan is not an SCO member."
+  },
+  {
+    "q": "The India-Japan defence relationship is moving towards operational convergence through which of the following?",
+    "options": [
+      "Joint naval shipbuilding only",
+      "UNICORN technology transfer and joint exercises only",
+      "Maritime domain awareness only",
+      "Joint naval shipbuilding, UNICORN technology transfer, joint exercises and maritime domain awareness"
+    ],
+    "answer": 3,
+    "explanation": "All four are identified as important components of expanding India-Japan defence cooperation."
+  },
+  {
+    "q": "In the context of India-Japan defence cooperation, UNICORN is associated with:",
+    "options": [
+      "Agricultural research",
+      "Naval technology",
+      "Space exploration",
+      "Postal services"
+    ],
+    "answer": 1,
+    "explanation": "UNICORN technology transfer is connected with naval and defence technology cooperation between India and Japan."
+  },
+  {
+    "q": "In the proposed BRICS 'POWER' framework, the letter P represents:",
+    "options": [
+      "Peace",
+      "Principle",
+      "Partnership",
+      "Prosperity"
+    ],
+    "answer": 1,
+    "explanation": "P stands for Principle, referring to adherence to the UN Charter."
+  },
+  {
+    "q": "Which of the following correctly represents the BRICS 'POWER' framework?",
+    "options": [
+      "Principle, Openness, Win-Win, Engine, Responsibility",
+      "Peace, Organisation, Wealth, Economy, Reform",
+      "Principle, Organisation, Welfare, Energy, Responsibility",
+      "Peace, Openness, Win-Win, Economy, Reform"
+    ],
+    "answer": 0,
+    "explanation": "POWER stands for Principle, Openness, Win-Win, Engine and Responsibility."
+  },
+  {
+    "q": "India's participation in the global 6G initiative reflects its objective of:",
+    "options": [
+      "Shaping future telecommunications standards and infrastructure",
+      "Ending 5G immediately",
+      "Eliminating internet connectivity",
+      "Restricting telecommunications to government agencies"
+    ],
+    "answer": 0,
+    "explanation": "Participation enables India to contribute to the development of future 6G technologies, standards and infrastructure."
+  },
+  {
+    "q": "India secured which position at the Pickleball World Cup 2026 according to the supplied material?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer": 3,
+    "explanation": "India recorded its best-ever performance at the Pickleball World Cup 2026 by finishing fourth."
+  },
+  {
+    "q": "How many total medals did India win at the Pickleball World Cup 2026?",
+    "options": [
+      "31",
+      "41",
+      "51",
+      "61"
+    ],
+    "answer": 1,
+    "explanation": "India won 41 medals: 7 gold, 17 silver and 17 bronze."
+  },
+  {
+    "q": "What was India's medal tally at the 2026 Pickleball World Cup?",
+    "options": [
+      "7 Gold, 17 Silver, 17 Bronze",
+      "17 Gold, 7 Silver, 17 Bronze",
+      "7 Gold, 17 Silver, 27 Bronze",
+      "10 Gold, 15 Silver, 16 Bronze"
+    ],
+    "answer": 0,
+    "explanation": "India's reported tally was 7 gold, 17 silver and 17 bronze medals, making a total of 41 medals."
+  },
+  {
+    "q": "How many Indian athletes received a send-off for the Asian Games 2026 according to the material?",
+    "options": [
+      "403",
+      "453",
+      "503",
+      "603"
+    ],
+    "answer": 2,
+    "explanation": "A contingent of 503 Indian athletes received a send-off in New Delhi."
+  },
+  {
+    "q": "Who expressed confidence in the Indian contingent during the Asian Games 2026 send-off?",
+    "options": [
+      "Amit Shah",
+      "Dr. Mansukh Mandaviya",
+      "Rajnath Singh",
+      "Ashwini Vaishnaw"
+    ],
+    "answer": 1,
+    "explanation": "Dr. Mansukh Mandaviya, Union Minister for Youth Affairs and Sports, expressed confidence in the athletes."
+  },
+  {
+    "q": "Mount Anak Krakatau is located in:",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Malaysia"
+    ],
+    "answer": 0,
+    "explanation": "Anak Krakatau is an active volcanic island and stratovolcano in Indonesia."
+  },
+  {
+    "q": "The eruption of Mount Anak Krakatau reportedly resulted in:",
+    "options": [
+      "Severe snowfall in Jakarta",
+      "Dense ash clouds affecting Jakarta and surrounding areas",
+      "A tsunami in India",
+      "Desertification of Java"
+    ],
+    "answer": 1,
+    "explanation": "The reported eruptions produced dense volcanic ash clouds affecting Jakarta and surrounding provinces."
+  },
+  {
+    "q": "The Dr. NTR Vaidya Seva Scheme is associated with which state?",
+    "options": [
+      "Telangana",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "The Dr. NTR Vaidya Seva Scheme is a major Andhra Pradesh government healthcare programme providing free medical care to eligible families."
+  },
+  {
+    "q": "The Dr. NTR Vaidya Seva Scheme was formerly known as:",
+    "options": [
+      "Dr. YSR Aarogyasri Scheme",
+      "Ayushman Bharat",
+      "NTR Health Mission",
+      "Aarogya Karnataka"
+    ],
+    "answer": 0,
+    "explanation": "The scheme was formerly known as the Dr. YSR Aarogyasri Scheme."
+  },
+  {
+    "q": "Which statement regarding nicotine pouches is correct according to the supplied material?",
+    "options": [
+      "They necessarily contain traditional tobacco leaves",
+      "They contain pharmaceutical or synthetic nicotine and are tobacco-free",
+      "They are prescription antibiotics",
+      "They are a form of CBD product"
+    ],
+    "answer": 1,
+    "explanation": "The supplied material describes nicotine pouches as tobacco-free products containing pharmaceutical or synthetic nicotine."
+  },
+  {
+    "q": "According to the supplied material, nicotine pouches are increasingly entering Indian urban markets through:",
+    "options": [
+      "E-commerce only",
+      "E-commerce and delivery platforms only",
+      "Delivery platforms and hookah shops only",
+      "E-commerce, delivery platforms and hookah shops"
+    ],
+    "answer": 3,
+    "explanation": "The material identifies e-commerce, delivery platforms and hookah shops as channels through which nicotine pouches are entering urban markets."
+  },
+  {
+    "q": "The 2026 UNESCO International Literacy Prizes were presented during International Literacy Day celebrations in:",
+    "options": [
+      "Chiapas, Mexico",
+      "Paris, France",
+      "Seoul, South Korea",
+      "New Delhi, India"
+    ],
+    "answer": 0,
+    "explanation": "According to the supplied material, the prizes were presented during International Literacy Day celebrations in Chiapas, Mexico."
+  },
+  {
+    "q": "What was the theme of the 2026 International Literacy Day mentioned in the material?",
+    "options": [
+      "Literacy for Digital India",
+      "Literacy for people, the planet and prosperity",
+      "Education for All by 2030",
+      "Literacy and Artificial Intelligence"
+    ],
+    "answer": 1,
+    "explanation": "The stated theme was 'Literacy for people, the planet and prosperity.'"
+  },
+  {
+    "q": "The primary objective of the Vibrant Villages Programme is to:",
+    "options": [
+      "Develop India's coastal tourist destinations",
+      "Transform strategic frontier villages into vibrant and resilient communities",
+      "Establish new metropolitan cities",
+      "Develop only agricultural universities"
+    ],
+    "answer": 1,
+    "explanation": "The VVP focuses on border-village development, connectivity, infrastructure, essential services, livelihoods and security."
+  },
+  {
+    "q": "The Vibrant Villages Programme has strategic significance because it:",
+    "options": [
+      "Links border development with national security and resilience",
+      "Focuses exclusively on tourism",
+      "Eliminates the need for border infrastructure",
+      "Deals only with urban housing"
+    ],
+    "answer": 0,
+    "explanation": "Developing frontier villages strengthens local livelihoods, connectivity, resilience and India's strategic presence along its borders."
+  },
+  {
+    "q": "Who, according to the supplied material, is set to receive the Dr APJ Abdul Kalam Jan Seva Puraskar 2026?",
+    "options": [
+      "Kishor Makwana",
+      "Vinaya Prakash Singh",
+      "Mansukh Mandaviya",
+      "Shinjiro Koizumi"
+    ],
+    "answer": 0,
+    "explanation": "Kishor Makwana, Chairman of the National Commission for Scheduled Castes, is identified as the recipient."
+  },
+  {
+    "q": "The Dr APJ Abdul Kalam Jan Seva Puraskar 2026 is associated with which edition of the Sansad Ratna Awards?",
+    "options": [
+      "10th",
+      "12th",
+      "14th",
+      "16th"
+    ],
+    "answer": 3,
+    "explanation": "The supplied material places the award at the 16th Sansad Ratna Awards 2026."
+  },
+  {
+    "q": "Who was re-elected unopposed as Secretary-General of the Asian-Pacific Postal Union (APPU)?",
+    "options": [
+      "Kishor Makwana",
+      "Dr. Vinaya Prakash Singh",
+      "Shinjiro Koizumi",
+      "Mansukh Mandaviya"
+    ],
+    "answer": 1,
+    "explanation": "Dr. Vinaya Prakash Singh, a senior Indian Postal Service officer, was re-elected as Secretary-General of APPU."
+  },
+  {
+    "q": "Dr. Vinaya Prakash Singh's new term as Secretary-General of APPU covers:",
+    "options": [
+      "2025–2028",
+      "2026–2029",
+      "2027–2030",
+      "2028–2032"
+    ],
+    "answer": 2,
+    "explanation": "His second consecutive four-year term covers 2027–2030."
+  },
+  {
+    "q": "Shekhawati Havelis are associated with which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Haryana"
+    ],
+    "answer": 1,
+    "explanation": "The Shekhawati region is in Rajasthan and is famous for elaborately painted havelis and frescoes."
+  },
+  {
+    "q": "Inclusion of a heritage site in the UNESCO Tentative List means:",
+    "options": [
+      "It has automatically become a World Heritage Site",
+      "It is being considered as a potential future World Heritage Site",
+      "It has lost heritage status",
+      "It has been declared a UNESCO biosphere reserve"
+    ],
+    "answer": 1,
+    "explanation": "The Tentative List contains properties that a country intends to consider for future nomination to the World Heritage List. Inclusion does not itself confer World Heritage status."
+  },
+  {
+    "q": "The Shekhawati Havelis are particularly famous for:",
+    "options": [
+      "Gothic architecture",
+      "Colourful facades and ornate frescoes",
+      "Modern glass architecture",
+      "Buddhist stupas"
+    ],
+    "answer": 1,
+    "explanation": "Shekhawati havelis are renowned for their painted facades, elaborate frescoes and grand traditional architecture."
+  },
+  {
+    "q": "The Eiffel Tower is located in:",
+    "options": [
+      "Rome",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": 2,
+    "explanation": "The Eiffel Tower is one of the most recognised landmarks of Paris, France."
+  },
+  {
+    "q": "According to the supplied current-affairs material, the temporary Eiffel Tower closure was linked to:",
+    "options": [
+      "An earthquake",
+      "A staff walkout",
+      "A terrorist attack",
+      "Structural collapse"
+    ],
+    "answer": 1,
+    "explanation": "The supplied material attributes the temporary closure to a staff walkout related to workplace directives during a private visit."
+  },
+  {
+    "q": "The issue concerning Arunachal Pradesh and Aksai Chin in the supplied current affairs relates primarily to:",
+    "options": [
+      "India's territorial boundaries and their depiction on a map",
+      "India's agricultural exports",
+      "India's maritime boundary with Sri Lanka",
+      "India's space programme"
+    ],
+    "answer": 0,
+    "explanation": "The issue concerns the representation of disputed or claimed territories on a UN-associated map and its implications for India's territorial claims."
+  },
+  {
+    "q": "Which of the following statements regarding BRICS alternative payment discussions are correct?",
+    "options": [
+      "Local-currency settlements only",
+      "Local-currency settlements and CBDCs only",
+      "CBDCs, Project Nexus and mBridge only",
+      "Local-currency settlements, CBDCs, Project Nexus and mBridge"
+    ],
+    "answer": 3,
+    "explanation": "The supplied material states that BRICS is exploring local currencies, CBDCs, Project Nexus and mBridge as alternative cross-border payment mechanisms."
+  },
+  {
+    "q": "Which of the following statements about the Vibrant Villages Programme are correct?",
+    "options": [
+      "It focuses on frontier villages, connectivity and essential services",
+      "It focuses only on tourism",
+      "It focuses only on urban housing",
+      "It has no connection with national security"
+    ],
+    "answer": 0,
+    "explanation": "The VVP focuses on frontier villages, connectivity, infrastructure, essential services and livelihoods, with an important strategic and national-security dimension."
+  },
+  {
+    "q": "Which of the following pairs are correctly matched?",
+    "options": [
+      "FATF – Anti-money laundering; APPU – Postal cooperation",
+      "FATF – Postal cooperation; APPU – Anti-money laundering",
+      "SCO – Space exploration; UNESCO – Defence cooperation",
+      "APPU – Climate action; UNESCO – Cross-border payments"
+    ],
+    "answer": 0,
+    "explanation": "FATF is associated with combating money laundering and terrorist financing, while APPU is associated with postal cooperation."
+  },
+  {
+    "q": "Consider the following statements about India's Pickleball World Cup 2026 performance: 1. India finished fourth. 2. India won 41 medals. 3. India won more silver medals than gold medals. 4. India won 17 bronze medals. Which of the above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "2 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "India finished fourth and won 41 medals, including 7 gold, 17 silver and 17 bronze medals. Therefore, all four statements are correct."
+  },
+  {
+    "q": "Why is 'digital hawala' considered a growing financial-security concern?",
+    "options": [
+      "It completely eliminates digital transactions",
+      "It can combine informal value-transfer mechanisms with fintech, virtual assets and encrypted platforms",
+      "It is exclusively controlled by central banks",
+      "It can only be used for legitimate international trade"
+    ],
+    "answer": 1,
+    "explanation": "Digital hawala can combine informal financial networks with modern digital technologies, complicating the detection of money laundering and terrorist financing."
+  },
+  {
+    "q": "Which of the following combinations is correctly matched?",
+    "options": [
+      "World Knowledge Forum – Seoul",
+      "18th BRICS Summit – New Delhi",
+      "SCO Heads of State Summit – Bishkek",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The supplied material associates the World Knowledge Forum with Seoul, the 18th BRICS Summit with New Delhi, and the SCO summit with Bishkek."
+  }
+]
