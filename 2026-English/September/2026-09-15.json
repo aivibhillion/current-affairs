@@ -1,0 +1,431 @@
+[
+{
+"q": "According to the August 2026 amicus curiae report submitted to the Supreme Court, how many criminal cases involving sitting and former MPs and MLAs were pending by July 2026?",
+"options": [
+"3,075",
+"4,075",
+"4,266",
+"5,266"
+],
+"answer": 2,
+"explanation": "The report stated that 4,266 criminal cases involving sitting and former MPs and MLAs were pending by July 2026."
+},
+{
+"q": "From 2018 to July 2026, the number of criminal cases involving sitting and former MPs and MLAs increased from:",
+"options": [
+"3,075 to 4,075",
+"4,075 to 4,266",
+"4,266 to 5,075",
+"4,500 to 5,266"
+],
+"answer": 1,
+"explanation": "The number increased from 4,075 cases in 2018 to 4,266 cases by July 2026."
+},
+{
+"q": "Who addressed the inaugural session of Hindi Diwas 2026 and the 6th All India Official Language Conference?",
+"options": [
+"Rajnath Singh",
+"Amit Shah",
+"Piyush Goyal",
+"Dharmendra Pradhan"
+],
+"answer": 1,
+"explanation": "Union Home Minister and Minister of Cooperation Amit Shah addressed the inaugural session."
+},
+{
+"q": "Where was the 6th All India Official Language Conference held according to the provided material?",
+"options": [
+"New Delhi",
+"Mumbai",
+"Lucknow",
+"Ahmedabad"
+],
+"answer": 1,
+"explanation": "The conference was held in Mumbai."
+},
+{
+"q": "Which awards were presented during the 6th All India Official Language Conference for 2025-26?",
+"options": [
+"Padma Awards and Bharat Ratna",
+"Rajbhasha Gaurav and Rajbhasha Kirti Awards",
+"Sahitya Akademi and Jnanpith Awards",
+"National Film Awards and Dronacharya Awards"
+],
+"answer": 1,
+"explanation": "The Rajbhasha Gaurav and Rajbhasha Kirti Awards for 2025-26 were presented."
+},
+{
+"q": "The Seva Sankalp Abhiyan 2026 is scheduled to take place during which period?",
+"options": [
+"1 September to 30 September 2026",
+"10 September to 10 October 2026",
+"17 September to 17 October 2026",
+"2 October to 31 October 2026"
+],
+"answer": 2,
+"explanation": "The campaign is scheduled from September 17 to October 17, 2026."
+},
+{
+"q": "The Seva Sankalp Abhiyan 2026 is primarily focused on:",
+"options": [
+"Industrial production",
+"Public service and outreach",
+"Defence procurement",
+"International trade"
+],
+"answer": 1,
+"explanation": "The campaign focuses on public service, public welfare and outreach initiatives."
+},
+{
+"q": "Which of the following is mentioned as a non-academic duty performed by government school teachers?",
+"options": [
+"Spacecraft design",
+"Election administration",
+"Judicial appointments",
+"Foreign-policy negotiations"
+],
+"answer": 1,
+"explanation": "Election administration is one of the non-academic duties mentioned, along with census work, surveys and data entry."
+},
+{
+"q": "Delays in local-body elections primarily raise questions about the functioning and institutional vulnerability of:",
+"options": [
+"Finance Commissions",
+"State Election Commissions",
+"Union Public Service Commission",
+"Election Commission of India"
+],
+"answer": 1,
+"explanation": "The issue highlights concerns regarding the constitutional mandate and independence of State Election Commissions."
+},
+{
+"q": "India-MERCOSUR Preferential Trade Agreement negotiations aim to:",
+"options": [
+"Terminate the existing trade agreement",
+"Expand the existing Preferential Trade Agreement",
+"Create a military alliance",
+"Establish a common currency"
+],
+"answer": 1,
+"explanation": "India and MERCOSUR announced negotiations to expand the existing Preferential Trade Agreement."
+},
+{
+"q": "The India-MERCOSUR Preferential Trade Agreement was signed in 2004 and came into force in:",
+"options": [
+"2004",
+"2005",
+"2006",
+"2008"
+],
+"answer": 2,
+"explanation": "The PTA was signed in 2004 and officially came into force in 2006."
+},
+{
+"q": "According to the provided current-affairs material, UPI payments up to what amount will continue to remain charge-free?",
+"options": [
+"₹500",
+"₹1,000",
+"₹2,000",
+"₹5,000"
+],
+"answer": 2,
+"explanation": "The material states that UPI payments up to ₹2,000 will remain charge-free."
+},
+{
+"q": "Which payment instrument is mentioned alongside UPI as remaining charge-free for transactions up to ₹2,000?",
+"options": [
+"Visa credit card",
+"RuPay debit card",
+"International wire transfer",
+"Traveller's cheque"
+],
+"answer": 1,
+"explanation": "The material states that RuPay debit-card transactions up to ₹2,000 are also exempt from charges."
+},
+{
+"q": "According to the economic current-affairs item, India's sunrise sectors face a significant challenge related to:",
+"options": [
+"Lack of industry-ready talent",
+"Excessive rainfall",
+"Shortage of agricultural land",
+"Declining literacy"
+],
+"answer": 0,
+"explanation": "The report highlights a shortage of industry-ready talent as a potential constraint on India's sunrise sectors."
+},
+{
+"q": "At the 18th BRICS Summit, India proposed developing how many global governance reform proposals?",
+"options": [
+"5",
+"8",
+"10",
+"15"
+],
+"answer": 2,
+"explanation": "India urged BRICS leaders to develop 10 global governance reform proposals."
+},
+{
+"q": "The proposed BRICS Reform Roadmap is intended to be developed by which summit?",
+"options": [
+"2026 summit",
+"2027 summit",
+"2028 summit",
+"2030 summit"
+],
+"answer": 1,
+"explanation": "The proposals are intended to form a comprehensive BRICS Reform Roadmap by the 2027 summit."
+},
+{
+"q": "Which of the following is specifically mentioned as an area of India's proposed BRICS reforms?",
+"options": [
+"Reform of the UN Security Council",
+"Creation of a new Olympic body",
+"Abolition of the World Trade Organization",
+"Creation of a global cryptocurrency"
+],
+"answer": 0,
+"explanation": "Reform of the UN Security Council is one of the key areas mentioned in India's proposed reform agenda."
+},
+{
+"q": "What did China propose at the 18th BRICS Summit concerning artificial intelligence?",
+"options": [
+"A BRICS open-source AI community",
+"A ban on all AI research",
+"A global AI tax authority",
+"A complete prohibition on large language models"
+],
+"answer": 0,
+"explanation": "China proposed creating a BRICS open-source AI community involving shared large language models and a digital ecosystem cloud platform."
+},
+{
+"q": "Which three parts of the United Kingdom are mentioned as seeking constitutional changes and self-determination?",
+"options": [
+"England, Scotland and Wales",
+"Scotland, Wales and Northern Ireland",
+"England, Wales and Northern Ireland",
+"Scotland, England and Northern Ireland"
+],
+"answer": 1,
+"explanation": "The material states that political leaders from Scotland, Wales and Northern Ireland signed a memorandum in Cardiff."
+},
+{
+"q": "The first Badri calf produced through OPU-IVF technology was reported at:",
+"options": [
+"Pantnagar",
+"Hyderabad",
+"Bengaluru",
+"Pune"
+],
+"answer": 0,
+"explanation": "India produced its first Badri calf using OPU-IVF technology at Pantnagar."
+},
+{
+"q": "Badri cattle are described in the material as an indigenous breed native to which region?",
+"options": [
+"Coastal Andhra Pradesh",
+"Himalayan region of Uttarakhand",
+"Western Rajasthan",
+"Deccan Plateau"
+],
+"answer": 1,
+"explanation": "Badri cattle are an indigenous humped cattle breed native to the Himalayan region of Uttarakhand."
+},
+{
+"q": "What does OPU-IVF stand for in the context of the Badri calf?",
+"options": [
+"Ovum Pick-Up and In Vitro Fertilization",
+"Oxygen Processing and Ultra-Fast Vaccination",
+"Organ Preservation and Veterinary Feeding",
+"Oocyte Protection and Universal Fertilization"
+],
+"answer": 0,
+"explanation": "OPU-IVF stands for Ovum Pick-Up and In Vitro Fertilization."
+},
+{
+"q": "Which organisation successfully placed EOS-05 into its designated orbit according to the provided material?",
+"options": [
+"DRDO",
+"ISRO",
+"HAL",
+"BARC"
+],
+"answer": 1,
+"explanation": "The Indian Space Research Organisation successfully placed EOS-05 into its designated orbit."
+},
+{
+"q": "EOS-05 is classified as a:",
+"options": [
+"Communication satellite",
+"Navigation satellite",
+"Earth Observation satellite",
+"Weather balloon"
+],
+"answer": 2,
+"explanation": "EOS-05 stands for Earth Observation Satellite-05."
+},
+{
+"q": "The Indian Women's Cricket Team won the Women's Asia Cup 2026 title in:",
+"options": [
+"Dubai",
+"Mumbai",
+"Colombo",
+"Dhaka"
+],
+"answer": 0,
+"explanation": "The material states that the Indian Women's Cricket Team won the Women's Asia Cup 2026 title in Dubai."
+},
+{
+"q": "Dhiraj Bommadevara became the first Indian male to win the:",
+"options": [
+"Olympic archery gold medal",
+"Archery World Cup Final",
+"Asian Games archery championship",
+"World Archery Championship team title"
+],
+"answer": 1,
+"explanation": "Dhiraj Bommadevara became the first Indian male to win the Archery World Cup Final."
+},
+{
+"q": "Where was the men's recurve final involving Dhiraj Bommadevara held?",
+"options": [
+"Saltillo, Mexico",
+"Tokyo, Japan",
+"Dubai, UAE",
+"New Delhi, India"
+],
+"answer": 0,
+"explanation": "The men's recurve final was held in Saltillo, Mexico."
+},
+{
+"q": "Which team won the fourth edition of the Global Chess League in 2026?",
+"options": [
+"Alpine APL Pipers",
+"Ganges Grandmasters",
+"Mumbai Movers",
+"Delhi Dragons"
+],
+"answer": 1,
+"explanation": "The Ganges Grandmasters emerged as champions of the fourth edition of the Global Chess League."
+},
+{
+"q": "The International Day of Clean Air for Blue Skies is observed globally on:",
+"options": [
+"5 June",
+"7 September",
+"16 September",
+"2 October"
+],
+"answer": 1,
+"explanation": "The International Day of Clean Air for Blue Skies is observed on September 7."
+},
+{
+"q": "What name does India use for the International Day of Clean Air for Blue Skies?",
+"options": [
+"Swachh Vayu Diwas",
+"Jal Shakti Diwas",
+"Van Mahotsav",
+"Paryavaran Diwas"
+],
+"answer": 0,
+"explanation": "India observes the occasion as Swachh Vayu Diwas."
+},
+{
+"q": "As of March 2026, India's air-quality monitoring network comprised how many monitoring stations?",
+"options": [
+"1,046",
+"1,246",
+"1,646",
+"2,046"
+],
+"answer": 2,
+"explanation": "The material states that India had 1,646 air-quality monitoring stations as of March 2026."
+},
+{
+"q": "The 1,646 air-quality monitoring stations covered how many cities according to the provided data?",
+"options": [
+"503",
+"603",
+"703",
+"803"
+],
+"answer": 1,
+"explanation": "The network comprised 1,646 stations across 603 cities."
+},
+{
+"q": "EPFO launched which digital communication channel for members and pensioners?",
+"options": [
+"Telegram Channel",
+"WhatsApp Channel",
+"X Community",
+"Signal Channel"
+],
+"answer": 1,
+"explanation": "The Employees' Provident Fund Organisation launched its official WhatsApp Channel."
+},
+{
+"q": "IAF Dronathon-2026 was inaugurated at which location?",
+"options": [
+"Pokhran Field Firing Range",
+"Sriharikota Space Centre",
+"Chandipur Test Range",
+"Deolali Military Station"
+],
+"answer": 0,
+"explanation": "The first IAF Dronathon-2026 was inaugurated at the Pokhran Field Firing Range in Jaisalmer."
+},
+{
+"q": "IAF Dronathon-2026 is scheduled from:",
+"options": [
+"5-7 September 2026",
+"10-12 September 2026",
+"14-16 September 2026",
+"17-19 September 2026"
+],
+"answer": 2,
+"explanation": "The event is scheduled from September 14 to September 16, 2026."
+},
+{
+"q": "Approximately how many defence firms, startups and MSMEs are participating in IAF Dronathon-2026?",
+"options": [
+"Over 10",
+"Over 15",
+"Over 20",
+"Over 50"
+],
+"answer": 2,
+"explanation": "The material states that more than 20 defence firms, startups and MSMEs are participating."
+},
+{
+"q": "Which department received the First Prize under Rajbhasha Kirti for 2025-26 in the category for ministries/departments with fewer than 300 personnel?",
+"options": [
+"Department of Financial Services",
+"Department of Revenue",
+"Department of Economic Affairs",
+"Department of Expenditure"
+],
+"answer": 0,
+"explanation": "The Department of Financial Services received the First Prize under Rajbhasha Kirti in the specified category."
+},
+{
+"q": "The 78th Primetime Emmy Awards in 2026 were held in:",
+"options": [
+"New York",
+"Los Angeles",
+"Chicago",
+"San Francisco"
+],
+"answer": 1,
+"explanation": "The 78th Primetime Emmy Awards took place in Los Angeles on September 14, 2026."
+},
+{
+"q": "Which Apple TV+ show is mentioned in the provided material as being among the most successful programmes at the 2026 Emmys?",
+"options": [
+"The Pitt",
+"Widow's Bay",
+"Severance",
+"Ted Lasso"
+],
+"answer": 1,
+"explanation": "The provided material identifies Apple TV+'s "Widow's Bay" as among the most successful programmes of the evening."
+}
+]
