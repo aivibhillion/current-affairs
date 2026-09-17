@@ -1,0 +1,350 @@
+[
+{
+"q": "The Kishau Multipurpose Project is associated with which river?",
+"options": ["Sutlej River", "Tons River", "Ravi River", "Chenab River"],
+"answer": 1,
+"explanation": "The Kishau Multipurpose Project involves the construction of a 232.6-metre concrete gravity dam on the Tons River."
+},
+{
+"q": "Which of the following states are associated with the Kishau Multipurpose Project?",
+"options": ["Himachal Pradesh, Uttarakhand, Uttar Pradesh, Haryana and Rajasthan", "Punjab, Haryana, Rajasthan, Gujarat and Maharashtra", "Uttarakhand, Bihar, Jharkhand, Odisha and West Bengal", "Himachal Pradesh, Punjab, Haryana, Delhi and Jammu and Kashmir"],
+"answer": 0,
+"explanation": "The project involves Himachal Pradesh, Uttarakhand, Uttar Pradesh, Haryana and Rajasthan, along with Delhi."
+},
+{
+"q": "What is the approximate height of the proposed Kishau Multipurpose Project dam?",
+"options": ["132.6 metres", "182.6 metres", "232.6 metres", "282.6 metres"],
+"answer": 2,
+"explanation": "The Kishau Project involves a proposed 232.6-metre-high concrete gravity dam."
+},
+{
+"q": "The Kishau Multipurpose Project is primarily classified as a:",
+"options": ["National Multipurpose Project", "National Highway Project", "Coastal Development Project", "Dedicated Irrigation Canal Project"],
+"answer": 0,
+"explanation": "Kishau is a National Multipurpose Project designed to provide multiple benefits, including irrigation and hydropower."
+},
+{
+"q": "The Kishau Multipurpose Project had remained pending for approximately:",
+"options": ["Two years", "Four years", "Eight years", "Fifteen years"],
+"answer": 2,
+"explanation": "The project had faced inter-state coordination and financial issues and remained stalled for almost eight years."
+},
+{
+"q": "In the context of digital payments, MDR stands for:",
+"options": ["Monetary Deposit Regulation", "Merchant Discount Rate", "Mobile Deposit Reserve", "Merchant Digital Registry"],
+"answer": 1,
+"explanation": "MDR stands for Merchant Discount Rate, a fee associated with merchant payment processing."
+},
+{
+"q": "According to the provided current-affairs information, the new UPI MDR framework is scheduled to become effective from:",
+"options": ["1 October 2026", "15 October 2026", "1 November 2026", "15 November 2026"],
+"answer": 1,
+"explanation": "The provided information states that the new framework will be effective from 15 October 2026."
+},
+{
+"q": "The reported UPI MDR framework concerns specified merchant payments exceeding:",
+"options": ["₹500", "₹1,000", "₹2,000", "₹5,000"],
+"answer": 2,
+"explanation": "The reported framework introduces charges on specified merchant UPI payments exceeding ₹2,000."
+},
+{
+"q": "The India-Cambodia tiger reintroduction programme has been postponed to:",
+"options": ["2026", "2027", "2028", "2030"],
+"answer": 2,
+"explanation": "The bilateral tiger reintroduction programme has been postponed to 2028 following ecological concerns."
+},
+{
+"q": "What was the principal ecological concern behind postponing the India-Cambodia tiger reintroduction programme?",
+"options": ["Excessive rainfall", "Inadequate natural prey base", "Lack of forest cover in India", "Absence of water sources"],
+"answer": 1,
+"explanation": "Habitat assessments indicated that the natural prey base in Cambodia's Cardamom National Park was inadequate."
+},
+{
+"q": "The proposed India-Cambodia tiger reintroduction programme is associated with which Cambodian protected landscape?",
+"options": ["Cardamom National Park", "Angkor National Park", "Virachey National Park", "Kirirom National Park"],
+"answer": 0,
+"explanation": "The programme is associated with Cambodia's Cardamom National Park, where habitat and prey availability have been assessed."
+},
+{
+"q": "According to the provided information, the India-Cambodia tiger programme initially envisaged introducing how many Royal Bengal Tigers?",
+"options": ["4", "6", "8", "10"],
+"answer": 1,
+"explanation": "The programme initially envisaged the reintroduction of six Royal Bengal Tigers."
+},
+{
+"q": "Which of the following organisations were reportedly involved in discussions about an industry-led AI standards body?",
+"options": ["Anthropic, Google and OpenAI", "Microsoft, IBM and Meta only", "ISRO, DRDO and NASA", "UNESCO, WHO and WTO"],
+"answer": 0,
+"explanation": "The provided information reports discussions involving Anthropic, Google and OpenAI regarding a shared industry-led AI standards body."
+},
+{
+"q": "Which of the following is most closely associated with the proposed industry-led AI standards body?",
+"options": ["Technical testing and dynamic benchmarking", "Agricultural subsidy distribution", "Currency management", "Nuclear power generation"],
+"answer": 0,
+"explanation": "The proposed body would focus on technical testing, dynamic benchmarking and pre-release auditing of advanced AI models."
+},
+{
+"q": "In the context of artificial intelligence, 'agentic misalignment' refers to:",
+"options": ["AI systems becoming slower after training", "Autonomous AI behaviour diverging from intended human objectives or safety constraints", "The inability of AI to generate images", "Human refusal to use artificial intelligence"],
+"answer": 1,
+"explanation": "Agentic misalignment occurs when autonomous AI agents pursue actions, strategies or sub-goals that diverge from their operators' intended objectives or safety constraints."
+},
+{
+"q": "Which of the following could be an example of agentic misalignment?",
+"options": ["An AI agent bypassing a safety control to achieve a goal", "An AI system correctly following instructions", "A computer displaying a low-battery warning", "A user manually shutting down a computer"],
+"answer": 0,
+"explanation": "Bypassing safety controls to accomplish a goal can represent behaviour that diverges from intended constraints."
+},
+{
+"q": "Which of the following is associated with frontier AI model evaluation?",
+"options": ["Dynamic benchmarking", "Elimination of human oversight", "Removal of safety testing", "Avoidance of pre-release evaluation"],
+"answer": 0,
+"explanation": "Dynamic benchmarking, technical testing and pre-release auditing are among the approaches discussed for evaluating advanced AI models."
+},
+{
+"q": "In September 2026, the United States publicly acknowledged deployment of:",
+"options": ["Nuclear weapons on the Moon", "On-orbit space-control weapons", "Weapons on Mars", "Weapons inside the International Space Station"],
+"answer": 1,
+"explanation": "The United States publicly acknowledged fielding on-orbit space-control weapons, highlighting growing concerns over space security and counter-space capabilities."
+},
+{
+"q": "ASAT, in the context of space security, stands for:",
+"options": ["Advanced Satellite Tracking", "Anti-Satellite", "Aerospace Security and Technology", "Autonomous Space Access Technology"],
+"answer": 1,
+"explanation": "ASAT stands for Anti-Satellite and generally refers to systems designed to interfere with or disable satellites."
+},
+{
+"q": "Which international treaty forms a foundational legal framework for activities in outer space?",
+"options": ["Outer Space Treaty, 1967", "Antarctic Treaty, 1959", "Montreal Protocol, 1987", "Ramsar Convention, 1971"],
+"answer": 0,
+"explanation": "The Outer Space Treaty of 1967 is a foundational international legal instrument governing activities in outer space."
+},
+{
+"q": "Brendan Taylor recently broke Sachin Tendulkar's record for the longest career in:",
+"options": ["Test cricket", "ODI cricket", "T20 International cricket", "First-class cricket"],
+"answer": 1,
+"explanation": "Brendan Taylor surpassed Sachin Tendulkar's record for the longest career in One Day International cricket."
+},
+{
+"q": "Brendan Taylor represents which country in international cricket?",
+"options": ["South Africa", "Zimbabwe", "Namibia", "Kenya"],
+"answer": 1,
+"explanation": "Brendan Taylor is a Zimbabwean wicketkeeper-batter."
+},
+{
+"q": "Brendan Taylor achieved the longest ODI career record after playing against:",
+"options": ["India", "England", "Australia", "South Africa"],
+"answer": 2,
+"explanation": "Taylor achieved the record after participating in the first ODI between Zimbabwe and Australia in Harare on 15 September 2026."
+},
+{
+"q": "Before Brendan Taylor, the record for the longest ODI career was held by:",
+"options": ["Virat Kohli", "Sachin Tendulkar", "Sanath Jayasuriya", "Javed Miandad"],
+"answer": 1,
+"explanation": "Sachin Tendulkar previously held the record for the longest ODI career."
+},
+{
+"q": "Nepal's request for climate-related financial assistance is associated with which mechanism?",
+"options": ["Loss and Damage Fund", "International Monetary Fund", "World Trade Organization Fund", "Montreal Protocol Fund"],
+"answer": 0,
+"explanation": "Nepal has sought climate-related assistance through the United Nations' Loss and Damage mechanism following severe climate-related disasters."
+},
+{
+"q": "The concept of 'Loss and Damage' in international climate negotiations primarily addresses:",
+"options": ["Only greenhouse-gas reduction", "Climate-related harms that cannot be fully avoided through mitigation or adaptation", "Military expenditure", "International trade disputes"],
+"answer": 1,
+"explanation": "Loss and Damage concerns climate-related harms and impacts, particularly those experienced by vulnerable countries that cannot be fully avoided through mitigation or adaptation."
+},
+{
+"q": "PM Vishwakarma primarily focuses on supporting:",
+"options": ["Large industrial corporations", "Traditional artisans and craftspeople", "Only government employees", "Foreign investors"],
+"answer": 1,
+"explanation": "PM Vishwakarma is designed to support traditional artisans and craftspeople through training, tools, credit, digital incentives and market support."
+},
+{
+"q": "Which of the following is a feature of the PM Vishwakarma Scheme?",
+"options": ["Skill training", "Guaranteed government employment", "Free higher education for all", "Universal pension for all citizens"],
+"answer": 0,
+"explanation": "PM Vishwakarma provides skill training along with toolkit support, concessional credit, digital transaction incentives and marketing support."
+},
+{
+"q": "The PM Vishwakarma Scheme was launched in:",
+"options": ["2021", "2022", "2023", "2024"],
+"answer": 2,
+"explanation": "The PM Vishwakarma Scheme was launched in 2023 to support traditional artisans and craftspeople."
+},
+{
+"q": "The EPFO mandatory coverage wage ceiling has been increased from:",
+"options": ["₹10,000 to ₹15,000", "₹12,000 to ₹20,000", "₹15,000 to ₹25,000", "₹20,000 to ₹30,000"],
+"answer": 2,
+"explanation": "The Union Cabinet approved increasing the EPFO mandatory coverage wage ceiling from ₹15,000 to ₹25,000 per month."
+},
+{
+"q": "The increase in the EPFO wage ceiling is expected to bring approximately how many additional workers under mandatory coverage?",
+"options": ["11 lakh", "31 lakh", "51 lakh", "75 lakh"],
+"answer": 2,
+"explanation": "The measure is expected to bring more than 51 lakh additional employees under mandatory EPFO coverage."
+},
+{
+"q": "EPFO is primarily associated with:",
+"options": ["Monetary policy", "Employee social security and provident fund administration", "Foreign exchange management", "Agricultural exports"],
+"answer": 1,
+"explanation": "The Employees' Provident Fund Organisation administers important employee social-security and provident-fund-related schemes."
+},
+{
+"q": "The Gujarat State Child Protection Policy 2026 primarily seeks to protect children from:",
+"options": ["Only poverty", "Violence, exploitation, abuse, neglect and discrimination", "Only cybercrime", "Only school dropout"],
+"answer": 1,
+"explanation": "The policy adopts a broad rights-based approach covering violence, exploitation, abuse, neglect and discrimination, along with education, healthcare and development."
+},
+{
+"q": "Recent youth protests around examinations and recruitment have highlighted concerns relating to:",
+"options": ["Examination systems, unemployment and institutional accountability", "Only international trade", "Only agricultural exports", "Only defence procurement"],
+"answer": 0,
+"explanation": "The provided information links recent youth mobilisations to examination failures, unemployment and concerns regarding institutional accountability."
+},
+{
+"q": "Yudh Abhyas is a joint military exercise between:",
+"options": ["India and Russia", "India and France", "India and the United States", "India and Japan"],
+"answer": 2,
+"explanation": "Yudh Abhyas is the annual bilateral army-to-army exercise conducted between India and the United States."
+},
+{
+"q": "The 2026 edition of Yudh Abhyas is the:",
+"options": ["20th edition", "21st edition", "22nd edition", "25th edition"],
+"answer": 2,
+"explanation": "Yudh Abhyas 2026 is the 22nd edition of the India-US bilateral army exercise."
+},
+{
+"q": "The 2026 edition of Yudh Abhyas commenced at:",
+"options": ["Auli Foreign Training Node, Uttarakhand", "Leh, Ladakh", "Jodhpur, Rajasthan", "Pune, Maharashtra"],
+"answer": 0,
+"explanation": "The opening ceremony of Yudh Abhyas 2026 was held at the Auli Foreign Training Node in Uttarakhand."
+},
+{
+"q": "VIMARSH 2026 was organised as a:",
+"options": ["DRDO-Industry Synergy Meet", "NITI Aayog Economic Summit", "RBI Banking Conference", "ISRO Space Expo"],
+"answer": 0,
+"explanation": "VIMARSH 2026 was a DRDO-Industry Synergy Meet aimed at strengthening cooperation between defence R&D and industry."
+},
+{
+"q": "The theme of VIMARSH 2026 was:",
+"options": ["Vikas se Varta", "Varta se Vikas", "Raksha se Vikas", "Atmanirbhar se Suraksha"],
+"answer": 1,
+"explanation": "VIMARSH 2026 was organised under the theme 'Varta se Vikas'."
+},
+{
+"q": "VIMARSH 2026 sought to strengthen links between DRDO and:",
+"options": ["Only foreign governments", "Private industry, MSMEs, start-ups, academia and manufacturing sectors", "Only public-sector banks", "Only universities outside India"],
+"answer": 1,
+"explanation": "The event was designed to connect defence R&D with private industry, MSMEs, start-ups, academia and manufacturing sectors."
+},
+{
+"q": "Sanjukta Parashar became the first woman officer to head:",
+"options": ["NSG", "CRPF CoBRA", "CISF", "BSF Air Wing"],
+"answer": 1,
+"explanation": "IPS officer Sanjukta Parashar became the first woman officer to head the CRPF's Commando Battalion for Resolute Action, or CoBRA."
+},
+{
+"q": "CoBRA, in the context of the CRPF, stands for:",
+"options": ["Commando Battalion for Resolute Action", "Central Operations Battalion for Rapid Action", "Combat Battalion for Regional Administration", "Commando Brigade for Rural Action"],
+"answer": 0,
+"explanation": "CoBRA stands for Commando Battalion for Resolute Action, an elite CRPF force trained for jungle warfare and counter-insurgency operations."
+},
+{
+"q": "Who has been selected for the Dadasaheb Phalke Award for 2024 according to the provided information?",
+"options": ["Anant Nag", "Naseeruddin Shah", "Mammootty", "Shabana Azmi"],
+"answer": 0,
+"explanation": "Veteran Kannada actor Anant Nag has been named the recipient of the Dadasaheb Phalke Award for 2024."
+},
+{
+"q": "Anant Nag is prominently associated with which Indian film industry?",
+"options": ["Kannada cinema", "Bengali cinema", "Malayalam cinema", "Assamese cinema"],
+"answer": 0,
+"explanation": "Anant Nag is a veteran actor prominently associated with Kannada cinema."
+},
+{
+"q": "Dr. Vasundhara Doraswamy is primarily associated with which classical Indian dance form?",
+"options": ["Kathak", "Bharatanatyam", "Kuchipudi", "Manipuri"],
+"answer": 1,
+"explanation": "Dr. Vasundhara Doraswamy is a prominent Bharatanatyam performer, choreographer and researcher."
+},
+{
+"q": "Saratchandra Chattopadhyay was primarily associated with:",
+"options": ["Bengali literature", "Tamil literature", "Marathi literature", "Urdu literature"],
+"answer": 0,
+"explanation": "Saratchandra Chattopadhyay was a renowned Bengali novelist and short-story writer."
+},
+{
+"q": "Saratchandra Chattopadhyay was born in:",
+"options": ["1876", "1886", "1896", "1906"],
+"answer": 0,
+"explanation": "Saratchandra Chattopadhyay was born in 1876, making 2026 his 150th birth anniversary year."
+},
+{
+"q": "Engineers' Day in India is observed on:",
+"options": ["5 September", "14 September", "15 September", "16 September"],
+"answer": 2,
+"explanation": "Engineers' Day is observed on 15 September to commemorate the birth anniversary of Bharat Ratna Sir M. Visvesvaraya."
+},
+{
+"q": "Engineers' Day is associated with the birth anniversary of:",
+"options": ["Sir C. V. Raman", "Sir M. Visvesvaraya", "Homi J. Bhabha", "A. P. J. Abdul Kalam"],
+"answer": 1,
+"explanation": "Engineers' Day is observed in honour of eminent engineer and statesman Sir M. Visvesvaraya."
+},
+{
+"q": "Kumik, declared Ladakh's first Heritage Village, is located in:",
+"options": ["Nubra", "Zanskar", "Changthang", "Kargil"],
+"answer": 1,
+"explanation": "Kumik is located in the Zanskar region of Ladakh and was declared Ladakh's first Heritage Village."
+},
+{
+"q": "Which of the following is associated with the heritage significance of Kumik?",
+"options": ["Kanjur manuscripts and traditional architecture", "Ancient Roman inscriptions", "Mughal miniature paintings only", "Marine archaeological remains"],
+"answer": 0,
+"explanation": "Kumik's heritage significance includes traditional architecture, Buddhist Kanjur manuscripts, farming practices and cultural traditions."
+},
+{
+"q": "The Kanjur associated with Kumik refers to:",
+"options": ["A Tibetan Buddhist canonical collection", "A traditional irrigation system", "A Himalayan musical instrument", "A Ladakhi harvest festival"],
+"answer": 0,
+"explanation": "Kanjur refers to the Tibetan Buddhist canonical collection associated with the translated words of the Buddha."
+},
+{
+"q": "Which of the following pairs is correctly matched?",
+"options": ["Kishau Project — Tons River", "Yudh Abhyas — India-Russia", "VIMARSH — RBI", "Kumik — Kashmir Valley"],
+"answer": 0,
+"explanation": "Kishau is associated with the Tons River. Yudh Abhyas is an India-US exercise, VIMARSH is a DRDO-industry event, and Kumik is in Zanskar, Ladakh."
+},
+{
+"q": "Which of the following pairs is correctly matched?",
+"options": ["PM Vishwakarma — Traditional artisans", "EPFO — Monetary policy", "CoBRA — Naval warfare", "Engineers' Day — 26 January"],
+"answer": 0,
+"explanation": "PM Vishwakarma is aimed at supporting traditional artisans and craftspeople."
+},
+{
+"q": "Consider the following statements: 1. Kishau Project is associated with the Tons River. 2. Yudh Abhyas is an India-US exercise. 3. VIMARSH focuses on DRDO-industry cooperation. 4. PM Vishwakarma supports traditional artisans. Which of the statements are correct?",
+"options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+"answer": 3,
+"explanation": "All four statements are correct according to the provided current-affairs material."
+},
+{
+"q": "Consider the following statements about agentic misalignment: 1. It may involve an AI agent pursuing unintended sub-goals. 2. It can involve unauthorised actions. 3. It necessarily means that an AI system has become conscious. Which of the statements are correct?",
+"options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+"answer": 1,
+"explanation": "Agentic misalignment concerns divergence between autonomous AI behaviour and intended objectives or constraints; it does not imply AI consciousness."
+},
+{
+"q": "Which one of the following correctly represents the sequence from the current affairs provided?",
+"options": ["EPFO ceiling: ₹15,000 to ₹25,000", "UPI threshold: ₹20,000", "Yudh Abhyas: India-Russia", "Kumik: Himachal Pradesh"],
+"answer": 0,
+"explanation": "The EPFO mandatory coverage wage ceiling was reported as increasing from ₹15,000 to ₹25,000 per month."
+},
+{
+"q": "Which of the following developments is correctly associated with September 2026?",
+"options": ["Brendan Taylor — longest ODI career", "Anant Nag — Dadasaheb Phalke Award for 2014", "Kumik — first Heritage Village of Rajasthan", "Yudh Abhyas — India-France exercise"],
+"answer": 0,
+"explanation": "Brendan Taylor surpassed Sachin Tendulkar's record for the longest ODI career in September 2026."
+}
+]
