@@ -1,0 +1,409 @@
+[
+{
+"q": "Consider the following statements regarding the PM Vishwakarma Scheme: 1. It was launched in 2023. 2. It provides end-to-end support to artisans and craftspeople in 18 traditional trades. 3. It has a financial outlay of ₹13,000 crore for five years. Which of the statements given above is/are correct?",
+"options": [
+"1 only",
+"1 and 2 only",
+"1, 2 and 3",
+"2 and 3 only"
+],
+"answer": 3,
+"explanation": "The PM Vishwakarma Scheme was launched in 2023, covers artisans and craftspeople in 18 traditional trades, and has a financial outlay of ₹13,000 crore for FY 2023-24 to FY 2027-28."
+},
+{
+"q": "Which of the following correctly represents the three pillars of the PM Vishwakarma Scheme?",
+"options": [
+"Samman, Samarthya and Samriddhi",
+"Shiksha, Swasthya and Samriddhi",
+"Samman, Suraksha and Swavalamban",
+"Samarthya, Swachhta and Samman"
+],
+"answer": 1,
+"explanation": "The three pillars of the PM Vishwakarma Scheme are Samman (Respect), Samarthya (Capability) and Samriddhi (Prosperity)."
+},
+{
+"q": "Under the PM Vishwakarma Scheme, the toolkit incentive is available up to:",
+"options": [
+"₹5,000",
+"₹10,000",
+"₹15,000",
+"₹25,000"
+],
+"answer": 3,
+"explanation": "The scheme provides a toolkit incentive of up to ₹15,000 to eligible artisans and craftspeople."
+},
+{
+"q": "The PM Vishwakarma Scheme provides collateral-free loans up to what amount at an interest rate of 5%, according to the supplied current-affairs material?",
+"options": [
+"₹1 lakh",
+"₹2 lakh",
+"₹3 lakh",
+"₹5 lakh"
+],
+"answer": 3,
+"explanation": "The scheme provides collateral-free loans of up to ₹3 lakh at a 5% interest rate."
+},
+{
+"q": "The Bharat Vann green initiative is primarily associated with which of the following?",
+"options": [
+"Coastal afforestation",
+"Urban afforestation",
+"Desert reclamation",
+"Mangrove restoration"
+],
+"answer": 2,
+"explanation": "Bharat Vann is an urban afforestation initiative undertaken in collaboration with the New Delhi Municipal Council (NDMC)."
+},
+{
+"q": "The Bharat Vann initiative mentioned in the current-affairs material was inaugurated at which location?",
+"options": [
+"India Gate Lawns",
+"Lodhi Colony Park",
+"Nehru Park",
+"Sanjay Van"
+],
+"answer": 2,
+"explanation": "Union Finance Minister Nirmala Sitharaman inaugurated Bharat Vann at Lodhi Colony Park in Central Delhi."
+},
+{
+"q": "According to the supplied current-affairs material, the mandatory wage ceiling under EPFO was increased from ₹15,000 to:",
+"options": [
+"₹18,000",
+"₹20,000",
+"₹22,000",
+"₹25,000"
+],
+"answer": 4,
+"explanation": "The Union Cabinet approved the proposal to raise the mandatory wage ceiling under EPFO from ₹15,000 to ₹25,000 per month."
+},
+{
+"q": "According to the supplied current-affairs material, Moody's revised India's GDP growth forecast for the current fiscal year to:",
+"options": [
+"5.5%",
+"6.0%",
+"6.5%",
+"7.0%"
+],
+"answer": 4,
+"explanation": "Moody's revised its India GDP growth forecast upward from 6% to 7%, citing the resilience of the Indian economy amid uncertainties."
+},
+{
+"q": "Japan's central bank raised its key interest rate from 1% to what level, according to the supplied material?",
+"options": [
+"0.75%",
+"1.00%",
+"1.25%",
+"1.50%"
+],
+"answer": 3,
+"explanation": "Japan's key interest rate was raised to 1.25%, described in the supplied material as the highest borrowing cost since 1995."
+},
+{
+"q": "Sohar Port, which has emerged as a strategic alternative gateway for Indian cargo destined for GCC countries, is located in:",
+"options": [
+"Saudi Arabia",
+"Oman",
+"United Arab Emirates",
+"Qatar"
+],
+"answer": 2,
+"explanation": "Sohar Port is located in Oman. It is described as a modern deep-sea commercial port and integrated industrial free zone."
+},
+{
+"q": "Which country was proposed as the European Union's first-ever associate member?",
+"options": [
+"Australia",
+"Canada",
+"Japan",
+"New Zealand"
+],
+"answer": 2,
+"explanation": "European Commission President Ursula von der Leyen proposed Canada as the EU's first-ever associate member as part of an 'Alliance for the Future' initiative."
+},
+{
+"q": "According to the supplied material, Russian crude accounted for approximately what share of India's crude oil imports in July 2026?",
+"options": [
+"Over 25%",
+"Over 35%",
+"Over 41%",
+"Over 51%"
+],
+"answer": 4,
+"explanation": "The supplied material states that Russian crude accounted for over 51% of India's crude oil imports in July 2026."
+},
+{
+"q": "Which of the following was NOT mentioned as a measure being considered by India to strengthen economic security amid sanctions?",
+"options": [
+"Establishing a Sanctions War Room",
+"Augmenting strategic petroleum reserves",
+"Diversifying crude oil imports",
+"Completely stopping all crude oil imports"
+],
+"answer": 4,
+"explanation": "The material mentions measures such as a Sanctions War Room, strategic petroleum reserves, import diversification, de-dollarization efforts and maritime insurance initiatives. Complete cessation of crude imports was not mentioned."
+},
+{
+"q": "The changing economic relationship between India and Bhutan is described as moving beyond which traditional framework?",
+"options": [
+"Defence cooperation framework",
+"Development-assistance framework",
+"Trade protection framework",
+"Military alliance framework"
+],
+"answer": 2,
+"explanation": "The supplied material states that Bhutan's economic transformation is creating new avenues for cooperation beyond the traditional development-assistance framework."
+},
+{
+"q": "Which exoplanet was described as the youngest known planet ever detected?",
+"options": [
+"Kepler-22b",
+"Proxima Centauri b",
+"Elias 2-24 b",
+"WASP-12b"
+],
+"answer": 3,
+"explanation": "Elias 2-24 b was described as the youngest known planet ever detected, with an estimated age of less than one million years."
+},
+{
+"q": "Elias 2-24 b is described as what type of astronomical object?",
+"options": [
+"Rocky terrestrial planet",
+"Nascent gas-giant exoplanet",
+"Brown dwarf",
+"White dwarf"
+],
+"answer": 2,
+"explanation": "The supplied material describes Elias 2-24 b as a nascent gas-giant exoplanet."
+},
+{
+"q": "The confirmation of Elias 2-24 b used NASA-funded archival data from which observatory?",
+"options": [
+"Arecibo Observatory",
+"W. M. Keck Observatory",
+"Jantar Mantar",
+"James Webb Space Telescope"
+],
+"answer": 2,
+"explanation": "An international team used NASA-funded archival data from the W. M. Keck Observatory to confirm Elias 2-24 b."
+},
+{
+"q": "The 5th edition of SEMICON India 2026 was inaugurated at:",
+"options": [
+"Bharat Mandapam, New Delhi",
+"Yashobhoomi (IICC), New Delhi",
+"India Expo Centre, Greater Noida",
+"Pragati Maidan, Mumbai"
+],
+"answer": 2,
+"explanation": "The 5th edition of SEMICON India 2026 was inaugurated at Yashobhoomi (IICC) in New Delhi."
+},
+{
+"q": "SEMICON India primarily focuses on which sector?",
+"options": [
+"Textiles and handicrafts",
+"Semiconductor and microelectronics industry",
+"Agriculture and food processing",
+"Pharmaceutical manufacturing"
+],
+"answer": 2,
+"explanation": "SEMICON India is described as India's flagship international semiconductor conference and exhibition, connecting the global microelectronics industry."
+},
+{
+"q": "The Aichi-Nagoya Asian Games 2026 were scheduled to commence on:",
+"options": [
+"September 15, 2026",
+"September 17, 2026",
+"September 19, 2026",
+"September 21, 2026"
+],
+"answer": 3,
+"explanation": "According to the supplied current-affairs material, the Aichi-Nagoya Asian Games 2026 were scheduled to commence on September 19, 2026."
+},
+{
+"q": "Who were named India's flag-bearers for the opening ceremony of the 2026 Asian Games?",
+"options": [
+"Neeraj Chopra and PV Sindhu",
+"Manu Bhaker and Tajinderpal Singh Toor",
+"Mirabai Chanu and Bajrang Punia",
+"Sift Kaur Samra and Harmanpreet Singh"
+],
+"answer": 2,
+"explanation": "Shooter Manu Bhaker and shot putter Tajinderpal Singh Toor were named India's flag-bearers for the opening ceremony in Nagoya."
+},
+{
+"q": "According to the supplied material, which sport has historically contributed the highest number of medals for India at the Asian Games?",
+"options": [
+"Shooting",
+"Wrestling",
+"Athletics",
+"Kabaddi"
+],
+"answer": 3,
+"explanation": "Athletics has historically been India's most successful sport at the Asian Games, contributing 283 medals according to the supplied material."
+},
+{
+"q": "India's first farm-level soil carbon payments mentioned in the current-affairs material were associated with farmers in:",
+"options": [
+"Punjab and Haryana",
+"Punjab and Rajasthan",
+"Haryana and Uttar Pradesh",
+"Gujarat and Maharashtra"
+],
+"answer": 1,
+"explanation": "More than 2,550 small farmers in Punjab and Haryana received more than ₹2.9 crore through Direct Benefit Transfer for verified regenerative farming practices."
+},
+{
+"q": "The soil carbon payments mentioned in the current-affairs material were made through which mechanism?",
+"options": [
+"Direct Benefit Transfer",
+"Corporate Social Responsibility",
+"Foreign Direct Investment",
+"Minimum Support Price"
+],
+"answer": 1,
+"explanation": "The payments were made through Direct Benefit Transfer (DBT) to farmers participating in verified regenerative farming practices."
+},
+{
+"q": "The report titled 'Forests for food: Nourishing people, sustaining the planet' was published by:",
+"options": [
+"UNEP alone",
+"FAO in collaboration with the Landscape Alliance (CIFOR-ICRAF)",
+"World Bank and IMF",
+"UNDP and UNESCO"
+],
+"answer": 2,
+"explanation": "The report was published by the Food and Agriculture Organization (FAO) in collaboration with the Landscape Alliance (CIFOR-ICRAF)."
+},
+{
+"q": "The twin flower fields introduced in Ladakh are located at approximately what elevation?",
+"options": [
+"5,600 feet",
+"7,600 feet",
+"9,600 feet",
+"10,600 feet"
+],
+"answer": 4,
+"explanation": "The twin flower fields were introduced in Leh District at a height of approximately 10,600 feet to promote commercial floriculture."
+},
+{
+"q": "The expansion of the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) includes which of the following?",
+"options": [
+"Only branded medicines",
+"Surgical products, medical consumables and healthcare devices",
+"Only health insurance products",
+"Only imported medical equipment"
+],
+"answer": 2,
+"explanation": "The government is expanding PMBJP beyond affordable medicines to include surgical products, medical consumables and healthcare devices."
+},
+{
+"q": "According to the supplied material, generic medicines under PMBJP are generally available at prices approximately how much lower than branded medicines?",
+"options": [
+"10–20% lower",
+"20–30% lower",
+"30–40% lower",
+"50–80% lower"
+],
+"answer": 4,
+"explanation": "The supplied material states that PMBJP offers quality-assured generic medicines generally 50–80% cheaper than branded medicines."
+},
+{
+"q": "The government aims to establish how many Jan Aushadhi Kendras by March 2027?",
+"options": [
+"10,000",
+"15,000",
+"20,000",
+"25,000"
+],
+"answer": 4,
+"explanation": "The government aims to establish 25,000 Jan Aushadhi Kendras by March 2027."
+},
+{
+"q": "Under the amended passport rules mentioned in the material, an ordinary passport issued to a child below 15 years will be valid for:",
+"options": [
+"Five years only",
+"Until the child turns 18 only",
+"Five years or until attaining 18 years, whichever is earlier",
+"Ten years or until attaining 18 years, whichever is earlier"
+],
+"answer": 3,
+"explanation": "For a child below 15 years, the amended rule provides validity of five years or until the child attains 18 years, whichever is earlier."
+},
+{
+"q": "Which of the following systems were identified in the supplied material as areas through which unilateral sanctions could create vulnerabilities for India?",
+"options": [
+"Banking and SWIFT",
+"Shipping and maritime insurance",
+"US dollar-based global trade",
+"All of the above"
+],
+"answer": 4,
+"explanation": "The material identifies vulnerabilities involving banking, SWIFT, the US dollar-based global financial system, shipping and maritime insurance."
+},
+{
+"q": "According to the supplied material, more than what percentage of global maritime Protection and Indemnity (P&I) coverage is underwritten by London-based clubs?",
+"options": [
+"50%",
+"70%",
+"80%",
+"90%"
+],
+"answer": 4,
+"explanation": "The supplied material states that over 90% of global maritime P&I coverage is underwritten by London-based clubs."
+},
+{
+"q": "Which Marathi film was selected as India's official representative for the 99th Academy Awards, according to the supplied material?",
+"options": [
+"Gondhal",
+"Sairat",
+"Court",
+"Fandry"
+],
+"answer": 1,
+"explanation": "The Marathi thriller 'Gondhal', directed by Santosh Davakhar, was selected as India's official representative for the 99th Academy Awards."
+},
+{
+"q": "The NHAI's OneTag FASTag portability service allows users to:",
+"options": [
+"Transfer vehicle ownership digitally",
+"Change the FASTag issuer bank without replacing the existing tag",
+"Use one FASTag simultaneously on multiple vehicles",
+"Convert FASTag into a toll-free pass"
+],
+"answer": 2,
+"explanation": "OneTag, introduced through the Rajmargyatra app, allows users to change their FASTag issuer bank without replacing the tag installed on the vehicle."
+},
+{
+"q": "According to the supplied material, who became Asia's richest person?",
+"options": [
+"Pony Ma",
+"Mukesh Ambani",
+"Zhang Yiming",
+"Gautam Adani"
+],
+"answer": 3,
+"explanation": "The supplied material identifies Zhang Yiming, founder of ByteDance, as Asia's richest person, with an approximate net worth of $105 billion according to the Bloomberg Billionaires Index cited in the material."
+},
+{
+"q": "Five orphaned orangutans mentioned in the current-affairs material were rescued from:",
+"options": [
+"Simlipal National Park",
+"Bichitrapur forest in Odisha's Balasore district",
+"Chilika Wildlife Sanctuary",
+"Bhitarkanika National Park"
+],
+"answer": 2,
+"explanation": "Five orphaned orangutans were rescued from Bichitrapur forest in Odisha's Balasore district and transferred to Nandankanan Zoo in Bhubaneswar."
+},
+{
+"q": "The Odisha orangutan case highlighted concerns related to which international convention?",
+"options": [
+"Ramsar Convention",
+"CITES",
+"Basel Convention",
+"UNFCCC"
+],
+"answer": 2,
+"explanation": "The case highlighted issues related to CITES, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, as well as wildlife trafficking."
+}
+]
