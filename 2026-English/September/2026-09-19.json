@@ -1,0 +1,290 @@
+[
+  {
+    "q": "The Uniform Civil Code (UCC) is constitutionally associated with which Article of the Indian Constitution?",
+    "options": ["Article 32", "Article 44", "Article 48A", "Article 51A"],
+    "answer": 1,
+    "explanation": "Article 44 is a Directive Principle of State Policy that directs the State to endeavour to secure a Uniform Civil Code for citizens."
+  },
+  {
+    "q": "Which Indian state became the first to operationalise the Uniform Civil Code?",
+    "options": ["Gujarat", "Assam", "Uttarakhand", "Goa"],
+    "answer": 2,
+    "explanation": "Uttarakhand became the first Indian state to operationalise a Uniform Civil Code in 2025."
+  },
+  {
+    "q": "The Election Commission's action concerning the TMC name and symbol was taken under which provision?",
+    "options": ["Article 324", "Paragraph 15 of the Symbols Order, 1968", "Section 29A of the Representation of the People Act, 1951", "Tenth Schedule"],
+    "answer": 1,
+    "explanation": "Paragraph 15 of the Election Symbols (Reservation and Allotment) Order, 1968 deals with disputes between rival groups of a recognised political party over its name and symbol."
+  },
+  {
+    "q": "The term 'Census Town' is primarily associated with which classification?",
+    "options": ["Agricultural classification", "Urban settlement classification", "Parliamentary constituency classification", "Forest classification"],
+    "answer": 1,
+    "explanation": "A Census Town is a settlement classified as urban for census purposes on the basis of prescribed demographic and occupational criteria."
+  },
+  {
+    "q": "Which of the following issues are associated with the Uniform Civil Code debate?",
+    "options": ["Gender justice only", "Religious freedom only", "Cultural diversity only", "Gender justice, religious freedom, cultural diversity and personal laws"],
+    "answer": 3,
+    "explanation": "The UCC debate involves several constitutional and social dimensions, including gender justice, religious freedom, cultural diversity and personal laws."
+  },
+  {
+    "q": "According to the Global Business Climate Survey 2026, India ranked first among how many global markets?",
+    "options": ["31", "35", "41", "51"],
+    "answer": 2,
+    "explanation": "India ranked first for business climate among 41 global markets covered by the Global Business Climate Survey 2026."
+  },
+  {
+    "q": "The Global Business Climate Survey 2026 was associated with which organisations?",
+    "options": ["IMF and World Bank", "Business Sweden and Swedish Chamber of Commerce in India", "WTO and UNCTAD", "OECD and European Commission"],
+    "answer": 1,
+    "explanation": "The survey was associated with Business Sweden and the Swedish Chamber of Commerce in India."
+  },
+  {
+    "q": "OneTag is primarily associated with which digital infrastructure?",
+    "options": ["UPI", "FASTag", "DigiLocker", "Aadhaar"],
+    "answer": 1,
+    "explanation": "OneTag is a FASTag portability facility that allows users to change their FASTag issuer bank while retaining the physical tag."
+  },
+  {
+    "q": "OneTag is most closely analogous to which concept?",
+    "options": ["Mobile Number Portability", "Account Aggregator", "Open Network for Digital Commerce", "Bharat BillPay"],
+    "answer": 0,
+    "explanation": "OneTag works similarly to Mobile Number Portability because users can change the service provider while retaining the existing FASTag."
+  },
+  {
+    "q": "OneTag was launched as a joint initiative involving IHMCL and which organisation?",
+    "options": ["RBI", "NPCI", "SEBI", "TRAI"],
+    "answer": 1,
+    "explanation": "Indian Highways Management Company Limited and NPCI are associated with the OneTag FASTag portability initiative."
+  },
+  {
+    "q": "Real-World Asset (RWA) tokenisation primarily refers to:",
+    "options": ["Converting physical assets into tradable digital representations", "Converting cryptocurrency into gold", "Replacing all land records with Aadhaar", "Digitising only government securities"],
+    "answer": 0,
+    "explanation": "RWA tokenisation represents ownership or economic interests in physical assets through digital tokens."
+  },
+  {
+    "q": "The 18th BRICS Summit in 2026 was hosted by India in:",
+    "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+    "answer": 1,
+    "explanation": "India hosted the 18th BRICS Summit in New Delhi in September 2026."
+  },
+  {
+    "q": "What was the theme of the 18th BRICS Summit hosted by India in 2026?",
+    "options": ["One Earth, One Family, One Future", "Building for Resilience, Innovation, Cooperation and Sustainability", "Reforming Global Institutions for Peace", "Inclusive Growth through Digitalisation"],
+    "answer": 1,
+    "explanation": "The theme of India's 2026 BRICS Chairship was 'Building for Resilience, Innovation, Cooperation and Sustainability.'"
+  },
+  {
+    "q": "The 2026 BRICS Summit marked approximately how many years since the establishment of BRICS?",
+    "options": ["10 years", "15 years", "20 years", "25 years"],
+    "answer": 2,
+    "explanation": "The 2026 BRICS Chairship marked two decades of the BRICS grouping."
+  },
+  {
+    "q": "India assumed the BRICS Chairship in 2026 for which time?",
+    "options": ["Second time", "Third time", "Fourth time", "Fifth time"],
+    "answer": 2,
+    "explanation": "India assumed the BRICS Chairship for the fourth time in 2026."
+  },
+  {
+    "q": "MATSYA-6000 is associated with India's:",
+    "options": ["Space exploration programme", "Deep-sea manned exploration programme", "Polar research programme", "Nuclear submarine programme"],
+    "answer": 1,
+    "explanation": "MATSYA-6000 is an indigenous manned submersible being developed for deep-sea exploration under the Samudrayaan project."
+  },
+  {
+    "q": "The primary objective of deep-sea mineral exploration includes access to:",
+    "options": ["Agricultural land", "Critical minerals", "Fossil fuels only", "Freshwater aquifers"],
+    "answer": 1,
+    "explanation": "Deep-sea mineral exploration can provide access to critical minerals important for strategic industries, renewable energy, electric mobility and advanced manufacturing."
+  },
+  {
+    "q": "The International Seabed Authority (ISA) is primarily associated with:",
+    "options": ["Outer-space resources", "International seabed mineral resources", "Global fisheries only", "International aviation"],
+    "answer": 1,
+    "explanation": "The International Seabed Authority regulates mineral-related activities in the international seabed area beyond national jurisdiction."
+  },
+  {
+    "q": "QDENGA is a vaccine against:",
+    "options": ["Malaria", "Dengue", "Japanese encephalitis", "Chikungunya"],
+    "answer": 1,
+    "explanation": "QDENGA is a tetravalent vaccine developed for protection against dengue."
+  },
+  {
+    "q": "QDENGA is designed to provide protection against how many dengue serotypes?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": 3,
+    "explanation": "QDENGA is a tetravalent dengue vaccine designed to provide protection against four dengue virus serotypes."
+  },
+  {
+    "q": "QDENGA was developed by which pharmaceutical company?",
+    "options": ["Pfizer", "Takeda", "AstraZeneca", "Serum Institute of India"],
+    "answer": 1,
+    "explanation": "QDENGA was developed by Takeda, a Japanese pharmaceutical company."
+  },
+  {
+    "q": "The UNEP report 'Limiting Overshoot' primarily deals with:",
+    "options": ["Ozone depletion", "Exceedance of the 1.5°C warming threshold", "Ocean plastic only", "Desertification in Africa"],
+    "answer": 1,
+    "explanation": "The report examines the implications of temporarily exceeding the 1.5°C global warming threshold and pathways for returning below it."
+  },
+  {
+    "q": "According to the UNEP report, the pathway discussed for returning below the 1.5°C threshold is described as:",
+    "options": ["Overshoot, peak and decline", "Stabilisation, expansion and decline", "Adaptation, mitigation and industrialisation", "Carbon taxation, trade and investment"],
+    "answer": 0,
+    "explanation": "The report discusses an 'overshoot, peak and decline' pathway for eventually bringing global warming back below 1.5°C."
+  },
+  {
+    "q": "Which of the following are potential environmental impacts of deep-sea mining?",
+    "options": ["Habitat destruction only", "Sediment plumes and pollution only", "Carbon sequestration impacts only", "Habitat destruction, sediment plumes, pollution and potential carbon sequestration impacts"],
+    "answer": 3,
+    "explanation": "Deep-sea mining can disturb fragile habitats, generate sediment plumes, introduce pollutants and potentially affect marine carbon processes."
+  },
+  {
+    "q": "Which organisation released the 2026 'Limiting Overshoot' report?",
+    "options": ["IPCC", "UNEP", "UNDP", "UNESCO"],
+    "answer": 1,
+    "explanation": "The report was released by the United Nations Environment Programme (UNEP)."
+  },
+  {
+    "q": "Yugan Sakthivel Muthukumaar won gold in which event at the ISSF Junior World Cup Shotgun 2026?",
+    "options": ["Skeet", "10m Air Rifle", "Trap Men Junior", "25m Rapid Fire Pistol"],
+    "answer": 2,
+    "explanation": "Yugan Sakthivel Muthukumaar won the gold medal in the men's junior trap event."
+  },
+  {
+    "q": "The ISSF Junior World Cup Shotgun event mentioned in the current affairs was held at:",
+    "options": ["Rome, Italy", "Porpetto, Italy", "Milan, Italy", "Turin, Italy"],
+    "answer": 1,
+    "explanation": "The ISSF Junior World Cup Shotgun event was held in Porpetto, Italy."
+  },
+  {
+    "q": "How many targets did Yugan Sakthivel Muthukumaar hit in the final?",
+    "options": ["24", "25", "26", "27"],
+    "answer": 3,
+    "explanation": "He recorded 27 hits in the final to secure the gold medal."
+  },
+  {
+    "q": "Tulu was declared an additional administrative language in which districts of Karnataka?",
+    "options": ["Mysuru and Kodagu", "Udupi and Dakshina Kannada", "Belagavi and Dharwad", "Bengaluru and Tumakuru"],
+    "answer": 1,
+    "explanation": "Tulu was designated as Karnataka's second additional administrative language for Udupi and Dakshina Kannada districts."
+  },
+  {
+    "q": "The Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY) primarily focuses on:",
+    "options": ["Urban infrastructure", "Welfare and development of mining-affected areas", "Agricultural exports", "Coastal tourism"],
+    "answer": 1,
+    "explanation": "PMKKKY aims to improve the welfare and development of people and areas affected by mining activities."
+  },
+  {
+    "q": "Under the revised PMKKKY guidelines, at least what percentage of funds should be allocated to high-priority sectors?",
+    "options": ["30%", "50%", "60%", "70%"],
+    "answer": 3,
+    "explanation": "At least 70% of PMKKKY funds are allocated to high-priority sectors such as drinking water, healthcare, education and environmental protection."
+  },
+  {
+    "q": "District Mineral Foundations (DMFs) were established primarily for:",
+    "options": ["Financing stock markets", "Welfare of people and areas affected by mining", "Managing national highways", "Regulating mineral imports"],
+    "answer": 1,
+    "explanation": "DMFs are non-profit trusts intended to benefit people and areas affected by mining operations."
+  },
+  {
+    "q": "CORE 2026 stands for:",
+    "options": ["Central Operations and Reconnaissance Exercise", "Combined Operational Review and Evaluation", "Command Operations Readiness Exercise", "Coordinated Operational Response Evaluation"],
+    "answer": 1,
+    "explanation": "CORE stands for Combined Operational Review and Evaluation, a programme focused on contemporary warfare and national-security challenges."
+  },
+  {
+    "q": "CORE Programme 2026 was organised by:",
+    "options": ["DRDO", "Headquarters Integrated Defence Staff", "Indian Army Training Command", "National Defence College"],
+    "answer": 1,
+    "explanation": "The programme was organised by Headquarters Integrated Defence Staff and conducted through the Centre for Joint Warfare Studies."
+  },
+  {
+    "q": "The CORE 2026 programme focused substantially on:",
+    "options": ["Only conventional warfare", "Jointness, modern warfare and emerging national-security challenges", "Only naval operations", "Agricultural security"],
+    "answer": 1,
+    "explanation": "The programme examined jointness, integration, modern warfare, emerging security challenges, defence production and capability development."
+  },
+  {
+    "q": "Flight Lieutenant Alfred Tyrone Cooke was associated with which war?",
+    "options": ["1947–48 India-Pakistan War", "1962 Sino-Indian War", "1965 India-Pakistan War", "1971 India-Pakistan War"],
+    "answer": 2,
+    "explanation": "Flight Lieutenant Alfred Tyrone Cooke was a Vir Chakra awardee and veteran of the 1965 India-Pakistan War."
+  },
+  {
+    "q": "Which state was reported as having the highest number of registered GI-tagged textile and handloom products?",
+    "options": ["Karnataka", "Gujarat", "Tamil Nadu", "West Bengal"],
+    "answer": 2,
+    "explanation": "Tamil Nadu has a large collection of GI-tagged textile and handloom products, reflecting its rich weaving tradition."
+  },
+  {
+    "q": "Kancheepuram Silk is associated with which category?",
+    "options": ["GI-tagged textile and handloom", "GI-tagged agricultural machinery", "GI-tagged metal craft only", "GI-tagged food grain"],
+    "answer": 0,
+    "explanation": "Kancheepuram Silk is a traditional textile associated with Tamil Nadu and has Geographical Indication recognition."
+  },
+  {
+    "q": "Who became Chairman of Berkshire Hathaway in September 2026?",
+    "options": ["Greg Abel", "Howard G. Buffett", "Warren E. Buffett", "Ajit Jain"],
+    "answer": 1,
+    "explanation": "Howard G. Buffett became Chairman of Berkshire Hathaway, while Warren Buffett became Chairman Emeritus."
+  },
+  {
+    "q": "What position did Warren Buffett assume after stepping down as chairman of Berkshire Hathaway?",
+    "options": ["Chief Executive Officer", "Lead Independent Director", "Chairman Emeritus", "Managing Director"],
+    "answer": 2,
+    "explanation": "Warren Buffett became Chairman Emeritus while continuing as a member of Berkshire Hathaway's board."
+  },
+  {
+    "q": "The 20th Asian Games 2026 are being hosted by:",
+    "options": ["Tokyo, Japan", "Osaka, Japan", "Aichi-Nagoya, Japan", "Kyoto, Japan"],
+    "answer": 2,
+    "explanation": "The 20th Asian Games are being hosted by Aichi-Nagoya in Japan."
+  },
+  {
+    "q": "The opening ceremony of the 2026 Asian Games was scheduled at which venue?",
+    "options": ["Tokyo National Stadium", "Nagoya City Mizuho Park Athletic Stadium", "Aichi International Arena", "Korogi Athletic Park"],
+    "answer": 1,
+    "explanation": "The opening ceremony was scheduled at the Nagoya City Mizuho Park Athletic Stadium."
+  },
+  {
+    "q": "Which of the following pairs is correctly matched?",
+    "options": ["OneTag – FASTag", "MATSYA-6000 – Samudrayaan", "PMKKKY – District Mineral Foundations", "All of the above"],
+    "answer": 3,
+    "explanation": "All three pairs are correctly matched: OneTag relates to FASTag portability, MATSYA-6000 to Samudrayaan, and PMKKKY to District Mineral Foundations."
+  },
+  {
+    "q": "Which of the following represents the correct sequence?",
+    "options": ["QDENGA – Dengue; OneTag – FASTag; MATSYA-6000 – Deep Ocean", "QDENGA – Malaria; OneTag – UPI; MATSYA-6000 – Space", "QDENGA – Chikungunya; OneTag – Aadhaar; MATSYA-6000 – Nuclear", "QDENGA – Japanese Encephalitis; OneTag – GST; MATSYA-6000 – Polar Research"],
+    "answer": 0,
+    "explanation": "QDENGA is associated with dengue, OneTag with FASTag portability, and MATSYA-6000 with India's deep-sea exploration programme."
+  },
+  {
+    "q": "Consider the following statements about PMKKKY: 1. It operates through District Mineral Foundations. 2. It targets mining-affected communities and areas. 3. At least 70% of funds are allocated to high-priority sectors under the revised guidelines. Which is correct?",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": 3,
+    "explanation": "All three statements correctly describe important features of PMKKKY."
+  },
+  {
+    "q": "Which of the following involves balancing environmental protection with technological or economic objectives?",
+    "options": ["Climate overshoot only", "Deep-sea mining only", "Plastic-to-fuel technologies only", "Climate overshoot, deep-sea mining and plastic-to-fuel technologies"],
+    "answer": 3,
+    "explanation": "All three topics involve balancing technological or economic objectives with environmental considerations."
+  },
+  {
+    "q": "Which one of the following is NOT correctly matched?",
+    "options": ["BRICS — New Delhi", "OneTag — FASTag portability", "QDENGA — Dengue", "MATSYA-6000 — Lunar exploration"],
+    "answer": 3,
+    "explanation": "MATSYA-6000 is associated with deep-sea exploration, not lunar exploration."
+  },
+  {
+    "q": "Which development most directly relates to the digital transformation of physical assets?",
+    "options": ["PMKKKY", "RWA tokenisation", "CORE Programme", "Uniform Civil Code"],
+    "answer": 1,
+    "explanation": "RWA tokenisation converts ownership or economic interests in physical assets into digital token representations."
+  }
+]
