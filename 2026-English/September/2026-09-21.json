@@ -1,422 +1,206 @@
 [
   {
-    "question": "The Foreign Contribution (Regulation) Amendment Bill, 2026, primarily seeks to regulate:",
-    "options": [
-      "Domestic taxation of companies",
-      "Foreign contributions received by NGOs",
-      "Foreign exchange reserves of the RBI",
-      "International trade agreements"
+    "q": "The FCRA Amendment Bill, 2026, primarily seeks to introduce tighter regulations for which of the following?",
+    "options": ["Foreign diplomatic missions", "NGOs receiving foreign funding", "Public sector enterprises", "Domestic political parties"],
     "answer": 1,
-    "explanation": "The proposed FCRA Amendment Bill, 2026 focuses on tighter regulation of foreign contributions received by NGOs."
+    "explanation": "The proposed FCRA Amendment Bill, 2026 seeks tighter regulation of NGOs that receive foreign funding, including provisions related to assets when FCRA registration ceases."
   },
   {
-    "question": "FCRA stands for:",
-    "options": [
-      "Foreign Currency Regulation Act",
-      "Foreign Contribution Regulation Act",
-      "Foreign Corporate Registration Act",
-      "Foreign Cooperation and Regulation Act"
-    "answer": 1,
-    "explanation": "FCRA stands for the Foreign Contribution (Regulation) Act, which regulates foreign contributions received by certain individuals and organisations in India."
-  },
-  {
-    "question": "Which constitutional provision directs the State to endeavour to secure a Uniform Civil Code?",
-    "options": [
-      "Article 25",
-      "Article 29",
-      "Article 44",
-      "Article 51A"
+    "q": "Which of the following states had already implemented a Uniform Civil Code (UCC) since January 2025, according to the provided current-affairs material?",
+    "options": ["Gujarat", "Assam", "Uttarakhand", "Madhya Pradesh"],
     "answer": 2,
-    "explanation": "Article 44, located in the Directive Principles of State Policy, directs the State to endeavour to secure a Uniform Civil Code for citizens."
+    "explanation": "Uttarakhand implemented a Uniform Civil Code in January 2025. The UCC provides a common framework for areas such as marriage, divorce, inheritance and adoption."
   },
   {
-    "question": "Article 44 of the Indian Constitution is part of the:",
-    "options": [
-      "Fundamental Rights",
-      "Directive Principles of State Policy",
-      "Fundamental Duties",
-      "Emergency Provisions"
+    "q": "The term 'rights-holders' in welfare administration emphasizes that citizens are:",
+    "options": ["Recipients of government charity", "Entitled to public services and rights", "Excluded from welfare decisions", "Dependent entirely on private organizations"],
     "answer": 1,
-    "explanation": "Article 44 is included in Part IV of the Constitution dealing with the Directive Principles of State Policy."
+    "explanation": "The rights-holder approach views citizens as people entitled to public services and protections rather than merely as recipients of government generosity."
   },
   {
-    "question": "Which Articles are particularly relevant to discussions concerning religious freedom and cultural rights in the context of the Uniform Civil Code?",
-    "options": [
-      "Articles 14 and 15",
-      "Articles 19 and 21",
-      "Articles 25 and 29",
-      "Articles 32 and 226"
+    "q": "In the context of India's manufacturing sector, the term 'assembly trap' refers primarily to:",
+    "options": ["Excessive dependence on domestic raw materials", "Dependence on imported intermediate and capital goods", "Declining use of technology in manufacturing", "Excessive dependence on agricultural products"],
+    "answer": 1,
+    "explanation": "The 'assembly trap' refers to manufacturing that relies heavily on imported components, intermediate goods and capital goods, limiting domestic value addition."
+  },
+  {
+    "q": "What is the approved outlay of the scheme for promoting manufacturing of sintered rare earth permanent magnets?",
+    "options": ["₹5,500 crore", "₹6,280 crore", "₹7,280 crore", "₹10,000 crore"],
     "answer": 2,
-    "explanation": "Articles 25 and 29 protect religious freedom and certain cultural interests, respectively, and are therefore relevant to discussions surrounding the UCC."
+    "explanation": "The scheme has an approved outlay of ₹7,280 crore and aims to establish an integrated domestic manufacturing ecosystem for sintered rare earth permanent magnets."
   },
   {
-    "question": "A Uniform Civil Code broadly concerns common legal rules relating to which of the following?",
-    "options": [
-      "Defence and taxation",
-      "Marriage, divorce, inheritance and adoption",
-      "Foreign affairs and defence",
-      "Criminal investigation and policing"
-    "answer": 1,
-    "explanation": "The UCC debate primarily concerns common civil laws relating to areas such as marriage, divorce, inheritance and adoption."
-  },
-  {
-    "question": "According to the supplied material, which state has had a Uniform Civil Code in force since January 2025?",
-    "options": [
-      "Assam",
-      "Gujarat",
-      "Uttarakhand",
-      "Madhya Pradesh"
+    "q": "What annual manufacturing capacity is targeted under the scheme for sintered rare earth permanent magnets?",
+    "options": ["3,000 MTPA", "5,000 MTPA", "6,000 MTPA", "10,000 MTPA"],
     "answer": 2,
-    "explanation": "The supplied material identifies Uttarakhand as having a UCC in force since January 2025."
+    "explanation": "The scheme aims to establish a domestic manufacturing capacity of 6,000 metric tonnes per annum (MTPA) for sintered rare earth permanent magnets."
   },
   {
-    "question": "According to the supplied material, UCC Bills have been passed by which group of states?",
-    "options": [
-      "Kerala, Tamil Nadu and Karnataka",
-      "Assam, Gujarat and Madhya Pradesh",
-      "Punjab, Haryana and Rajasthan",
-      "Odisha, Bihar and Jharkhand"
+    "q": "Which of the following sectors particularly require rare earth permanent magnets?",
+    "options": ["Electric vehicles and renewable energy", "Textiles and tourism", "Food processing and fisheries", "Banking and insurance"],
+    "answer": 0,
+    "explanation": "Rare earth permanent magnets are important components in technologies such as electric vehicle motors and several renewable-energy applications."
+  },
+  {
+    "q": "Which of the following is an important component of India's Digital Public Infrastructure (DPI) mentioned in the current-affairs material?",
+    "options": ["Aadhaar and UPI", "MSP and PDS", "SEZ and FDI", "NITI Aayog and Finance Commission"],
+    "answer": 0,
+    "explanation": "Aadhaar provides digital identity infrastructure, while UPI enables instant digital payments. Both have contributed significantly to India's fintech ecosystem."
+  },
+  {
+    "q": "The 7th edition of the Global FinTech Fest (GFF) 2026 was held in which Indian city?",
+    "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
     "answer": 1,
-    "explanation": "The supplied material identifies Assam, Gujarat and Madhya Pradesh as states that have passed UCC Bills."
+    "explanation": "The 7th Global FinTech Fest 2026 was held in Mumbai and highlighted India's growing role in financial technology."
   },
   {
-    "question": "The concept of citizens as 'rights-holders' implies that welfare services should be viewed primarily as:",
-    "options": [
-      "Political favours",
-      "Official generosity",
-      "Entitlements grounded in rights",
-      "Temporary administrative gifts"
+    "q": "What was the theme highlighted for the Global FinTech Fest 2026?",
+    "options": ["Digital India, Startup India and Make in India", "Agentic AI, Tokenisation, and Quantum", "AI, Robotics and Space Technology", "Blockchain, 5G and Green Finance"],
+    "answer": 1,
+    "explanation": "The theme of the Global FinTech Fest 2026 focused on Agentic AI, Tokenisation, and Quantum for inclusive finance."
+  },
+  {
+    "q": "From October 1, 2026, biometric authentication is to be mandatory for booking domestic LPG refills at:",
+    "options": ["Only commercial rates", "Subsidized or regulated rates", "Only industrial rates", "International market rates"],
+    "answer": 1,
+    "explanation": "According to the provided material, biometric authentication will be mandatory from October 1, 2026 for domestic LPG refills booked at subsidized or regulated rates."
+  },
+  {
+    "q": "India's concerns regarding its trade relationship with China are particularly related to:",
+    "options": ["Declining tourism and remittances", "Trade imbalance and supply-chain vulnerabilities", "Declining agricultural exports", "Foreign exchange shortages"],
+    "answer": 1,
+    "explanation": "The material highlights India's widening bilateral trade imbalance with China and its dependence on Chinese components and intermediate goods."
+  },
+  {
+    "q": "Ukraine's reported large-scale drone offensive against Russia involved more than:",
+    "options": ["100 long-range unmanned aerial vehicles", "500 long-range unmanned aerial vehicles", "1,000 long-range unmanned aerial vehicles", "5,000 long-range unmanned aerial vehicles"],
     "answer": 2,
-    "explanation": "A rights-based approach treats citizens as holders of legally or constitutionally recognised entitlements rather than passive recipients of government generosity."
+    "explanation": "The provided material states that Ukraine deployed more than 1,000 long-range unmanned aerial vehicles along with domestic cruise missiles."
   },
   {
-    "question": "The term 'assembly trap' in the context of Indian manufacturing refers primarily to:",
-    "options": [
-      "Excessive domestic research spending",
-      "Dependence on imported intermediate and capital goods while mainly assembling products domestically",
-      "Decline in agricultural production",
-      "Reduction in exports of services"
+    "q": "Mayun, also known as Perim Island, is located in which strategically important waterway?",
+    "options": ["Strait of Hormuz", "Bab el-Mandeb Strait", "Malacca Strait", "Bosporus Strait"],
     "answer": 1,
-    "explanation": "An assembly trap occurs when domestic manufacturing remains heavily dependent on imported components and capital goods, limiting movement up the value chain."
+    "explanation": "Mayun or Perim Island is located in the Bab el-Mandeb Strait, a strategically important maritime passage connecting the Red Sea and Gulf of Aden."
   },
   {
-    "question": "The Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets has an outlay of:",
-    "options": [
-      "₹2,500 crore",
-      "₹5,500 crore",
-      "₹7,280 crore",
-      "₹10,000 crore"
+    "q": "The Bab el-Mandeb Strait connects the Red Sea with the:",
+    "options": ["Persian Gulf", "Gulf of Aden", "Mediterranean Sea", "Bay of Bengal"],
+    "answer": 1,
+    "explanation": "The Bab el-Mandeb Strait connects the Red Sea with the Gulf of Aden and is an important route for international maritime trade."
+  },
+  {
+    "q": "North Korea's reported projectile launch took place off its:",
+    "options": ["Eastern coastline", "Western coastline", "Southern coastline", "Northern coastline"],
+    "answer": 0,
+    "explanation": "The provided material states that North Korea fired an unidentified projectile off its eastern coastline into the East Sea, also known as the Sea of Japan."
+  },
+  {
+    "q": "What is a major technological challenge in verifying restrictions on weapons in outer space?",
+    "options": ["Lack of communication satellites", "Technological obstacles to verification", "Lack of launch vehicles", "Absence of space stations"],
+    "answer": 1,
+    "explanation": "The current-affairs material identifies technological obstacles to verification as a major challenge in enforcing restrictions related to weapons and counter-space activities."
+  },
+  {
+    "q": "DRDO is moving closer to production of a Directed Energy Weapon (DEW) in which power class?",
+    "options": ["3 kW", "10 kW", "30 kW", "100 kW"],
     "answer": 2,
-    "explanation": "The supplied material states that the scheme has an outlay of ₹7,280 crore."
+    "explanation": "DRDO is moving towards production of a 30 kW-class Directed Energy Weapon and plans to identify an industrial partner for its first production model."
   },
   {
-    "question": "The targeted production capacity under the rare earth permanent magnet manufacturing scheme is:",
-    "options": [
-      "600 MTPA",
-      "6,000 MTPA",
-      "60,000 MTPA",
-      "600,000 MTPA"
+    "q": "In defence technology, the abbreviation DEW stands for:",
+    "options": ["Digital Electronic Warfare", "Directed Energy Weapon", "Defensive Electronic Weapon", "Direct Engagement Weapon"],
     "answer": 1,
-    "explanation": "The scheme targets an integrated domestic manufacturing capacity of 6,000 metric tonnes per annum (MTPA)."
+    "explanation": "DEW stands for Directed Energy Weapon, a category of weapon systems that uses directed energy for military applications."
   },
   {
-    "question": "Rare Earth Permanent Magnets are particularly important for:",
-    "options": [
-      "High-efficiency motors",
-      "Traditional coal boilers",
-      "Cement production only",
-      "Paper manufacturing"
+    "q": "Asia's first Telecom Manufacturing Zone mentioned in the material is being developed in:",
+    "options": ["Gwalior", "Pune", "Chennai", "Ahmedabad"],
     "answer": 0,
-    "explanation": "Rare earth permanent magnets are important components in high-efficiency motors used in EVs, renewable energy systems and advanced manufacturing."
+    "explanation": "Gwalior is being developed as a major telecom manufacturing hub through the establishment of the country's first Telecom Manufacturing Zone."
   },
   {
-    "question": "Which of the following is a rare-earth element commonly associated with permanent magnets?",
-    "options": [
-      "Neodymium",
-      "Sodium",
-      "Calcium",
-      "Aluminium"
-    "answer": 0,
-    "explanation": "Neodymium is a rare-earth element widely used in high-performance permanent magnets."
-  },
-  {
-    "question": "India's dependence on China in the rare-earth permanent magnet sector is primarily a concern because of:",
-    "options": [
-      "Supply-chain vulnerability",
-      "Excess domestic production",
-      "Lack of electricity generation",
-      "Decline in agricultural exports"
-    "answer": 0,
-    "explanation": "Dependence on imports can create supply-chain vulnerabilities, particularly for strategically important technologies."
-  },
-  {
-    "question": "GFF 2026 refers to:",
-    "options": [
-      "Global Finance Forum",
-      "Global FinTech Fest",
-      "Global Foreign Finance",
-      "Global Federal Forum"
-    "answer": 1,
-    "explanation": "GFF refers to the Global FinTech Fest, an important event focusing on financial technology and digital finance."
-  },
-  {
-    "question": "The 7th edition of Global FinTech Fest 2026 was held in:",
-    "options": [
-      "Bengaluru",
-      "New Delhi",
-      "Mumbai",
-      "Hyderabad"
+    "q": "The estimated investment associated with the Telecom Manufacturing Zone in Gwalior is:",
+    "options": ["₹2,500 crore", "₹4,000 crore", "₹5,500 crore", "₹7,280 crore"],
     "answer": 2,
-    "explanation": "According to the supplied material, the 7th Global FinTech Fest 2026 was held in Mumbai."
+    "explanation": "The project involves an estimated investment of ₹5,500 crore and is expected to create more than 18,000 employment opportunities."
   },
   {
-    "question": "Which combination was highlighted at Global FinTech Fest 2026?",
-    "options": [
-      "Agentic AI, Tokenisation and Quantum Technology",
-      "Blockchain, Coal Mining and Nuclear Energy",
-      "5G, Agriculture and Biotechnology only",
-      "Space Tourism, Defence and Tourism"
-    "answer": 0,
-    "explanation": "Agentic AI, tokenisation and quantum technology were highlighted as transformative technologies for financial systems."
+    "q": "The 2026 Asian Games mentioned in the current-affairs material are being held in:",
+    "options": ["Seoul, South Korea", "Aichi-Nagoya, Japan", "Jakarta, Indonesia", "Beijing, China"],
+    "answer": 1,
+    "explanation": "The 2026 Asian Games are being held in Aichi-Nagoya, Japan."
   },
   {
-    "question": "Aadhaar and UPI are examples of India's:",
-    "options": [
-      "Digital Public Infrastructure",
-      "Foreign Direct Investment schemes",
-      "Military alliances",
-      "Agricultural subsidies"
-    "answer": 0,
-    "explanation": "Aadhaar and UPI are major components of India's Digital Public Infrastructure ecosystem."
-  },
-  {
-    "question": "The proposed Telecom Manufacturing Zone mentioned in the supplied material is located in:",
-    "options": [
-      "Gwalior",
-      "Pune",
-      "Chennai",
-      "Kochi"
-    "answer": 0,
-    "explanation": "The supplied material identifies Gwalior as the location of the proposed Telecom Manufacturing Zone."
-  },
-  {
-    "question": "The investment associated with the Gwalior Telecom Manufacturing Zone is approximately:",
-    "options": [
-      "₹1,500 crore",
-      "₹3,000 crore",
-      "₹5,500 crore",
-      "₹12,000 crore"
+    "q": "Who became India's most-capped women's hockey player according to the provided material?",
+    "options": ["Vandana Katariya", "Rani Rampal", "Savita Punia", "Salima Tete"],
     "answer": 2,
-    "explanation": "The supplied material states that the Gwalior Telecom Manufacturing Zone involves an investment of about ₹5,500 crore."
+    "explanation": "Goalkeeper Savita Punia became India's most-capped women's hockey player after appearing in her 321st international match."
   },
   {
-    "question": "According to the supplied material, mandatory biometric authentication for subsidized or regulated domestic LPG refills is scheduled from:",
-    "options": [
-      "1 January 2026",
-      "1 July 2026",
-      "1 October 2026",
-      "1 December 2026"
+    "q": "Savita Punia surpassed the record previously held by:",
+    "options": ["Rani Rampal", "Vandana Katariya", "Deep Grace Ekka", "Lalremsiami"],
+    "answer": 1,
+    "explanation": "Savita Punia surpassed Vandana Katariya's record to become India's most-capped women's hockey player."
+  },
+  {
+    "q": "Smriti Mandhana became the leading run-scorer in Women's T20I cricket by surpassing:",
+    "options": ["Meg Lanning", "Suzie Bates", "Alyssa Healy", "Harmanpreet Kaur"],
+    "answer": 1,
+    "explanation": "According to the provided material, Smriti Mandhana surpassed New Zealand's Suzie Bates to become the leading run-scorer in Women's T20I cricket."
+  },
+  {
+    "q": "Suchika Tariyal won a historic bronze medal for India in which event at the 2026 Asian Games?",
+    "options": ["Women's traditional MMA -60 kg", "Women's boxing -60 kg", "Women's wrestling -60 kg", "Women's judo -60 kg"],
+    "answer": 0,
+    "explanation": "Suchika Tariyal won India's historic bronze medal in the women's traditional MMA -60 kg event, according to the provided material."
+  },
+  {
+    "q": "The WMO's State of Global Water Resources 2025 report highlighted persistent groundwater depletion in India particularly in:",
+    "options": ["North-western regions", "North-eastern regions", "Southern coastal regions", "Central plateau regions"],
+    "answer": 0,
+    "explanation": "The report highlighted persistent groundwater depletion in India, particularly in the north-western regions."
+  },
+  {
+    "q": "The Karnataka State Cabinet approved official administrative language status for Tulu in which districts?",
+    "options": ["Mysuru and Mandya", "Belagavi and Dharwad", "Dakshina Kannada and Udupi", "Ballari and Koppal"],
     "answer": 2,
-    "explanation": "The supplied material states that biometric authentication is to become mandatory from 1 October 2026."
+    "explanation": "The Karnataka Cabinet approved official administrative language status for Tulu in the coastal districts of Dakshina Kannada and Udupi."
   },
   {
-    "question": "SLINEX is a bilateral maritime exercise between India and:",
-    "options": [
-      "Bangladesh",
-      "Sri Lanka",
-      "Maldives",
-      "Indonesia"
+    "q": "World Alzheimer's Day is observed annually on:",
+    "options": ["September 5", "September 21", "October 10", "November 14"],
     "answer": 1,
-    "explanation": "SLINEX is the bilateral maritime exercise conducted by the Indian Navy and Sri Lanka Navy."
+    "explanation": "World Alzheimer's Day is observed on September 21 to raise awareness about Alzheimer's disease and other forms of dementia."
   },
   {
-    "question": "SLINEX-26 is described in the supplied material as the:",
-    "options": [
-      "10th edition",
-      "11th edition",
-      "12th edition",
-      "13th edition"
-    "answer": 3,
-    "explanation": "The supplied material identifies SLINEX-26 as the 13th edition of the annual India–Sri Lanka maritime exercise."
+    "q": "What was the theme of World Alzheimer's Day 2026 mentioned in the material?",
+    "options": ["Know Dementia, Know More", "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters", "Building a Dementia-Free World", "Healthy Ageing for All"],
+    "answer": 1,
+    "explanation": "The 2026 theme emphasized the importance of early diagnosis: 'The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters.'"
   },
   {
-    "question": "SLINEX-26 is being conducted in:",
-    "options": [
-      "Visakhapatnam",
-      "Kochi",
-      "Port Blair",
-      "Mumbai"
-    "answer": 0,
-    "explanation": "According to the supplied material, SLINEX-26 is underway in Visakhapatnam."
+    "q": "The historic Chandni Chowk Town Hall complex is being developed into a:",
+    "options": ["National Science Centre", "Global Heritage Centre", "National Sports Museum", "Financial Technology Centre"],
+    "answer": 1,
+    "explanation": "The Chandni Chowk Town Hall complex is being developed as a Global Heritage Centre, with plans for conservation, museums and cultural activities."
   },
   {
-    "question": "DRDO's Directed Energy Weapon mentioned in the supplied material belongs to which approximate class?",
-    "options": [
-      "3 kW",
-      "10 kW",
-      "30 kW",
-      "300 kW"
+    "q": "SLINEX-26 is a bilateral maritime exercise between India and:",
+    "options": ["Bangladesh", "Myanmar", "Sri Lanka", "Indonesia"],
     "answer": 2,
-    "explanation": "The supplied material refers to a 30 kW-class Directed Energy Weapon being taken towards production."
+    "explanation": "SLINEX is the bilateral maritime exercise between the Indian Navy and Sri Lanka Navy. The 13th edition, SLINEX-26, is being conducted in Visakhapatnam."
   },
   {
-    "question": "An Expression of Interest (EOI) in the context of the DRDO Directed Energy Weapon is intended to:",
-    "options": [
-      "Select an industrial partner",
-      "Recruit Olympic athletes",
-      "Allocate agricultural land",
-      "Issue government bonds"
-    "answer": 0,
-    "explanation": "The EOI is intended to identify an industrial partner for development of the first-of-production model."
-  },
-  {
-    "question": "According to the supplied material, the 2026 Asian Games are being held in:",
-    "options": [
-      "Hangzhou",
-      "Aichi-Nagoya",
-      "Jakarta",
-      "Doha"
+    "q": "The National Conference of the Heads of States and Union Territories of the Anti-Narcotics Task Force (ANTF) is organized by the:",
+    "options": ["Central Bureau of Investigation", "Narcotics Control Bureau", "National Investigation Agency", "Enforcement Directorate"],
     "answer": 1,
-    "explanation": "The supplied material identifies Aichi-Nagoya, Japan, as the host location of the 2026 Asian Games."
+    "explanation": "The conference is organized by the Narcotics Control Bureau (NCB) and focuses on the functioning of Anti-Narcotics Task Forces."
   },
   {
-    "question": "Savita Punia's record mentioned in the supplied material relates to:",
-    "options": [
-      "Most international goals by an Indian hockey player",
-      "Most-capped Indian women's hockey player",
-      "Youngest Indian hockey captain",
-      "Most Asian Games medals"
-    "answer": 1,
-    "explanation": "The supplied material states that Savita Punia became the most-capped Indian women's hockey player with 321 international appearances."
-  },
-  {
-    "question": "Smriti Mandhana's record mentioned in the supplied material relates to:",
-    "options": [
-      "Women's T20I run-scoring",
-      "Women's Test bowling",
-      "Women's ODI wicketkeeping",
-      "Women's T20I bowling"
+    "q": "Theja Rio, a filmmaker from Nagaland, won the Platform Prize at TIFF 2026 for which film?",
+    "options": ["Angh", "The Last Valley", "Naga Rising", "The Forgotten Hills"],
     "answer": 0,
-    "explanation": "The supplied material states that Smriti Mandhana became the leading run-scorer in Women's T20I cricket."
-  },
-  {
-    "question": "Suchika Tariyal's historic achievement at the Asian Games 2026, according to the supplied material, was:",
-    "options": [
-      "India's first MMA medal at the Asian Games",
-      "India's first gold medal in shooting",
-      "India's first women's hockey gold",
-      "India's first fencing medal"
-    "answer": 0,
-    "explanation": "The supplied material states that Suchika Tariyal won India's first-ever Asian Games MMA medal, a bronze."
-  },
-  {
-    "question": "The WMO report mentioned in the supplied material is titled:",
-    "options": [
-      "State of Global Climate 2025",
-      "State of Global Water Resources 2025",
-      "World Groundwater Outlook 2025",
-      "Global Environment Assessment 2025"
-    "answer": 1,
-    "explanation": "The report referred to is the WMO's State of Global Water Resources 2025."
-  },
-  {
-    "question": "The groundwater depletion highlighted in the supplied material is particularly concerning in India's:",
-    "options": [
-      "North-western regions",
-      "North-eastern regions only",
-      "Coastal islands only",
-      "Southern plateau only"
-    "answer": 0,
-    "explanation": "The supplied material highlights persistent groundwater depletion, particularly in north-western India."
-  },
-  {
-    "question": "World Alzheimer's Day is observed on:",
-    "options": [
-      "21 September",
-      "5 June",
-      "10 October",
-      "1 December"
-    "answer": 0,
-    "explanation": "World Alzheimer's Day is observed annually on 21 September."
-  },
-  {
-    "question": "The 2026 World Alzheimer's Day theme mentioned in the supplied material emphasises:",
-    "options": [
-      "Early diagnosis and its importance",
-      "Only pharmaceutical treatment",
-      "Complete elimination of dementia",
-      "Hospital infrastructure alone"
-    answer": 0,
-    "explanation": "The supplied theme, 'The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters,' emphasises the importance of early diagnosis."
-  },
-  {
-    "question": "Tulu language status mentioned in the supplied material concerns the districts of:",
-    "options": [
-      "Mysuru and Mandya",
-      "Dakshina Kannada and Udupi",
-      "Belagavi and Dharwad",
-      "Ballari and Koppal"
-    "answer": 1,
-    "explanation": "The supplied material states that the Karnataka Cabinet approved official administrative language status for Tulu in Dakshina Kannada and Udupi."
-  },
-  {
-    "question": "The historic Town Hall complex mentioned in the supplied material is located in:",
-    "options": [
-      "Chandni Chowk",
-      "Connaught Place",
-      "Lal Qila complex",
-      "India Gate area"
-    "answer": 0,
-    "explanation": "The Town Hall complex referred to is located in Chandni Chowk, Delhi."
-  },
-  {
-    "question": "The Anti-Narcotics Task Force (ANTF) conference mentioned in the supplied material is associated with the:",
-    "options": [
-      "Narcotics Control Bureau",
-      "Central Bureau of Investigation",
-      "Enforcement Directorate",
-      "National Investigation Agency"
-    "answer": 0,
-    "explanation": "The supplied material states that the conference is organised by the Narcotics Control Bureau (NCB)."
-  },
-  {
-    "question": "The 3rd National Conference of the Heads of States and Union Territories of the ANTF was scheduled to be held in:",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Chandigarh",
-      "Hyderabad"
-    "answer": 1,
-    "explanation": "According to the supplied material, the 3rd National Conference was scheduled in New Delhi."
-  },
-  {
-    "question": "The discussion on weapons in outer space primarily concerns:",
-    "options": [
-      "Adequacy of existing international restrictions and verification challenges",
-      "Commercial space tourism",
-      "Satellite television broadcasting",
-      "Space agriculture"
-    "answer": 0,
-    "explanation": "The issue concerns whether existing international restrictions are adequate for contemporary counter-space threats and how such restrictions can be verified."
-  },
-  {
-    "question": "The Platform Prize at the Toronto International Film Festival (TIFF) 2026 was reportedly won by:",
-    "options": [
-      "Theja Rio",
-      "Satyajit Ray",
-      "Mira Nair",
-      "Vetrimaaran"
-    "answer": 0,
-    "explanation": "According to the supplied material, Nagaland filmmaker Theja Rio won the Platform Prize at TIFF 2026."
-  },
-  {
-    "question": "The film 'Angh', mentioned in the supplied material, is in which language?",
-    "options": [
-      "Tulu",
-      "Konyak",
-      "Assamese",
-      "Manipuri"
-    "answer": 1,
-    "explanation": "The supplied material identifies 'Angh' as a Konyak-language film."
+    "explanation": "Theja Rio won the Platform Prize at the Toronto International Film Festival 2026 for his film 'Angh'."
   }
 ]
