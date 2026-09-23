@@ -1,0 +1,408 @@
+[
+  {
+    "q": "What is the primary purpose of delimitation in India?",
+    "options": [
+      "Redrawing electoral constituency boundaries according to population changes",
+      "Determining monetary policy",
+      "Allocating GST revenue among States",
+      "Appointing State Governors"
+    "answer": 0,
+    "explanation": "Delimitation involves redrawing the boundaries of Lok Sabha and State Legislative Assembly constituencies to reflect population changes and maintain representative equality."
+  },
+  {
+    "q": "Why is delimitation closely linked with federalism in India?",
+    "options": [
+      "It can affect the distribution of political representation among States",
+      "It determines the sharing of GST revenue",
+      "It decides the appointment of Governors",
+      "It controls inter-State water disputes"
+    "answer": 0,
+    "explanation": "Changes in constituency boundaries and representation can affect the balance between population-based representation and India's federal structure."
+  },
+  {
+    "q": "The Reserve Bank of India's Open Market Operations primarily involve:",
+    "options": [
+      "Buying and selling government securities",
+      "Changing income tax rates",
+      "Regulating agricultural exports",
+      "Issuing currency notes directly to citizens"
+    "answer": 0,
+    "explanation": "Open Market Operations involve the RBI buying or selling government securities to influence liquidity and monetary conditions."
+  },
+  {
+    "q": "According to the given current affairs, the RBI conducted an OMO sale auction involving Government of India securities worth:",
+    "options": [
+      "₹10,000 crore",
+      "₹15,000 crore",
+      "₹25,000 crore",
+      "₹50,000 crore"
+    "answer": 2,
+    "explanation": "The RBI conducted an OMO sale auction involving Government of India securities worth ₹25,000 crore to absorb surplus rupee liquidity."
+  },
+  {
+    "q": "Open Market Operations conducted by the RBI are primarily classified as:",
+    "options": [
+      "A qualitative monetary policy instrument",
+      "A quantitative monetary policy instrument",
+      "A fiscal policy instrument",
+      "A trade policy instrument"
+    "answer": 1,
+    "explanation": "OMOs are quantitative monetary policy instruments because they influence the overall level of liquidity in the financial system."
+  },
+  {
+    "q": "The proposed maiden blue bond issue by Sagarmala Finance Corporation is primarily associated with:",
+    "options": [
+      "Marine and ocean-related sustainable financing",
+      "Defence procurement",
+      "Agricultural subsidies",
+      "Urban housing"
+    "answer": 0,
+    "explanation": "Blue bonds are generally used to finance sustainable activities related to oceans, marine resources and water ecosystems."
+  },
+  {
+    "q": "According to the given current affairs, Sagarmala Finance Corporation plans to raise how much through its proposed base blue bond issue?",
+    "options": [
+      "₹300 crore",
+      "₹500 crore",
+      "₹600 crore",
+      "₹1,100 crore"
+    "answer": 2,
+    "explanation": "Sagarmala Finance Corporation plans to raise ₹600 crore through a 10-year bond issuance, with an additional ₹500 crore through a greenshoe option."
+  },
+  {
+    "q": "What does a greenshoe option generally provide in a securities issue?",
+    "options": [
+      "An option to issue additional securities beyond the base issue size",
+      "A government subsidy for green agriculture",
+      "An exemption from securities regulations",
+      "A guaranteed increase in the bond's interest rate"
+    "answer": 0,
+    "explanation": "A greenshoe option generally allows an issuer to raise additional funds beyond the original issue size, subject to the terms of the issue."
+  },
+  {
+    "q": "The RBI's 2026 directions on minimum capital requirements for market risk are aligned with:",
+    "options": [
+      "Basel I standards",
+      "Basel II standards",
+      "Revised Basel III standards",
+      "Bretton Woods standards"
+    "answer": 2,
+    "explanation": "The revised RBI directions update the framework for calculating capital requirements against market risk and align it with revised Basel III standards."
+  },
+  {
+    "q": "The Digital Communications Commission was the highest decision-making body within which department?",
+    "options": [
+      "Department of Telecommunications",
+      "Department of Financial Services",
+      "Department of Commerce",
+      "Department of Space"
+    "answer": 0,
+    "explanation": "The Digital Communications Commission was the highest decision-making body within the Department of Telecommunications under the Ministry of Communications."
+  },
+  {
+    "q": "The Digital Communications Commission initially operated as the:",
+    "options": [
+      "Telecom Commission",
+      "Digital India Commission",
+      "National Communications Authority",
+      "Indian Telecommunications Board"
+
+    "answer": 0,
+    "explanation": "The institution initially operated as the Telecom Commission before becoming the Digital Communications Commission."
+  },
+  {
+    "q": "The G20 Energy Abundance Ministerial meeting mentioned in the current affairs was held in:",
+    "options": [
+      "Houston, Texas",
+      "New York",
+      "Paris",
+      "Geneva"
+
+    "answer": 0,
+    "explanation": "The G20 Energy Abundance Ministerial meeting mentioned in the current affairs was held in Houston, Texas."
+  },
+  {
+    "q": "Which of the following was NOT among the areas highlighted in the G20 Energy consensus outcomes?",
+    "options": [
+      "Household energy access",
+      "Faster infrastructure approvals",
+      "Water reuse",
+      "Establishment of a common G20 currency"
+    "answer": 3,
+    "explanation": "The outcomes focused on household energy access, faster infrastructure approvals, water reuse and resilient critical-mineral supply chains. A common G20 currency was not included."
+  },
+  {
+    "q": "The G20 Energy consensus agreements described in the current affairs were:",
+    "options": [
+      "Voluntary and non-binding",
+      "Legally binding treaties",
+      "Constitutional amendments",
+      "International sanctions"
+    "answer": 0,
+    "explanation": "The agreements were described as voluntary and non-binding consensus outcomes."
+  },
+  {
+    "q": "Partners for Multilateralism (P4M) is described as:",
+    "options": [
+      "A military alliance",
+      "A non-superpower multilateral coalition",
+      "A UN specialised agency",
+      "An international financial institution"
+    "answer": 1,
+    "explanation": "P4M is described as a non-superpower multilateral coalition, with India participating in its inaugural summit."
+  },
+  {
+    "q": "The India-EU FTA concerns highlighted in the current affairs particularly relate to:",
+    "options": [
+      "Intellectual Property Rights and copyright",
+      "Nuclear disarmament",
+      "Maritime boundaries",
+      "Currency union"
+    "answer": 0,
+    "explanation": "The concerns relate particularly to Intellectual Property Rights provisions, especially copyright-related provisions."
+  },
+  {
+    "q": "In the context of the India-EU FTA, WCT stands for:",
+    "options": [
+      "World Copyright Treaty",
+      "WIPO Copyright Treaty",
+      "World Commerce and Trade Treaty",
+      "World Communications Treaty"
+    "answer": 1,
+    "explanation": "WCT stands for the WIPO Copyright Treaty."
+  },
+  {
+    "q": "The ISRO-ESA cooperative agreement was extended until:",
+    "options": [
+      "January 8, 2028",
+      "January 8, 2030",
+      "January 8, 2032",
+      "January 8, 2035"
+    "answer": 2,
+    "explanation": "According to the given current affairs, the ISRO-ESA cooperative agreement was extended until January 8, 2032."
+  },
+  {
+    "q": "Which of the following is an area of extended ISRO-ESA cooperation mentioned in the current affairs?",
+    "options": [
+      "Human and robotic exploration",
+      "Space weather",
+      "Sustainability of space activities",
+      "All of the above"
+    "answer": 3,
+    "explanation": "The extended cooperation covers human and robotic exploration, space weather and sustainability of space activities."
+  },
+  {
+    "q": "ONGC's reported gas discovery was made in which basin?",
+    "options": [
+      "Krishna-Godavari Basin",
+      "Mahanadi Basin",
+      "Cauvery Basin",
+      "Cambay Basin"
+
+    "answer": 1,
+    "explanation": "ONGC announced a gas discovery in the deepwater Mahanadi Basin off Odisha under its Samudra Manthan programme."
+  },
+  {
+    "q": "The ONGC Mahanadi discovery was associated with which well?",
+    "options": [
+      "MN-DW18-1-H-D",
+      "KG-DW20-2-A",
+      "MD-DW15-3-B",
+      "OD-DW21-1-C"
+    "answer": 0,
+    "explanation": "The discovery was declared from the well named MN-DW18-1-H-D."
+  },
+  {
+    "q": "Mark Wood is associated with which sport?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Rugby"
+    "answer": 1,
+    "explanation": "Mark Wood is an England fast bowler associated with international cricket."
+  },
+  {
+    "q": "In the 2026 Asian Games women's cricket final mentioned in the current affairs, India defeated:",
+    "options": [
+      "Bangladesh",
+      "Pakistan",
+      "Sri Lanka",
+      "China"
+
+    "answer": 2,
+    "explanation": "India defeated Sri Lanka in the women's cricket final to secure the gold medal."
+  },
+  {
+    "q": "India defeated Sri Lanka by how many runs in the 2026 Asian Games women's cricket final?",
+    "options": [
+      "97 runs",
+      "117 runs",
+      "137 runs",
+      "147 runs"
+
+    "answer": 3,
+    "explanation": "According to the given current affairs, India defeated Sri Lanka by 147 runs in the final."
+  },
+  {
+    "q": "The Agasthyamalai Biosphere Reserve is located in which geographical region?",
+    "options": [
+      "Eastern Himalayas",
+      "Southern Western Ghats",
+      "Thar Desert",
+      "Indo-Gangetic Plain"
+    "answer": 1,
+    "explanation": "The Agasthyamalai Biosphere Reserve is located in the southern Western Ghats."
+  },
+  {
+    "q": "How many flowering plant species were documented in the Agasthyamalai Biosphere Reserve according to the given study?",
+    "options": [
+      "1,261",
+      "2,361",
+      "3,261",
+      "4,261"
+    "answer": 2,
+    "explanation": "The comprehensive checklist documented 3,261 flowering plant species, along with 26 subspecies and 28 varieties."
+  },
+  {
+    "q": "What was the central theme of the 9th India International Water Week?",
+    "options": [
+      "Water for Industrial Growth",
+      "Climate Resilient Water Management",
+      "One River, One Nation",
+      "Water Security through Privatization"
+    "answer": 1,
+    "explanation": "The central theme was Climate Resilient Water Management, with emphasis on integrated management, wastewater reuse and community participation."
+  },
+  {
+    "q": "PM-AJAY stands for:",
+    "options": [
+      "Pradhan Mantri Awas-Jan Abhiyan Yojana",
+      "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana",
+      "Pradhan Mantri Agriculture and Jobs Yojana",
+      "Pradhan Mantri Adivasi Jan Abhiyan Yojana"
+    "answer": 1,
+    "explanation": "PM-AJAY stands for Pradhan Mantri Anusuchit Jaati Abhyuday Yojana."
+  },
+  {
+    "q": "According to the given current affairs, more than how much was released under PM-AJAY since FY 2014-15?",
+    "options": [
+      "₹5,186 crore",
+      "₹8,186 crore",
+      "₹11,186 crore",
+      "₹15,186 crore"
+    "answer": 2,
+    "explanation": "More than ₹11,186 crore was reported as released under the three components of PM-AJAY since FY 2014-15."
+  },
+  {
+    "q": "The 7th edition of the National Formulary of India launched in 2026 is known as:",
+    "options": [
+      "NFI 2026",
+      "NFAI 2026",
+      "NFIP 2026",
+      "NFIH 2026"
+    "answer": 0,
+    "explanation": "The seventh edition is the National Formulary of India 2026, abbreviated as NFI 2026."
+  },
+  {
+    "q": "Pharmacovigilance primarily deals with:",
+    "options": [
+      "Monitoring the safety of medicines",
+      "Manufacturing medical equipment",
+      "Regulating stock exchanges",
+      "Managing agricultural subsidies"
+    "answer": 0,
+    "explanation": "Pharmacovigilance focuses on detecting, assessing, understanding and preventing adverse effects and other medicine-related problems."
+  },
+  {
+    "q": "Which of the following is correctly matched with a community cadre?",
+    "options": [
+      "Krishi Sakhi — Agricultural support",
+      "Pashu Sakhi — Space research",
+      "BC Sakhi — Defence training",
+      "Krishi Sakhi — Monetary policy"
+
+    "answer": 0,
+    "explanation": "Krishi Sakhis support rural communities in agriculture-related activities. Pashu Sakhis work in livestock-related areas, while BC Sakhis support financial inclusion."
+  },
+  {
+    "q": "DAY-NRLM is primarily associated with:",
+    "options": [
+      "Rural livelihoods and Self-Help Groups",
+      "Space exploration",
+      "Urban transport",
+      "National highway construction"
+    "answer": 0,
+    "explanation": "DAY-NRLM focuses on rural livelihoods and works extensively through Self-Help Groups and community institutions."
+  },
+  {
+    "q": "Exercise NOMADIC ELEPHANT is conducted between India and:",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Mongolia",
+      "Kazakhstan"
+    "answer": 2,
+    "explanation": "NOMADIC ELEPHANT is the annual bilateral military exercise between India and Mongolia."
+  },
+  {
+    "q": "The 18th edition of Exercise NOMADIC ELEPHANT commenced in:",
+    "options": [
+      "Pithoragarh, Uttarakhand",
+      "Leh, Ladakh",
+      "Jaipur, Rajasthan",
+      "Gangtok, Sikkim"
+    "answer": 0,
+    "explanation": "The 18th edition of NOMADIC ELEPHANT commenced in Pithoragarh, Uttarakhand."
+  },
+  {
+    "q": "Exercise NOMADIC ELEPHANT is best described as:",
+    "options": [
+      "A naval exercise",
+      "An air-force exercise",
+      "A platoon-level bilateral military exercise",
+      "A multilateral UN exercise"
+    "answer": 2,
+    "explanation": "NOMADIC ELEPHANT is an annual platoon-level bilateral military exercise conducted alternately in India and Mongolia."
+  },
+  {
+    "q": "The film Angh, which won the Platform Prize at the 2026 Toronto International Film Festival, is associated with which Indian State?",
+    "options": [
+      "Assam",
+      "Nagaland",
+      "Manipur",
+      "Meghalaya"
+    "answer": 1,
+    "explanation": "Angh is the debut feature film by Nagaland filmmaker Theja Rio."
+  },
+  {
+    "q": "The WHO report titled 'Artificial intelligence-related health research: ethics review and oversight' primarily focuses on:",
+    "options": [
+      "AI-based stock trading",
+      "Ethical oversight of AI-related health research",
+      "AI-based military systems",
+      "AI-generated entertainment"
+    "answer": 1,
+    "explanation": "The WHO framework focuses on ethical review and oversight of AI-related health research, including issues such as bias, privacy and accountability."
+  },
+  {
+    "q": "Which of the following are important ethical concerns in AI-related health research?",
+    "options": [
+      "Bias",
+      "Privacy",
+      "Accountability",
+      "All of the above"
+    "answer": 3,
+    "explanation": "AI-related health research can raise concerns involving bias, privacy, transparency, accountability and potential harms."
+  },
+  {
+    "q": "Which of the following pairs is correctly matched?",
+    "options": [
+      "OMO — Monetary policy",
+      "NOMADIC ELEPHANT — India-Mongolia military cooperation",
+      "PM-AJAY — Social welfare",
+      "All of the above"
+    "answer": 3,
+    "explanation": "All three pairs are correctly matched. OMO is a monetary policy tool, NOMADIC ELEPHANT is an India-Mongolia military exercise, and PM-AJAY is a social welfare scheme."
+  }
+]
