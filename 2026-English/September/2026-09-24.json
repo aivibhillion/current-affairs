@@ -1,0 +1,442 @@
+[
+  {
+    "q": "The Supreme Court's September 2026 proceedings concerning the Chief Election Commissioner and Other Election Commissioners Act, 2023 primarily related to whether the challenge should be considered by which type of bench?",
+    "options": [
+      "A three-judge criminal bench",
+      "A Constitution Bench",
+      "A Lok Sabha committee",
+      "An Election Commission tribunal"
+    ],
+    "answer": 1,
+    "explanation": "The two-judge Supreme Court bench differed on whether the challenge to the 2023 Act warranted consideration by a Constitution Bench. The matter was placed before the Chief Justice for consideration of such a bench. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "q": "Under Section 7 of the Chief Election Commissioner and Other Election Commissioners Act, 2023, the Selection Committee includes the Prime Minister, the Leader of Opposition and:",
+    "options": [
+      "The Chief Justice of India",
+      "The President of India",
+      "A Union Cabinet Minister nominated by the Prime Minister",
+      "The Speaker of the Lok Sabha"
+    ],
+    "answer": 2,
+    "explanation": "The 2023 Act provides for a Selection Committee consisting of the Prime Minister, the Leader of Opposition in the Lok Sabha and a Union Cabinet Minister nominated by the Prime Minister. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "q": "The Delhi government's DURGA scheme is primarily associated with:",
+    "options": [
+      "Free housing for senior citizens",
+      "Electric autos for women and transgender persons",
+      "Free electric buses for students",
+      "Solar pumps for farmers"
+    ],
+    "answer": 1,
+    "explanation": "DURGA stands for Driving Upliftment and Rozgar for Women/Transgender Green E-Auto. It aims to provide self-employment opportunities through electric autos while promoting cleaner and safer urban transport. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "q": "How many pink electric autos are proposed in the first phase of Delhi's DURGA scheme?",
+    "options": [
+      "500",
+      "1,000",
+      "1,300",
+      "2,000"
+    ],
+    "answer": 2,
+    "explanation": "The first phase proposes 1,300 pink electric autos, including 1,170 for women and 130 for transgender beneficiaries. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "q": "Under the Delhi DURGA scheme, how many of the first 1,300 electric autos are earmarked for transgender beneficiaries?",
+    "options": [
+      "90",
+      "100",
+      "130",
+      "170"
+    ],
+    "answer": 2,
+    "explanation": "Of the proposed 1,300 pink electric autos, 130 are earmarked for transgender beneficiaries and 1,170 for women. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "q": "According to the Delhi Solar Portal, the maximum central subsidy available under PM Surya Ghar for a residential rooftop solar system is:",
+    "options": [
+      "₹50,000",
+      "₹60,000",
+      "₹78,000",
+      "₹1,56,000"
+    ],
+    "answer": 2,
+    "explanation": "The Delhi Solar Portal states that the central residential subsidy is capped at ₹78,000 for systems above 3 kW. The ₹1.56 lakh figure in the supplied material does not match the official central-subsidy information. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "q": "India extended the anti-dumping duty on Decor Paper originating from China until:",
+    "options": [
+      "26 March 2026",
+      "26 September 2026",
+      "26 March 2027",
+      "31 December 2027"
+    ],
+    "answer": 2,
+    "explanation": "The Ministry of Finance extended the anti-dumping duty on specified Decor Paper imports from China up to and inclusive of 26 March 2027. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "q": "Anti-dumping duty is primarily intended to:",
+    "options": [
+      "Promote imports at very low prices",
+      "Protect domestic industries from injurious dumping",
+      "Increase foreign exchange reserves",
+      "Replace GST on imported goods"
+    ],
+    "answer": 1,
+    "explanation": "Anti-dumping duties are trade-remedy measures imposed when dumped imports cause or threaten injury to a domestic industry."
+  },
+  {
+    "q": "According to the IEA's Electrification 2026 analysis, the global electrification rate could reach what level by 2035 in its High Electrification Scenario?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "answer": 3,
+    "explanation": "The IEA's High Electrification Scenario projects the aggregate electrification rate across end-use sectors to rise to 35% by 2035. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "q": "The trilateral security arrangement discussed in September 2026 involved the United States, Denmark and:",
+    "options": [
+      "Iceland",
+      "Greenland",
+      "Norway",
+      "Finland"
+    ],
+    "answer": 1,
+    "explanation": "The September 2026 security arrangement involved the United States, Denmark and Greenland and focused on strengthening security cooperation in the Arctic. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "q": "The new UK military unit established to protect and support operations involving satellites is called:",
+    "options": [
+      "No. I Orbital Defence Squadron",
+      "No. II Satellite Guard Squadron",
+      "No. III Space Effects Squadron",
+      "Royal Space Surveillance Squadron"
+    ],
+    "answer": 2,
+    "explanation": "The UK announced the No. III Space Effects Squadron, a specialist military unit intended to defend satellites and support space-related defensive and operational activities. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "q": "The Advanced Radar Research Centre being established by ISRO in Assam is located at:",
+    "options": [
+      "Dibrugarh",
+      "Chandrapur",
+      "Silchar",
+      "Tezpur"
+    ],
+    "answer": 1,
+    "explanation": "The ISRO Advanced Radar Research Centre is being established at Chandrapur in Assam under Project NETRA to strengthen India's space-surveillance capabilities. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "q": "Project NETRA of ISRO is associated with:",
+    "options": [
+      "Deep-sea exploration",
+      "Space object tracking and analysis",
+      "Human spaceflight training",
+      "Lunar mining"
+    ],
+    "answer": 1,
+    "explanation": "NETRA refers to Network for Space Object Tracking and Analysis. It is aimed at improving India's ability to track objects in space and protect satellites. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "q": "The ultracompact double white dwarf binary eRASSU J060839.5–704014 has an orbital period of approximately:",
+    "options": [
+      "37.4 seconds",
+      "374.15 seconds",
+      "3,741.5 seconds",
+      "37,415 seconds"
+    ],
+    "answer": 1,
+    "explanation": "The measured orbital period is 374.15013 seconds, or approximately 6.24 minutes. The study describes the system as one of the most rapidly evolving ultracompact double-degenerate binaries. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "q": "What is the approximate orbital period of eRASSU J060839.5–704014 in minutes?",
+    "options": [
+      "2.1 minutes",
+      "4.8 minutes",
+      "6.24 minutes",
+      "12.5 minutes"
+    ],
+    "answer": 2,
+    "explanation": "Its orbital period of 374.15013 seconds converts to approximately 6.24 minutes. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "q": "NASA's PRIMA mission stands for:",
+    "options": [
+      "Probe Radar Investigation Mission for Asteroids",
+      "PRobe far-Infrared Mission for Astrophysics",
+      "Planetary Research Instrument for Mars Astronomy",
+      "Primary Infrared Mission for Atmospheric Analysis"
+    ],
+    "answer": 1,
+    "explanation": "PRIMA stands for PRobe far-Infrared Mission for Astrophysics. NASA selected it to advance to the next phase of development. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "q": "PRIMA is the first mission in which new NASA astrophysics mission class?",
+    "options": [
+      "Probe Explorers",
+      "Lunar Explorers",
+      "Deep Space Observatories",
+      "Advanced Planetary Missions"
+    ],
+    "answer": 0,
+    "explanation": "PRIMA is the first mission in NASA's new class of astrophysics missions called Probe Explorers, within the Explorers Program. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "q": "Roshibina Devi won which medal at the 2026 Asian Games?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "No medal"
+    ],
+    "answer": 1,
+    "explanation": "Roshibina Devi won silver in the women's 60 kg Sanda wushu event after losing the final to China's Zhang Xiaoyu. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "q": "Roshibina Devi's silver medal at the 2026 Asian Games was in which sport?",
+    "options": [
+      "Boxing",
+      "Wushu",
+      "Taekwondo",
+      "Karate"
+    ],
+    "answer": 1,
+    "explanation": "Roshibina Devi competed in wushu and won silver in the women's 60 kg Sanda category. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "q": "As reported on 24 September 2026, India's Asian Games medal tally stood at:",
+    "options": [
+      "1 gold, 6 silver and 7 bronze",
+      "1 gold, 6 silver and 8 bronze",
+      "2 gold, 5 silver and 7 bronze",
+      "1 gold, 5 silver and 8 bronze"
+    ],
+    "answer": 0,
+    "explanation": "Reports on 24 September put India's tally at 14 medals: 1 gold, 6 silver and 7 bronze. This corrects the 15-medal figure in the supplied material. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "q": "The Neelakurinji plant belongs to which genus?",
+    "options": [
+      "Strobilanthes",
+      "Rhododendron",
+      "Impatiens",
+      "Hibiscus"
+    ],
+    "answer": 0,
+    "explanation": "Neelakurinji is a flowering shrub belonging to the genus Strobilanthes. The plant is noted for its periodic mass flowering in parts of the Western Ghats."
+  },
+  {
+    "q": "The Neelakurinji bloom mentioned in the current affairs is associated with which location in Kerala?",
+    "options": [
+      "Wayanad",
+      "Munnar",
+      "Kozhikode",
+      "Kollam"
+    ],
+    "answer": 1,
+    "explanation": "The reported Neelakurinji bloom and concerns about damage to the flowers are associated with the hill ranges around Munnar in Kerala."
+  },
+  {
+    "q": "Parbati Hydroelectric Project-II, mentioned in the current affairs, is located in which state?",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Sikkim",
+      "Arunachal Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Parbati Hydroelectric Project-II is located in Kullu district of Himachal Pradesh and is a run-of-the-river hydropower project."
+  },
+  {
+    "q": "Canal-Top Photovoltaics primarily involves:",
+    "options": [
+      "Installing solar panels below sea level",
+      "Installing solar panels over canals",
+      "Installing solar panels only on rooftops",
+      "Installing solar panels inside forests"
+    ],
+    "answer": 1,
+    "explanation": "Canal-top photovoltaics use structures over existing canals to support solar panels. This can reduce additional land requirements and help reduce water evaporation. India's estimated canal-top and canal-bank solar potential is around 131 GW. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "q": "Which of the following is identified among India's leading states for canal-top/canal-bank solar potential?",
+    "options": [
+      "Uttar Pradesh",
+      "Goa",
+      "Nagaland",
+      "Kerala"
+    ],
+    "answer": 0,
+    "explanation": "Uttar Pradesh is among the states identified as having significant potential, along with Bihar, Karnataka, Andhra Pradesh and Punjab. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "q": "The United Nations designated 2026 as the:",
+    "options": [
+      "International Year of the Woman Farmer",
+      "International Year of Rural Youth",
+      "International Year of Food Security",
+      "International Year of Agricultural Technology"
+    ],
+    "answer": 0,
+    "explanation": "The UN designated 2026 as the International Year of the Woman Farmer to highlight women's contributions to agrifood systems and address structural barriers faced by women farmers. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "q": "Pi Mari-i, recognized among the FAO 100 Women Heroes, is from which Indian state?",
+    "options": [
+      "Mizoram",
+      "Manipur",
+      "Meghalaya",
+      "Tripura"
+    ],
+    "answer": 0,
+    "explanation": "Pi Mari-i, whose name is Z T Lalrithangi, is a farmer from Mizoram's Lawngtlai district and was selected among the FAO 100 Women Heroes in Agrifood Systems and Rural Development. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "q": "The Maharashtra Women Farmer Empowerment Act, 2026 is notable because it:",
+    "options": [
+      "Makes land ownership mandatory for recognition as a woman farmer",
+      "Provides official recognition to women farmers irrespective of whose name the land is in",
+      "Abolishes agricultural land records",
+      "Provides free tractors to all women farmers"
+    ],
+    "answer": 1,
+    "explanation": "The Maharashtra government portal states that women engaged in farming or allied work can receive official Woman Farmer recognition and a certificate regardless of whose name the land is registered in. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "q": "The official document used for recognition under Maharashtra's Women Farmer Empowerment Act is called the:",
+    "options": [
+      "Kisan Shakti Card",
+      "Woman Farmer Certificate",
+      "Mahila Krishi Pass",
+      "Agricultural Identity Bond"
+    ],
+    "answer": 1,
+    "explanation": "The Maharashtra government has created a Woman Farmer Certificate under the Maharashtra Women Farmer Empowerment Act, 2026. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "q": "Ayushman Bharat completed how many years in September 2026?",
+    "options": [
+      "5 years",
+      "6 years",
+      "8 years",
+      "10 years"
+    ],
+    "answer": 2,
+    "explanation": "Ayushman Bharat completed eight years in September 2026. The scheme was launched in September 2018. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "q": "According to the September 2026 update, Ayushman Bharat had provided annual health cover of up to what amount to beneficiaries?",
+    "options": [
+      "₹1 lakh",
+      "₹2 lakh",
+      "₹5 lakh",
+      "₹10 lakh"
+    ],
+    "answer": 2,
+    "explanation": "The September 2026 update stated that more than 60 crore beneficiaries had access to ₹5 lakh annual health cover under Ayushman Bharat PM-JAY. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "q": "DDU-GKY was originally launched in which year?",
+    "options": [
+      "2012",
+      "2014",
+      "2016",
+      "2018"
+    ],
+    "answer": 1,
+    "explanation": "The Deen Dayal Upadhyaya Grameen Kaushalya Yojana was launched on 25 September 2014 under the National Rural Livelihoods Mission. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "q": "DDU-GKY primarily focuses on:",
+    "options": [
+      "Urban infrastructure development",
+      "Skill development and employment opportunities for rural youth",
+      "Crop procurement",
+      "Industrial licensing"
+    ],
+    "answer": 1,
+    "explanation": "DDU-GKY focuses on providing rural youth with relevant skills and access to employment opportunities. The 2.0 framework emphasizes training, placements and employment sustainability. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "q": "India reaffirmed its commitment to eliminate Hepatitis B and C as public health threats by:",
+    "options": [
+      "2027",
+      "2030",
+      "2035",
+      "2040"
+    ],
+    "answer": 1,
+    "explanation": "India reaffirmed the target of eliminating Hepatitis B and C as public health threats by 2030, consistent with global health targets. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "q": "The commitment to eliminate Hepatitis B and C by 2030 was reiterated during which UN forum?",
+    "options": [
+      "80th UN General Assembly",
+      "81st UN General Assembly",
+      "UN Security Council",
+      "UN Human Rights Council"
+    ],
+    "answer": 1,
+    "explanation": "The Union Health Secretary made the statement at a side event during the 81st session of the UN General Assembly in New York. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "q": "Who is set to receive the National Lata Mangeshkar Samman 2026 for music direction?",
+    "options": [
+      "A. R. Rahman",
+      "Shantanu Moitra",
+      "Pritam Chakraborty",
+      "Vishal Bhardwaj"
+    ],
+    "answer": 1,
+    "explanation": "Music composer Shantanu Moitra is scheduled to receive the National Lata Mangeshkar Samman 2026 for music direction at a ceremony in Indore on 28 September 2026. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "q": "The National Lata Mangeshkar Samman 2026 ceremony for Shantanu Moitra is scheduled to take place in:",
+    "options": [
+      "Bhopal",
+      "Indore",
+      "Gwalior",
+      "Jabalpur"
+    ],
+    "answer": 1,
+    "explanation": "The award ceremony is scheduled in Indore on 28 September 2026, around Lata Mangeshkar's birth anniversary. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "q": "The Sunshine Protection Act passed by the U.S. House of Representatives in July 2026 was approved by a vote of:",
+    "options": [
+      "221–201",
+      "308–117",
+      "310–110",
+      "290–135"
+    ],
+    "answer": 1,
+    "explanation": "The U.S. House passed H.R. 139, the Sunshine Protection Act, by 308 votes to 117 on 14 July 2026. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "q": "The main objective of the U.S. Sunshine Protection Act is to:",
+    "options": [
+      "Abolish all time zones in the United States",
+      "Make daylight saving time permanent",
+      "Make standard time permanent nationwide",
+      "Introduce a lunar calendar"
+    ],
+    "answer": 1,
+    "explanation": "The legislation seeks to end the twice-yearly clock change by making daylight saving time permanent. After House passage, it was sent to the Senate. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "q": "As of 2026, how many U.S. states had enacted legislation providing for year-round daylight saving time, subject to federal authorization?",
+    "options": [
+      "12",
+      "15",
+      "19",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "The National Conference of State Legislatures reports that 19 states have enacted legislation providing for year-round daylight saving time if Congress permits such a change. :contentReference[oaicite:38]{index=38}"
+  }
+]
