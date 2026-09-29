@@ -1,0 +1,373 @@
+[
+{
+"q": "The Election Commission of India (ECI) announced how many new decisions concerning internal governance, ECINet oversight, and electoral roll management?",
+"options": ["Five", "Seven", "Nine", "Eleven"],
+"answer": 2,
+"explanation": "The Election Commission of India announced nine decisions covering internal governance, ECINet oversight, and electoral roll management."
+},
+{
+"q": "The ECI's nine new decisions followed reports of how many objections raised by two Election Commissioners?",
+"options": ["10", "12", "14", "16"],
+"answer": 2,
+"explanation": "The decisions followed reports of 14 objections raised by two Election Commissioners."
+},
+{
+"q": "RUPPs refers to which of the following?",
+"options": ["Registered Recognised Political Parties", "Registered Unrecognised Political Parties", "Regional Unregistered Political Parties", "Recognised Unregistered Political Parties"],
+"answer": 1,
+"explanation": "RUPPs stands for Registered Unrecognised Political Parties."
+},
+{
+"q": "The debate concerning RUPPs primarily relates to which issue?",
+"options": ["Defence procurement", "Transparency and regulation", "Foreign trade", "Agricultural subsidies"],
+"answer": 1,
+"explanation": "The source highlights ongoing debates regarding the transparency and regulation of Registered Unrecognised Political Parties."
+},
+{
+"q": "Discussions on reforming the UNSC veto particularly focus on its use during:",
+"options": ["Trade negotiations", "Severe humanitarian crises", "Sports competitions", "Climate conferences only"],
+"answer": 1,
+"explanation": "The discussions particularly concern the use of the UNSC veto during severe humanitarian crises."
+},
+{
+"q": "The Anti-Goonda Bill, 2026, is associated in the source with which broader constitutional and legal issue?",
+"options": ["Preventive detention and civil liberties", "Taxation and fiscal federalism", "Environmental protection", "Election funding"],
+"answer": 0,
+"explanation": "The source connects the Anti-Goonda Bill, 2026 with issues concerning preventive detention and civil liberties."
+},
+{
+"q": "The proposal concerning Jammu and Kashmir seeks to revive its historic role as:",
+"options": ["A maritime naval hub", "An economic bridge between India and Eurasia", "A global financial centre", "A nuclear research centre"],
+"answer": 1,
+"explanation": "The proposal suggests reviving Jammu and Kashmir's historic role as an economic bridge between India and Eurasia."
+},
+{
+"q": "India's first port-based e-methanol facility is associated with which port?",
+"options": ["Paradip Port", "Deendayal Port, Kandla", "Jawaharlal Nehru Port", "Mundra Port"],
+"answer": 1,
+"explanation": "The foundation stone for India's first port-based e-methanol facility was laid at Deendayal Port, Kandla, Gujarat."
+},
+{
+"q": "What is the estimated project cost of India's first port-based e-methanol facility mentioned in the source?",
+"options": ["₹1,300 crore", "₹1,800 crore", "₹2,300 crore", "₹3,300 crore"],
+"answer": 2,
+"explanation": "The e-methanol facility is described as a ₹2,300 crore project."
+},
+{
+"q": "What is the proposed daily production capacity of the port-based e-methanol facility?",
+"options": ["50 tonnes", "100 tonnes", "150 tonnes", "250 tonnes"],
+"answer": 2,
+"explanation": "The project aims to produce 150 tonnes of e-methanol per day."
+},
+{
+"q": "The e-methanol facility is intended primarily to provide fuel for:",
+"options": ["Domestic passenger aircraft", "International cargo vessels", "Agricultural tractors", "Passenger buses"],
+"answer": 1,
+"explanation": "The project aims to produce e-methanol to fuel international cargo vessels along the Asia–Europe trade corridor."
+},
+{
+"q": "The port-based e-methanol initiative involves cooperation between Deendayal Port Authority and:",
+"options": ["Indian Oil Corporation", "Assam Petro-Chemicals Ltd", "Bharat Petroleum", "GAIL"],
+"answer": 1,
+"explanation": "The initiative is being implemented through cooperation between Deendayal Port Authority and Assam Petro-Chemicals Ltd (APCL)."
+},
+{
+"q": "Which legislation governs lotteries in India along with the related rules mentioned in the source?",
+"options": [
+"Lotteries (Regulation) Act, 1998 and Lotteries (Regulation) Rules, 2010",
+"Gambling Regulation Act, 2005 and Rules, 2010",
+"Lotteries Act, 2000 and Rules, 2015",
+"Public Gaming Act, 1867 and Rules, 2010"
+],
+"answer": 0,
+"explanation": "The source identifies the Lotteries (Regulation) Act, 1998 and the Lotteries (Regulation) Rules, 2010 as the governing framework."
+},
+{
+"q": "According to the source, lottery winnings are taxed at what rate before the applicable cess?",
+"options": ["20%", "25%", "30%", "40%"],
+"answer": 2,
+"explanation": "The source states that lottery winnings are taxed at 30% plus a 4% cess under the Income Tax Act, 1961."
+},
+{
+"q": "According to the source, lotteries, betting, gambling and related actionable claims attract what GST rate from September 2025?",
+"options": ["18%", "28%", "35%", "40%"],
+"answer": 3,
+"explanation": "The source states that from September 2025, lotteries, betting, gambling and related actionable claims attract 40% GST."
+},
+{
+"q": "In Skill Lotto Solutions Pvt. Ltd. v. Union of India (2020), the Supreme Court held that lotteries qualify as:",
+"options": ["Services under GST", "Goods under GST", "Exempt supplies", "Capital assets"],
+"answer": 1,
+"explanation": "According to the source, the Supreme Court ruled in 2020 that lotteries qualify as 'goods' under GST."
+},
+{
+"q": "India's first LNG-powered train uses which type of propulsion system?",
+"options": ["LNG-only system", "Electric-only system", "Dual-fuel diesel and LNG system", "Hydrogen-diesel system"],
+"answer": 2,
+"explanation": "The train uses a dual-fuel system combining diesel and Liquefied Natural Gas (LNG)."
+},
+{
+"q": "India's first LNG-powered train was flagged off from which railway station?",
+"options": ["Vadodara Railway Station", "Sabarmati Railway Station", "Surat Railway Station", "Ahmedabad Central Railway Station"],
+"answer": 1,
+"explanation": "The source states that the LNG-powered train was flagged off from Sabarmati Railway Station in Ahmedabad, Gujarat."
+},
+{
+"q": "The LNG-powered train aims to reduce diesel consumption by approximately:",
+"options": ["20%", "30%", "40%", "50%"],
+"answer": 2,
+"explanation": "The initiative aims to reduce diesel consumption by around 40% while also lowering emissions."
+},
+{
+"q": "Which train protection system is mentioned as part of the LNG-powered train project?",
+"options": ["Kavach", "Rakshak", "Suraksha", "Vajra"],
+"answer": 0,
+"explanation": "The project includes the introduction of the Kavach train protection system."
+},
+{
+"q": "The trial of India's first long-haul double-stack container train was conducted between Jawaharlal Nehru Port and:",
+"options": ["Ahmedabad", "Vadodara", "Surat", "Pune"],
+"answer": 1,
+"explanation": "The successful trial was conducted between Jawaharlal Nehru Port near Mumbai and Vadodara."
+},
+{
+"q": "The primary objective of the long-haul double-stack container train is to:",
+"options": ["Reduce passenger fares", "Increase freight-carrying capacity", "Replace all passenger trains", "Increase railway ticket revenue"],
+"answer": 1,
+"explanation": "The trial aims to increase freight-carrying capacity through double-stack container transportation."
+},
+{
+"q": "At the 81st UN General Assembly session, which country reaffirmed support for India's permanent membership of the UNSC?",
+"options": ["France", "Russia", "Japan", "Germany"],
+"answer": 1,
+"explanation": "The source states that Russia reaffirmed its support for India's permanent membership in the UNSC."
+},
+{
+"q": "India's position on UNSC reform, according to the source, is to advocate for:",
+"options": ["Abolition of the UNSC", "Comprehensive UNSC reform", "Removal of all permanent members", "Expansion of the UN Secretariat only"],
+"answer": 1,
+"explanation": "India advocates comprehensive UNSC reform to reflect contemporary geopolitical realities."
+},
+{
+"q": "The ninth edition of the India-Kazakhstan joint military exercise KAZIND began at:",
+"options": ["Astana", "Almaty", "Oskemen", "Shymkent"],
+"answer": 2,
+"explanation": "KAZIND-2026 began in Oskemen, Kazakhstan."
+},
+{
+"q": "KAZIND-2026 is scheduled from:",
+"options": ["September 20 to October 3, 2026", "September 28 to October 11, 2026", "October 1 to October 15, 2026", "September 25 to October 10, 2026"],
+"answer": 1,
+"explanation": "The ninth edition of KAZIND began on September 28 and is scheduled through October 11, 2026."
+},
+{
+"q": "How many members of the Indian Armed Forces are participating in KAZIND-2026 according to the source?",
+"options": ["40", "50", "60", "80"],
+"answer": 2,
+"explanation": "A team of 60 members from the Indian Armed Forces is participating."
+},
+{
+"q": "KAZIND primarily aims to improve interoperability and:",
+"options": ["Maritime trade", "Joint counter-terrorism capabilities", "Space cooperation", "Cyber taxation"],
+"answer": 1,
+"explanation": "The exercise focuses on improving interoperability and joint counter-terrorism capabilities."
+},
+{
+"q": "According to the source, Iran shifted some oil exports and critical cargo transit northward to the:",
+"options": ["Black Sea", "Caspian Sea", "Red Sea", "Arabian Sea"],
+"answer": 1,
+"explanation": "The source states that Iran shifted oil exports and critical cargo transit north to the Caspian Sea."
+},
+{
+"q": "The first Cool Leaders Awards were presented at which event?",
+"options": ["Global Climate Summit 2026", "Global Cooling Pledge Assembly 2026", "UN Climate Conference 2026", "World Sustainable Energy Forum 2026"],
+"answer": 1,
+"explanation": "The first Cool Leaders Awards were presented at the Global Cooling Pledge Assembly 2026 in Singapore."
+},
+{
+"q": "The Cool Leaders Awards were established by the:",
+"options": ["International Energy Agency", "Cool Coalition led by UNEP", "World Bank", "UNDP"],
+"answer": 1,
+"explanation": "The awards were established by the Cool Coalition led by the United Nations Environment Programme (UNEP)."
+},
+{
+"q": "India's first LNG-powered train and the port-based e-methanol facility are both associated with which broader theme?",
+"options": ["Clean and lower-emission energy use", "Agricultural mechanisation", "Digital payments", "Tourism development"],
+"answer": 0,
+"explanation": "Both initiatives involve alternative or cleaner fuels and are presented as measures aimed at reducing conventional fuel use and emissions."
+},
+{
+"q": "On Day 9 of the Asian Games 2026, India won how many medals?",
+"options": ["Six", "Seven", "Eight", "Nine"],
+"answer": 2,
+"explanation": "India won eight medals on Day 9: four silver and four bronze medals."
+},
+{
+"q": "What was the medal composition of India's Day 9 haul at the Asian Games 2026?",
+"options": ["Two gold, four silver, two bronze", "Four silver, four bronze", "Three gold, three silver, two bronze", "Four gold, two silver, two bronze"],
+"answer": 1,
+"explanation": "India's Day 9 haul consisted of four silver medals and four bronze medals."
+},
+{
+"q": "Esha Singh won a silver medal in which event at the Asian Games 2026?",
+"options": ["Women's 10m air pistol", "Women's 25m pistol individual event", "Women's 50m rifle", "Women's trap shooting"],
+"answer": 1,
+"explanation": "Esha Singh secured silver in the women's 25m pistol individual event."
+},
+{
+"q": "Esha Singh qualified for the final with how many points?",
+"options": ["570", "575", "580", "585"],
+"answer": 2,
+"explanation": "According to the source, Esha Singh qualified for the final with 580 points."
+},
+{
+"q": "Where was the WorldSkills 2026 competition mentioned in the source held?",
+"options": ["Tokyo", "Shanghai", "Singapore", "Seoul"],
+"answer": 1,
+"explanation": "The competition referred to in the source was WorldSkills Shanghai 2026."
+},
+{
+"q": "What position did the Indian delegation achieve at WorldSkills Shanghai 2026?",
+"options": ["Eighth", "Ninth", "Tenth", "Twelfth"],
+"answer": 2,
+"explanation": "The Indian delegation finished tenth at WorldSkills Shanghai 2026."
+},
+{
+"q": "How many silver medals did India secure at WorldSkills Shanghai 2026 according to the source?",
+"options": ["Four", "Five", "Six", "Eight"],
+"answer": 2,
+"explanation": "India secured six silver medals at the competition."
+},
+{
+"q": "How many Medals for Excellence did India receive at WorldSkills Shanghai 2026?",
+"options": ["10", "15", "20", "25"],
+"answer": 2,
+"explanation": "The Indian delegation received 20 Medals for Excellence."
+},
+{
+"q": "The UN Declaration on Sea Level Rise was adopted at the 81st UN General Assembly by:",
+"options": ["A simple majority vote", "Consensus", "A two-thirds majority", "The UNSC only"],
+"answer": 1,
+"explanation": "The source states that world leaders adopted the UN Declaration on Sea Level Rise by consensus."
+},
+{
+"q": "The UN Declaration on Sea Level Rise particularly addresses threats faced by:",
+"options": ["Landlocked countries only", "Low-lying coastal nations and Small Island Developing States", "Mountainous countries only", "Desert countries only"],
+"answer": 1,
+"explanation": "The declaration addresses threats to the sovereignty, legal rights and survival of low-lying coastal nations and Small Island Developing States (SIDS)."
+},
+{
+"q": "Which organisation issued the Kallakkadal red alert mentioned in the source?",
+"options": ["IMD", "INCOIS", "NDMA", "ISRO"],
+"answer": 1,
+"explanation": "The Indian National Centre for Ocean Information Services (INCOIS) issued the red alert."
+},
+{
+"q": "What wave height was associated with the Kallakkadal swell surge alert?",
+"options": ["0.5–1 m", "1–1.5 m", "2–2.5 m", "3–4 m"],
+"answer": 1,
+"explanation": "The source mentions waves of approximately 1–1.5 metres along with severe Kallakkadal swell surges."
+},
+{
+"q": "Which areas were affected by the Kallakkadal-related suspension of fishing and beach tourism?",
+"options": ["Kerala, southern Tamil Nadu and Lakshadweep", "Kerala, Goa and Maharashtra", "Odisha, West Bengal and Andhra Pradesh", "Gujarat, Goa and Kerala"],
+"answer": 0,
+"explanation": "Fishing and beach tourism were suspended in Kerala, southern Tamil Nadu and Lakshadweep because of coastal flooding and erosion risks."
+},
+{
+"q": "According to the source, who launched the Thaaimaman Thanga Mothiram Scheme in Madurai?",
+"options": ["The Governor of Tamil Nadu", "C. Joseph Vijay", "The Union Health Minister", "The Union Women and Child Development Minister"],
+"answer": 1,
+"explanation": "The source states that Tamil Nadu Chief Minister C. Joseph Vijay launched the scheme in Madurai."
+},
+{
+"q": "Under the Thaaimaman Thanga Mothiram Scheme, newborns in government hospitals are provided with:",
+"options": ["A one-gram 22-carat gold ring", "A two-gram silver coin", "A one-gram gold coin", "A five-gram silver ring"],
+"answer": 0,
+"explanation": "The scheme provides newborns in government hospitals with a one-gram, 22-carat gold ring."
+},
+{
+"q": "Which department launched the Livestock Insurance Portal?",
+"options": ["Department of Agriculture", "Department of Animal Husbandry and Dairying", "Department of Financial Services", "Department of Rural Development"],
+"answer": 1,
+"explanation": "The Department of Animal Husbandry and Dairying (DAHD) launched the Livestock Insurance Portal."
+},
+{
+"q": "The Livestock Insurance Portal was inaugurated by:",
+"options": ["Rajiv Ranjan Singh alias Lalan Singh", "Amit Shah", "Piyush Goyal", "Ashwini Vaishnaw"],
+"answer": 0,
+"explanation": "The source states that Union Minister Rajiv Ranjan Singh, also known as Lalan Singh, inaugurated the portal."
+},
+{
+"q": "The child protection discussion in the source highlights a gap between legislative guarantees and:",
+"options": ["Economic growth", "Institutional implementation", "International treaties", "Electoral participation"],
+"answer": 1,
+"explanation": "The source identifies a gap between legislative guarantees and institutional implementation, particularly concerning the POCSO framework."
+},
+{
+"q": "The debate concerning voting rights mentioned in the source includes discussion about making the right to vote a:",
+"options": ["Fundamental Right", "Legal duty", "Directive Principle", "Constitutional convention"],
+"answer": 0,
+"explanation": "The source mentions debates over whether the right to vote should be made a Fundamental Right."
+},
+{
+"q": "Exercise Tarang Shakti 2026 was commenced at which location?",
+"options": ["Air Force Station Jodhpur", "Air Force Station Pune", "Air Force Station Bengaluru", "Air Force Station Chennai"],
+"answer": 0,
+"explanation": "The Indian Air Force commenced Exercise Tarang Shakti 2026 at Air Force Station Jodhpur, Rajasthan."
+},
+{
+"q": "What is the theme of Exercise Tarang Shakti 2026?",
+"options": ["Strength Through Unity", "Power in Partnership", "Sky Warriors", "Partners in Peace"],
+"answer": 1,
+"explanation": "The exercise is themed 'Power in Partnership.'"
+},
+{
+"q": "How many foreign air forces are mentioned as participating in Exercise Tarang Shakti 2026?",
+"options": ["Five", "Six", "Seven", "Eight"],
+"answer": 2,
+"explanation": "The source states that the exercise involves the Indian Air Force and seven foreign air forces."
+},
+{
+"q": "Which aircraft made its maiden operational participation in Exercise Tarang Shakti 2026 according to the source?",
+"options": ["F-16", "F-22", "F-35 stealth fighter", "Eurofighter Typhoon"],
+"answer": 2,
+"explanation": "The source specifically mentions the maiden operational participation of US F-35 stealth fighters."
+},
+{
+"q": "India and Kazakhstan's KAZIND-2026 exercise primarily focuses on:",
+"options": ["Naval warfare and submarine operations", "Interoperability and counter-terrorism capabilities", "Space exploration", "Cyber taxation"],
+"answer": 1,
+"explanation": "KAZIND-2026 focuses on improving interoperability and counter-terrorism capabilities."
+},
+{
+"q": "The discussion on India's nuclear doctrine examines developments in the strategic environment since:",
+"options": ["1998", "2000", "2003", "2010"],
+"answer": 2,
+"explanation": "The source specifically refers to India's nuclear doctrine and its evolving strategic environment since 2003."
+},
+{
+"q": "How many Lalit Kala Akademi Awards 2026 were announced at the 65th National Exhibition of Art?",
+"options": ["10", "15", "20", "25"],
+"answer": 2,
+"explanation": "The Lalit Kala Akademi announced 20 awards at the 65th National Exhibition of Art."
+},
+{
+"q": "How many artworks were submitted for the 65th National Exhibition of Art according to the source?",
+"options": ["4,175", "5,175", "6,175", "7,175"],
+"answer": 2,
+"explanation": "A total of 6,175 artworks were submitted."
+},
+{
+"q": "How many artists submitted works for the 65th National Exhibition of Art?",
+"options": ["1,495", "2,495", "3,495", "4,495"],
+"answer": 1,
+"explanation": "The source states that 2,495 artists submitted artworks."
+},
+{
+"q": "Which Union Minister is mentioned in connection with the inauguration of the Livestock Insurance Portal?",
+"options": ["Rajiv Ranjan Singh alias Lalan Singh", "Amit Shah", "Nitin Gadkari", "Dharmendra Pradhan"],
+"answer": 0,
+"explanation": "Rajiv Ranjan Singh, also known as Lalan Singh, inaugurated the Livestock Insurance Portal."
+}
+]
