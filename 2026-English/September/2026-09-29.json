@@ -1,0 +1,497 @@
+[
+{
+"q": "With reference to the Supreme Court's ruling in Jaskaran Jeet Singh Deol v. State of Punjab (2026), which of the following is correct?",
+"options": [
+"Grounds of arrest need not be communicated to the accused",
+"Grounds of arrest must be communicated orally only",
+"Grounds of arrest must be communicated in writing and in a language understood by the accused",
+"Grounds of arrest can be communicated only after the trial"
+],
+"answer": 2,
+"explanation": "The ruling emphasized that the grounds of arrest must be communicated in writing and in a language understood by the accused, strengthening safeguards relating to personal liberty."
+},
+{
+"q": "Which of the following High Court Chief Justices were mentioned as being recommended by the Supreme Court Collegium for appointment as Supreme Court judges?",
+"options": [
+"Sunita Agarwal, Devendra Kumar Upadhyaya and Aparesh Kumar Singh",
+"Sunita Agarwal, Surya Kant and Aparesh Kumar Singh",
+"Devendra Kumar Upadhyaya, B.R. Gavai and Sunita Agarwal",
+"Aparesh Kumar Singh, Sanjiv Khanna and Devendra Kumar Upadhyaya"
+],
+"answer": 0,
+"explanation": "The three names mentioned are Sunita Agarwal, Devendra Kumar Upadhyaya and Aparesh Kumar Singh."
+},
+{
+"q": "Sunita Agarwal, mentioned in connection with the Supreme Court Collegium recommendations, was the Chief Justice of which High Court?",
+"options": [
+"Delhi High Court",
+"Gujarat High Court",
+"Telangana High Court",
+"Rajasthan High Court"
+],
+"answer": 1,
+"explanation": "Sunita Agarwal was mentioned as the Chief Justice of the Gujarat High Court."
+},
+{
+"q": "The 'PRAHAAR – CT Policy and Strategy' conference primarily relates to:",
+"options": [
+"Climate-change mitigation",
+"Counter-terrorism policy and strategy",
+"Agricultural reforms",
+"Maritime trade"
+],
+"answer": 1,
+"explanation": "The PRAHAAR conference focused on strengthening India's coordinated counter-terrorism policy and strategy."
+},
+{
+"q": "The PRAHAAR conference brought together central security agencies and State/UT police leadership primarily to discuss:",
+"options": [
+"Livestock insurance",
+"Forest certification",
+"A coordinated counter-terrorism framework",
+"Energy transition"
+],
+"answer": 2,
+"explanation": "The conference provided a platform for security agencies and State/UT police leadership to deliberate on strengthening India's coordinated counter-terrorism framework."
+},
+{
+"q": "India Energy Week 2027 is scheduled to be held in:",
+"options": [
+"Mumbai",
+"New Delhi",
+"Kolkata",
+"Bengaluru"
+],
+"answer": 2,
+"explanation": "India Energy Week 2027 is scheduled to take place in Kolkata from 28 to 31 January 2027."
+},
+{
+"q": "Which of the following statements about India Energy Week 2027 is correct?",
+"options": [
+"It will be the second edition and will be held in western India",
+"It will be the fifth edition and the first India Energy Week held in eastern India",
+"It will be the fourth edition and will be held in southern India",
+"It will be the sixth edition and will be held in northern India"
+],
+"answer": 1,
+"explanation": "The supplied material states that India Energy Week 2027 will be the fifth edition and the first edition held in eastern India."
+},
+{
+"q": "The Pashudhan Bima Portal primarily aims to:",
+"options": [
+"Digitize and manage livestock insurance",
+"Monitor agricultural land ownership",
+"Manage fisheries exports",
+"Provide crop-weather forecasts"
+],
+"answer": 0,
+"explanation": "The Pashudhan Bima Portal is a centralized, single-window platform intended to digitize the lifecycle of livestock insurance from application to claim settlement."
+},
+{
+"q": "The Pashudhan Bima Portal was launched by the Union Ministry of:",
+"options": [
+"Agriculture and Farmers Welfare",
+"Rural Development",
+"Fisheries, Animal Husbandry and Dairying",
+"Food Processing Industries"
+],
+"answer": 2,
+"explanation": "The portal was launched by the Ministry of Fisheries, Animal Husbandry and Dairying."
+},
+{
+"q": "Exercise KAZIND-2026 is a joint military exercise between:",
+"options": [
+"India and Uzbekistan",
+"India and Kazakhstan",
+"India and Kyrgyzstan",
+"India and Tajikistan"
+],
+"answer": 1,
+"explanation": "KAZIND is a joint military exercise between India and Kazakhstan."
+},
+{
+"q": "The 9th edition of Exercise KAZIND mentioned in the current affairs was associated with which location?",
+"options": [
+"Astana",
+"Almaty",
+"Oskemen",
+"Bishkek"
+],
+"answer": 2,
+"explanation": "A 60-member Indian Armed Forces contingent departed for Oskemen, Kazakhstan, for the 9th edition of Exercise KAZIND."
+},
+{
+"q": "Which of the following is an objective of Exercise KAZIND-2026?",
+"options": [
+"Enhancing military interoperability",
+"Strengthening joint counter-terrorism capabilities",
+"Improving military cooperation between India and Kazakhstan",
+"All of the above"
+],
+"answer": 3,
+"explanation": "The exercise is intended to enhance interoperability, strengthen joint counter-terrorism capabilities and deepen military cooperation between India and Kazakhstan."
+},
+{
+"q": "In the context of FAO, COFO stands for:",
+"options": [
+"Council on Food Operations",
+"Committee on Forestry",
+"Council on Forest Operations",
+"Committee on Food and Oceans"
+],
+"answer": 1,
+"explanation": "COFO refers to the Food and Agriculture Organization's Committee on Forestry."
+},
+{
+"q": "At the 28th Session of the FAO Committee on Forestry, India presented its advancements in:",
+"options": [
+"Nuclear energy",
+"Forest and landscape restoration",
+"Marine fisheries",
+"Urban transport"
+],
+"answer": 1,
+"explanation": "India presented its work and advancements in forest and landscape restoration at FAO COFO 28 in Rome."
+},
+{
+"q": "The International Whaling Commission (IWC) is primarily associated with:",
+"options": [
+"Global shipping safety",
+"Whale and cetacean conservation",
+"International aviation",
+"Antarctic mineral extraction"
+],
+"answer": 1,
+"explanation": "The IWC is the primary international organization associated with the conservation and management of whales and related cetacean issues."
+},
+{
+"q": "Which of the following is NOT mentioned as an application of Artificial Intelligence in disaster management?",
+"options": [
+"Forecasting",
+"Early warning systems",
+"Damage assessment",
+"Conducting judicial trials"
+],
+"answer": 3,
+"explanation": "The supplied material mentions forecasting, early warnings, search and rescue, damage assessment and relief logistics. Judicial trials are not mentioned."
+},
+{
+"q": "Effective implementation of AI in disaster management requires:",
+"options": [
+"Human oversight only",
+"Reliable infrastructure only",
+"Human oversight and reliable infrastructure",
+"Complete replacement of human decision-making"
+],
+"answer": 2,
+"explanation": "The material emphasizes that AI applications require human oversight and reliable infrastructure for effective implementation."
+},
+{
+"q": "The Dengue Early Warning System (DEWS) developed in Kerala uses:",
+"options": [
+"Only satellite imagery",
+"Machine learning, disease surveillance and weather data",
+"Only hospital admission data",
+"Only rainfall data"
+],
+"answer": 1,
+"explanation": "DEWS combines machine learning, disease surveillance and weather data to predict district-level dengue trends."
+},
+{
+"q": "The Kerala Dengue Early Warning System was developed using data covering:",
+"options": [
+"January 2018 to December 2023",
+"January 2019 to December 2024",
+"March 2020 to February 2026",
+"January 2021 to December 2026"
+],
+"answer": 2,
+"explanation": "The system was based on six years of data from March 2020 to February 2026."
+},
+{
+"q": "According to the supplied current-affairs material, SpaceX's Starship reached orbit during its:",
+"options": [
+"10th test flight",
+"12th test flight",
+"14th test flight",
+"16th test flight"
+],
+"answer": 2,
+"explanation": "The material states that Starship reached orbit during its 14th test flight on 28 September 2026."
+},
+{
+"q": "During the Starship test flight mentioned in the current affairs, how many Starlink V3 satellites were deployed?",
+"options": [
+"16",
+"26",
+"36",
+"46"
+],
+"answer": 1,
+"explanation": "The supplied information states that Starship deployed 26 Starlink V3 satellites during the test flight."
+},
+{
+"q": "On Day 10 of the Asian Games 2026, India secured how many medals according to the supplied current affairs?",
+"options": [
+"6",
+"7",
+"8",
+"10"
+],
+"answer": 2,
+"explanation": "India secured eight medals on Day 10: two gold, one silver and five bronze."
+},
+{
+"q": "What was the composition of India's medal haul on Day 10 of the Asian Games 2026?",
+"options": [
+"3 gold, 2 silver and 3 bronze",
+"2 gold, 1 silver and 5 bronze",
+"2 gold, 2 silver and 4 bronze",
+"1 gold, 2 silver and 5 bronze"
+],
+"answer": 1,
+"explanation": "The medal tally for the day consisted of 2 gold, 1 silver and 5 bronze medals."
+},
+{
+"q": "Neeru Dhanda won the women's individual gold medal in which event at the Asian Games 2026?",
+"options": [
+"10 m air rifle",
+"Individual trap",
+"Skeet",
+"50 m rifle"
+],
+"answer": 1,
+"explanation": "Neeru Dhanda won the women's individual trap gold medal with 26 points."
+},
+{
+"q": "Who among the following was a member of India's women's 4×400m relay gold-medal team mentioned in the current affairs?",
+"options": [
+"Neeru Dhanda",
+"Vithya Ramraj",
+"Yashvir Singh",
+"Rohit Yadav"
+],
+"answer": 1,
+"explanation": "The Indian women's 4×400m relay team included Kiran Pahal, M.R. Poovamma, Prachi and Vithya Ramraj."
+},
+{
+"q": "Who won the silver medal in the men's javelin throw with a distance of 85.72 metres?",
+"options": [
+"Rohit Yadav",
+"Yashvir Singh",
+"Neeraj Chopra",
+"Kishore Jena"
+],
+"answer": 1,
+"explanation": "Yashvir Singh won the silver medal with a throw of 85.72 metres."
+},
+{
+"q": "Who won the bronze medal in the men's javelin throw with a distance of 84.35 metres?",
+"options": [
+"Yashvir Singh",
+"Rohit Yadav",
+"Kishore Jena",
+"Avinash Sable"
+],
+"answer": 1,
+"explanation": "Rohit Yadav won the bronze medal with a throw of 84.35 metres."
+},
+{
+"q": "Vithya Ramraj's 54.75-second performance was recorded in which event?",
+"options": [
+"Women's 400m",
+"Women's 800m",
+"Women's 400m hurdles",
+"Women's 200m"
+],
+"answer": 2,
+"explanation": "Vithya Ramraj won bronze in the women's 400m hurdles with a personal best of 54.75 seconds."
+},
+{
+"q": "Vithya Ramraj's performance was significant because it:",
+"options": [
+"Equalled a national record",
+"Broke a 42-year-old Indian national record previously held by P.T. Usha",
+"Set a world record",
+"Set an Asian record"
+],
+"answer": 1,
+"explanation": "Her 54.75-second performance broke the 42-year-old Indian national record previously held by P.T. Usha."
+},
+{
+"q": "According to the supplied current affairs, drought conditions were declared in how many talukas of Maharashtra?",
+"options": [
+"165",
+"225",
+"265",
+"315"
+],
+"answer": 2,
+"explanation": "Drought conditions were declared in 265 out of 358 talukas in Maharashtra."
+},
+{
+"q": "Approximately what proportion of Maharashtra's landmass was reported as affected by the drought conditions?",
+"options": [
+"24%",
+"44%",
+"64%",
+"74%"
+],
+"answer": 3,
+"explanation": "The supplied material states that approximately 74% of Maharashtra's landmass was affected."
+},
+{
+"q": "PRAMAAN certificates mentioned in the current affairs are associated with:",
+"options": [
+"Sustainable forest plantation and bamboo farming",
+"Electric vehicle manufacturing",
+"Organic food exports",
+"Coastal tourism"
+],
+"answer": 0,
+"explanation": "PRAMAAN certificates were issued under the Indian Forest and Wood Certification Scheme for sustainable forest plantation and bamboo farming."
+},
+{
+"q": "Which of the following measures were identified as important for reducing food loss and waste?",
+"options": [
+"Better cold chains only",
+"Improved agricultural practices only",
+"Appropriate financing only",
+"Better cold chains, financing and improved agricultural practices"
+],
+"answer": 3,
+"explanation": "The supplied material highlights stronger cold chains, financing and improved agricultural practices as important strategies for reducing food loss and waste."
+},
+{
+"q": "PM-AJAY primarily focuses on the socio-economic and educational empowerment of:",
+"options": [
+"Scheduled Tribes",
+"Scheduled Castes",
+"Senior citizens",
+"Women entrepreneurs"
+],
+"answer": 1,
+"explanation": "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY) focuses on the socio-economic and educational empowerment of Scheduled Caste communities."
+},
+{
+"q": "Which digital initiatives were mentioned in connection with PM-AJAY?",
+"options": [
+"PM-AJAY Mobile App and Portal",
+"PM-AJAY Satellite Network",
+"PM-AJAY Blockchain Exchange",
+"PM-AJAY Digital Currency"
+],
+"answer": 0,
+"explanation": "A PM-AJAY Mobile App and Portal were launched to facilitate faster and more transparent implementation."
+},
+{
+"q": "The Mandar, which received a Geographical Indication tag, is associated with which state?",
+"options": [
+"Kerala",
+"Rajasthan",
+"Jharkhand",
+"Assam"
+],
+"answer": 2,
+"explanation": "The Mandar is a traditional folk percussion instrument associated with Jharkhand."
+},
+{
+"q": "The Mandar received its Geographical Indication tag from the Geographical Indications Registry in:",
+"options": [
+"Chennai",
+"Mumbai",
+"Kolkata",
+"New Delhi"
+],
+"answer": 0,
+"explanation": "According to the supplied current affairs, the Mandar received its GI tag from the Geographical Indications Registry in Chennai."
+},
+{
+"q": "Bodhana Sivanandan is associated with which sport?",
+"options": [
+"Badminton",
+"Chess",
+"Shooting",
+"Athletics"
+],
+"answer": 1,
+"explanation": "Bodhana Sivanandan is an Indian-born chess player representing England."
+},
+{
+"q": "Bodhana Sivanandan achieved which chess title according to the supplied current affairs?",
+"options": [
+"International Master",
+"Woman Candidate Master",
+"Woman Grandmaster",
+"Grandmaster"
+],
+"answer": 2,
+"explanation": "She secured her third WGM norm and achieved the Woman Grandmaster title."
+},
+{
+"q": "A 1,700-year-old Roman-era tomb mentioned in the current affairs was discovered at:",
+"options": [
+"Giza",
+"Luxor",
+"Bir Al-Shaghala",
+"Alexandria"
+],
+"answer": 2,
+"explanation": "The Roman-era tomb was discovered at Bir Al-Shaghala in Egypt's Dakhla Oasis."
+},
+{
+"q": "The Dakhla Oasis, where the Roman-era tomb was discovered, is historically important as:",
+"options": [
+"A major agricultural region in Egypt's Western Desert",
+"A major naval base",
+"A modern financial centre",
+"An Antarctic research station"
+],
+"answer": 0,
+"explanation": "The supplied material describes the Dakhla Oasis as a historically important agricultural hub in Egypt's Western Desert."
+},
+{
+"q": "Which of the following pairs is correctly matched?",
+"options": [
+"KAZIND — India and Japan",
+"COFO — Forestry",
+"IWC — Nuclear safety",
+"PRAMAAN — Livestock insurance"
+],
+"answer": 1,
+"explanation": "COFO stands for the Committee on Forestry. KAZIND concerns India-Kazakhstan military cooperation, IWC concerns whales, and PRAMAAN relates to forest and wood certification."
+},
+{
+"q": "Which current-affairs development is directly related to livestock insurance?",
+"options": [
+"PRAMAAN",
+"PM-AJAY",
+"Pashudhan Bima Portal",
+"DEWS"
+],
+"answer": 2,
+"explanation": "The Pashudhan Bima Portal is designed to digitize and manage the livestock insurance lifecycle."
+},
+{
+"q": "Which of the following pairs is incorrectly matched?",
+"options": [
+"DEWS — Dengue prediction",
+"KAZIND — Military exercise",
+"PRAMAAN — Forest certification",
+"PM-AJAY — Cetacean conservation"
+],
+"answer": 3,
+"explanation": "PM-AJAY concerns Scheduled Caste empowerment. Cetacean conservation is associated with the International Whaling Commission."
+},
+{
+"q": "Consider the following thematic associations: DEWS, PM-AJAY, KAZIND and PRAMAAN. Which sequence correctly represents their areas?",
+"options": [
+"Health — Social Justice — Defence — Environment",
+"Defence — Health — Environment — Social Justice",
+"Environment — Defence — Health — Social Justice",
+"Social Justice — Defence — Environment — Health"
+],
+"answer": 0,
+"explanation": "DEWS relates to disease surveillance and health; PM-AJAY to social justice; KAZIND to defence; and PRAMAAN to environment and forest certification."
+}
+]
